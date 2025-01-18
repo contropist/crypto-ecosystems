@@ -16,7 +16,13 @@ url = "https://github.com/cryptexfinance/contract-metadata"
 url = "https://github.com/cryptexfinance/contracts"
 
 [[repo]]
+url = "https://github.com/cryptexfinance/crypdex"
+
+[[repo]]
 url = "https://github.com/cryptexfinance/cryptex-api"
+
+[[repo]]
+url = "https://github.com/cryptexfinance/ctx-delegation-stats"
 
 [[repo]]
 url = "https://github.com/cryptexfinance/dashboard"
@@ -38,6 +44,9 @@ url = "https://github.com/cryptexfinance/merkle-distributor"
 
 [[repo]]
 url = "https://github.com/cryptexfinance/merkle-generator"
+
+[[repo]]
+url = "https://github.com/cryptexfinance/perennial-v2-graph"
 
 [[repo]]
 url = "https://github.com/cryptexfinance/polygon-graph"
@@ -62,6 +71,9 @@ url = "https://github.com/cryptexfinance/tcap-graph"
 
 [[repo]]
 url = "https://github.com/cryptexfinance/token-list"
+
+[[repo]]
+url = "https://github.com/cryptexfinance/v2-contracts"
 
 [[repo]]
 url = "https://github.com/cryptexfinance/website"

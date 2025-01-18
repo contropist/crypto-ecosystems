@@ -7,7 +7,13 @@ github_organizations = ["https://github.com/mellow-finance"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/mellow-finance/mellow-alm-toolkit"
+
+[[repo]]
 url = "https://github.com/mellow-finance/mellow-audits"
+
+[[repo]]
+url = "https://github.com/mellow-finance/mellow-lrt"
 
 [[repo]]
 url = "https://github.com/mellow-finance/mellow-strategy-sdk"

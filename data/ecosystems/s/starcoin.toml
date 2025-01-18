@@ -28,6 +28,9 @@ url = "https://github.com/starcoinorg/.github"
 url = "https://github.com/starcoinorg/airdrop-java"
 
 [[repo]]
+url = "https://github.com/starcoinorg/aptos-core"
+
+[[repo]]
 url = "https://github.com/starcoinorg/aptos-hd-keyring"
 
 [[repo]]
@@ -50,6 +53,10 @@ url = "https://github.com/starcoinorg/dao-api"
 
 [[repo]]
 url = "https://github.com/starcoinorg/dapp-demo"
+
+[[repo]]
+url = "https://github.com/starcoinorg/data-analysis-help"
+missing = true
 
 [[repo]]
 url = "https://github.com/starcoinorg/diem"
@@ -89,6 +96,9 @@ url = "https://github.com/starcoinorg/mini-starcoinvm"
 
 [[repo]]
 url = "https://github.com/starcoinorg/move"
+
+[[repo]]
+url = "https://github.com/starcoinorg/move-js"
 
 [[repo]]
 url = "https://github.com/starcoinorg/move-tools"
@@ -151,6 +161,9 @@ url = "https://github.com/starcoinorg/starcoin-cookbook"
 url = "https://github.com/starcoinorg/starcoin-crypto"
 
 [[repo]]
+url = "https://github.com/starcoinorg/starcoin-dag-inspector"
+
+[[repo]]
 url = "https://github.com/starcoinorg/starcoin-dao-frontend"
 
 [[repo]]
@@ -202,6 +215,9 @@ url = "https://github.com/starcoinorg/starcoin-indexer"
 url = "https://github.com/starcoinorg/starcoin-java"
 
 [[repo]]
+url = "https://github.com/starcoinorg/starcoin-jsdk-monorepo"
+
+[[repo]]
 url = "https://github.com/starcoinorg/starcoin-nameservice-domain-validator"
 
 [[repo]]
@@ -212,6 +228,9 @@ url = "https://github.com/starcoinorg/starcoin-org-v2"
 
 [[repo]]
 url = "https://github.com/starcoinorg/starcoin-org-v3"
+
+[[repo]]
+url = "https://github.com/starcoinorg/starcoin-org-v4"
 
 [[repo]]
 url = "https://github.com/starcoinorg/starcoin-php"
@@ -251,6 +270,9 @@ url = "https://github.com/starcoinorg/starcoin.dart"
 
 [[repo]]
 url = "https://github.com/starcoinorg/starcoin.js"
+
+[[repo]]
+url = "https://github.com/starcoinorg/starcoin2-java"
 
 [[repo]]
 url = "https://github.com/starcoinorg/starcoin_miner_guide"
@@ -340,7 +362,13 @@ url = "https://github.com/starcoinorg/stc-multisign-keyring"
 url = "https://github.com/starcoinorg/stc-onekey-keyring"
 
 [[repo]]
+url = "https://github.com/starcoinorg/stc-onekey-keyring-dev"
+
+[[repo]]
 url = "https://github.com/starcoinorg/stc-query"
+
+[[repo]]
+url = "https://github.com/starcoinorg/stc-scriptions"
 
 [[repo]]
 url = "https://github.com/starcoinorg/stc-simple-keyring"

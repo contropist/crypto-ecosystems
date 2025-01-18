@@ -16,7 +16,13 @@ url = "https://github.com/solana-mobile/digital-asset-links-android"
 url = "https://github.com/solana-mobile/expo-react-native-mwa-proof-of-concept"
 
 [[repo]]
+url = "https://github.com/solana-mobile/flutter-bottom-sheet"
+
+[[repo]]
 url = "https://github.com/solana-mobile/gha-commit-artifact-to-branch"
+
+[[repo]]
+url = "https://github.com/solana-mobile/gha-free-disk-space-for-android-build-and-test"
 
 [[repo]]
 url = "https://github.com/solana-mobile/hacker-house-samples"
@@ -28,13 +34,34 @@ url = "https://github.com/solana-mobile/Minty-fresh"
 url = "https://github.com/solana-mobile/mobile-wallet-adapter"
 
 [[repo]]
+url = "https://github.com/solana-mobile/mobile-wallet-adapter-expo-bottom-sheet"
+
+[[repo]]
 url = "https://github.com/solana-mobile/mobile-wallet-adapter-registry"
+
+[[repo]]
+url = "https://github.com/solana-mobile/mwallet"
+
+[[repo]]
+url = "https://github.com/solana-mobile/rpc-core"
+
+[[repo]]
+url = "https://github.com/solana-mobile/safari-extension-walletlib"
 
 [[repo]]
 url = "https://github.com/solana-mobile/seed-vault-sdk"
 
 [[repo]]
+url = "https://github.com/solana-mobile/solana-kotlin-compose-scaffold"
+
+[[repo]]
+url = "https://github.com/solana-mobile/solana-mobile-dapp-scaffold"
+
+[[repo]]
 url = "https://github.com/solana-mobile/solana-mobile-doc-site"
+
+[[repo]]
+url = "https://github.com/solana-mobile/solana-mobile-expo-template"
 
 [[repo]]
 url = "https://github.com/solana-mobile/solana-mobile-stack-sdk"
@@ -44,3 +71,12 @@ url = "https://github.com/solana-mobile/solana-pay-android-sample"
 
 [[repo]]
 url = "https://github.com/solana-mobile/SolanaMobileDAppScaffold"
+
+[[repo]]
+url = "https://github.com/solana-mobile/SolanaSafariWalletExtension"
+
+[[repo]]
+url = "https://github.com/solana-mobile/tutorial-apps"
+
+[[repo]]
+url = "https://github.com/solana-mobile/web3-core"

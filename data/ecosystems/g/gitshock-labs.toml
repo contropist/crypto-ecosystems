@@ -7,13 +7,20 @@ github_organizations = ["https://github.com/gitshock-labs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/gitshock-labs/assets"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/axelar-network-dashboard"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/blockchain-studio"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitshock-labs/BNB-Chain-Smart-Contract"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/branding-kit"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/burry"
@@ -61,6 +68,9 @@ url = "https://github.com/gitshock-labs/DEV-Android"
 url = "https://github.com/gitshock-labs/devnet-debugger"
 
 [[repo]]
+url = "https://github.com/gitshock-labs/devnet-protodank-sharding"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/DND-Smart-Contract"
 
 [[repo]]
@@ -85,6 +95,9 @@ url = "https://github.com/gitshock-labs/eth-checkpoint"
 url = "https://github.com/gitshock-labs/eth-netstats"
 
 [[repo]]
+url = "https://github.com/gitshock-labs/eth-proxy-endpoint"
+
+[[repo]]
 url = "https://github.com/gitshock-labs/eth-tools-list"
 
 [[repo]]
@@ -101,6 +114,9 @@ url = "https://github.com/gitshock-labs/ethereum-kit-android"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/faq-kangwallet"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/frontend-configs"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/futures-dex-perp"
@@ -128,6 +144,7 @@ url = "https://github.com/gitshock-labs/gitshock-yui-ibc"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/gitshockevm-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitshock-labs/gitshoo-scan"
@@ -137,9 +154,16 @@ url = "https://github.com/gitshock-labs/go-ethereum"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/go-jvft"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitshock-labs/go-tfx-evm"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/gotfx"
+
+[[repo]]
+url = "https://github.com/gitshock-labs/gotfx-package-manager"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/gtfx-deposit-ui"
@@ -236,12 +260,14 @@ url = "https://github.com/gitshock-labs/testnet-deposit-automation"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/testnet-evm-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitshock-labs/testnet-list"
 
 [[repo]]
 url = "https://github.com/gitshock-labs/testnet-validator-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/gitshock-labs/token-metadata"

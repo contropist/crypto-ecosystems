@@ -34,6 +34,10 @@ url = "https://github.com/dewi-alliance/hotspot-manufacturers"
 url = "https://github.com/emergotechnologies/dbt-app-privacy-policy"
 
 [[repo]]
+url = "https://github.com/emergotechnologies/genkom-datenschutz"
+missing = true
+
+[[repo]]
 url = "https://github.com/emergotechnologies/helium-api-wrapper"
 
 [[repo]]
@@ -47,6 +51,12 @@ url = "https://github.com/emergotechnologies/helium-positioning-model-engineerin
 
 [[repo]]
 url = "https://github.com/emergotechnologies/helium-positioning-react-app"
+
+[[repo]]
+url = "https://github.com/emergotechnologies/veloguard-privacy-policy"
+
+[[repo]]
+url = "https://github.com/helium/account-compression-anchor-gen"
 
 [[repo]]
 url = "https://github.com/helium/angry-purple-tiger"
@@ -94,6 +104,10 @@ url = "https://github.com/helium/blockchain-node"
 url = "https://github.com/helium/blockchain-stats"
 
 [[repo]]
+url = "https://github.com/helium/bulk-transactions"
+missing = true
+
+[[repo]]
 url = "https://github.com/helium/cargo-elixir"
 
 [[repo]]
@@ -127,16 +141,25 @@ url = "https://github.com/helium/cream"
 url = "https://github.com/helium/cuttlefish"
 
 [[repo]]
+url = "https://github.com/helium/delta-rs"
+
+[[repo]]
 url = "https://github.com/helium/denylist"
 
 [[repo]]
 url = "https://github.com/helium/device-usage"
 
 [[repo]]
+url = "https://github.com/helium/discord-pagerduty-on-call-bot"
+
+[[repo]]
 url = "https://github.com/helium/docker"
 
 [[repo]]
 url = "https://github.com/helium/docs"
+
+[[repo]]
+url = "https://github.com/helium/downlink-service"
 
 [[repo]]
 url = "https://github.com/helium/e2qc"
@@ -263,6 +286,7 @@ url = "https://github.com/helium/explorer-api"
 
 [[repo]]
 url = "https://github.com/helium/freertos"
+missing = true
 
 [[repo]]
 url = "https://github.com/helium/gateway-config"
@@ -271,7 +295,13 @@ url = "https://github.com/helium/gateway-config"
 url = "https://github.com/helium/gateway-mfr-rs"
 
 [[repo]]
+url = "https://github.com/helium/gateway-onboarding-rs"
+
+[[repo]]
 url = "https://github.com/helium/gateway-rs"
+
+[[repo]]
+url = "https://github.com/helium/gateway-security-rs"
 
 [[repo]]
 url = "https://github.com/helium/gateway_mfr"
@@ -289,6 +319,9 @@ url = "https://github.com/helium/gwmp-mux"
 url = "https://github.com/helium/hackney"
 
 [[repo]]
+url = "https://github.com/helium/helium-anchor-gen"
+
+[[repo]]
 url = "https://github.com/helium/helium-api-rs"
 
 [[repo]]
@@ -304,10 +337,14 @@ url = "https://github.com/helium/helium-console-cli"
 url = "https://github.com/helium/helium-crypto-rs"
 
 [[repo]]
+url = "https://github.com/helium/helium-data"
+
+[[repo]]
 url = "https://github.com/helium/helium-foundation-k8s"
 
 [[repo]]
 url = "https://github.com/helium/helium-foundation-terraform"
+missing = true
 
 [[repo]]
 url = "https://github.com/helium/helium-js"
@@ -322,6 +359,9 @@ url = "https://github.com/helium/helium-ledger-cli"
 url = "https://github.com/helium/helium-packet-router"
 
 [[repo]]
+url = "https://github.com/helium/helium-packet-router-ingest"
+
+[[repo]]
 url = "https://github.com/helium/helium-program-library"
 
 [[repo]]
@@ -332,6 +372,9 @@ url = "https://github.com/helium/helium-transaction-etl"
 
 [[repo]]
 url = "https://github.com/helium/helium-vote"
+
+[[repo]]
+url = "https://github.com/helium/helium-vote-proxies"
 
 [[repo]]
 url = "https://github.com/helium/helium-wallet-rs"
@@ -362,6 +405,7 @@ url = "https://github.com/helium/ihex"
 
 [[repo]]
 url = "https://github.com/helium/inet_ext"
+missing = true
 
 [[repo]]
 url = "https://github.com/helium/intercept"
@@ -374,6 +418,10 @@ url = "https://github.com/helium/k8s-web"
 
 [[repo]]
 url = "https://github.com/helium/kdtree"
+
+[[repo]]
+url = "https://github.com/helium/lazy-transactions"
+missing = true
 
 [[repo]]
 url = "https://github.com/helium/ledger-live"
@@ -457,7 +505,16 @@ url = "https://github.com/helium/miner"
 url = "https://github.com/helium/miner-test"
 
 [[repo]]
+url = "https://github.com/helium/modular-governance"
+
+[[repo]]
 url = "https://github.com/helium/module-sdk"
+
+[[repo]]
+url = "https://github.com/helium/mpl-bubblegum"
+
+[[repo]]
+url = "https://github.com/helium/multibuy-service"
 
 [[repo]]
 url = "https://github.com/helium/network-explorer"
@@ -520,6 +577,9 @@ url = "https://github.com/helium/router-utils"
 url = "https://github.com/helium/rust-lorawan"
 
 [[repo]]
+url = "https://github.com/helium/rust-protobuf"
+
+[[repo]]
 url = "https://github.com/helium/semtech-udp"
 
 [[repo]]
@@ -547,6 +607,9 @@ url = "https://github.com/helium/squads-program-upgrade"
 url = "https://github.com/helium/stm32-lora-disco-rs"
 
 [[repo]]
+url = "https://github.com/helium/substreams-explorers"
+
+[[repo]]
 url = "https://github.com/helium/sx1302_hal"
 
 [[repo]]
@@ -565,6 +628,9 @@ url = "https://github.com/helium/tockloader"
 url = "https://github.com/helium/tracker-feather"
 
 [[repo]]
+url = "https://github.com/helium/tuktuk"
+
+[[repo]]
 url = "https://github.com/helium/vincenty"
 
 [[repo]]
@@ -581,6 +647,9 @@ url = "https://github.com/helium/wallet-app"
 
 [[repo]]
 url = "https://github.com/helium/wallet-issues-tracker"
+
+[[repo]]
+url = "https://github.com/helium/well-known"
 
 [[repo]]
 url = "https://github.com/helium/whitepaper"
@@ -604,6 +673,9 @@ url = "https://github.com/jamiew/helium-etl-queries"
 url = "https://github.com/jstnryan/helium-reward-log"
 
 [[repo]]
+url = "https://github.com/lthiery/hnt-explorer"
+
+[[repo]]
 url = "https://github.com/matthewdowns/helium-payment-calculator"
 
 [[repo]]
@@ -620,6 +692,15 @@ url = "https://github.com/NebraLtd/AnyBeam"
 
 [[repo]]
 url = "https://github.com/NebraLtd/balena-cli-action"
+
+[[repo]]
+url = "https://github.com/NebraLtd/balena-radxa"
+
+[[repo]]
+url = "https://github.com/NebraLtd/basemaps"
+
+[[repo]]
+url = "https://github.com/NebraLtd/basemaps-assets"
 
 [[repo]]
 url = "https://github.com/NebraLtd/BlackHole"
@@ -640,6 +721,9 @@ url = "https://github.com/NebraLtd/dashboard-issues"
 url = "https://github.com/NebraLtd/dev-6"
 
 [[repo]]
+url = "https://github.com/NebraLtd/editor"
+
+[[repo]]
 url = "https://github.com/NebraLtd/erltss2"
 
 [[repo]]
@@ -653,6 +737,15 @@ url = "https://github.com/NebraLtd/git-tag-action"
 
 [[repo]]
 url = "https://github.com/NebraLtd/helium-5g-software"
+
+[[repo]]
+url = "https://github.com/NebraLtd/helium-bobcat-px30"
+
+[[repo]]
+url = "https://github.com/NebraLtd/helium-bobcat-rk3566"
+
+[[repo]]
+url = "https://github.com/NebraLtd/helium-chirpstack"
 
 [[repo]]
 url = "https://github.com/NebraLtd/helium-controllino"
@@ -686,6 +779,9 @@ url = "https://github.com/NebraLtd/helium-indoor-915-rockpi"
 
 [[repo]]
 url = "https://github.com/NebraLtd/helium-linxdot"
+
+[[repo]]
+url = "https://github.com/NebraLtd/helium-linxdot-rk3566"
 
 [[repo]]
 url = "https://github.com/NebraLtd/helium-linxdot-rkcm3"
@@ -806,12 +902,16 @@ url = "https://github.com/NebraLtd/hm-watchdog"
 
 [[repo]]
 url = "https://github.com/NebraLtd/hnt_nebra-indoor1"
+missing = true
 
 [[repo]]
 url = "https://github.com/NebraLtd/hnt_openfleet_template"
 
 [[repo]]
 url = "https://github.com/NebraLtd/hotspot-app"
+
+[[repo]]
+url = "https://github.com/NebraLtd/i2c-swi-gpio"
 
 [[repo]]
 url = "https://github.com/NebraLtd/IP67-Enclosure"
@@ -832,10 +932,16 @@ url = "https://github.com/NebraLtd/lora_gateway_v2"
 url = "https://github.com/NebraLtd/maker-starter-app"
 
 [[repo]]
+url = "https://github.com/NebraLtd/meta-radxa"
+
+[[repo]]
 url = "https://github.com/NebraLtd/microSD-eMMC"
 
 [[repo]]
 url = "https://github.com/NebraLtd/miner"
+
+[[repo]]
+url = "https://github.com/NebraLtd/myst-rockpi"
 
 [[repo]]
 url = "https://github.com/NebraLtd/neblena-admin"
@@ -859,7 +965,13 @@ url = "https://github.com/NebraLtd/packet_forwarder_v2"
 url = "https://github.com/NebraLtd/pinejs"
 
 [[repo]]
+url = "https://github.com/NebraLtd/PMTiles"
+
+[[repo]]
 url = "https://github.com/NebraLtd/python-systemctl"
+
+[[repo]]
+url = "https://github.com/NebraLtd/sense-public"
 
 [[repo]]
 url = "https://github.com/NebraLtd/Smart-LoRa-Gateway"
@@ -872,6 +984,9 @@ url = "https://github.com/NebraLtd/sx1302_hal"
 
 [[repo]]
 url = "https://github.com/NebraLtd/sx1302_spi_usb_bridge"
+
+[[repo]]
+url = "https://github.com/NebraLtd/wingbits"
 
 [[repo]]
 url = "https://github.com/nhatfield/hnt_monitor"
@@ -991,7 +1106,16 @@ url = "https://github.com/novalabsxyz/ti-cc13xx-cc25xx-bootloader"
 url = "https://github.com/pperzyna/bobcat_exporter"
 
 [[repo]]
+url = "https://github.com/qlik-oss/react-native-carbon"
+
+[[repo]]
+url = "https://github.com/qlik-oss/react-native-helium"
+
+[[repo]]
 url = "https://github.com/rsnodgrass/hass-helium"
+
+[[repo]]
+url = "https://github.com/solana-labs/governance-ui"
 
 [[repo]]
 url = "https://github.com/syncrobit/chameleonos"
@@ -1043,6 +1167,9 @@ url = "https://github.com/thoughtindustries/brittandreattatraining.com"
 
 [[repo]]
 url = "https://github.com/thoughtindustries/chartist-js"
+
+[[repo]]
+url = "https://github.com/thoughtindustries/cjs2esm"
 
 [[repo]]
 url = "https://github.com/thoughtindustries/co-nested-hbs"
@@ -1108,10 +1235,19 @@ url = "https://github.com/thoughtindustries/koa-timeout"
 url = "https://github.com/thoughtindustries/manifester"
 
 [[repo]]
+url = "https://github.com/thoughtindustries/MIMEText"
+
+[[repo]]
+url = "https://github.com/thoughtindustries/mobile-sdk"
+
+[[repo]]
 url = "https://github.com/thoughtindustries/node-acme-protocol"
 
 [[repo]]
 url = "https://github.com/thoughtindustries/numbro"
+
+[[repo]]
+url = "https://github.com/thoughtindustries/openai-node"
 
 [[repo]]
 url = "https://github.com/thoughtindustries/phosphor-react"

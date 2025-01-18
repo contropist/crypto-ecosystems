@@ -24,16 +24,31 @@ url = "https://github.com/balancednetwork/balanced-backend"
 url = "https://github.com/balancednetwork/balanced-backend-v2"
 
 [[repo]]
+url = "https://github.com/balancednetwork/balanced-clarity-contracts"
+
+[[repo]]
 url = "https://github.com/balancednetwork/balanced-contracts"
 
 [[repo]]
+url = "https://github.com/balancednetwork/balanced-examples"
+
+[[repo]]
 url = "https://github.com/balancednetwork/balanced-exporter"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-intents-sdk"
 
 [[repo]]
 url = "https://github.com/balancednetwork/balanced-java-contracts"
 
 [[repo]]
 url = "https://github.com/balancednetwork/balanced-js"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-move-contracts"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-network-examples"
 
 [[repo]]
 url = "https://github.com/balancednetwork/balanced-network-info"
@@ -43,6 +58,21 @@ url = "https://github.com/balancednetwork/balanced-network-interface"
 
 [[repo]]
 url = "https://github.com/balancednetwork/balanced-poc"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-rust-contracts"
+
+[[repo]]
+url = "https://github.com/balancednetwork/Balanced-Solana-contracts"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-solidity-contracts"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-solver-sdk"
+
+[[repo]]
+url = "https://github.com/balancednetwork/balanced-soroban-contracts"
 
 [[repo]]
 url = "https://github.com/balancednetwork/BIP-info-list"
@@ -58,6 +88,9 @@ url = "https://github.com/balancednetwork/roadmap"
 
 [[repo]]
 url = "https://github.com/balancednetwork/sdk-core"
+
+[[repo]]
+url = "https://github.com/balancednetwork/stacks-go-sdk"
 
 [[repo]]
 url = "https://github.com/balancednetwork/v1-sdk"
@@ -76,9 +109,11 @@ url = "https://github.com/Chainode/ICONMonitoring"
 
 [[repo]]
 url = "https://github.com/everstake/icon-botnotificator"
+missing = true
 
 [[repo]]
 url = "https://github.com/everstake/iconmon"
+missing = true
 
 [[repo]]
 url = "https://github.com/goldworm-icon/governor"
@@ -99,6 +134,12 @@ url = "https://github.com/ibriz/icon-idoltoken-api"
 url = "https://github.com/icon-project/.github"
 
 [[repo]]
+url = "https://github.com/icon-project/aave-protocol-v2"
+
+[[repo]]
+url = "https://github.com/icon-project/axelar-ibc-integration"
+
+[[repo]]
 url = "https://github.com/icon-project/blst-java"
 
 [[repo]]
@@ -111,7 +152,19 @@ url = "https://github.com/icon-project/btp-litepaper"
 url = "https://github.com/icon-project/btp-product"
 
 [[repo]]
+url = "https://github.com/icon-project/btp-sdk"
+
+[[repo]]
+url = "https://github.com/icon-project/btp-tracker-frontend"
+
+[[repo]]
 url = "https://github.com/icon-project/btp2"
+
+[[repo]]
+url = "https://github.com/icon-project/btp2-bsc"
+
+[[repo]]
+url = "https://github.com/icon-project/btp2-deployment"
 
 [[repo]]
 url = "https://github.com/icon-project/btp2-eth2"
@@ -120,13 +173,32 @@ url = "https://github.com/icon-project/btp2-eth2"
 url = "https://github.com/icon-project/btp2-java"
 
 [[repo]]
+url = "https://github.com/icon-project/btp2-network-info"
+
+[[repo]]
 url = "https://github.com/icon-project/btp2-solidity"
 
 [[repo]]
+url = "https://github.com/icon-project/btpsdk-client-js"
+
+[[repo]]
+url = "https://github.com/icon-project/centralised-relay"
+
+[[repo]]
+url = "https://github.com/icon-project/centralized-relay"
+
+[[repo]]
 url = "https://github.com/icon-project/citizen-pack"
+missing = true
 
 [[repo]]
 url = "https://github.com/icon-project/community"
+
+[[repo]]
+url = "https://github.com/icon-project/cw-plus"
+
+[[repo]]
+url = "https://github.com/icon-project/cw-storage-plus"
 
 [[repo]]
 url = "https://github.com/icon-project/devportal"
@@ -142,6 +214,12 @@ url = "https://github.com/icon-project/documentation"
 
 [[repo]]
 url = "https://github.com/icon-project/earlgrey"
+
+[[repo]]
+url = "https://github.com/icon-project/gho-core"
+
+[[repo]]
+url = "https://github.com/icon-project/go-eth2-client"
 
 [[repo]]
 url = "https://github.com/icon-project/gochain-local"
@@ -160,6 +238,9 @@ url = "https://github.com/icon-project/gradle-javaee-plugin"
 
 [[repo]]
 url = "https://github.com/icon-project/grants-program"
+
+[[repo]]
+url = "https://github.com/icon-project/hanaswap"
 
 [[repo]]
 url = "https://github.com/icon-project/IBC-Integration"
@@ -186,7 +267,17 @@ url = "https://github.com/icon-project/icon-dex"
 url = "https://github.com/icon-project/icon-DID"
 
 [[repo]]
+url = "https://github.com/icon-project/icon-emissions-buckets"
+
+[[repo]]
+url = "https://github.com/icon-project/ICON-GMP-Solana"
+
+[[repo]]
 url = "https://github.com/icon-project/icon-project.github.io"
+missing = true
+
+[[repo]]
+url = "https://github.com/icon-project/icon-pyth-oracle"
 
 [[repo]]
 url = "https://github.com/icon-project/icon-release"
@@ -246,10 +337,16 @@ url = "https://github.com/icon-project/iconsdk-explorer"
 url = "https://github.com/icon-project/iconsdk-wallet"
 
 [[repo]]
+url = "https://github.com/icon-project/icx-reward"
+
+[[repo]]
 url = "https://github.com/icon-project/icx_JSON_RPC"
 
 [[repo]]
 url = "https://github.com/icon-project/IIPs"
+
+[[repo]]
+url = "https://github.com/icon-project/intent-contracts"
 
 [[repo]]
 url = "https://github.com/icon-project/java-score-examples"
@@ -270,11 +367,17 @@ url = "https://github.com/icon-project/ledger-app-icx"
 url = "https://github.com/icon-project/LFT2"
 
 [[repo]]
+url = "https://github.com/icon-project/lodestar"
+
+[[repo]]
 url = "https://github.com/icon-project/loopchain"
 tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/icon-project/loopchain_tools"
+
+[[repo]]
+url = "https://github.com/icon-project/Multisig-Frontend-"
 
 [[repo]]
 url = "https://github.com/icon-project/multisig-wallet"
@@ -283,10 +386,19 @@ url = "https://github.com/icon-project/multisig-wallet"
 url = "https://github.com/icon-project/Nexus"
 
 [[repo]]
+url = "https://github.com/icon-project/node-reward-manager"
+
+[[repo]]
 url = "https://github.com/icon-project/pm"
 
 [[repo]]
 url = "https://github.com/icon-project/preptools"
+
+[[repo]]
+url = "https://github.com/icon-project/relayer-admin-dashboard"
+
+[[repo]]
+url = "https://github.com/icon-project/relayer-docker"
 
 [[repo]]
 url = "https://github.com/icon-project/rewardcalculator"
@@ -295,19 +407,54 @@ url = "https://github.com/icon-project/rewardcalculator"
 url = "https://github.com/icon-project/rosetta-icon"
 
 [[repo]]
+url = "https://github.com/icon-project/safe-smart-account"
+
+[[repo]]
 url = "https://github.com/icon-project/samples"
 
 [[repo]]
 url = "https://github.com/icon-project/score-guide"
 
 [[repo]]
+url = "https://github.com/icon-project/stacks-go-sdk"
+
+[[repo]]
+url = "https://github.com/icon-project/steller-sponsored-account"
+
+[[repo]]
 url = "https://github.com/icon-project/t-bears"
 
 [[repo]]
+url = "https://github.com/icon-project/Temp-repo"
+
+[[repo]]
+url = "https://github.com/icon-project/xCall"
+
+[[repo]]
+url = "https://github.com/icon-project/xcall-multi"
+
+[[repo]]
+url = "https://github.com/icon-project/xcall-multi-jvm-jvm-demo"
+
+[[repo]]
+url = "https://github.com/icon-project/xcall-scaffolding"
+
+[[repo]]
+url = "https://github.com/icon-project/xcall.dev"
+
+[[repo]]
+url = "https://github.com/icon-project/xcallscan"
+
+[[repo]]
+url = "https://github.com/icon-project/xcallscan-v3"
+
+[[repo]]
 url = "https://github.com/icon-project/Yirgachefe"
+missing = true
 
 [[repo]]
 url = "https://github.com/icon2infiniti/mlh-localhost-icon-blockchain-casino-starter"
+missing = true
 
 [[repo]]
 url = "https://github.com/iconation/Aegis"
@@ -395,6 +542,7 @@ url = "https://github.com/iconation/ICX-Challenge"
 
 [[repo]]
 url = "https://github.com/iconation/javaee-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/iconation/ledger_iconex"
@@ -503,6 +651,7 @@ url = "https://github.com/insight-icon/icon-status-bot"
 
 [[repo]]
 url = "https://github.com/insight-icon/insight-icon-blog"
+missing = true
 
 [[repo]]
 url = "https://github.com/insight-icon/insight-icon-contributions"
@@ -668,6 +817,7 @@ url = "https://github.com/rhizome-labs/icon-resources"
 
 [[repo]]
 url = "https://github.com/rhizomeicx/marvin"
+missing = true
 
 [[repo]]
 url = "https://github.com/StakinOfficial/Random-ICX-Oracle"

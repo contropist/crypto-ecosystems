@@ -58,6 +58,9 @@ url = "https://github.com/BlockscapeNetwork/dc4bc_conference_call_4lido"
 url = "https://github.com/BlockscapeNetwork/ed"
 
 [[repo]]
+url = "https://github.com/BlockscapeNetwork/eigenlayer-meta"
+
+[[repo]]
 url = "https://github.com/BlockscapeNetwork/eth2.0-deposit-cli"
 
 [[repo]]
@@ -92,6 +95,7 @@ url = "https://github.com/BlockscapeNetwork/interchain-queries"
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/juno"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/launch"
@@ -145,7 +149,11 @@ url = "https://github.com/BlockscapeNetwork/regen_contract"
 url = "https://github.com/BlockscapeNetwork/relayer"
 
 [[repo]]
+url = "https://github.com/BlockscapeNetwork/resources"
+
+[[repo]]
 url = "https://github.com/BlockscapeNetwork/reward-harvester"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/rocketscape"
@@ -154,7 +162,11 @@ url = "https://github.com/BlockscapeNetwork/rocketscape"
 url = "https://github.com/BlockscapeNetwork/signctrl"
 
 [[repo]]
+url = "https://github.com/BlockscapeNetwork/ssv-ansible"
+
+[[repo]]
 url = "https://github.com/BlockscapeNetwork/ssv-institutional-staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/staking-payouts"
@@ -167,6 +179,7 @@ url = "https://github.com/BlockscapeNetwork/testnet"
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/testnets"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockscapeNetwork/testnets-1"

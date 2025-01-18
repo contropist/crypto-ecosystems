@@ -16,6 +16,9 @@ url = "https://github.com/ribbon-finance/audit"
 url = "https://github.com/ribbon-finance/compound-protocol"
 
 [[repo]]
+url = "https://github.com/ribbon-finance/core-cash"
+
+[[repo]]
 url = "https://github.com/ribbon-finance/curve-veBoost"
 
 [[repo]]
@@ -37,6 +40,9 @@ url = "https://github.com/ribbon-finance/GammaProtocol-OTC"
 url = "https://github.com/ribbon-finance/governance"
 
 [[repo]]
+url = "https://github.com/ribbon-finance/governance-v2"
+
+[[repo]]
 url = "https://github.com/ribbon-finance/ido-contracts"
 
 [[repo]]
@@ -47,6 +53,7 @@ url = "https://github.com/ribbon-finance/metavault"
 
 [[repo]]
 url = "https://github.com/ribbon-finance/ribbon-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/ribbon-finance/ribbon-docs"
@@ -59,6 +66,7 @@ url = "https://github.com/ribbon-finance/ribbon-metrices"
 
 [[repo]]
 url = "https://github.com/ribbon-finance/ribbon-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/ribbon-finance/ribbon-token-list"
@@ -68,6 +76,7 @@ url = "https://github.com/ribbon-finance/ribbon-v1"
 
 [[repo]]
 url = "https://github.com/ribbon-finance/ribbon-v2"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/ribbon-finance/ribbon-v2-earn"

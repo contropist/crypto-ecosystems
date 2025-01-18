@@ -52,6 +52,9 @@ url = "https://github.com/namebasehq/gitbook-learning-center"
 url = "https://github.com/namebasehq/handover"
 
 [[repo]]
+url = "https://github.com/namebasehq/handshake-contracts"
+
+[[repo]]
 url = "https://github.com/namebasehq/Handshake-Extension"
 
 [[repo]]
@@ -73,6 +76,12 @@ url = "https://github.com/namebasehq/hdns"
 url = "https://github.com/namebasehq/helm"
 
 [[repo]]
+url = "https://github.com/namebasehq/hns-id-mm-snap"
+
+[[repo]]
+url = "https://github.com/namebasehq/hns-id-subgraph"
+
+[[repo]]
 url = "https://github.com/namebasehq/hnsd"
 
 [[repo]]
@@ -80,6 +89,7 @@ url = "https://github.com/namebasehq/hs-airdrop"
 
 [[repo]]
 url = "https://github.com/namebasehq/hs-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/namebasehq/hs-names"
@@ -101,6 +111,7 @@ url = "https://github.com/namebasehq/namebase-types"
 
 [[repo]]
 url = "https://github.com/namebasehq/namer-news-frontend-svelte-poc"
+missing = true
 
 [[repo]]
 url = "https://github.com/namebasehq/nodejs-skynet"
@@ -119,3 +130,9 @@ url = "https://github.com/namebasehq/simple-hsd-wrapper"
 
 [[repo]]
 url = "https://github.com/namebasehq/txtdirect"
+
+[[repo]]
+url = "https://github.com/namebasehq/uniswap-widgets"
+
+[[repo]]
+url = "https://github.com/namebasehq/wallet-id"

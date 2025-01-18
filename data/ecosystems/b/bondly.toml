@@ -11,6 +11,7 @@ url = "https://github.com/bondly/bondly-finance"
 
 [[repo]]
 url = "https://github.com/bondly/BondswapSubstrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/bondly/contract-metadata"
@@ -23,3 +24,6 @@ url = "https://github.com/bondly/matic-learn-pos"
 
 [[repo]]
 url = "https://github.com/bondly/nft-gov-spaces"
+
+[[repo]]
+url = "https://github.com/bondly/test-output"

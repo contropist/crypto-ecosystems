@@ -8,9 +8,13 @@ github_organizations = ["https://github.com/chainstack"]
 # Repositories
 [[repo]]
 url = "https://github.com/chainstack/apeworx-ape-chainstack-tutorial"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/apeworx-chainstack-plugin"
+
+[[repo]]
+url = "https://github.com/chainstack/api_monitoring_stats"
 
 [[repo]]
 url = "https://github.com/chainstack/arweave-ds-app"
@@ -20,6 +24,9 @@ url = "https://github.com/chainstack/avalanche-subnets-docker"
 
 [[repo]]
 url = "https://github.com/chainstack/awesome-corda"
+
+[[repo]]
+url = "https://github.com/chainstack/base-node"
 
 [[repo]]
 url = "https://github.com/chainstack/bdn-benchmarking"
@@ -35,6 +42,16 @@ url = "https://github.com/chainstack/bor"
 
 [[repo]]
 url = "https://github.com/chainstack/bsc-docker"
+
+[[repo]]
+url = "https://github.com/chainstack/bsc-erigon"
+
+[[repo]]
+url = "https://github.com/chainstack/bsc-erigon-cs"
+
+[[repo]]
+url = "https://github.com/chainstack/bsc-erigon-node-real"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/chainlink-feeds-with-foundry"
@@ -56,6 +73,7 @@ url = "https://github.com/chainstack/cronos-docker"
 
 [[repo]]
 url = "https://github.com/chainstack/cronos-docker-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/debug-trace-transactions-Erigon-webapp"
@@ -79,6 +97,9 @@ url = "https://github.com/chainstack/docs"
 url = "https://github.com/chainstack/eks-nvme-ssd-provisioner"
 
 [[repo]]
+url = "https://github.com/chainstack/electrs-docker"
+
+[[repo]]
 url = "https://github.com/chainstack/erigon"
 
 [[repo]]
@@ -91,7 +112,19 @@ url = "https://github.com/chainstack/Erigon-eth_getBlockReceipts-guide"
 url = "https://github.com/chainstack/erigon-lib"
 
 [[repo]]
+url = "https://github.com/chainstack/erigon-polygon"
+missing = true
+
+[[repo]]
+url = "https://github.com/chainstack/erigon-polygon-cs"
+missing = true
+
+[[repo]]
 url = "https://github.com/chainstack/erigon-polygon-docker"
+missing = true
+
+[[repo]]
+url = "https://github.com/chainstack/erigon-snapshot"
 
 [[repo]]
 url = "https://github.com/chainstack/eth-proxy"
@@ -113,15 +146,22 @@ url = "https://github.com/chainstack/fabric-bootcamp-chaincode"
 
 [[repo]]
 url = "https://github.com/chainstack/fabric-sdk-py"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/fantom-opera-docker"
+
+[[repo]]
+url = "https://github.com/chainstack/fantom-sonic-docker"
 
 [[repo]]
 url = "https://github.com/chainstack/foundry-vs-hardhat"
 
 [[repo]]
 url = "https://github.com/chainstack/freedom-dividend-chaincode"
+
+[[repo]]
+url = "https://github.com/chainstack/fvm-calibration-docker"
 
 [[repo]]
 url = "https://github.com/chainstack/fvm-hyperspace-docker"
@@ -137,6 +177,9 @@ url = "https://github.com/chainstack/graph-cli"
 
 [[repo]]
 url = "https://github.com/chainstack/graph-deployment"
+
+[[repo]]
+url = "https://github.com/chainstack/graph-node"
 
 [[repo]]
 url = "https://github.com/chainstack/harmony-docker"
@@ -161,6 +204,9 @@ url = "https://github.com/chainstack/infra-runbooks"
 
 [[repo]]
 url = "https://github.com/chainstack/interfaces"
+
+[[repo]]
+url = "https://github.com/chainstack/ipfs-go-ds-storj"
 
 [[repo]]
 url = "https://github.com/chainstack/k8s-ingress-nginx"
@@ -199,6 +245,9 @@ url = "https://github.com/chainstack/multichaincli"
 url = "https://github.com/chainstack/near-docker"
 
 [[repo]]
+url = "https://github.com/chainstack/nethermind-docker"
+
+[[repo]]
 url = "https://github.com/chainstack/ngx_http_websocket_stat_module"
 
 [[repo]]
@@ -208,6 +257,19 @@ url = "https://github.com/chainstack/no-ticket-scalping-cordapp"
 url = "https://github.com/chainstack/node-lympic"
 
 [[repo]]
+url = "https://github.com/chainstack/op-erigon"
+
+[[repo]]
+url = "https://github.com/chainstack/op-erigon-docker"
+missing = true
+
+[[repo]]
+url = "https://github.com/chainstack/pokt-gateway-server"
+
+[[repo]]
+url = "https://github.com/chainstack/postgres-exporter-docker"
+
+[[repo]]
 url = "https://github.com/chainstack/procedural-nft-generator"
 
 [[repo]]
@@ -215,9 +277,11 @@ url = "https://github.com/chainstack/programmatic-nft-minter"
 
 [[repo]]
 url = "https://github.com/chainstack/quorum-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/quorum-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainstack/quorum-in-minutes-showcase"
@@ -256,10 +320,19 @@ url = "https://github.com/chainstack/solana-metaplex-nft-metadata-decoder"
 url = "https://github.com/chainstack/solana-rpc-ruby"
 
 [[repo]]
+url = "https://github.com/chainstack/solana-snapshot-finder"
+
+[[repo]]
 url = "https://github.com/chainstack/solana-stepn-analysis"
 
 [[repo]]
 url = "https://github.com/chainstack/starknet-cairo-odyssey"
+
+[[repo]]
+url = "https://github.com/chainstack/starknet-graph-node"
+
+[[repo]]
+url = "https://github.com/chainstack/strimzi-kafka-connect"
 
 [[repo]]
 url = "https://github.com/chainstack/tezos-chart"
@@ -271,10 +344,17 @@ url = "https://github.com/chainstack/tezos-grafana"
 url = "https://github.com/chainstack/token-balance-ultimate"
 
 [[repo]]
+url = "https://github.com/chainstack/ton-api-monitoring-stats"
+
+[[repo]]
 url = "https://github.com/chainstack/trackerslist"
 
 [[repo]]
 url = "https://github.com/chainstack/tx-propagation-benchmarking"
+missing = true
+
+[[repo]]
+url = "https://github.com/chainstack/wazuh-agent-docker"
 
 [[repo]]
 url = "https://github.com/chainstack/web3j-getLatestBlock"
@@ -284,3 +364,10 @@ url = "https://github.com/chainstack/web3quorum"
 
 [[repo]]
 url = "https://github.com/chainstack/web3quorumUpd"
+missing = true
+
+[[repo]]
+url = "https://github.com/chainstack/x509-certificate-exporter"
+
+[[repo]]
+url = "https://github.com/chainstack/zfs-auto-snapshot"

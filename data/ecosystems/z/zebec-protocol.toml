@@ -13,16 +13,26 @@ url = "https://github.com/Zebec-protocol/batchpayment-sdk"
 url = "https://github.com/Zebec-protocol/batchpayment-v2"
 
 [[repo]]
+url = "https://github.com/Zebec-protocol/cloudformation-stack-templates"
+
+[[repo]]
 url = "https://github.com/Zebec-protocol/dca"
 
 [[repo]]
+url = "https://github.com/Zebec-protocol/graph-node"
+
+[[repo]]
 url = "https://github.com/Zebec-protocol/locked-airdrop"
+
+[[repo]]
+url = "https://github.com/Zebec-protocol/migration-program"
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/multisig"
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/Project-Submitted-By-Developers"
+missing = true
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/ricks-solana"
@@ -34,10 +44,22 @@ url = "https://github.com/Zebec-protocol/safe-contracts"
 url = "https://github.com/Zebec-protocol/safe-modules"
 
 [[repo]]
+url = "https://github.com/Zebec-protocol/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/Zebec-protocol/swaps-offchain-infra"
+
+[[repo]]
 url = "https://github.com/Zebec-protocol/transaction-builder"
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/wallet-selector"
+
+[[repo]]
+url = "https://github.com/Zebec-protocol/warpgate-contracts"
+
+[[repo]]
+url = "https://github.com/Zebec-protocol/zebec-airdrop-admin-script"
 
 [[repo]]
 url = "https://github.com/Zebec-protocol/zebec-anchor"

@@ -49,6 +49,13 @@ url = "https://github.com/moontography/gn"
 url = "https://github.com/moontography/gud-guess"
 
 [[repo]]
+url = "https://github.com/moontography/hyperbolic-protocol"
+missing = true
+
+[[repo]]
+url = "https://github.com/moontography/hyperbolic-protocol-branding"
+
+[[repo]]
 url = "https://github.com/moontography/jupiter-fs"
 
 [[repo]]
@@ -83,6 +90,7 @@ url = "https://github.com/moontography/mtgy-branding"
 
 [[repo]]
 url = "https://github.com/moontography/oklg-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/moontography/oklg-branding"
@@ -104,6 +112,9 @@ url = "https://github.com/moontography/shed"
 
 [[repo]]
 url = "https://github.com/moontography/upsurge-bot"
+
+[[repo]]
+url = "https://github.com/moontography/vault-lp-rebalancer"
 
 [[repo]]
 url = "https://github.com/moontography/web3-events-db"

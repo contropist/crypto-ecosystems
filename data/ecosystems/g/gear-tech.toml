@@ -11,6 +11,7 @@ url = "https://github.com/gear-dapps/app"
 
 [[repo]]
 url = "https://github.com/gear-dapps/compound"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-dapps/concert"
@@ -41,6 +42,7 @@ url = "https://github.com/gear-dapps/escrow"
 
 [[repo]]
 url = "https://github.com/gear-dapps/feeds"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-dapps/fungible-token"
@@ -50,18 +52,22 @@ url = "https://github.com/gear-dapps/game-of-chance"
 
 [[repo]]
 url = "https://github.com/gear-dapps/gear-feeds-channel"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-dapps/gear-lib"
 
 [[repo]]
 url = "https://github.com/gear-dapps/gear-smart-contract-academy"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-dapps/guestbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-dapps/identity"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-dapps/multisig-wallet"
@@ -92,12 +98,19 @@ url = "https://github.com/gear-dapps/supply-chain"
 
 [[repo]]
 url = "https://github.com/gear-dapps/swap"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-tech/.github"
 
 [[repo]]
+url = "https://github.com/gear-tech/alloy-core"
+
+[[repo]]
 url = "https://github.com/gear-tech/apps"
+
+[[repo]]
+url = "https://github.com/gear-tech/bindings"
 
 [[repo]]
 url = "https://github.com/gear-tech/BLAKE3"
@@ -106,31 +119,66 @@ url = "https://github.com/gear-tech/BLAKE3"
 url = "https://github.com/gear-tech/builds"
 
 [[repo]]
+url = "https://github.com/gear-tech/cargo-http-registry"
+
+[[repo]]
 url = "https://github.com/gear-tech/cargo-xwin"
+
+[[repo]]
+url = "https://github.com/gear-tech/cc-rs"
 
 [[repo]]
 url = "https://github.com/gear-tech/chainlink-integration"
 
 [[repo]]
 url = "https://github.com/gear-tech/contract-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-tech/create-gear-app"
 
 [[repo]]
+url = "https://github.com/gear-tech/curve25519-dalek"
+
+[[repo]]
+url = "https://github.com/gear-tech/dapps-racing-car-game"
+missing = true
+
+[[repo]]
 url = "https://github.com/gear-tech/dlmalloc-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-tech/dlmalloc-rust"
 
 [[repo]]
+url = "https://github.com/gear-tech/ethereum_hashing"
+
+[[repo]]
 url = "https://github.com/gear-tech/explorer"
+
+[[repo]]
+url = "https://github.com/gear-tech/external-actor"
+
+[[repo]]
+url = "https://github.com/gear-tech/fork-action"
 
 [[repo]]
 url = "https://github.com/gear-tech/gear"
 
 [[repo]]
+url = "https://github.com/gear-tech/gear-bridges"
+
+[[repo]]
+url = "https://github.com/gear-tech/gear-bridges-audit"
+missing = true
+
+[[repo]]
+url = "https://github.com/gear-tech/gear-dlmalloc"
+
+[[repo]]
 url = "https://github.com/gear-tech/gear-feeds-channel-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-tech/gear-integrations"
@@ -145,16 +193,31 @@ url = "https://github.com/gear-tech/gear-news"
 url = "https://github.com/gear-tech/gear-program"
 
 [[repo]]
+url = "https://github.com/gear-tech/gear-tech.github.io"
+
+[[repo]]
 url = "https://github.com/gear-tech/gear-technical"
+
+[[repo]]
+url = "https://github.com/gear-tech/homebrew-gear"
 
 [[repo]]
 url = "https://github.com/gear-tech/metadata-portal"
 
 [[repo]]
+url = "https://github.com/gear-tech/parity-wasm"
+
+[[repo]]
 url = "https://github.com/gear-tech/performance-charts"
 
 [[repo]]
+url = "https://github.com/gear-tech/plonky2"
+
+[[repo]]
 url = "https://github.com/gear-tech/polkadot"
+
+[[repo]]
+url = "https://github.com/gear-tech/polkadot-sdk"
 
 [[repo]]
 url = "https://github.com/gear-tech/polkadot-ui"
@@ -172,7 +235,20 @@ url = "https://github.com/gear-tech/rpc-tests"
 url = "https://github.com/gear-tech/rust-covfix"
 
 [[repo]]
+url = "https://github.com/gear-tech/rust-libp2p"
+
+[[repo]]
+url = "https://github.com/gear-tech/sails"
+
+[[repo]]
+url = "https://github.com/gear-tech/srtool"
+
+[[repo]]
 url = "https://github.com/gear-tech/ss58-registry"
+missing = true
+
+[[repo]]
+url = "https://github.com/gear-tech/ss58.org"
 
 [[repo]]
 url = "https://github.com/gear-tech/substrate"
@@ -181,10 +257,26 @@ url = "https://github.com/gear-tech/substrate"
 url = "https://github.com/gear-tech/substrate-telemetry"
 
 [[repo]]
+url = "https://github.com/gear-tech/substrate-validator-set"
+
+[[repo]]
+url = "https://github.com/gear-tech/subxt"
+
+[[repo]]
 url = "https://github.com/gear-tech/syndote-game"
+missing = true
 
 [[repo]]
 url = "https://github.com/gear-tech/telemetry.rs"
+
+[[repo]]
+url = "https://github.com/gear-tech/tree_hash"
+
+[[repo]]
+url = "https://github.com/gear-tech/trust-dns"
+
+[[repo]]
+url = "https://github.com/gear-tech/vara-interface"
 
 [[repo]]
 url = "https://github.com/gear-tech/vara-staking-dashboard"
@@ -202,7 +294,16 @@ url = "https://github.com/gear-tech/wabt-rs"
 url = "https://github.com/gear-tech/wasm-instrument"
 
 [[repo]]
+url = "https://github.com/gear-tech/wasm-opt-rs"
+
+[[repo]]
 url = "https://github.com/gear-tech/wasm-tools"
+
+[[repo]]
+url = "https://github.com/gear-tech/wasm-utils"
+
+[[repo]]
+url = "https://github.com/gear-tech/wasmer"
 
 [[repo]]
 url = "https://github.com/gear-tech/wasmi"
@@ -211,17 +312,17 @@ url = "https://github.com/gear-tech/wasmi"
 url = "https://github.com/gear-tech/wasmtime"
 
 [[repo]]
+url = "https://github.com/gear-tech/weekly-updates"
+
+[[repo]]
 url = "https://github.com/gear-tech/whitepaper"
 
 [[repo]]
 url = "https://github.com/gear-tech/wiki"
 
 [[repo]]
-url = "https://github.com/gear-tech/workshop-channel-contract"
-missing = true
-
-[[repo]]
 url = "https://github.com/gear-tech/workshop-router-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/shamilsan/cargo-program"

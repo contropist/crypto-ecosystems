@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/ergo-pad", "https://github.com/ergop
 url = "https://github.com/ergo-pad/airdropaddressrecorder"
 
 [[repo]]
+url = "https://github.com/ergo-pad/coinecta"
+
+[[repo]]
 url = "https://github.com/ergo-pad/danaides"
 
 [[repo]]
@@ -92,6 +95,7 @@ url = "https://github.com/ergo-pad/paideia"
 
 [[repo]]
 url = "https://github.com/ergo-pad/paideia-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/ergo-pad/paideia-backend"
@@ -104,6 +108,7 @@ url = "https://github.com/ergo-pad/paideia-data"
 
 [[repo]]
 url = "https://github.com/ergo-pad/paideia-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/ergo-pad/paideia-offchain"
@@ -119,6 +124,9 @@ url = "https://github.com/ergo-pad/random-token-sale-sdk"
 
 [[repo]]
 url = "https://github.com/ergopad/danaides"
+
+[[repo]]
+url = "https://github.com/ergopad/ergo-address-labels"
 
 [[repo]]
 url = "https://github.com/ergopad/ergo-offchain-execution"
@@ -155,6 +163,9 @@ url = "https://github.com/ergopad/onchain-notifications-service"
 
 [[repo]]
 url = "https://github.com/ergopad/pratir-backend"
+
+[[repo]]
+url = "https://github.com/ergopad/pratir-frontend"
 
 [[repo]]
 url = "https://github.com/ergopad/spectrum-history"

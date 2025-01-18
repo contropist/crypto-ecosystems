@@ -7,6 +7,15 @@ github_organizations = ["https://github.com/apollodao"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/apollodao/amm-fee-indexer"
+
+[[repo]]
+url = "https://github.com/apollodao/apollo-agent"
+
+[[repo]]
+url = "https://github.com/apollodao/apollo-agent-starter"
+
+[[repo]]
 url = "https://github.com/apollodao/apollo-config"
 
 [[repo]]
@@ -43,6 +52,9 @@ url = "https://github.com/apollodao/assets"
 url = "https://github.com/apollodao/astroport-liquidity-helper"
 
 [[repo]]
+url = "https://github.com/apollodao/astroport-on-osmosis"
+
+[[repo]]
 url = "https://github.com/apollodao/astroport-types"
 
 [[repo]]
@@ -58,6 +70,9 @@ url = "https://github.com/apollodao/cosmwasm-vault-standard"
 url = "https://github.com/apollodao/cw-bigint"
 
 [[repo]]
+url = "https://github.com/apollodao/cw-config"
+
+[[repo]]
 url = "https://github.com/apollodao/cw-dex"
 
 [[repo]]
@@ -70,6 +85,12 @@ url = "https://github.com/apollodao/cw-dex-router"
 url = "https://github.com/apollodao/cw-it"
 
 [[repo]]
+url = "https://github.com/apollodao/cw-multi-test"
+
+[[repo]]
+url = "https://github.com/apollodao/cw-plus"
+
+[[repo]]
 url = "https://github.com/apollodao/cw-plus-fork"
 
 [[repo]]
@@ -77,6 +98,9 @@ url = "https://github.com/apollodao/cw-vault-standard"
 
 [[repo]]
 url = "https://github.com/apollodao/cw-vault-token"
+
+[[repo]]
+url = "https://github.com/apollodao/cw20-adapter"
 
 [[repo]]
 url = "https://github.com/apollodao/defillama-tvl"
@@ -88,6 +112,9 @@ url = "https://github.com/apollodao/fcd"
 url = "https://github.com/apollodao/fields-of-mars"
 
 [[repo]]
+url = "https://github.com/apollodao/graz"
+
+[[repo]]
 url = "https://github.com/apollodao/ledger-terra-js"
 
 [[repo]]
@@ -95,6 +122,12 @@ url = "https://github.com/apollodao/liquidity-helpers"
 
 [[repo]]
 url = "https://github.com/apollodao/lockdrop-frontend"
+
+[[repo]]
+url = "https://github.com/apollodao/locked-astroport-vault"
+
+[[repo]]
+url = "https://github.com/apollodao/neutron-reward-distributor"
 
 [[repo]]
 url = "https://github.com/apollodao/osmosis"
@@ -127,4 +160,10 @@ url = "https://github.com/apollodao/terra-native-multisig-tool"
 url = "https://github.com/apollodao/test-tube"
 
 [[repo]]
+url = "https://github.com/apollodao/vault-zapper"
+
+[[repo]]
 url = "https://github.com/apollodao/wallet-provider"
+
+[[repo]]
+url = "https://github.com/apollodao/yield-server"

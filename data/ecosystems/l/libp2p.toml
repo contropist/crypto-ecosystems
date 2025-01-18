@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/libp2p"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/eigerco/beetswap"
+
+[[repo]]
 url = "https://github.com/jrhea/mothra"
 tags = ["Protocol"]
 
@@ -20,7 +23,13 @@ url = "https://github.com/libp2p/awesome-libp2p"
 url = "https://github.com/libp2p/blog"
 
 [[repo]]
+url = "https://github.com/libp2p/blog-new"
+
+[[repo]]
 url = "https://github.com/libp2p/community"
+
+[[repo]]
+url = "https://github.com/libp2p/connectivity-site"
 
 [[repo]]
 url = "https://github.com/libp2p/cpp-libp2p"
@@ -74,6 +83,9 @@ url = "https://github.com/libp2p/docs"
 url = "https://github.com/libp2p/docs-old"
 
 [[repo]]
+url = "https://github.com/libp2p/error-codes"
+
+[[repo]]
 url = "https://github.com/libp2p/fclibp2p-zhi"
 
 [[repo]]
@@ -105,6 +117,9 @@ url = "https://github.com/libp2p/go-eventbus"
 
 [[repo]]
 url = "https://github.com/libp2p/go-flow-metrics"
+
+[[repo]]
+url = "https://github.com/libp2p/go-libdht"
 
 [[repo]]
 url = "https://github.com/libp2p/go-libp2p"
@@ -321,6 +336,7 @@ url = "https://github.com/libp2p/go-openssl"
 
 [[repo]]
 url = "https://github.com/libp2p/go-p2pcat"
+missing = true
 
 [[repo]]
 url = "https://github.com/libp2p/go-peerstream"
@@ -366,6 +382,7 @@ url = "https://github.com/libp2p/go-utp-transport"
 
 [[repo]]
 url = "https://github.com/libp2p/go-wireguard"
+missing = true
 
 [[repo]]
 url = "https://github.com/libp2p/go-ws-transport"
@@ -387,6 +404,9 @@ url = "https://github.com/libp2p/hydra-booster"
 
 [[repo]]
 url = "https://github.com/libp2p/hydra-booster-infra"
+
+[[repo]]
+url = "https://github.com/libp2p/if-watch"
 
 [[repo]]
 url = "https://github.com/libp2p/interface-connection"
@@ -419,6 +439,15 @@ url = "https://github.com/libp2p/interop"
 url = "https://github.com/libp2p/ipfs-camp-2022"
 
 [[repo]]
+url = "https://github.com/libp2p/iptoasn"
+
+[[repo]]
+url = "https://github.com/libp2p/js-delegated-routing-v1-http-api-content-routing"
+
+[[repo]]
+url = "https://github.com/libp2p/js-http-v1-content-routing"
+
+[[repo]]
 url = "https://github.com/libp2p/js-ipni-content-routing"
 
 [[repo]]
@@ -426,6 +455,12 @@ url = "https://github.com/libp2p/js-iprs-record"
 
 [[repo]]
 url = "https://github.com/libp2p/js-libp2p"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-aes-ctr"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-amino-dht-bootstrapper"
 
 [[repo]]
 url = "https://github.com/libp2p/js-libp2p-bootstrap"
@@ -467,13 +502,64 @@ url = "https://github.com/libp2p/js-libp2p-delegated-content-routing"
 url = "https://github.com/libp2p/js-libp2p-delegated-peer-routing"
 
 [[repo]]
+url = "https://github.com/libp2p/js-libp2p-devtools"
+
+[[repo]]
 url = "https://github.com/libp2p/js-libp2p-distributed-record-store"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-auto-tls"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-browser-pubsub"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-chat"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-circuit-relay"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-connection-encryption"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-custom-protocols"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-delegated-routing"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-discovery-mechanisms"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-fork-go-template"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-peer-and-content-routing"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-pnet"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-protocol-and-stream-muxing"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-pubsub"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-transports"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-example-webrtc-private-to-private"
 
 [[repo]]
 url = "https://github.com/libp2p/js-libp2p-examples"
 
 [[repo]]
 url = "https://github.com/libp2p/js-libp2p-floodsub"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-http-fetch"
 
 [[repo]]
 url = "https://github.com/libp2p/js-libp2p-identify"
@@ -533,6 +619,9 @@ url = "https://github.com/libp2p/js-libp2p-pnet"
 url = "https://github.com/libp2p/js-libp2p-prometheus-metrics"
 
 [[repo]]
+url = "https://github.com/libp2p/js-libp2p-protocol-adventure"
+
+[[repo]]
 url = "https://github.com/libp2p/js-libp2p-pubsub"
 
 [[repo]]
@@ -548,13 +637,22 @@ url = "https://github.com/libp2p/js-libp2p-relay-server"
 url = "https://github.com/libp2p/js-libp2p-rendezvous"
 
 [[repo]]
+url = "https://github.com/libp2p/js-libp2p-rsa"
+
+[[repo]]
 url = "https://github.com/libp2p/js-libp2p-secio"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-simple-metrics"
 
 [[repo]]
 url = "https://github.com/libp2p/js-libp2p-spdy"
 
 [[repo]]
 url = "https://github.com/libp2p/js-libp2p-stardust"
+
+[[repo]]
+url = "https://github.com/libp2p/js-libp2p-streaming-benchmark"
 
 [[repo]]
 url = "https://github.com/libp2p/js-libp2p-switch"
@@ -608,6 +706,9 @@ url = "https://github.com/libp2p/js-libp2p-websockets"
 url = "https://github.com/libp2p/js-libp2p-webtransport"
 
 [[repo]]
+url = "https://github.com/libp2p/js-libp2p-whatwg-fetch"
+
+[[repo]]
 url = "https://github.com/libp2p/js-p2pcat"
 
 [[repo]]
@@ -632,10 +733,17 @@ url = "https://github.com/libp2p/jvm-libp2p"
 url = "https://github.com/libp2p/libp2p"
 
 [[repo]]
+url = "https://github.com/libp2p/libp2p-browser-guide"
+
+[[repo]]
 url = "https://github.com/libp2p/libp2p-go-webrtc-benchmarks"
 
 [[repo]]
 url = "https://github.com/libp2p/libp2p-lw2019"
+missing = true
+
+[[repo]]
+url = "https://github.com/libp2p/libp2p-webrtc-guide"
 
 [[repo]]
 url = "https://github.com/libp2p/mplex"
@@ -678,6 +786,7 @@ url = "https://github.com/libp2p/py-libp2p-xor"
 
 [[repo]]
 url = "https://github.com/libp2p/quic-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/libp2p/repl"
@@ -695,6 +804,9 @@ url = "https://github.com/libp2p/research-pubsub"
 url = "https://github.com/libp2p/rust-libp2p"
 
 [[repo]]
+url = "https://github.com/libp2p/rust-libp2p-identity"
+
+[[repo]]
 url = "https://github.com/libp2p/rust-yamux"
 
 [[repo]]
@@ -710,6 +822,9 @@ url = "https://github.com/libp2p/test-plans"
 url = "https://github.com/libp2p/testlab"
 
 [[repo]]
+url = "https://github.com/libp2p/uci"
+
+[[repo]]
 url = "https://github.com/libp2p/universal-connectivity"
 
 [[repo]]
@@ -717,6 +832,9 @@ url = "https://github.com/libp2p/website"
 
 [[repo]]
 url = "https://github.com/libp2p/website-1"
+
+[[repo]]
+url = "https://github.com/libp2p/website-new"
 
 [[repo]]
 url = "https://github.com/libp2p/workspace-go-libp2p"

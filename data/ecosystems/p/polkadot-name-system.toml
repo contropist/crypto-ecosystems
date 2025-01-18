@@ -17,6 +17,7 @@ url = "https://github.com/pnsproject/blockscout"
 
 [[repo]]
 url = "https://github.com/pnsproject/ddns_ruby"
+missing = true
 
 [[repo]]
 url = "https://github.com/pnsproject/ens-indexing"
@@ -31,6 +32,18 @@ url = "https://github.com/pnsproject/ethereum.rb"
 url = "https://github.com/pnsproject/Grants-Program"
 
 [[repo]]
+url = "https://github.com/pnsproject/hackathon-2023-summer"
+
+[[repo]]
+url = "https://github.com/pnsproject/harbor-mq"
+
+[[repo]]
+url = "https://github.com/pnsproject/hkid-sdk"
+
+[[repo]]
+url = "https://github.com/pnsproject/ink-aa"
+
+[[repo]]
 url = "https://github.com/pnsproject/litentry-parachain"
 
 [[repo]]
@@ -41,6 +54,9 @@ url = "https://github.com/pnsproject/nft-subgraphs"
 
 [[repo]]
 url = "https://github.com/pnsproject/open-runtime-module-library"
+
+[[repo]]
+url = "https://github.com/pnsproject/p2panda-explorer"
 
 [[repo]]
 url = "https://github.com/pnsproject/pns-contracts"

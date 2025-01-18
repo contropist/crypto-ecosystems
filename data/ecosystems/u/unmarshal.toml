@@ -28,6 +28,9 @@ url = "https://github.com/eucrypt/ethereum-block-receipt"
 url = "https://github.com/eucrypt/ethereum-watcher"
 
 [[repo]]
+url = "https://github.com/eucrypt/graph-tooling"
+
+[[repo]]
 url = "https://github.com/eucrypt/klaytn-custom"
 
 [[repo]]
@@ -35,9 +38,13 @@ url = "https://github.com/eucrypt/Pancakswap-info"
 
 [[repo]]
 url = "https://github.com/eucrypt/postgraphile"
+missing = true
 
 [[repo]]
 url = "https://github.com/eucrypt/react-dapp-web3-notifications"
+
+[[repo]]
+url = "https://github.com/eucrypt/rollchain-test"
 
 [[repo]]
 url = "https://github.com/eucrypt/unmarshal-bounty"
@@ -49,7 +56,11 @@ url = "https://github.com/eucrypt/unmarshal-docs"
 url = "https://github.com/eucrypt/unmarshal-go-sdk"
 
 [[repo]]
+url = "https://github.com/eucrypt/unmarshal-indexer-avs"
+
+[[repo]]
 url = "https://github.com/eucrypt/unmarshal-treasury"
 
 [[repo]]
 url = "https://github.com/eucrypt/yet-another-cloudwatch-exporter"
+missing = true

@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/GammaStrategies"]
 # Repositories
 [[repo]]
 url = "https://github.com/GammaStrategies/active-strategy-framework"
+missing = true
 
 [[repo]]
 url = "https://github.com/GammaStrategies/asset"
@@ -22,7 +23,19 @@ url = "https://github.com/GammaStrategies/awesome-uniswap-v3"
 url = "https://github.com/GammaStrategies/ethereum-optimism.github.io"
 
 [[repo]]
+url = "https://github.com/GammaStrategies/fees-subgraph"
+missing = true
+
+[[repo]]
+url = "https://github.com/GammaStrategies/gamma_api_wrapper"
+
+[[repo]]
 url = "https://github.com/GammaStrategies/gamma_endpoint"
+missing = true
+
+[[repo]]
+url = "https://github.com/GammaStrategies/gamma_utilities"
+missing = true
 
 [[repo]]
 url = "https://github.com/GammaStrategies/hypervisor"
@@ -35,6 +48,7 @@ url = "https://github.com/GammaStrategies/strategy-one"
 
 [[repo]]
 url = "https://github.com/GammaStrategies/subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/GammaStrategies/subgraph-algebra-polygon"
@@ -71,6 +85,9 @@ url = "https://github.com/GammaStrategies/uniswap-v3-subgraph"
 
 [[repo]]
 url = "https://github.com/GammaStrategies/uniswapv3-risk-mitigation"
+
+[[repo]]
+url = "https://github.com/GammaStrategies/univ4-limit-order-hook"
 
 [[repo]]
 url = "https://github.com/GammaStrategies/xGamma"

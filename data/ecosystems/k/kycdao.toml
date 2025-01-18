@@ -7,7 +7,16 @@ github_organizations = ["https://github.com/kycdao"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/kycdao/aptos-core"
+
+[[repo]]
+url = "https://github.com/kycdao/aptos-module"
+
+[[repo]]
 url = "https://github.com/kycdao/async-oauth2"
+
+[[repo]]
+url = "https://github.com/kycdao/chainalysis-client"
 
 [[repo]]
 url = "https://github.com/kycdao/community"
@@ -22,7 +31,13 @@ url = "https://github.com/kycdao/diesel-enum-derive"
 url = "https://github.com/kycdao/emails"
 
 [[repo]]
+url = "https://github.com/kycdao/growthbook-client"
+
+[[repo]]
 url = "https://github.com/kycdao/grpc_signer"
+
+[[repo]]
+url = "https://github.com/kycdao/json-api-client"
 
 [[repo]]
 url = "https://github.com/kycdao/KudosDiscordBot"
@@ -44,6 +59,12 @@ url = "https://github.com/kycdao/near-sdk-rs"
 
 [[repo]]
 url = "https://github.com/kycdao/NEPs"
+
+[[repo]]
+url = "https://github.com/kycdao/parallel-markets-client"
+
+[[repo]]
+url = "https://github.com/kycdao/persona-client"
 
 [[repo]]
 url = "https://github.com/kycdao/polkadot-identicon-rust"
@@ -83,6 +104,12 @@ url = "https://github.com/kycdao/svg"
 
 [[repo]]
 url = "https://github.com/kycdao/Token-Templates"
+
+[[repo]]
+url = "https://github.com/kycdao/verify-investor-client"
+
+[[repo]]
+url = "https://github.com/kycdao/verilabs-website"
 
 [[repo]]
 url = "https://github.com/kycdao/widget"

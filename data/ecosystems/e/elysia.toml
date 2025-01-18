@@ -23,6 +23,7 @@ url = "https://github.com/elysia-dev/contract-typechain"
 
 [[repo]]
 url = "https://github.com/elysia-dev/DefiLlama-Adapters"
+missing = true
 
 [[repo]]
 url = "https://github.com/elysia-dev/dutch"
@@ -53,12 +54,16 @@ url = "https://github.com/elysia-dev/elyfi-v1-sdk"
 
 [[repo]]
 url = "https://github.com/elysia-dev/elyfi-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/elysia-dev/ELYIPs"
 
 [[repo]]
 url = "https://github.com/elysia-dev/elysia-korea-pf"
+
+[[repo]]
+url = "https://github.com/elysia-dev/elysia-rwa-standard"
 
 [[repo]]
 url = "https://github.com/elysia-dev/elysia-us-pf"
@@ -74,12 +79,14 @@ url = "https://github.com/elysia-dev/hazelnut"
 
 [[repo]]
 url = "https://github.com/elysia-dev/hummingbot"
+missing = true
 
 [[repo]]
 url = "https://github.com/elysia-dev/instant"
 
 [[repo]]
 url = "https://github.com/elysia-dev/kick-finance"
+missing = true
 
 [[repo]]
 url = "https://github.com/elysia-dev/NAPs"
@@ -94,6 +101,9 @@ url = "https://github.com/elysia-dev/oracle"
 url = "https://github.com/elysia-dev/reality-eth-monorepo"
 
 [[repo]]
+url = "https://github.com/elysia-dev/snapshot-strategies"
+
+[[repo]]
 url = "https://github.com/elysia-dev/stakingpool-v2"
 
 [[repo]]
@@ -101,6 +111,9 @@ url = "https://github.com/elysia-dev/uniswap-v3-staker-subgraph"
 
 [[repo]]
 url = "https://github.com/elysia-dev/v3-staker"
+
+[[repo]]
+url = "https://github.com/elysia-dev/ZKredit"
 
 [[repo]]
 url = "https://github.com/elysia-dev/zodiac-module-reality"

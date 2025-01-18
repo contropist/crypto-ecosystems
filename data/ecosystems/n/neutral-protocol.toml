@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/neutral-protocol"]
 url = "https://github.com/neutral-protocol/celo-ethers"
 
 [[repo]]
+url = "https://github.com/neutral-protocol/dynamic-fee-pools"
+
+[[repo]]
+url = "https://github.com/neutral-protocol/hummingbot"
+
+[[repo]]
 url = "https://github.com/neutral-protocol/neutral-candles-celo"
 
 [[repo]]
@@ -17,3 +23,9 @@ url = "https://github.com/neutral-protocol/neutral-candles-polygon"
 
 [[repo]]
 url = "https://github.com/neutral-protocol/neutral-liquidation-keeper"
+
+[[repo]]
+url = "https://github.com/neutral-protocol/redis-in-memory"
+
+[[repo]]
+url = "https://github.com/neutral-protocol/toucan-contracts"

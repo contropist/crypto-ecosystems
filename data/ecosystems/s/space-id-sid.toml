@@ -16,6 +16,19 @@ url = "https://github.com/Space-ID/airdrop-claim-data"
 url = "https://github.com/Space-ID/airdrop-season1"
 
 [[repo]]
+url = "https://github.com/Space-ID/blockscout-rs"
+
+[[repo]]
+url = "https://github.com/Space-ID/injective-sidjs"
+
+[[repo]]
+url = "https://github.com/Space-ID/injective-ts"
+missing = true
+
+[[repo]]
+url = "https://github.com/Space-ID/pyth-crosschain"
+
+[[repo]]
 url = "https://github.com/Space-ID/react-ens-address"
 
 [[repo]]
@@ -23,6 +36,9 @@ url = "https://github.com/Space-ID/reserved-domain-names"
 
 [[repo]]
 url = "https://github.com/Space-ID/resolvers"
+
+[[repo]]
+url = "https://github.com/Space-ID/sei-sidjs"
 
 [[repo]]
 url = "https://github.com/Space-ID/sid"
@@ -34,16 +50,32 @@ url = "https://github.com/Space-ID/sid-app"
 url = "https://github.com/Space-ID/sid-subgraph"
 
 [[repo]]
+url = "https://github.com/Space-ID/sid-toolkit"
+
+[[repo]]
 url = "https://github.com/Space-ID/sidjs"
 
 [[repo]]
 url = "https://github.com/Space-ID/snapshot-spaces"
 
 [[repo]]
+url = "https://github.com/Space-ID/snapshot-strategies"
+
+[[repo]]
 url = "https://github.com/Space-ID/SpaceIDContract-Audit"
 
 [[repo]]
 url = "https://github.com/Space-ID/ui"
+
+[[repo]]
+url = "https://github.com/Space-ID/web3-name-sdk"
+
+[[repo]]
+url = "https://github.com/Space-ID/web3-name-sdk-demo"
+missing = true
+
+[[repo]]
+url = "https://github.com/Space-ID/web3-name-snap"
 
 [[repo]]
 url = "https://github.com/Space-ID/web3modal"

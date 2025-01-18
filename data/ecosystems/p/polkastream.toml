@@ -7,4 +7,9 @@ github_organizations = ["https://github.com/polkastream"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/polkastream/discord-widget"
+missing = true
+
+[[repo]]
 url = "https://github.com/polkastream/pstr"
+missing = true

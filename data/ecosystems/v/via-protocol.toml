@@ -10,6 +10,15 @@ github_organizations = ["https://github.com/viaprotocol"]
 url = "https://github.com/viaprotocol/.github"
 
 [[repo]]
+url = "https://github.com/viaprotocol/Ally"
+
+[[repo]]
+url = "https://github.com/viaprotocol/companion"
+
+[[repo]]
+url = "https://github.com/viaprotocol/Companyon"
+
+[[repo]]
 url = "https://github.com/viaprotocol/contract-serializer"
 
 [[repo]]
@@ -17,6 +26,10 @@ url = "https://github.com/viaprotocol/format-crypto"
 
 [[repo]]
 url = "https://github.com/viaprotocol/gasless-transfer"
+
+[[repo]]
+url = "https://github.com/viaprotocol/router-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/viaprotocol/router-sharing-template"

@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/forbole"]
 url = "https://github.com/forbole/accounts-bootstrap"
 
 [[repo]]
+url = "https://github.com/forbole/agoric-sdk"
+
+[[repo]]
 url = "https://github.com/forbole/agoric-validator-profiles"
 
 [[repo]]
@@ -22,7 +25,14 @@ url = "https://github.com/forbole/akash-net"
 url = "https://github.com/forbole/amber-network-entities"
 
 [[repo]]
+url = "https://github.com/forbole/apisix-go-plugin-runner"
+missing = true
+
+[[repo]]
 url = "https://github.com/forbole/awesome-akash"
+
+[[repo]]
+url = "https://github.com/forbole/babylon-networks"
 
 [[repo]]
 url = "https://github.com/forbole/band-launch"
@@ -100,6 +110,9 @@ url = "https://github.com/forbole/bookkeeper"
 url = "https://github.com/forbole/bot_monitor"
 
 [[repo]]
+url = "https://github.com/forbole/callisto"
+
+[[repo]]
 url = "https://github.com/forbole/careers"
 
 [[repo]]
@@ -170,6 +183,7 @@ url = "https://github.com/forbole/forbole-x-extension-react"
 
 [[repo]]
 url = "https://github.com/forbole/forbole-x-mobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/forbole/forboled"
@@ -200,6 +214,7 @@ url = "https://github.com/forbole/GhostSDK"
 
 [[repo]]
 url = "https://github.com/forbole/go-migrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/forbole/ibcjuno"
@@ -238,6 +253,12 @@ url = "https://github.com/forbole/mrm-preset-forbole-rn"
 url = "https://github.com/forbole/multiversx"
 
 [[repo]]
+url = "https://github.com/forbole/namada-mainnet-genesis"
+
+[[repo]]
+url = "https://github.com/forbole/namadajuno"
+
+[[repo]]
 url = "https://github.com/forbole/njuno"
 
 [[repo]]
@@ -245,6 +266,7 @@ url = "https://github.com/forbole/oasis-mainnet-entities"
 
 [[repo]]
 url = "https://github.com/forbole/official-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/forbole/omniflix-mainnet"
@@ -269,6 +291,9 @@ url = "https://github.com/forbole/rust-cross-containers"
 
 [[repo]]
 url = "https://github.com/forbole/sentinel-big_dipper"
+
+[[repo]]
+url = "https://github.com/forbole/smartstake-relayers"
 
 [[repo]]
 url = "https://github.com/forbole/solana"
@@ -311,6 +336,7 @@ url = "https://github.com/forbole/substrate-exporter"
 
 [[repo]]
 url = "https://github.com/forbole/substrate-validator-exporter"
+missing = true
 
 [[repo]]
 url = "https://github.com/forbole/Tank"
@@ -350,9 +376,13 @@ url = "https://github.com/forbole/uglifyjs2"
 
 [[repo]]
 url = "https://github.com/forbole/UI-UX"
+missing = true
 
 [[repo]]
 url = "https://github.com/forbole/UIUX"
+
+[[repo]]
+url = "https://github.com/forbole/validator-assets"
 
 [[repo]]
 url = "https://github.com/forbole/validator-profiles"
@@ -368,3 +398,6 @@ url = "https://github.com/forbole/website"
 
 [[repo]]
 url = "https://github.com/forbole/wormhole-networks"
+
+[[repo]]
+url = "https://github.com/forbole/xion-staking"

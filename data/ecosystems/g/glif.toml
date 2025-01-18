@@ -19,6 +19,9 @@ url = "https://github.com/glifio/chainwatch-chart"
 url = "https://github.com/glifio/cid-checker"
 
 [[repo]]
+url = "https://github.com/glifio/cli"
+
+[[repo]]
 url = "https://github.com/glifio/cmc-proxy"
 
 [[repo]]
@@ -28,6 +31,9 @@ url = "https://github.com/glifio/defi-lama-server"
 url = "https://github.com/glifio/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/glifio/defillama-server"
+
+[[repo]]
 url = "https://github.com/glifio/deployment-test"
 
 [[repo]]
@@ -35,6 +41,9 @@ url = "https://github.com/glifio/devgrants"
 
 [[repo]]
 url = "https://github.com/glifio/did-key-generation-example"
+
+[[repo]]
+url = "https://github.com/glifio/docs"
 
 [[repo]]
 url = "https://github.com/glifio/explorer"
@@ -97,10 +106,19 @@ url = "https://github.com/glifio/filecoin-wallet-styleguide"
 url = "https://github.com/glifio/filsnap"
 
 [[repo]]
+url = "https://github.com/glifio/glif"
+
+[[repo]]
 url = "https://github.com/glifio/glif-component-library"
 
 [[repo]]
+url = "https://github.com/glifio/glif-msg-finder"
+
+[[repo]]
 url = "https://github.com/glifio/glifmate"
+
+[[repo]]
+url = "https://github.com/glifio/go-crypto"
 
 [[repo]]
 url = "https://github.com/glifio/go-jsonrpc"
@@ -109,7 +127,16 @@ url = "https://github.com/glifio/go-jsonrpc"
 url = "https://github.com/glifio/go-logger"
 
 [[repo]]
+url = "https://github.com/glifio/go-pools"
+
+[[repo]]
 url = "https://github.com/glifio/go-secp256k1"
+
+[[repo]]
+url = "https://github.com/glifio/go-termination-calculator"
+
+[[repo]]
+url = "https://github.com/glifio/go-wallet-utils"
 
 [[repo]]
 url = "https://github.com/glifio/graph"
@@ -121,6 +148,12 @@ url = "https://github.com/glifio/homepage"
 url = "https://github.com/glifio/homepage-v2"
 
 [[repo]]
+url = "https://github.com/glifio/infinity-pool-gov"
+
+[[repo]]
+url = "https://github.com/glifio/invariants"
+
+[[repo]]
 url = "https://github.com/glifio/launch"
 
 [[repo]]
@@ -128,6 +161,9 @@ url = "https://github.com/glifio/lotus-block-explorer"
 
 [[repo]]
 url = "https://github.com/glifio/lotus-jsonrpc-engine"
+
+[[repo]]
+url = "https://github.com/glifio/lotus-snapshot-downloader"
 
 [[repo]]
 url = "https://github.com/glifio/mailchimp-proxy"
@@ -139,10 +175,25 @@ url = "https://github.com/glifio/modules"
 url = "https://github.com/glifio/node"
 
 [[repo]]
+url = "https://github.com/glifio/pools-metrics"
+
+[[repo]]
+url = "https://github.com/glifio/preview-terminate-sectors"
+
+[[repo]]
 url = "https://github.com/glifio/react-components"
 
 [[repo]]
+url = "https://github.com/glifio/rust-termination-calculator"
+
+[[repo]]
 url = "https://github.com/glifio/safe"
+
+[[repo]]
+url = "https://github.com/glifio/simplify-terminations-fip-data"
+
+[[repo]]
+url = "https://github.com/glifio/solidity-BigNumber"
 
 [[repo]]
 url = "https://github.com/glifio/verifier"
@@ -167,3 +218,6 @@ url = "https://github.com/glifio/wfil"
 
 [[repo]]
 url = "https://github.com/glifio/wfil_reference"
+
+[[repo]]
+url = "https://github.com/glifio/yield-server"

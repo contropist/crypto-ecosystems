@@ -13,6 +13,13 @@ url = "https://github.com/multisig-labs/.github"
 url = "https://github.com/multisig-labs/abi.ninja"
 
 [[repo]]
+url = "https://github.com/multisig-labs/app.gogopool.com"
+missing = true
+
+[[repo]]
+url = "https://github.com/multisig-labs/avalanche-cli"
+
+[[repo]]
 url = "https://github.com/multisig-labs/avalanche-docs"
 
 [[repo]]
@@ -22,10 +29,25 @@ url = "https://github.com/multisig-labs/avalanche-ggp-faucet"
 url = "https://github.com/multisig-labs/avalanche-network-runner"
 
 [[repo]]
+url = "https://github.com/multisig-labs/avalanche-wallet"
+
+[[repo]]
 url = "https://github.com/multisig-labs/avalanchego"
 
 [[repo]]
+url = "https://github.com/multisig-labs/Bingo-game"
+
+[[repo]]
+url = "https://github.com/multisig-labs/bpay-subnet"
+
+[[repo]]
+url = "https://github.com/multisig-labs/caddyapi"
+
+[[repo]]
 url = "https://github.com/multisig-labs/ceres"
+
+[[repo]]
+url = "https://github.com/multisig-labs/coqbridge"
 
 [[repo]]
 url = "https://github.com/multisig-labs/docs.gogopool.com"
@@ -35,6 +57,12 @@ url = "https://github.com/multisig-labs/expedition"
 
 [[repo]]
 url = "https://github.com/multisig-labs/foundry-test-action"
+
+[[repo]]
+url = "https://github.com/multisig-labs/gogoavailability"
+
+[[repo]]
+url = "https://github.com/multisig-labs/gogocode-tester"
 
 [[repo]]
 url = "https://github.com/multisig-labs/GoGoDash"
@@ -52,16 +80,43 @@ url = "https://github.com/multisig-labs/gogopool-archive"
 url = "https://github.com/multisig-labs/gogopool-go"
 
 [[repo]]
+url = "https://github.com/multisig-labs/gogopool-observer"
+
+[[repo]]
+url = "https://github.com/multisig-labs/gogopool-search"
+
+[[repo]]
+url = "https://github.com/multisig-labs/gogopro-container"
+
+[[repo]]
 url = "https://github.com/multisig-labs/GoGoStandup"
 
 [[repo]]
 url = "https://github.com/multisig-labs/GoGoTools"
 
 [[repo]]
+url = "https://github.com/multisig-labs/hypersdk"
+
+[[repo]]
 url = "https://github.com/multisig-labs/joe-tokenlists"
 
 [[repo]]
+url = "https://github.com/multisig-labs/lancer-container"
+
+[[repo]]
+url = "https://github.com/multisig-labs/LFGG"
+
+[[repo]]
 url = "https://github.com/multisig-labs/multi-party-sig"
+
+[[repo]]
+url = "https://github.com/multisig-labs/multisiglabs-site"
+
+[[repo]]
+url = "https://github.com/multisig-labs/pandasia"
+
+[[repo]]
+url = "https://github.com/multisig-labs/pandasia-ui"
 
 [[repo]]
 url = "https://github.com/multisig-labs/Panopticon"
@@ -70,10 +125,19 @@ url = "https://github.com/multisig-labs/Panopticon"
 url = "https://github.com/multisig-labs/pocketbase"
 
 [[repo]]
+url = "https://github.com/multisig-labs/public-avalanche-sdks"
+
+[[repo]]
 url = "https://github.com/multisig-labs/rocketpool"
 
 [[repo]]
 url = "https://github.com/multisig-labs/s3logger"
+
+[[repo]]
+url = "https://github.com/multisig-labs/simple-blockexplorer"
+
+[[repo]]
+url = "https://github.com/multisig-labs/slurp"
 
 [[repo]]
 url = "https://github.com/multisig-labs/smartnode"
@@ -89,3 +153,15 @@ url = "https://github.com/multisig-labs/stable-daofusion"
 
 [[repo]]
 url = "https://github.com/multisig-labs/subnet-evm"
+
+[[repo]]
+url = "https://github.com/multisig-labs/tartarus"
+
+[[repo]]
+url = "https://github.com/multisig-labs/teleporter-token-bridge"
+
+[[repo]]
+url = "https://github.com/multisig-labs/validation-managers"
+
+[[repo]]
+url = "https://github.com/multisig-labs/webauthn-demo"

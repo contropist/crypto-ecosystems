@@ -7,19 +7,45 @@ github_organizations = ["https://github.com/akash-network", "https://github.com/
 
 # Repositories
 [[repo]]
+url = "https://github.com/akash-network/.github"
+
+[[repo]]
 url = "https://github.com/akash-network/action-wip"
 
 [[repo]]
 url = "https://github.com/akash-network/akash-api"
 
 [[repo]]
+url = "https://github.com/akash-network/akash-chat"
+
+[[repo]]
+url = "https://github.com/akash-network/akash-chat-api"
+
+[[repo]]
+url = "https://github.com/akash-network/akash-deploy-action"
+
+[[repo]]
 url = "https://github.com/akash-network/akashjs"
+
+[[repo]]
+url = "https://github.com/akash-network/akt"
+missing = true
 
 [[repo]]
 url = "https://github.com/akash-network/awesome-akash"
 
 [[repo]]
 url = "https://github.com/akash-network/brand-assets"
+
+[[repo]]
+url = "https://github.com/akash-network/chain-registry"
+
+[[repo]]
+url = "https://github.com/akash-network/cla-store"
+missing = true
+
+[[repo]]
+url = "https://github.com/akash-network/cloudmos"
 
 [[repo]]
 url = "https://github.com/akash-network/cometbft"
@@ -31,6 +57,19 @@ url = "https://github.com/akash-network/community"
 url = "https://github.com/akash-network/console"
 
 [[repo]]
+url = "https://github.com/akash-network/console-ci-test"
+
+[[repo]]
+url = "https://github.com/akash-network/console-old"
+
+[[repo]]
+url = "https://github.com/akash-network/conventional-changelog"
+
+[[repo]]
+url = "https://github.com/akash-network/core-docs"
+missing = true
+
+[[repo]]
 url = "https://github.com/akash-network/cosmos-omnibus"
 
 [[repo]]
@@ -40,13 +79,26 @@ url = "https://github.com/akash-network/cosmos-sdk"
 url = "https://github.com/akash-network/cosmovisor"
 
 [[repo]]
+url = "https://github.com/akash-network/demo-app"
+
+[[repo]]
 url = "https://github.com/akash-network/deploy-templates"
 
 [[repo]]
 url = "https://github.com/akash-network/docs"
 
 [[repo]]
+url = "https://github.com/akash-network/docu"
+missing = true
+
+[[repo]]
+url = "https://github.com/akash-network/e2e-test"
+
+[[repo]]
 url = "https://github.com/akash-network/faucet"
+
+[[repo]]
+url = "https://github.com/akash-network/hello-akash-world"
 
 [[repo]]
 url = "https://github.com/akash-network/helm-charts"
@@ -55,19 +107,46 @@ url = "https://github.com/akash-network/helm-charts"
 url = "https://github.com/akash-network/homebrew-tap"
 
 [[repo]]
+url = "https://github.com/akash-network/ibc-go"
+
+[[repo]]
 url = "https://github.com/akash-network/ledger-go"
+
+[[repo]]
+url = "https://github.com/akash-network/Marketing"
 
 [[repo]]
 url = "https://github.com/akash-network/net"
 
 [[repo]]
+url = "https://github.com/akash-network/new-docs"
+
+[[repo]]
 url = "https://github.com/akash-network/node"
+
+[[repo]]
+url = "https://github.com/akash-network/praetor-backend"
+
+[[repo]]
+url = "https://github.com/akash-network/praetor-frontend"
+
+[[repo]]
+url = "https://github.com/akash-network/praetor-security"
 
 [[repo]]
 url = "https://github.com/akash-network/provider"
 
 [[repo]]
 url = "https://github.com/akash-network/provider-chaperone"
+
+[[repo]]
+url = "https://github.com/akash-network/provider-configs"
+
+[[repo]]
+url = "https://github.com/akash-network/provider-console-security"
+
+[[repo]]
+url = "https://github.com/akash-network/rpc-proxy"
 
 [[repo]]
 url = "https://github.com/akash-network/stunnel-proxy"
@@ -79,10 +158,22 @@ url = "https://github.com/akash-network/support"
 url = "https://github.com/akash-network/tendermint"
 
 [[repo]]
+url = "https://github.com/akash-network/terraform-provider-akash"
+
+[[repo]]
 url = "https://github.com/akash-network/testnetify"
 
 [[repo]]
+url = "https://github.com/akash-network/vanity"
+
+[[repo]]
 url = "https://github.com/akash-network/website"
+
+[[repo]]
+url = "https://github.com/akash-network/website-5-archive"
+
+[[repo]]
+url = "https://github.com/akash-network/website-revamp"
 
 [[repo]]
 url = "https://github.com/ovrclk/.github"
@@ -136,7 +227,11 @@ url = "https://github.com/ovrclk/akashlytics"
 url = "https://github.com/ovrclk/akashlytics-deploy"
 
 [[repo]]
+url = "https://github.com/ovrclk/akashML"
+
+[[repo]]
 url = "https://github.com/ovrclk/akcmd"
+missing = true
 
 [[repo]]
 url = "https://github.com/ovrclk/awesome-akash-1"
@@ -146,6 +241,13 @@ url = "https://github.com/ovrclk/chain-registry"
 
 [[repo]]
 url = "https://github.com/ovrclk/chain-supply"
+
+[[repo]]
+url = "https://github.com/ovrclk/cloudmos-config"
+missing = true
+
+[[repo]]
+url = "https://github.com/ovrclk/community"
 
 [[repo]]
 url = "https://github.com/ovrclk/console-support"
@@ -248,6 +350,7 @@ url = "https://github.com/ovrclk/Gravity-Docs"
 
 [[repo]]
 url = "https://github.com/ovrclk/helm"
+missing = true
 
 [[repo]]
 url = "https://github.com/ovrclk/helm-charts"
@@ -275,12 +378,14 @@ url = "https://github.com/ovrclk/k8s-inventory-operator"
 
 [[repo]]
 url = "https://github.com/ovrclk/k8s_inventory_operator"
+missing = true
 
 [[repo]]
 url = "https://github.com/ovrclk/kittycat-akash"
 
 [[repo]]
 url = "https://github.com/ovrclk/kubespray"
+missing = true
 
 [[repo]]
 url = "https://github.com/ovrclk/leaderboard-api"
@@ -296,6 +401,9 @@ url = "https://github.com/ovrclk/lunie-light"
 
 [[repo]]
 url = "https://github.com/ovrclk/network-status"
+
+[[repo]]
+url = "https://github.com/ovrclk/new-akash-docs-luna-archive"
 
 [[repo]]
 url = "https://github.com/ovrclk/osmosis-labs-networks"

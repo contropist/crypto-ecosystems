@@ -7,10 +7,19 @@ github_organizations = ["https://github.com/PolymeshAssociation"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/PolymeshAssociation/approval-signing-manager"
+
+[[repo]]
 url = "https://github.com/PolymeshAssociation/awesome-blockchain-rust"
 
 [[repo]]
+url = "https://github.com/PolymeshAssociation/azure-signing-manager"
+
+[[repo]]
 url = "https://github.com/PolymeshAssociation/bridge-watcher"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/browser-extension-signing-manager"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/browser-wallet-sdk-integration-example"
@@ -19,10 +28,16 @@ url = "https://github.com/PolymeshAssociation/browser-wallet-sdk-integration-exa
 url = "https://github.com/PolymeshAssociation/bulletproofs"
 
 [[repo]]
+url = "https://github.com/PolymeshAssociation/cdd-onboarding"
+
+[[repo]]
 url = "https://github.com/PolymeshAssociation/CDD-Scripts"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/changelog-compiler"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/confidential_assets"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/crypto-framework"
@@ -40,6 +55,9 @@ url = "https://github.com/PolymeshAssociation/dynamic-schema"
 url = "https://github.com/PolymeshAssociation/ethereum-polymesh-bridge"
 
 [[repo]]
+url = "https://github.com/PolymeshAssociation/fireblocks-signing-manager"
+
+[[repo]]
 url = "https://github.com/PolymeshAssociation/Grants-Milestone-Delivery"
 
 [[repo]]
@@ -47,6 +65,15 @@ url = "https://github.com/PolymeshAssociation/Grants-Program"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/hashes"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/hashicorp-vault-signing-manager"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/local-signing-manager"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/middleware-tests"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/ModSecurity-nginx"
@@ -61,6 +88,9 @@ url = "https://github.com/PolymeshAssociation/PIPs"
 url = "https://github.com/PolymeshAssociation/polkadot-js-api"
 
 [[repo]]
+url = "https://github.com/PolymeshAssociation/polkadot-sdk"
+
+[[repo]]
 url = "https://github.com/PolymeshAssociation/poly-circulating"
 
 [[repo]]
@@ -73,6 +103,9 @@ url = "https://github.com/PolymeshAssociation/polymesh-api"
 url = "https://github.com/PolymeshAssociation/polymesh-apps"
 
 [[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-dev-env"
+
+[[repo]]
 url = "https://github.com/PolymeshAssociation/polymesh-documentation-site"
 
 [[repo]]
@@ -80,6 +113,27 @@ url = "https://github.com/PolymeshAssociation/polymesh-extension"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/polymesh-local"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-operators"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-portal"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/Polymesh-private"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-private-dev-env"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-private-proof-api"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-private-rest-api"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-private-sdk"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/polymesh-rest-api"
@@ -94,7 +148,13 @@ url = "https://github.com/PolymeshAssociation/polymesh-sdk-examples"
 url = "https://github.com/PolymeshAssociation/polymesh-staking-dashboard"
 
 [[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-subql"
+
+[[repo]]
 url = "https://github.com/PolymeshAssociation/polymesh-subquery"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/polymesh-subquery-dictionary"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/polymesh-tools"
@@ -118,10 +178,16 @@ url = "https://github.com/PolymeshAssociation/PolymeshAssociation.github.io"
 url = "https://github.com/PolymeshAssociation/schnorrkel"
 
 [[repo]]
+url = "https://github.com/PolymeshAssociation/signing-manager-types"
+
+[[repo]]
 url = "https://github.com/PolymeshAssociation/signing-managers"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/sub-script"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/subql-dictionary"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/substrate"
@@ -131,6 +197,12 @@ url = "https://github.com/PolymeshAssociation/substrate-api-sidecar"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/substrate-telemetry"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/substrate-validator-set"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/subwasm"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/technical-content"
@@ -143,3 +215,9 @@ url = "https://github.com/PolymeshAssociation/typedoc-theme"
 
 [[repo]]
 url = "https://github.com/PolymeshAssociation/typescript-boilerplate"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/wallet-core"
+
+[[repo]]
+url = "https://github.com/PolymeshAssociation/walletconnect-signing-manager"

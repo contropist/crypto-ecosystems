@@ -25,16 +25,30 @@ url = "https://github.com/Byte-Masons/bastion-lp"
 url = "https://github.com/Byte-Masons/beet-strat"
 
 [[repo]]
+url = "https://github.com/Byte-Masons/chirp-moon-contracts"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/cod3x-event-tracker"
+
+[[repo]]
 url = "https://github.com/Byte-Masons/compound-leverage"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/Corval1.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/Byte-Masons/creditum-farm"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/curve-compounder"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/deepbookv3"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/defi-template-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/Byte-Masons/defi-ui-template"
@@ -46,13 +60,24 @@ url = "https://github.com/Byte-Masons/DefiLlama-Adapters"
 url = "https://github.com/Byte-Masons/DefiLlama-Adapters-Ethos"
 
 [[repo]]
+url = "https://github.com/Byte-Masons/defillama-icons"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/defillama-server"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/Ethos-V2-contracts"
+
+[[repo]]
 url = "https://github.com/Byte-Masons/excalibur-farmer"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/fLotto-Core"
+missing = true
 
 [[repo]]
 url = "https://github.com/Byte-Masons/fLotto-FE"
+missing = true
 
 [[repo]]
 url = "https://github.com/Byte-Masons/geist-multi-strategy"
@@ -61,10 +86,18 @@ url = "https://github.com/Byte-Masons/geist-multi-strategy"
 url = "https://github.com/Byte-Masons/geist-multi-strategy-wrapper"
 
 [[repo]]
+url = "https://github.com/Byte-Masons/glyph-resources"
+
+[[repo]]
 url = "https://github.com/Byte-Masons/granary-multi-strategy"
+missing = true
+
+[[repo]]
+url = "https://github.com/Byte-Masons/granary-multi-strategy-old"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/Keystone-Smart-Token-Library"
+missing = true
 
 [[repo]]
 url = "https://github.com/Byte-Masons/lending-optimizer"
@@ -76,7 +109,19 @@ url = "https://github.com/Byte-Masons/liquid-beet-farmer"
 url = "https://github.com/Byte-Masons/liquid-farmer"
 
 [[repo]]
+url = "https://github.com/Byte-Masons/moe-tokenlists"
+
+[[repo]]
 url = "https://github.com/Byte-Masons/NFT-Bound-LGE"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/options-compounder"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/options-token"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/peggedassets-server"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/polaris-farmer"
@@ -95,6 +140,7 @@ url = "https://github.com/Byte-Masons/reaper-multi-strategy-subgraph-optimism"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/reaper-multi-strategy-vault"
+missing = true
 
 [[repo]]
 url = "https://github.com/Byte-Masons/Reliquary"
@@ -109,13 +155,23 @@ url = "https://github.com/Byte-Masons/scarab-strategy"
 url = "https://github.com/Byte-Masons/scream-leverage-multi-strategy"
 
 [[repo]]
+url = "https://github.com/Byte-Masons/solidity-template"
+missing = true
+
+[[repo]]
 url = "https://github.com/Byte-Masons/sonne-loop"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/spooky-farmer"
 
 [[repo]]
+url = "https://github.com/Byte-Masons/stability-pool-compounder"
+
+[[repo]]
 url = "https://github.com/Byte-Masons/stargate"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/strategy-starter-kit"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/tarot-multi-strategy"
@@ -140,6 +196,9 @@ url = "https://github.com/Byte-Masons/wigo-farmer"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/xshare"
+
+[[repo]]
+url = "https://github.com/Byte-Masons/yearn-farmer"
 
 [[repo]]
 url = "https://github.com/Byte-Masons/yield-server"

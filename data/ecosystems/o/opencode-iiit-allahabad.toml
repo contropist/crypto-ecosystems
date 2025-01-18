@@ -22,19 +22,40 @@ url = "https://github.com/opencodeiiita/Ask-Us-Backend"
 url = "https://github.com/opencodeiiita/Ask-Us-Frontend"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/AssetMart"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/Auction-DApp"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/CalcDiverse"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/CampusOLX"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/CareCompanion"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/CLI-For-You"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/Code-Digger"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/Code-Digger-2023"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/Code-like-a-Girl"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/Code-Trouble"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/CodeBuddy"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/CodeDigger"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/CodeFemme"
@@ -55,13 +76,31 @@ url = "https://github.com/opencodeiiita/Collaborative-Web"
 url = "https://github.com/opencodeiiita/Collaborative-Web-2022"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/Collaborative-Web-2023"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/Competitive_Coding"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/Contest-Countdown"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/CryptoWallet"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/CubeSurfer"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/Cyber-War"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/CyberRepo-2077"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/DeepSeaROV"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/DEresume"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/Doc-Master"
@@ -70,22 +109,46 @@ url = "https://github.com/opencodeiiita/Doc-Master"
 url = "https://github.com/opencodeiiita/DonateASmile"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/Donation-App"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/e-commerce-CMS"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/EasyExit"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/EmotionAnalysis"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/FandomFusion-Backend"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/FandomFusion-Frontend"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/Find-My-Roomie"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/Finetuning_Llama"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/Fitezo"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/FitLife"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/Forum-Backend"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/Forum-Frontend-Web"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/FreshHat-Learning-Repository"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/GamingSphere"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/Geek-Chat"
@@ -97,7 +160,25 @@ url = "https://github.com/opencodeiiita/Geek-Editor-Backend"
 url = "https://github.com/opencodeiiita/Geek-Editor-Frontend"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/GeekHaven-Community-App"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/GoGit-2.0"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/GoGit-3.0"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/GoGit-4.0"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/GraphicGig"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/GrepIt-Backend"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/GrepIt-Frontend"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/HackerSkills"
@@ -110,6 +191,15 @@ url = "https://github.com/opencodeiiita/HandsForHunger"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/HINT-x-GeekHaven"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/Hitch-Backend"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/Hitch-Frontend"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/Huddle"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/information-chest"
@@ -133,6 +223,9 @@ url = "https://github.com/opencodeiiita/Lets-Design-2.0"
 url = "https://github.com/opencodeiiita/Lets-Design-3.0"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/Lets-Design-4.0"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/LetsDesign"
 
 [[repo]]
@@ -142,7 +235,13 @@ url = "https://github.com/opencodeiiita/LiblessML"
 url = "https://github.com/opencodeiiita/libook"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/Limen"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/Machine-Learning"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/Medical-Image-Classification"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/Monty_Python_Class"
@@ -155,6 +254,9 @@ url = "https://github.com/opencodeiiita/NerdSpace"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/NEWS-Bucket"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/News_Scraping"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/Numismatics"
@@ -196,6 +298,9 @@ url = "https://github.com/opencodeiiita/outpassfinal"
 url = "https://github.com/opencodeiiita/PanoViewer"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/Pestering-Data"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/PhotoStore"
 
 [[repo]]
@@ -220,22 +325,83 @@ url = "https://github.com/opencodeiiita/SaveMyForm-Backend"
 url = "https://github.com/opencodeiiita/SaveMyForm-Frontend"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/Scoop-Backend"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/Scoop-Frontend"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/Shopping-Cart"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/SkillSync-Backend"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/SkillSync-Frontend"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/SolMintNFT"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/SponsoHive-Backend"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/SponsoHive-Frontend"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/SuperQuizzer"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/SwarmShot"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/TechTerra"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/Techtonic"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/test"
+missing = true
+
+[[repo]]
+url = "https://github.com/opencodeiiita/Text-It"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/ToDo-List-App"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/UrbanVentures"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/Vision-1.0"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/Vision-2.0"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/Warriors"
 
 [[repo]]
+url = "https://github.com/opencodeiiita/WasteBucks"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/WordOut-Backend"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/WordOut-Frontend"
+
+[[repo]]
 url = "https://github.com/opencodeiiita/WorkWise"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/YADD"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/YAKL"
+
+[[repo]]
+url = "https://github.com/opencodeiiita/You-Are-Worth-It"
 
 [[repo]]
 url = "https://github.com/opencodeiiita/ZoombieMania-"

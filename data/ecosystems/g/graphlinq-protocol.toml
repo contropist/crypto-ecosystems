@@ -16,13 +16,31 @@ url = "https://github.com/GraphLinq/Best-README-Template"
 url = "https://github.com/GraphLinq/chains"
 
 [[repo]]
+url = "https://github.com/GraphLinq/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/GraphLinq/defillama-sdk"
+
+[[repo]]
 url = "https://github.com/GraphLinq/ethstats-cli"
+
+[[repo]]
+url = "https://github.com/GraphLinq/glq-bridge-facade"
+
+[[repo]]
+url = "https://github.com/GraphLinq/glq-rune-creator"
+
+[[repo]]
+url = "https://github.com/GraphLinq/glqswap-scripts"
 
 [[repo]]
 url = "https://github.com/GraphLinq/Graph-Templates"
 
 [[repo]]
 url = "https://github.com/GraphLinq/GraphLinq-Chain"
+
+[[repo]]
+url = "https://github.com/GraphLinq/GraphLinq-Internal-Docker-Chain-Manager"
 
 [[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.AIChat"
@@ -41,6 +59,7 @@ url = "https://github.com/GraphLinq/GraphLinq.BetaTest"
 
 [[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.BlockchainTestnet"
+missing = true
 
 [[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.CacheApi"
@@ -67,7 +86,13 @@ url = "https://github.com/GraphLinq/GraphLinq.EngineDepositorContract"
 url = "https://github.com/GraphLinq/GraphLinq.Ethereum"
 
 [[repo]]
+url = "https://github.com/GraphLinq/Graphlinq.EVMBridgeERC20Minter"
+
+[[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.Exchange"
+
+[[repo]]
+url = "https://github.com/GraphLinq/GraphLinq.Explorer"
 
 [[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.Explorer-Chain-Data"
@@ -88,7 +113,13 @@ url = "https://github.com/GraphLinq/GraphLinq.GraphLinqERC20Contract"
 url = "https://github.com/GraphLinq/GraphLinq.GraphLinqPrivateSaleContract"
 
 [[repo]]
+url = "https://github.com/GraphLinq/GraphLinq.HubInterface"
+
+[[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.IDE"
+
+[[repo]]
+url = "https://github.com/GraphLinq/GraphLinq.LaunchPadContract"
 
 [[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.Locales"
@@ -130,4 +161,13 @@ url = "https://github.com/GraphLinq/GraphLinq.ServerRelayOpenAI"
 url = "https://github.com/GraphLinq/GraphLinq.StakingContract"
 
 [[repo]]
+url = "https://github.com/GraphLinq/GraphLinq.TelegramBot"
+
+[[repo]]
 url = "https://github.com/GraphLinq/GraphLinq.VSCodeTheme"
+
+[[repo]]
+url = "https://github.com/GraphLinq/hub-api"
+
+[[repo]]
+url = "https://github.com/GraphLinq/yield-server"

@@ -10,7 +10,12 @@ github_organizations = ["https://github.com/mintdrop-xyz"]
 url = "https://github.com/mintdrop-xyz/.github"
 
 [[repo]]
+url = "https://github.com/mintdrop-xyz/allowlist"
+
+[[repo]]
 url = "https://github.com/mintdrop-xyz/mintdrop"
+missing = true
 
 [[repo]]
 url = "https://github.com/mintdrop-xyz/sdk"
+missing = true

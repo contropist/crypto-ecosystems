@@ -16,6 +16,9 @@ url = "https://github.com/jrastit/animaldominance"
 url = "https://github.com/jrastit/nfteverywhere"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/actions-image-updater"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/aggregator-sor"
 
 [[repo]]
@@ -26,18 +29,36 @@ url = "https://github.com/KyberNetwork/airdrop"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/Andromeda-AMM-faucet"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/api-docs"
+missing = true
+
+[[repo]]
+url = "https://github.com/KyberNetwork/asynq"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/ava-coreth"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/avax-trading-contest-reward-distribution"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/balancer-subgraph-v2"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/binance-client"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/binance-sbe"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/binance_fix_api"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/blockchain-toolkit"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/blocks-subgraph"
@@ -55,7 +76,12 @@ url = "https://github.com/KyberNetwork/bsc"
 url = "https://github.com/KyberNetwork/cclog"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/comparison-blocknative-evmlistener"
+missing = true
+
+[[repo]]
 url = "https://github.com/KyberNetwork/configure"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/dao_sc"
@@ -83,6 +109,7 @@ url = "https://github.com/KyberNetwork/dmm-sdk"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/dmm-solana-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/dmm-subgraph"
@@ -94,10 +121,16 @@ url = "https://github.com/KyberNetwork/docker-slate"
 url = "https://github.com/KyberNetwork/dutchx-market-maker"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/elastic-go-sdk"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/elastic-subgraph"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/eos_smart_contracts"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/ERC20-contract-classification"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/etheremon-wrapper"
@@ -115,7 +148,19 @@ url = "https://github.com/KyberNetwork/exchange-simulator"
 url = "https://github.com/KyberNetwork/external-adapters-js"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/forge-zksync-std"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/fosite"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/foundry-toolchain"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/foundry-zksync"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/foundry-zksync-toolchain"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/fpr-sdk.js"
@@ -124,7 +169,11 @@ url = "https://github.com/KyberNetwork/fpr-sdk.js"
 url = "https://github.com/KyberNetwork/ftx-api"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/geth"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/github-spawner"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/go-binance"
@@ -140,6 +189,7 @@ url = "https://github.com/KyberNetwork/go-promise"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/governance-v2-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/graph-node"
@@ -149,6 +199,7 @@ url = "https://github.com/KyberNetwork/graph-ts"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/grpc-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/hackathon-bounties"
@@ -160,7 +211,16 @@ url = "https://github.com/KyberNetwork/httpsign-utils"
 url = "https://github.com/KyberNetwork/hydra"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/iam-go-sdk"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/ieo-smart-contracts"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/int256"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/iZiSwap-SDK-go"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/jsonrpc2"
@@ -173,6 +233,10 @@ url = "https://github.com/KyberNetwork/KIPs"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/kitchen"
+missing = true
+
+[[repo]]
+url = "https://github.com/KyberNetwork/ks-aggregator-api-demo"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/ks-assets"
@@ -184,10 +248,24 @@ url = "https://github.com/KyberNetwork/ks-classic-sc"
 url = "https://github.com/KyberNetwork/ks-elastic-sc"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/ks-elastic-sc-legacy"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/ks-growth-utils-sc"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/ks-helper-sc"
+missing = true
+
+[[repo]]
+url = "https://github.com/KyberNetwork/ks-limit-order-API-demo"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/ks-liquidity-mining-sc"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/ks-pool-farm-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/ks-sdk-classic"
@@ -199,10 +277,19 @@ url = "https://github.com/KyberNetwork/ks-sdk-core"
 url = "https://github.com/KyberNetwork/ks-sdk-elastic"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/ks-sdk-elastic-demo"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/ks-utils-sc"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/kutils"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/kyber-pro"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/kyber-trace-go"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/kyber-tracker"
@@ -218,12 +305,16 @@ url = "https://github.com/KyberNetwork/kyber_utils_sc"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/KyberNetwork.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/KyberSwap"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/kyberswap-aggregator-sdk"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/kyberswap-dex-lib"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/kyberswap-documentation"
@@ -253,7 +344,16 @@ url = "https://github.com/KyberNetwork/KyberWidget"
 url = "https://github.com/KyberNetwork/logger"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/msgp"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/msgpack"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/openbook-spl"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/pancake-v3-sdk"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/paraswap-dex-lib"
@@ -271,7 +371,13 @@ url = "https://github.com/KyberNetwork/plonky2-private-tx"
 url = "https://github.com/KyberNetwork/polygon-node-ansible"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/pricesource"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/prometheus_bot_bin"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/promise4g"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/promm-analytics"
@@ -293,12 +399,14 @@ url = "https://github.com/KyberNetwork/reload"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/reserve-data"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/reserve-stats"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/reward-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/ropsten-faucet"
@@ -308,9 +416,17 @@ url = "https://github.com/KyberNetwork/sanity-price-monitor"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/sc_integration"
+missing = true
+
+[[repo]]
+url = "https://github.com/KyberNetwork/service-framework"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/service-proto"
+missing = true
+
+[[repo]]
+url = "https://github.com/KyberNetwork/service-proto-public"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/slackbot"
@@ -319,13 +435,20 @@ url = "https://github.com/KyberNetwork/slackbot"
 url = "https://github.com/KyberNetwork/smart-contracts"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/socks5"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/solana-go"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/spellbook"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/spot-perp-go-binance"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/subgraphs"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/subsquids"
@@ -341,6 +464,9 @@ url = "https://github.com/KyberNetwork/TokenDistributionContracts"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/tokenrate"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/toolkit-go"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/tradelogs"
@@ -367,13 +493,20 @@ url = "https://github.com/KyberNetwork/uniswap-sdk-core"
 url = "https://github.com/KyberNetwork/uniswapv3-sdk"
 
 [[repo]]
+url = "https://github.com/KyberNetwork/uniswapv3-sdk-uint256"
+
+[[repo]]
 url = "https://github.com/KyberNetwork/vanpt-test-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/wallet-cache"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/web-scraping-py"
+
+[[repo]]
+url = "https://github.com/KyberNetwork/web3-react"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/webtail"
@@ -392,12 +525,14 @@ url = "https://github.com/KyberNetwork/widget-woocommerce"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/workflows-templates"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/workshop"
 
 [[repo]]
 url = "https://github.com/KyberNetwork/xyzswap-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/KyberNetwork/zkevm-poc-l2-contract"

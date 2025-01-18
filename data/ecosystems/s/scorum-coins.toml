@@ -10,13 +10,26 @@ github_organizations = ["https://github.com/scorum"]
 url = "https://github.com/scorum/autoscorum"
 
 [[repo]]
+url = "https://github.com/scorum/big-dipper-2.0-cosmos"
+missing = true
+
+[[repo]]
 url = "https://github.com/scorum/bitshares-go"
 
 [[repo]]
 url = "https://github.com/scorum/build_image"
 
 [[repo]]
+url = "https://github.com/scorum/callisto"
+
+[[repo]]
+url = "https://github.com/scorum/chain-registry"
+
+[[repo]]
 url = "https://github.com/scorum/clappr-flvjs-playback"
+
+[[repo]]
+url = "https://github.com/scorum/cosmos-network"
 
 [[repo]]
 url = "https://github.com/scorum/doc"
@@ -25,7 +38,13 @@ url = "https://github.com/scorum/doc"
 url = "https://github.com/scorum/event-provider-go"
 
 [[repo]]
+url = "https://github.com/scorum/ezstaking-app-registry"
+
+[[repo]]
 url = "https://github.com/scorum/fc"
+
+[[repo]]
+url = "https://github.com/scorum/go-lint"
 
 [[repo]]
 url = "https://github.com/scorum/hippomocks"
@@ -34,13 +53,34 @@ url = "https://github.com/scorum/hippomocks"
 url = "https://github.com/scorum/javascript"
 
 [[repo]]
+url = "https://github.com/scorum/keplr-chain-registry"
+
+[[repo]]
+url = "https://github.com/scorum/keplr-contract-registry"
+
+[[repo]]
 url = "https://github.com/scorum/medium-editor"
 
 [[repo]]
 url = "https://github.com/scorum/mongo-exporter"
 
 [[repo]]
+url = "https://github.com/scorum/network-client-go"
+
+[[repo]]
 url = "https://github.com/scorum/node-bootstrap"
+
+[[repo]]
+url = "https://github.com/scorum/osmosis-assetlists"
+
+[[repo]]
+url = "https://github.com/scorum/osmosis-docs"
+
+[[repo]]
+url = "https://github.com/scorum/osmosis-frontend"
+
+[[repo]]
+url = "https://github.com/scorum/ping.pub"
 
 [[repo]]
 url = "https://github.com/scorum/react-native-appodeal"
@@ -68,3 +108,6 @@ url = "https://github.com/scorum/scorum-side-js"
 
 [[repo]]
 url = "https://github.com/scorum/scorumapi-py"
+
+[[repo]]
+url = "https://github.com/scorum/test-task"

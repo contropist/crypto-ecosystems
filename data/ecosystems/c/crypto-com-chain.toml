@@ -1,13 +1,25 @@
 # Ecosystem Level Information
 title = "Crypto.com Chain"
 
-sub_ecosystems = ["VVS Finance"]
+sub_ecosystems = ["crystyl.finance", "VVS Finance"]
 
 github_organizations = ["https://github.com/crypto-com"]
 
 # Repositories
 [[repo]]
 url = "https://github.com/crypto-com/aws-ne-sys"
+
+[[repo]]
+url = "https://github.com/crypto-com/bulletproofs"
+
+[[repo]]
+url = "https://github.com/crypto-com/cdc-ai-agent-client-py"
+
+[[repo]]
+url = "https://github.com/crypto-com/cdc-ai-agent-client-ts"
+
+[[repo]]
+url = "https://github.com/crypto-com/cdc-ai-agent-signer-app"
 
 [[repo]]
 url = "https://github.com/crypto-com/chain-desktop-wallet"
@@ -61,6 +73,15 @@ url = "https://github.com/crypto-com/defi-wallet-core-rs"
 url = "https://github.com/crypto-com/deficonnect-monorepo"
 
 [[repo]]
+url = "https://github.com/crypto-com/developer-platform-client-py"
+
+[[repo]]
+url = "https://github.com/crypto-com/developer-platform-client-ts"
+
+[[repo]]
+url = "https://github.com/crypto-com/developer-platform-sdk-examples"
+
+[[repo]]
 url = "https://github.com/crypto-com/ed25519-dalek"
 
 [[repo]]
@@ -95,6 +116,7 @@ url = "https://github.com/crypto-com/ledger-rs"
 
 [[repo]]
 url = "https://github.com/crypto-com/ledger-wallet-webtool"
+missing = true
 
 [[repo]]
 url = "https://github.com/crypto-com/libsecp256k1-rs"
@@ -185,9 +207,13 @@ url = "https://github.com/crypto-com/tmkms-light"
 
 [[repo]]
 url = "https://github.com/crypto-com/token-profile"
+missing = true
 
 [[repo]]
 url = "https://github.com/crypto-com/WalletConnectRust"
+
+[[repo]]
+url = "https://github.com/crypto-com/wrapped-tokens-os"
 
 [[repo]]
 url = "https://github.com/crypto-org-chain/awesome"

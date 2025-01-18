@@ -37,6 +37,9 @@ url = "https://github.com/manifoldfinance/address-token-list"
 url = "https://github.com/manifoldfinance/alchemy-web3"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/amms-rs"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/ansible-mev-geth"
 
 [[repo]]
@@ -44,6 +47,9 @@ url = "https://github.com/manifoldfinance/archer-core"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/archerdao-api"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/ARCHIVED-meveth.docs"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/assets"
@@ -55,6 +61,12 @@ url = "https://github.com/manifoldfinance/atlas-engine"
 url = "https://github.com/manifoldfinance/atlascx"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/attnetlet"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/auction-platform-docs"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/awesome-ethereum-finance"
 
 [[repo]]
@@ -62,6 +74,15 @@ url = "https://github.com/manifoldfinance/backbone-api"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/backtest"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/balancer-frontend-v2"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/balancer-tokenlists"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/bare-necessities"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/base-containers"
@@ -73,10 +94,16 @@ url = "https://github.com/manifoldfinance/base-images-docker"
 url = "https://github.com/manifoldfinance/batch-submitter"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/bazsol"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/bcall-factory"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/beacon-APIs"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/beta-bundles-py"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/bitnami-docker-postgresql"
@@ -122,6 +149,9 @@ url = "https://github.com/manifoldfinance/calc"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/chainlink-adapter"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/chainops-storage"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/checksum-font"
@@ -182,6 +212,7 @@ url = "https://github.com/manifoldfinance/counter-org"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/crawler-lists"
+missing = true
 
 [[repo]]
 url = "https://github.com/manifoldfinance/cunieform"
@@ -191,6 +222,9 @@ url = "https://github.com/manifoldfinance/curve-integration"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/curve-subgraph"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/dapptools"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/data-analysis-dev"
@@ -253,6 +287,9 @@ url = "https://github.com/manifoldfinance/disco"
 url = "https://github.com/manifoldfinance/disco-detect-provider"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/disco-schema"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/disco-sdk"
 
 [[repo]]
@@ -280,6 +317,9 @@ url = "https://github.com/manifoldfinance/disco3-react"
 url = "https://github.com/manifoldfinance/disco3-utils"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/discourse-theme"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/discv4-dns-lists"
 
 [[repo]]
@@ -304,10 +344,20 @@ url = "https://github.com/manifoldfinance/docs"
 url = "https://github.com/manifoldfinance/docs-sushirelay"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/docs-xga"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/docs.meveth"
+missing = true
+
+[[repo]]
 url = "https://github.com/manifoldfinance/docsy"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/documentation"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/draft-proposals"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/ds-nix"
@@ -323,6 +373,15 @@ url = "https://github.com/manifoldfinance/dss-cron"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/echidna"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/eigenlayer-middleware"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/eigenlayer-operator"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/eip-proposal-rpc"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/eip1559"
@@ -367,6 +426,9 @@ url = "https://github.com/manifoldfinance/eslint-config"
 url = "https://github.com/manifoldfinance/eslint-config-secure"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/eth-metrics"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/eth-rpc-errors"
 
 [[repo]]
@@ -385,6 +447,9 @@ url = "https://github.com/manifoldfinance/ethereum-gas-oracle"
 url = "https://github.com/manifoldfinance/ethereum-nightly"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/ethereum-pos-dev-kit"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/ethereum-privacy"
 
 [[repo]]
@@ -392,6 +457,9 @@ url = "https://github.com/manifoldfinance/ethereum-signer"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/ethereum-testnet-bootstrapper"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/ethereum-tests-xz"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/ethers-flashbots"
@@ -433,6 +501,9 @@ url = "https://github.com/manifoldfinance/flashbot"
 url = "https://github.com/manifoldfinance/flashbots-rpc-endpoint"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/FlashMEV"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/flowcrypt-cloud"
 
 [[repo]]
@@ -442,7 +513,13 @@ url = "https://github.com/manifoldfinance/fmt"
 url = "https://github.com/manifoldfinance/foam-template"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/fold-bpt-stake"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/fold-pools"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/fold-staking"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/fold-subgraph"
@@ -463,10 +540,16 @@ url = "https://github.com/manifoldfinance/foundry"
 url = "https://github.com/manifoldfinance/foundry.nix"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/fzf-eip"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/ganache"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/gas-service"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/geth"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/geth-sealer"
@@ -478,10 +561,19 @@ url = "https://github.com/manifoldfinance/ghch"
 url = "https://github.com/manifoldfinance/git-pkgs"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/github-linguist"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/github-pr-report"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/github-transfer-issues"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/gnosis-safe"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/go-bls"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/go-eth2-client"
@@ -523,6 +615,9 @@ url = "https://github.com/manifoldfinance/hardhat-framework"
 url = "https://github.com/manifoldfinance/helm"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/hevm"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/hibachistore"
 
 [[repo]]
@@ -539,6 +634,9 @@ url = "https://github.com/manifoldfinance/hoverboard"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/hub"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/i-d-template"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/ida-evm"
@@ -604,6 +702,9 @@ url = "https://github.com/manifoldfinance/krak"
 url = "https://github.com/manifoldfinance/kubernetes-instance-calculator-data"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/l2-auction-sdk"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/ledger-asset-dapps"
 
 [[repo]]
@@ -626,6 +727,12 @@ url = "https://github.com/manifoldfinance/libmev"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/libopenmev"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/libsolady"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/libsolmate"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/libsushi"
@@ -659,6 +766,9 @@ url = "https://github.com/manifoldfinance/maker-evo"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/maker-sushi"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/manifold-oft"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/manifold-sdk"
@@ -700,6 +810,9 @@ url = "https://github.com/manifoldfinance/mev-aws-deploy"
 url = "https://github.com/manifoldfinance/mev-boost"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/mev-boost-privileged"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/mev-boost-relay"
 
 [[repo]]
@@ -727,6 +840,9 @@ url = "https://github.com/manifoldfinance/mev-inspect-rs"
 url = "https://github.com/manifoldfinance/mev-openrpc"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/mev-proxy"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/mev-prysm"
 
 [[repo]]
@@ -737,6 +853,24 @@ url = "https://github.com/manifoldfinance/Mev-Searcher"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/mev-uncle-bandit-geth"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/meveth-data"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/meveth-preview-devkit"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/meveth-sdks"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/meveth-spec"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/meveth.docs"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/mevETH2"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/mevexec"
@@ -766,6 +900,9 @@ url = "https://github.com/manifoldfinance/moko-web3"
 url = "https://github.com/manifoldfinance/multicall-framework"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/natspec-docs"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/nethermind"
 
 [[repo]]
@@ -784,6 +921,9 @@ url = "https://github.com/manifoldfinance/ngx_http_websocket_stat_module"
 url = "https://github.com/manifoldfinance/nix-template"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/nix-unit"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/noc-webapp"
 
 [[repo]]
@@ -794,6 +934,15 @@ url = "https://github.com/manifoldfinance/obfs4"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/omnibus"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/op-erigon"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/op-geth"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/open-bidder-contracts"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/open-gas-price"
@@ -826,13 +975,25 @@ url = "https://github.com/manifoldfinance/openmev-sdk"
 url = "https://github.com/manifoldfinance/openmev-sdk-python"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/optimism"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/optimism-monorepo"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/overview-docs"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/pigeon"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/pki"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/plugeth"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/pm"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/pm-hook"
@@ -845,6 +1006,9 @@ url = "https://github.com/manifoldfinance/pool_web_api_doc"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/primitives"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/profanity2x"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/projects"
@@ -868,7 +1032,13 @@ url = "https://github.com/manifoldfinance/public-pm"
 url = "https://github.com/manifoldfinance/py-flexpoolapi"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/py-solidity-parser"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/pygradle"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/python-solidity-parser"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/python3-dockerfile"
@@ -910,6 +1080,9 @@ url = "https://github.com/manifoldfinance/retroactive-query"
 url = "https://github.com/manifoldfinance/revenue-distribution-token"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/revm"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/rkdb"
 
 [[repo]]
@@ -919,7 +1092,16 @@ url = "https://github.com/manifoldfinance/rocketpool"
 url = "https://github.com/manifoldfinance/router-devkit"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/rpc-eip-drafts"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/rpctestgen"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/rtfm"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/rulebook"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/rust-web3"
@@ -940,7 +1122,13 @@ url = "https://github.com/manifoldfinance/schemas"
 url = "https://github.com/manifoldfinance/scim-query-filter-parser-js"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/scod"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/sec-incident-oct-2022-reimbursement"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/securerpc-frontend"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/securerpc-go-demo"
@@ -952,6 +1140,9 @@ url = "https://github.com/manifoldfinance/security"
 url = "https://github.com/manifoldfinance/sieve"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/sign-eth-tx-py"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/simulate-swap"
 
 [[repo]]
@@ -959,6 +1150,9 @@ url = "https://github.com/manifoldfinance/skeleton-web3-interface"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/slashing-protection-interchange-tests"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/slib"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/slither"
@@ -973,13 +1167,22 @@ url = "https://github.com/manifoldfinance/smallrye-metrics-async-timed"
 url = "https://github.com/manifoldfinance/smart-order-router"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/Smartian-nethermind"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/solady"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/solana-accountsdb-plugin-kafka"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/solc-osx-aarch64"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/solidity-examples"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/solidity-lllc"
@@ -1000,10 +1203,16 @@ url = "https://github.com/manifoldfinance/solmate"
 url = "https://github.com/manifoldfinance/solo"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/SplitSwapRouter"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/ssapi"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/staking"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/static"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/status.manifold.finance"
@@ -1028,6 +1237,7 @@ url = "https://github.com/manifoldfinance/subgraph-app"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/support"
+missing = true
 
 [[repo]]
 url = "https://github.com/manifoldfinance/sushi-data"
@@ -1105,7 +1315,13 @@ url = "https://github.com/manifoldfinance/terraform-talos"
 url = "https://github.com/manifoldfinance/thegraph-subgraphs-monitor"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/TheInterceptor"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/theo"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/threat-composer"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/tla-spec"
@@ -1171,10 +1387,20 @@ url = "https://github.com/manifoldfinance/v3-periphery"
 url = "https://github.com/manifoldfinance/vcs"
 
 [[repo]]
+url = "https://github.com/manifoldfinance/vendor"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/vendor-contracts"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/venom-capacity"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/viem"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/vouch"
+missing = true
 
 [[repo]]
 url = "https://github.com/manifoldfinance/vscode-q"
@@ -1220,6 +1446,22 @@ url = "https://github.com/manifoldfinance/www-test"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/xfold-dapp"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/xga-api-specs"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/xga-docs-v0"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/xga-op-genesis"
+
+[[repo]]
+url = "https://github.com/manifoldfinance/xga-sdk"
+missing = true
+
+[[repo]]
+url = "https://github.com/manifoldfinance/xga-sdk-v0"
 
 [[repo]]
 url = "https://github.com/manifoldfinance/yaml"

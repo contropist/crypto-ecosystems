@@ -19,6 +19,9 @@ url = "https://github.com/blockchain-certificates/bitstring"
 url = "https://github.com/blockchain-certificates/blockcerts-playground.github.io"
 
 [[repo]]
+url = "https://github.com/blockchain-certificates/blockcerts-pymerkletools"
+
+[[repo]]
 url = "https://github.com/blockchain-certificates/blockcerts-verifier"
 
 [[repo]]
@@ -61,7 +64,23 @@ url = "https://github.com/blockchain-certificates/cert-viewer"
 url = "https://github.com/blockchain-certificates/cert-web-component"
 
 [[repo]]
+url = "https://github.com/blockchain-certificates/cvjs-docker"
+
+[[repo]]
+url = "https://github.com/blockchain-certificates/did-core"
+
+[[repo]]
 url = "https://github.com/blockchain-certificates/did-generator"
+
+[[repo]]
+url = "https://github.com/blockchain-certificates/ecdsa-multikey"
+
+[[repo]]
+url = "https://github.com/blockchain-certificates/ecdsa-sd-2023-cryptosuite"
+
+[[repo]]
+url = "https://github.com/blockchain-certificates/european-digital-credentials"
+missing = true
 
 [[repo]]
 url = "https://github.com/blockchain-certificates/explorer-lookup"
@@ -109,6 +128,9 @@ url = "https://github.com/blockchain-certificates/openbadges-validator-core"
 url = "https://github.com/blockchain-certificates/poc-blockcerts-chapi"
 
 [[repo]]
+url = "https://github.com/blockchain-certificates/poc-ecdsa-sd-2023-blockcerts"
+
+[[repo]]
 url = "https://github.com/blockchain-certificates/poc-hashlink-blockcerts"
 
 [[repo]]
@@ -127,10 +149,25 @@ url = "https://github.com/blockchain-certificates/revocation"
 url = "https://github.com/blockchain-certificates/rl-blockcerts-poc"
 
 [[repo]]
+url = "https://github.com/blockchain-certificates/rollup-plugin-node-globals"
+
+[[repo]]
 url = "https://github.com/blockchain-certificates/serialize-error"
 
 [[repo]]
+url = "https://github.com/blockchain-certificates/sha.js"
+
+[[repo]]
+url = "https://github.com/blockchain-certificates/ssi-sdk"
+
+[[repo]]
 url = "https://github.com/blockchain-certificates/stage.blockcerts.org"
+
+[[repo]]
+url = "https://github.com/blockchain-certificates/trustdidweb-ts"
+
+[[repo]]
+url = "https://github.com/blockchain-certificates/vc-api-verifier-test-suite"
 
 [[repo]]
 url = "https://github.com/blockchain-certificates/vc-revocation-list"
@@ -149,3 +186,6 @@ url = "https://github.com/blockchain-certificates/wallet-test-resources"
 
 [[repo]]
 url = "https://github.com/blockchain-certificates/wc-sass-render"
+
+[[repo]]
+url = "https://github.com/blockchain-certificates/webcrypto"

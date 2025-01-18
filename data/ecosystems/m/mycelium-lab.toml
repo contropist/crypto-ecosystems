@@ -25,7 +25,17 @@ url = "https://github.com/Mycelium-Lab/bdns-wallet"
 url = "https://github.com/Mycelium-Lab/BDNS_contracts_temp"
 
 [[repo]]
+url = "https://github.com/Mycelium-Lab/BSC-mediakit"
+
+[[repo]]
+url = "https://github.com/Mycelium-Lab/catos-frontend"
+missing = true
+
+[[repo]]
 url = "https://github.com/Mycelium-Lab/crisp-exchange"
+
+[[repo]]
+url = "https://github.com/Mycelium-Lab/crisp-frontend"
 
 [[repo]]
 url = "https://github.com/Mycelium-Lab/crisp-lending"
@@ -47,12 +57,17 @@ url = "https://github.com/Mycelium-Lab/dWill"
 
 [[repo]]
 url = "https://github.com/Mycelium-Lab/dWill-UZ"
+missing = true
 
 [[repo]]
 url = "https://github.com/Mycelium-Lab/dWill_client"
 
 [[repo]]
 url = "https://github.com/Mycelium-Lab/dWill_notifications"
+
+[[repo]]
+url = "https://github.com/Mycelium-Lab/eesee-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/Mycelium-Lab/ethcall"
@@ -68,6 +83,15 @@ url = "https://github.com/Mycelium-Lab/FAIR-ROSE-distribution"
 
 [[repo]]
 url = "https://github.com/Mycelium-Lab/FairFight"
+
+[[repo]]
+url = "https://github.com/Mycelium-Lab/FairIncentiveProtocol-API"
+
+[[repo]]
+url = "https://github.com/Mycelium-Lab/FairIncentiveProtocol-contracts"
+
+[[repo]]
+url = "https://github.com/Mycelium-Lab/FairIncentiveProtocol-frontend"
 
 [[repo]]
 url = "https://github.com/Mycelium-Lab/FGP_HighLow"

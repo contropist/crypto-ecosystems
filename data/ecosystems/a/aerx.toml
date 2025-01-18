@@ -13,11 +13,8 @@ url = "https://github.com/aerx-dev/aerx-frontend-clean"
 url = "https://github.com/aerx-dev/aerx-mvp-interface"
 
 [[repo]]
-url = "https://github.com/aerx-dev/aerx-space-interface"
-missing = true
-
-[[repo]]
 url = "https://github.com/aerx-dev/aerx-space-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/aerx-dev/issue-token-service"

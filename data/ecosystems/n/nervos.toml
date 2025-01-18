@@ -11,6 +11,15 @@ github_organizations = [
 
 # Repositories
 [[repo]]
+url = "https://github.com/anhfactor/nervos-hackathon"
+
+[[repo]]
+url = "https://github.com/arkady-emelyanov/nervos-network-playground"
+
+[[repo]]
+url = "https://github.com/armujahid/nervos-hackathon"
+
+[[repo]]
 url = "https://github.com/ashchan/ckb-saifu"
 
 [[repo]]
@@ -35,7 +44,12 @@ url = "https://github.com/axonweb3/axon-devops"
 url = "https://github.com/axonweb3/axon-faucet"
 
 [[repo]]
+url = "https://github.com/Backable/backable-contracts"
+missing = true
+
+[[repo]]
 url = "https://github.com/bannplayer/UDTswap"
+missing = true
 
 [[repo]]
 url = "https://github.com/BaojunCZ/ckb-sdk-dart"
@@ -62,6 +76,9 @@ url = "https://github.com/C6H6CI6/WebServer"
 url = "https://github.com/cbonoz/mit2020"
 
 [[repo]]
+url = "https://github.com/cell-labs/cell-script"
+
+[[repo]]
 url = "https://github.com/ckb-js/ckb-sdk-js"
 
 [[repo]]
@@ -74,6 +91,9 @@ url = "https://github.com/ckb-js/lumos"
 url = "https://github.com/cosinlink/ckb-cross"
 
 [[repo]]
+url = "https://github.com/cryptape/ckb-analyzer"
+
+[[repo]]
 url = "https://github.com/cryptowen/bitcoin-spv-lib"
 
 [[repo]]
@@ -83,13 +103,28 @@ url = "https://github.com/Dearkano/VolunteerX-Bitrun"
 url = "https://github.com/digit-map/ckb-magi"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/cell-data-generator"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/das-account-indexer"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-database"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/das_parser_tool"
+
+[[repo]]
 url = "https://github.com/duanyytop/ckb-band-oracle"
+
+[[repo]]
+url = "https://github.com/duanyytop/ckb-cheque-test"
+
+[[repo]]
+url = "https://github.com/duanyytop/ckb-nft-extension"
+
+[[repo]]
+url = "https://github.com/duanyytop/ckb-nft-toolkit"
 
 [[repo]]
 url = "https://github.com/duanyytop/ckb-open-oracle"
@@ -98,7 +133,23 @@ url = "https://github.com/duanyytop/ckb-open-oracle"
 url = "https://github.com/duanyytop/ckb-oracle-bridge"
 
 [[repo]]
+url = "https://github.com/duanyytop/ckb-script-deployer"
+missing = true
+
+[[repo]]
+url = "https://github.com/duanyytop/ckb-time-generator"
+
+[[repo]]
+url = "https://github.com/duanyytop/flash-signer-generator"
+
+[[repo]]
 url = "https://github.com/DylanOpenDev/ckb-dex-test"
+
+[[repo]]
+url = "https://github.com/enterBlockProject/UDT-info-demo-master"
+
+[[repo]]
+url = "https://github.com/enterBlockProject/UDTSwap"
 
 [[repo]]
 url = "https://github.com/FlowShield/flowshield"
@@ -182,7 +233,17 @@ url = "https://github.com/hackathon-cross/cross-demo"
 url = "https://github.com/hackathon-cross/relayer"
 
 [[repo]]
+url = "https://github.com/happylolonly/dapp-to-nervos-blockchain"
+
+[[repo]]
 url = "https://github.com/HuobiGroup/huobi-chain"
+missing = true
+
+[[repo]]
+url = "https://github.com/ItVen/cat-frontend"
+
+[[repo]]
+url = "https://github.com/jin10086/ckb1-api"
 
 [[repo]]
 url = "https://github.com/jjyr/godwoken-original"
@@ -209,10 +270,23 @@ url = "https://github.com/Keith-CY/ckb-sdk-lumos-starter"
 url = "https://github.com/Keith-CY/keyper_lock_scripts"
 
 [[repo]]
+url = "https://github.com/kellyshang/dex-crosschain-bot"
+
+[[repo]]
+url = "https://github.com/kellyshang/dex-order-bot"
+
+[[repo]]
+url = "https://github.com/Kuzirashi/blockchain-workshop"
+
+[[repo]]
 url = "https://github.com/lay2dev/ckb.pw"
 
 [[repo]]
 url = "https://github.com/lay2dev/eth.swap.backend"
+missing = true
+
+[[repo]]
+url = "https://github.com/lay2dev/lay2.tech.sites"
 
 [[repo]]
 url = "https://github.com/lay2dev/portal-wallet-frontend"
@@ -227,6 +301,15 @@ url = "https://github.com/lay2dev/pw-eostron-demo"
 url = "https://github.com/lay2dev/pw-lock"
 
 [[repo]]
+url = "https://github.com/ld-blockchain-lab/ld-official-react-v2"
+
+[[repo]]
+url = "https://github.com/leapdao/nervos"
+
+[[repo]]
+url = "https://github.com/linkdesu/toolbox"
+
+[[repo]]
 url = "https://github.com/liusong1111/keypering"
 
 [[repo]]
@@ -234,6 +317,12 @@ url = "https://github.com/liusong1111/simplestdapp"
 
 [[repo]]
 url = "https://github.com/lkiversonlk/nervos-test"
+
+[[repo]]
+url = "https://github.com/Magickbase/ckb-explorer-public-issues"
+
+[[repo]]
+url = "https://github.com/Magickbase/force-bridge"
 
 [[repo]]
 url = "https://github.com/mathwallet/math-nervosjs"
@@ -284,11 +373,23 @@ url = "https://github.com/nervosnetwork/capsule"
 url = "https://github.com/nervosnetwork/cfb"
 
 [[repo]]
+url = "https://github.com/nervosnetwork/cfn-node"
+
+[[repo]]
+url = "https://github.com/nervosnetwork/cfn-scripts"
+
+[[repo]]
 url = "https://github.com/nervosnetwork/ckb"
 tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-assets"
+
+[[repo]]
+url = "https://github.com/nervosnetwork/ckb-auth"
+
+[[repo]]
+url = "https://github.com/nervosnetwork/ckb-auth-examples"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-bench-archived"
@@ -331,9 +432,11 @@ url = "https://github.com/nervosnetwork/ckb-demo-ruby"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-dev-projects"
+missing = true
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-dev-team-notebook"
+missing = true
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-development-update"
@@ -349,6 +452,7 @@ url = "https://github.com/nervosnetwork/ckb-explorer-frontend"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-github-actions"
+missing = true
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-github-actions-testbed"
@@ -369,6 +473,9 @@ url = "https://github.com/nervosnetwork/ckb-integration-test"
 url = "https://github.com/nervosnetwork/ckb-js-toolkit"
 
 [[repo]]
+url = "https://github.com/nervosnetwork/ckb-js-vm"
+
+[[repo]]
 url = "https://github.com/nervosnetwork/ckb-kanban"
 
 [[repo]]
@@ -376,6 +483,9 @@ url = "https://github.com/nervosnetwork/ckb-light-client"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-lua"
+
+[[repo]]
+url = "https://github.com/nervosnetwork/ckb-lua-vm"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-miner"
@@ -391,6 +501,7 @@ url = "https://github.com/nervosnetwork/ckb-production-scripts-ops"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-public-threads"
+missing = true
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-report-tools"
@@ -406,6 +517,9 @@ url = "https://github.com/nervosnetwork/ckb-rosetta-docker-config"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-rosetta-sdk"
+
+[[repo]]
+url = "https://github.com/nervosnetwork/ckb-rpc-resources"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/ckb-ruby-scripts"
@@ -447,6 +561,9 @@ url = "https://github.com/nervosnetwork/ckb-testnet-faucet"
 url = "https://github.com/nervosnetwork/ckb-tests"
 
 [[repo]]
+url = "https://github.com/nervosnetwork/ckb-testtool"
+
+[[repo]]
 url = "https://github.com/nervosnetwork/ckb-tlaplus"
 
 [[repo]]
@@ -471,6 +588,9 @@ url = "https://github.com/nervosnetwork/ckb-vm-bench-scripts"
 url = "https://github.com/nervosnetwork/ckb-vm-debug-utils"
 
 [[repo]]
+url = "https://github.com/nervosnetwork/ckb-vm-fuzzing-test"
+
+[[repo]]
 url = "https://github.com/nervosnetwork/ckb-vm-pprof"
 
 [[repo]]
@@ -486,7 +606,13 @@ url = "https://github.com/nervosnetwork/ckb-x64-simulator"
 url = "https://github.com/nervosnetwork/clerkb"
 
 [[repo]]
+url = "https://github.com/nervosnetwork/compiler-rt-builtins-riscv"
+
+[[repo]]
 url = "https://github.com/nervosnetwork/dapps-on-ckb-workshop-code"
+
+[[repo]]
+url = "https://github.com/nervosnetwork/DevRel"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/dockerhub-push-service"
@@ -526,6 +652,12 @@ url = "https://github.com/nervosnetwork/faster-hex"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/fiber"
+
+[[repo]]
+url = "https://github.com/nervosnetwork/fiber-archive"
+
+[[repo]]
+url = "https://github.com/nervosnetwork/fiber-scripts"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/flatcc"
@@ -682,6 +814,7 @@ url = "https://github.com/nervosnetwork/nervos-bot"
 
 [[repo]]
 url = "https://github.com/nervosnetwork/nervos-bot-internal"
+missing = true
 
 [[repo]]
 url = "https://github.com/nervosnetwork/nervos-build"
@@ -831,6 +964,9 @@ url = "https://github.com/nervosnetwork/wasm-ckb-syscall-demo"
 url = "https://github.com/nervosnetwork/wasm-secp256k1-test"
 
 [[repo]]
+url = "https://github.com/niklr/crowdmint"
+
+[[repo]]
 url = "https://github.com/ObsidianLabs/ckb-components"
 
 [[repo]]
@@ -861,16 +997,35 @@ url = "https://github.com/OrangeWallet/orange-wallet-weapp"
 url = "https://github.com/PRIEWIENV/NurTib"
 
 [[repo]]
+url = "https://github.com/prin-r/nervos_relayer"
+
+[[repo]]
 url = "https://github.com/puffanddmx/nervos"
+missing = true
 
 [[repo]]
 url = "https://github.com/ququzone/ckb-cache-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/ququzone/ckb-neuron-poc"
+missing = true
 
 [[repo]]
 url = "https://github.com/ququzone/keyper-scatter"
+missing = true
+
+[[repo]]
+url = "https://github.com/rather-labs/nervos-examples"
+
+[[repo]]
+url = "https://github.com/rather-labs/nrc-721"
+
+[[repo]]
+url = "https://github.com/rather-labs/nrc-721-sdk"
+
+[[repo]]
+url = "https://github.com/rather-labs/nrc-721-template"
 
 [[repo]]
 url = "https://github.com/rebase-network/blockchain-tools"
@@ -888,13 +1043,29 @@ url = "https://github.com/rebase-network/synapse-extension"
 url = "https://github.com/rebase-network/tokenbridge-frontend"
 
 [[repo]]
+url = "https://github.com/RetricSu/liquidable-dao-dapp"
+
+[[repo]]
 url = "https://github.com/sec-bit/ckb-zkp"
+
+[[repo]]
+url = "https://github.com/solargatsby/time_script_example"
+
+[[repo]]
+url = "https://github.com/solargatsby/time_script_generator"
+
+[[repo]]
+url = "https://github.com/stefanofa/gitcoin-nervos-hackaton"
 
 [[repo]]
 url = "https://github.com/stwith/cellmap.ckb.dev"
 
 [[repo]]
+url = "https://github.com/taurenshaman/payhub"
+
+[[repo]]
 url = "https://github.com/Tempest-Protocol/trampoline"
+missing = true
 
 [[repo]]
 url = "https://github.com/timfaner/CKplanet"
@@ -919,10 +1090,6 @@ url = "https://github.com/WilfredTA/ReuseCoin"
 
 [[repo]]
 url = "https://github.com/WilfredTA/token_mint"
-
-[[repo]]
-url = "https://github.com/WilfredTA/trampoline"
-missing = true
 
 [[repo]]
 url = "https://github.com/yuche/ledger-issues"

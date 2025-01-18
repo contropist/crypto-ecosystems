@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/recursive-research"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/recursive-research/beta-protocol"
+
+[[repo]]
 url = "https://github.com/recursive-research/cosmos-sdk"
 
 [[repo]]
@@ -20,6 +23,7 @@ url = "https://github.com/recursive-research/neptune"
 
 [[repo]]
 url = "https://github.com/recursive-research/rift-cairo-sandbox"
+missing = true
 
 [[repo]]
 url = "https://github.com/recursive-research/rift-protocol"

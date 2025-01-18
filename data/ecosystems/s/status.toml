@@ -22,6 +22,9 @@ url = "https://github.com/status-im/actions-gh-pages"
 url = "https://github.com/status-im/actions-hugo"
 
 [[repo]]
+url = "https://github.com/status-im/airbyte-custom-connector"
+
+[[repo]]
 url = "https://github.com/status-im/airflow-dags"
 
 [[repo]]
@@ -70,6 +73,9 @@ url = "https://github.com/status-im/beacon-APIs"
 url = "https://github.com/status-im/BearSSL"
 
 [[repo]]
+url = "https://github.com/status-im/bi-recruitment-task"
+
+[[repo]]
 url = "https://github.com/status-im/bigbrother-specs"
 
 [[repo]]
@@ -80,6 +86,7 @@ url = "https://github.com/status-im/bip39"
 
 [[repo]]
 url = "https://github.com/status-im/boarding"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/book.status.im"
@@ -89,9 +96,13 @@ url = "https://github.com/status-im/boothealth"
 
 [[repo]]
 url = "https://github.com/status-im/browser-experiment"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/burnchart"
+
+[[repo]]
+url = "https://github.com/status-im/c-kzg-4844"
 
 [[repo]]
 url = "https://github.com/status-im/cabot"
@@ -115,7 +126,11 @@ url = "https://github.com/status-im/chat"
 url = "https://github.com/status-im/checkout"
 
 [[repo]]
+url = "https://github.com/status-im/checkpoint-sync-endpoints"
+
+[[repo]]
 url = "https://github.com/status-im/chromium"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/circom_tester"
@@ -149,6 +164,7 @@ url = "https://github.com/status-im/codex-storage-proofs"
 
 [[repo]]
 url = "https://github.com/status-im/codimd"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/commiteth-pipeline"
@@ -163,7 +179,13 @@ url = "https://github.com/status-im/community-dapp"
 url = "https://github.com/status-im/consensus-experiments-data"
 
 [[repo]]
+url = "https://github.com/status-im/constantine"
+
+[[repo]]
 url = "https://github.com/status-im/consul"
+
+[[repo]]
+url = "https://github.com/status-im/consul-alerts"
 
 [[repo]]
 url = "https://github.com/status-im/contract-notifier"
@@ -196,6 +218,9 @@ url = "https://github.com/status-im/crypto-on-ramps"
 url = "https://github.com/status-im/CryptoLife"
 
 [[repo]]
+url = "https://github.com/status-im/cs-codex-dist-tests"
+
+[[repo]]
 url = "https://github.com/status-im/csources-nimble"
 
 [[repo]]
@@ -203,6 +228,7 @@ url = "https://github.com/status-im/culture-site"
 
 [[repo]]
 url = "https://github.com/status-im/dagger"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/dagger-contracts"
@@ -215,6 +241,9 @@ url = "https://github.com/status-im/das-research"
 
 [[repo]]
 url = "https://github.com/status-im/datasets"
+
+[[repo]]
+url = "https://github.com/status-im/dbt-airbyte"
 
 [[repo]]
 url = "https://github.com/status-im/defuzze"
@@ -235,6 +264,9 @@ url = "https://github.com/status-im/design.status.im"
 url = "https://github.com/status-im/desktop-docs"
 
 [[repo]]
+url = "https://github.com/status-im/desktop-qa-automation"
+
+[[repo]]
 url = "https://github.com/status-im/desktop-spellchecking"
 
 [[repo]]
@@ -244,10 +276,20 @@ url = "https://github.com/status-im/desktop-ui-tests"
 url = "https://github.com/status-im/devcon2-presentation"
 
 [[repo]]
+url = "https://github.com/status-im/diawi-nodejs-uploader"
+
+[[repo]]
 url = "https://github.com/status-im/diff-generator"
 
 [[repo]]
 url = "https://github.com/status-im/discover-dapps"
+
+[[repo]]
+url = "https://github.com/status-im/docker-python"
+missing = true
+
+[[repo]]
+url = "https://github.com/status-im/docs.status.network"
 
 [[repo]]
 url = "https://github.com/status-im/dotherside"
@@ -368,9 +410,11 @@ url = "https://github.com/status-im/extkeys"
 
 [[repo]]
 url = "https://github.com/status-im/fastlane"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/fastlane-plugin-diawi"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/fathom"
@@ -392,6 +436,7 @@ url = "https://github.com/status-im/general-market-framework"
 
 [[repo]]
 url = "https://github.com/status-im/get.status.im"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/geth_exporter"
@@ -412,6 +457,9 @@ url = "https://github.com/status-im/github-oracle"
 url = "https://github.com/status-im/github-projects-scripts"
 
 [[repo]]
+url = "https://github.com/status-im/github-webhook-filter"
+
+[[repo]]
 url = "https://github.com/status-im/gitpivot"
 
 [[repo]]
@@ -428,6 +476,7 @@ url = "https://github.com/status-im/gnosis-safe-waku"
 
 [[repo]]
 url = "https://github.com/status-im/go"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/go-ethereum"
@@ -436,14 +485,13 @@ url = "https://github.com/status-im/go-ethereum"
 url = "https://github.com/status-im/go-fcm"
 
 [[repo]]
+url = "https://github.com/status-im/go-generate-fast"
+
+[[repo]]
 url = "https://github.com/status-im/go-libp2p"
 
 [[repo]]
 url = "https://github.com/status-im/go-libp2p-daemon"
-
-[[repo]]
-url = "https://github.com/status-im/go-libp2p-pubsub"
-missing = true
 
 [[repo]]
 url = "https://github.com/status-im/go-libp2p-webrtc-direct"
@@ -461,7 +509,11 @@ url = "https://github.com/status-im/go-nwaku"
 url = "https://github.com/status-im/go-s3up"
 
 [[repo]]
+url = "https://github.com/status-im/go-sqlcipher"
+
+[[repo]]
 url = "https://github.com/status-im/go-wakurelay-pubsub"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/go-watchdog"
@@ -471,6 +523,7 @@ url = "https://github.com/status-im/go-web3js"
 
 [[repo]]
 url = "https://github.com/status-im/godot"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/gomoji"
@@ -492,6 +545,7 @@ url = "https://github.com/status-im/hackathon.status.im"
 
 [[repo]]
 url = "https://github.com/status-im/handbook.status.im"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/Harbour-MVP"
@@ -506,6 +560,9 @@ url = "https://github.com/status-im/hardwallet-firmware"
 url = "https://github.com/status-im/hardwallet.status.im"
 
 [[repo]]
+url = "https://github.com/status-im/hashtree"
+
+[[repo]]
 url = "https://github.com/status-im/heimdall"
 
 [[repo]]
@@ -513,6 +570,9 @@ url = "https://github.com/status-im/help.status.im"
 
 [[repo]]
 url = "https://github.com/status-im/hexo-elasticsearch"
+
+[[repo]]
+url = "https://github.com/status-im/holesky"
 
 [[repo]]
 url = "https://github.com/status-im/identicon.js"
@@ -530,16 +590,28 @@ url = "https://github.com/status-im/infra-avalanche"
 url = "https://github.com/status-im/infra-codex"
 
 [[repo]]
+url = "https://github.com/status-im/infra-eth-cluster"
+
+[[repo]]
+url = "https://github.com/status-im/infra-faucet"
+
+[[repo]]
 url = "https://github.com/status-im/infra-go-vanity"
 
 [[repo]]
 url = "https://github.com/status-im/infra-go-waku"
 
 [[repo]]
+url = "https://github.com/status-im/infra-harbor"
+missing = true
+
+[[repo]]
 url = "https://github.com/status-im/infra-ipfs"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/infra-kubernetes"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/infra-les"
@@ -549,6 +621,12 @@ url = "https://github.com/status-im/infra-nim-waku"
 
 [[repo]]
 url = "https://github.com/status-im/infra-nimbus"
+
+[[repo]]
+url = "https://github.com/status-im/infra-office-legacy"
+
+[[repo]]
+url = "https://github.com/status-im/infra-referral-service"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-alertmanager"
@@ -573,6 +651,7 @@ url = "https://github.com/status-im/infra-role-bitwarden"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-bootstrap-windows"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-cassandra"
@@ -584,16 +663,31 @@ url = "https://github.com/status-im/infra-role-cassandra-exporter"
 url = "https://github.com/status-im/infra-role-certbot"
 
 [[repo]]
+url = "https://github.com/status-im/infra-role-codimd"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-compose-repo"
+
+[[repo]]
 url = "https://github.com/status-im/infra-role-conan"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-consul-service"
 
 [[repo]]
+url = "https://github.com/status-im/infra-role-cortex"
+
+[[repo]]
 url = "https://github.com/status-im/infra-role-coturn"
 
 [[repo]]
+url = "https://github.com/status-im/infra-role-deploy-certs"
+
+[[repo]]
 url = "https://github.com/status-im/infra-role-dist-validators"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-dokku"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-elasticsearch"
@@ -621,6 +715,7 @@ url = "https://github.com/status-im/infra-role-gamja"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-geoip-updater"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-geth"
@@ -630,6 +725,12 @@ url = "https://github.com/status-im/infra-role-geth-exporter"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-gitea"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-gitea-mirrors"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-github-webhook"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-go-waku"
@@ -665,6 +766,15 @@ url = "https://github.com/status-im/infra-role-kibana-logtrail"
 url = "https://github.com/status-im/infra-role-launchd-timer"
 
 [[repo]]
+url = "https://github.com/status-im/infra-role-lido-keys-api"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-lido-validator-ejector"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-lido-withdrawals-automation"
+
+[[repo]]
 url = "https://github.com/status-im/infra-role-livepeer"
 
 [[repo]]
@@ -680,7 +790,16 @@ url = "https://github.com/status-im/infra-role-mailtrain"
 url = "https://github.com/status-im/infra-role-matterbridge"
 
 [[repo]]
+url = "https://github.com/status-im/infra-role-mediawiki"
+
+[[repo]]
 url = "https://github.com/status-im/infra-role-memcached"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-mev-boost"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-nethermind"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-nextcloud"
@@ -698,13 +817,25 @@ url = "https://github.com/status-im/infra-role-nim-codex"
 url = "https://github.com/status-im/infra-role-nim-waku"
 
 [[repo]]
+url = "https://github.com/status-im/infra-role-nim-waku-sonda"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-nimbus-bench-eth1"
+
+[[repo]]
 url = "https://github.com/status-im/infra-role-nimbus-eth1"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-nimbus-fluffy"
 
 [[repo]]
+url = "https://github.com/status-im/infra-role-nimbus-light-client"
+
+[[repo]]
 url = "https://github.com/status-im/infra-role-oauth-proxy"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-octobox"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-open-bounty"
@@ -714,6 +845,15 @@ url = "https://github.com/status-im/infra-role-open-ports"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-openethereum"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-openkm"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-origin-certs"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-portal-bridge"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-postgres-ha"
@@ -731,6 +871,12 @@ url = "https://github.com/status-im/infra-role-s3cmd-sync"
 url = "https://github.com/status-im/infra-role-s3cmd-upload"
 
 [[repo]]
+url = "https://github.com/status-im/infra-role-shlink"
+
+[[repo]]
+url = "https://github.com/status-im/infra-role-smart-metrics"
+
+[[repo]]
 url = "https://github.com/status-im/infra-role-status-go"
 
 [[repo]]
@@ -741,6 +887,7 @@ url = "https://github.com/status-im/infra-role-systemd-timer"
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-threatstack"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/infra-role-threatstack-windows"
@@ -752,6 +899,9 @@ url = "https://github.com/status-im/infra-role-tinc"
 url = "https://github.com/status-im/infra-role-validator-client"
 
 [[repo]]
+url = "https://github.com/status-im/infra-role-vault-certificate"
+
+[[repo]]
 url = "https://github.com/status-im/infra-role-waku-peers"
 
 [[repo]]
@@ -761,7 +911,13 @@ url = "https://github.com/status-im/infra-role-winsw"
 url = "https://github.com/status-im/infra-role-zerotier"
 
 [[repo]]
+url = "https://github.com/status-im/infra-shards"
+
+[[repo]]
 url = "https://github.com/status-im/infra-status"
+
+[[repo]]
+url = "https://github.com/status-im/infra-status-legacy"
 
 [[repo]]
 url = "https://github.com/status-im/infra-swarm"
@@ -806,10 +962,19 @@ url = "https://github.com/status-im/infra-the-hive"
 url = "https://github.com/status-im/infra-utils"
 
 [[repo]]
+url = "https://github.com/status-im/infra-waku"
+
+[[repo]]
 url = "https://github.com/status-im/infra-waku-connect"
 
 [[repo]]
+url = "https://github.com/status-im/infra-wakuv2"
+
+[[repo]]
 url = "https://github.com/status-im/infra-webiny"
+
+[[repo]]
+url = "https://github.com/status-im/insights-bi"
 
 [[repo]]
 url = "https://github.com/status-im/instabug-reactnative"
@@ -825,6 +990,7 @@ url = "https://github.com/status-im/jcardsim"
 
 [[repo]]
 url = "https://github.com/status-im/jessie-standup"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/jobs.status.im"
@@ -834,19 +1000,22 @@ url = "https://github.com/status-im/js-status-chat-name"
 
 [[repo]]
 url = "https://github.com/status-im/js.waku.guide"
-
-[[repo]]
-url = "https://github.com/status-im/js.waku.org"
 missing = true
 
 [[repo]]
 url = "https://github.com/status-im/keycard-cash-test-dapp"
 
 [[repo]]
+url = "https://github.com/status-im/keycard-certify"
+
+[[repo]]
 url = "https://github.com/status-im/keycard-cli"
 
 [[repo]]
 url = "https://github.com/status-im/keycard-connect"
+
+[[repo]]
+url = "https://github.com/status-im/keycard-exit"
 
 [[repo]]
 url = "https://github.com/status-im/keycard-go"
@@ -859,6 +1028,7 @@ url = "https://github.com/status-im/keycard-ledger"
 
 [[repo]]
 url = "https://github.com/status-im/keycard-plus"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/keycard-pro"
@@ -876,7 +1046,13 @@ url = "https://github.com/status-im/keycard.status.im-old"
 url = "https://github.com/status-im/Keycard.swift"
 
 [[repo]]
+url = "https://github.com/status-im/kudos-medals"
+
+[[repo]]
 url = "https://github.com/status-im/legacy-docs"
+
+[[repo]]
+url = "https://github.com/status-im/legacy-people-ops-blog"
 
 [[repo]]
 url = "https://github.com/status-im/legacy-wiki"
@@ -895,6 +1071,12 @@ url = "https://github.com/status-im/libp2p-docs"
 
 [[repo]]
 url = "https://github.com/status-im/libp2p-test-plans"
+
+[[repo]]
+url = "https://github.com/status-im/lido-withdrawals-automation"
+
+[[repo]]
+url = "https://github.com/status-im/linea-monorepo"
 
 [[repo]]
 url = "https://github.com/status-im/liquid-funding"
@@ -961,6 +1143,7 @@ url = "https://github.com/status-im/mobile"
 
 [[repo]]
 url = "https://github.com/status-im/modvendor"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/moles"
@@ -981,7 +1164,11 @@ url = "https://github.com/status-im/multisig-dapp"
 url = "https://github.com/status-im/murmur"
 
 [[repo]]
+url = "https://github.com/status-im/mvds"
+
+[[repo]]
 url = "https://github.com/status-im/mvds-simulation"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/MyCrypto"
@@ -996,10 +1183,19 @@ url = "https://github.com/status-im/network-incentivisation"
 url = "https://github.com/status-im/network-stories"
 
 [[repo]]
+url = "https://github.com/status-im/network-testing-codex"
+
+[[repo]]
 url = "https://github.com/status-im/news"
 
 [[repo]]
 url = "https://github.com/status-im/nfc-react-native"
+
+[[repo]]
+url = "https://github.com/status-im/nft-faucet"
+
+[[repo]]
+url = "https://github.com/status-im/nginx-echo-module-poc"
 
 [[repo]]
 url = "https://github.com/status-im/Nim"
@@ -1098,6 +1294,9 @@ url = "https://github.com/status-im/nim-eth-p2p"
 url = "https://github.com/status-im/nim-eth-trie"
 
 [[repo]]
+url = "https://github.com/status-im/nim-eth-verkle"
+
+[[repo]]
 url = "https://github.com/status-im/nim-eth2-scenarios"
 
 [[repo]]
@@ -1152,7 +1351,13 @@ url = "https://github.com/status-im/nim-libp2p"
 url = "https://github.com/status-im/nim-libp2p-dht"
 
 [[repo]]
+url = "https://github.com/status-im/nim-mbedtls"
+
+[[repo]]
 url = "https://github.com/status-im/nim-metrics"
+
+[[repo]]
+url = "https://github.com/status-im/nim-minilru"
 
 [[repo]]
 url = "https://github.com/status-im/nim-miniz"
@@ -1188,6 +1393,13 @@ url = "https://github.com/status-im/nim-protobuf-serialization"
 url = "https://github.com/status-im/nim-quic"
 
 [[repo]]
+url = "https://github.com/status-im/nim-raft"
+
+[[repo]]
+url = "https://github.com/status-im/nim-randoms"
+missing = true
+
+[[repo]]
 url = "https://github.com/status-im/nim-ranges"
 
 [[repo]]
@@ -1207,6 +1419,10 @@ url = "https://github.com/status-im/nim-snappy"
 
 [[repo]]
 url = "https://github.com/status-im/nim-sqlcipher"
+
+[[repo]]
+url = "https://github.com/status-im/nim-sqlite3-abi"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/nim-ssz-serialization"
@@ -1251,6 +1467,9 @@ url = "https://github.com/status-im/nim-ttmath"
 url = "https://github.com/status-im/nim-unittest2"
 
 [[repo]]
+url = "https://github.com/status-im/nim-usrsctp"
+
+[[repo]]
 url = "https://github.com/status-im/nim-vagrant"
 
 [[repo]]
@@ -1284,16 +1503,25 @@ url = "https://github.com/status-im/nimbus-build-system"
 url = "https://github.com/status-im/nimbus-build-system-desktop"
 
 [[repo]]
+url = "https://github.com/status-im/nimbus-common-workflow"
+
+[[repo]]
 url = "https://github.com/status-im/nimbus-deps"
 
 [[repo]]
 url = "https://github.com/status-im/nimbus-eth1"
 
 [[repo]]
+url = "https://github.com/status-im/nimbus-eth1-benchmarks"
+
+[[repo]]
 url = "https://github.com/status-im/nimbus-eth1-blobs"
 
 [[repo]]
 url = "https://github.com/status-im/nimbus-eth2"
+
+[[repo]]
+url = "https://github.com/status-im/nimbus-gui"
 
 [[repo]]
 url = "https://github.com/status-im/nimbus-launch"
@@ -1303,6 +1531,7 @@ url = "https://github.com/status-im/nimbus-libs-site"
 
 [[repo]]
 url = "https://github.com/status-im/nimbus-libs.status.im"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/nimbus-security-resources"
@@ -1335,10 +1564,17 @@ url = "https://github.com/status-im/nix-fetchgit-debug"
 url = "https://github.com/status-im/nixpkgs"
 
 [[repo]]
+url = "https://github.com/status-im/notify"
+
+[[repo]]
 url = "https://github.com/status-im/npeg"
 
 [[repo]]
 url = "https://github.com/status-im/okrs"
+missing = true
+
+[[repo]]
+url = "https://github.com/status-im/op-geth"
 
 [[repo]]
 url = "https://github.com/status-im/open-bounty"
@@ -1363,6 +1599,7 @@ url = "https://github.com/status-im/payment-network-apps"
 
 [[repo]]
 url = "https://github.com/status-im/people-ops"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/people-ops.status.im"
@@ -1375,6 +1612,9 @@ url = "https://github.com/status-im/pm"
 
 [[repo]]
 url = "https://github.com/status-im/poc-core-secure-react-native"
+
+[[repo]]
+url = "https://github.com/status-im/portal-mainnet"
 
 [[repo]]
 url = "https://github.com/status-im/portal-spec-tests"
@@ -1390,6 +1630,12 @@ url = "https://github.com/status-im/process-stats"
 
 [[repo]]
 url = "https://github.com/status-im/project-management"
+
+[[repo]]
+url = "https://github.com/status-im/project-reporting"
+
+[[repo]]
+url = "https://github.com/status-im/PyGithub"
 
 [[repo]]
 url = "https://github.com/status-im/QR-Code-generator"
@@ -1431,6 +1677,12 @@ url = "https://github.com/status-im/react-native-blur"
 url = "https://github.com/status-im/react-native-camera"
 
 [[repo]]
+url = "https://github.com/status-im/react-native-camera-kit"
+
+[[repo]]
+url = "https://github.com/status-im/react-native-camera-roll"
+
+[[repo]]
 url = "https://github.com/status-im/react-native-cameraroll"
 
 [[repo]]
@@ -1444,6 +1696,10 @@ url = "https://github.com/status-im/react-native-desktop-qt-init"
 
 [[repo]]
 url = "https://github.com/status-im/react-native-device-info"
+missing = true
+
+[[repo]]
+url = "https://github.com/status-im/react-native-dialogs"
 
 [[repo]]
 url = "https://github.com/status-im/react-native-emoji-picker"
@@ -1456,6 +1712,9 @@ url = "https://github.com/status-im/react-native-firebase"
 
 [[repo]]
 url = "https://github.com/status-im/react-native-fs"
+
+[[repo]]
+url = "https://github.com/status-im/react-native-gifted-charts"
 
 [[repo]]
 url = "https://github.com/status-im/react-native-hole-view"
@@ -1527,6 +1786,9 @@ url = "https://github.com/status-im/react-native-tcp"
 url = "https://github.com/status-im/react-native-testfairy"
 
 [[repo]]
+url = "https://github.com/status-im/react-native-transparent-video"
+
+[[repo]]
 url = "https://github.com/status-im/react-native-udp"
 
 [[repo]]
@@ -1581,6 +1843,9 @@ url = "https://github.com/status-im/rn-waku-relay-poc"
 url = "https://github.com/status-im/rnpm-plugin-desktop-qt"
 
 [[repo]]
+url = "https://github.com/status-im/rs-poseidon"
+
+[[repo]]
 url = "https://github.com/status-im/S-Pesa"
 
 [[repo]]
@@ -1588,6 +1853,9 @@ url = "https://github.com/status-im/safe-contracts"
 
 [[repo]]
 url = "https://github.com/status-im/safe-react"
+
+[[repo]]
+url = "https://github.com/status-im/samyoul-notes"
 
 [[repo]]
 url = "https://github.com/status-im/secp256k1"
@@ -1602,6 +1870,9 @@ url = "https://github.com/status-im/security-improvements"
 url = "https://github.com/status-im/security-utils"
 
 [[repo]]
+url = "https://github.com/status-im/sha256_64B"
+
+[[repo]]
 url = "https://github.com/status-im/simple-dapp"
 
 [[repo]]
@@ -1609,10 +1880,6 @@ url = "https://github.com/status-im/simulation"
 
 [[repo]]
 url = "https://github.com/status-im/SIPs"
-
-[[repo]]
-url = "https://github.com/status-im/snappy"
-missing = true
 
 [[repo]]
 url = "https://github.com/status-im/snapshot"
@@ -1637,12 +1904,23 @@ url = "https://github.com/status-im/sourcecred"
 
 [[repo]]
 url = "https://github.com/status-im/sourcecred-config"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/specs"
 
 [[repo]]
+url = "https://github.com/status-im/spiff-arena"
+
+[[repo]]
 url = "https://github.com/status-im/spiff-workflow"
+missing = true
+
+[[repo]]
+url = "https://github.com/status-im/spiffworkflow-connector"
+
+[[repo]]
+url = "https://github.com/status-im/sqlalchemy_dremio"
 
 [[repo]]
 url = "https://github.com/status-im/sqlcipher"
@@ -1655,6 +1933,7 @@ url = "https://github.com/status-im/staking-pool"
 
 [[repo]]
 url = "https://github.com/status-im/stale"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/StandardBounties"
@@ -1672,10 +1951,6 @@ url = "https://github.com/status-im/status-affiliate"
 url = "https://github.com/status-im/status-api-tester"
 
 [[repo]]
-url = "https://github.com/status-im/status-bpmn"
-missing = true
-
-[[repo]]
 url = "https://github.com/status-im/status-channels-dapp"
 
 [[repo]]
@@ -1683,6 +1958,9 @@ url = "https://github.com/status-im/status-chat-widget"
 
 [[repo]]
 url = "https://github.com/status-im/status-cli-client"
+
+[[repo]]
+url = "https://github.com/status-im/status-cli-tests"
 
 [[repo]]
 url = "https://github.com/status-im/status-components"
@@ -1719,12 +1997,16 @@ url = "https://github.com/status-im/status-github-bot"
 
 [[repo]]
 url = "https://github.com/status-im/status-gitter-bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/status-global-elements"
 
 [[repo]]
 url = "https://github.com/status-im/status-go"
+
+[[repo]]
+url = "https://github.com/status-im/status-go-allure"
 
 [[repo]]
 url = "https://github.com/status-im/status-go-bots"
@@ -1734,6 +2016,9 @@ url = "https://github.com/status-im/status-go-monitor"
 
 [[repo]]
 url = "https://github.com/status-im/status-go-sdk"
+
+[[repo]]
+url = "https://github.com/status-im/status-go-websockets"
 
 [[repo]]
 url = "https://github.com/status-im/status-im.github.io"
@@ -1772,19 +2057,29 @@ url = "https://github.com/status-im/status-media"
 url = "https://github.com/status-im/status-mobile"
 
 [[repo]]
+url = "https://github.com/status-im/status-network-docs"
+
+[[repo]]
 url = "https://github.com/status-im/status-network-site"
 
 [[repo]]
 url = "https://github.com/status-im/status-network-token"
 
 [[repo]]
+url = "https://github.com/status-im/status-network-token-v2"
+
+[[repo]]
 url = "https://github.com/status-im/status-node"
+
+[[repo]]
+url = "https://github.com/status-im/status-node-manager"
 
 [[repo]]
 url = "https://github.com/status-im/status-nodejs"
 
 [[repo]]
 url = "https://github.com/status-im/status-processes"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/status-protocol-go"
@@ -1808,10 +2103,14 @@ url = "https://github.com/status-im/status-security"
 url = "https://github.com/status-im/status-site-legacy"
 
 [[repo]]
+url = "https://github.com/status-im/status-software-legal-documents"
+
+[[repo]]
 url = "https://github.com/status-im/status-teller-network"
 
 [[repo]]
 url = "https://github.com/status-im/status-transport-geth"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/status-tutorials"
@@ -1823,6 +2122,10 @@ url = "https://github.com/status-im/status-web"
 url = "https://github.com/status-im/status-web-archive"
 
 [[repo]]
+url = "https://github.com/status-im/status-website"
+missing = true
+
+[[repo]]
 url = "https://github.com/status-im/status-workspace-directory"
 
 [[repo]]
@@ -1830,6 +2133,7 @@ url = "https://github.com/status-im/status-x"
 
 [[repo]]
 url = "https://github.com/status-im/status.im"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/status.im-js"
@@ -1848,6 +2152,7 @@ url = "https://github.com/status-im/statusd-bots"
 
 [[repo]]
 url = "https://github.com/status-im/statusgo-macos-m1-error"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/statusmonitor"
@@ -1886,6 +2191,9 @@ url = "https://github.com/status-im/subscriptions"
 url = "https://github.com/status-im/subspace-docs"
 
 [[repo]]
+url = "https://github.com/status-im/swap-aggregator"
+
+[[repo]]
 url = "https://github.com/status-im/swarms"
 
 [[repo]]
@@ -1905,6 +2213,14 @@ url = "https://github.com/status-im/teller-site"
 
 [[repo]]
 url = "https://github.com/status-im/terraform-provider-pass"
+missing = true
+
+[[repo]]
+url = "https://github.com/status-im/terraform-provisioner-ansible"
+
+[[repo]]
+url = "https://github.com/status-im/test-merge-rights"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/testground-nim-sdk"
@@ -1931,6 +2247,9 @@ url = "https://github.com/status-im/token-economy-1"
 url = "https://github.com/status-im/topic-democracy"
 
 [[repo]]
+url = "https://github.com/status-im/torrent"
+
+[[repo]]
 url = "https://github.com/status-im/townhall-archive"
 
 [[repo]]
@@ -1941,6 +2260,7 @@ url = "https://github.com/status-im/tribute-to-talk"
 
 [[repo]]
 url = "https://github.com/status-im/truffle-box-status"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/trustdavis"
@@ -1980,6 +2300,7 @@ url = "https://github.com/status-im/web3.js"
 
 [[repo]]
 url = "https://github.com/status-im/webkit"
+missing = true
 
 [[repo]]
 url = "https://github.com/status-im/whisper"

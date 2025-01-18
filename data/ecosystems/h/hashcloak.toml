@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/hashcloak"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/hashcloak/accas"
+
+[[repo]]
 url = "https://github.com/hashcloak/account-abstraction"
 
 [[repo]]
@@ -25,6 +28,9 @@ url = "https://github.com/hashcloak/as-subtle"
 url = "https://github.com/hashcloak/Aura"
 
 [[repo]]
+url = "https://github.com/hashcloak/awesome-sway-security"
+
+[[repo]]
 url = "https://github.com/hashcloak/AwesomeTx"
 
 [[repo]]
@@ -37,7 +43,34 @@ url = "https://github.com/hashcloak/babySNARK"
 url = "https://github.com/hashcloak/Bandersnatch"
 
 [[repo]]
+url = "https://github.com/hashcloak/bbs_sign"
+
+[[repo]]
+url = "https://github.com/hashcloak/bbs_verifier"
+
+[[repo]]
+url = "https://github.com/hashcloak/benchmarking_study_club"
+
+[[repo]]
+url = "https://github.com/hashcloak/benchmarking_tutorial"
+
+[[repo]]
+url = "https://github.com/hashcloak/bento"
+
+[[repo]]
 url = "https://github.com/hashcloak/BitBlinder"
+
+[[repo]]
+url = "https://github.com/hashcloak/bn254-hash-to-curve"
+
+[[repo]]
+url = "https://github.com/hashcloak/bn254_hash2curve"
+
+[[repo]]
+url = "https://github.com/hashcloak/bonfire"
+
+[[repo]]
+url = "https://github.com/hashcloak/bonsai-storage-proofs"
 
 [[repo]]
 url = "https://github.com/hashcloak/Boolean-Query-SSE"
@@ -58,16 +91,25 @@ url = "https://github.com/hashcloak/celo-threshold-bls-rs"
 url = "https://github.com/hashcloak/centre-tokens"
 
 [[repo]]
+url = "https://github.com/hashcloak/cfmm-routing-code"
+
+[[repo]]
 url = "https://github.com/hashcloak/circom"
 
 [[repo]]
 url = "https://github.com/hashcloak/Coda"
 
 [[repo]]
+url = "https://github.com/hashcloak/code"
+
+[[repo]]
 url = "https://github.com/hashcloak/codex-storage-proofs"
 
 [[repo]]
 url = "https://github.com/hashcloak/CoinJoin-Research"
+
+[[repo]]
+url = "https://github.com/hashcloak/community-scrypto-examples"
 
 [[repo]]
 url = "https://github.com/hashcloak/cryptofuzz"
@@ -77,6 +119,9 @@ url = "https://github.com/hashcloak/CTTK"
 
 [[repo]]
 url = "https://github.com/hashcloak/currency"
+
+[[repo]]
+url = "https://github.com/hashcloak/curve-trees"
 
 [[repo]]
 url = "https://github.com/hashcloak/curves"
@@ -95,6 +140,9 @@ url = "https://github.com/hashcloak/DeFinery"
 
 [[repo]]
 url = "https://github.com/hashcloak/demos"
+
+[[repo]]
+url = "https://github.com/hashcloak/donut"
 
 [[repo]]
 url = "https://github.com/hashcloak/ecfactory"
@@ -127,7 +175,16 @@ url = "https://github.com/hashcloak/ethereum-analyses"
 url = "https://github.com/hashcloak/ethereum_formal_verification_overview"
 
 [[repo]]
+url = "https://github.com/hashcloak/ethp2psim"
+
+[[repo]]
 url = "https://github.com/hashcloak/euler-oracle-tools"
+
+[[repo]]
+url = "https://github.com/hashcloak/fhe_bonsai"
+
+[[repo]]
+url = "https://github.com/hashcloak/fhe_risc0_zkvm"
 
 [[repo]]
 url = "https://github.com/hashcloak/firo"
@@ -163,6 +220,9 @@ url = "https://github.com/hashcloak/fuel-crypto"
 url = "https://github.com/hashcloak/fuel-hashes"
 
 [[repo]]
+url = "https://github.com/hashcloak/fuel-webauthn-wallet"
+
+[[repo]]
 url = "https://github.com/hashcloak/gas-optimizations"
 
 [[repo]]
@@ -182,6 +242,9 @@ url = "https://github.com/hashcloak/Grants-Program"
 
 [[repo]]
 url = "https://github.com/hashcloak/halo"
+
+[[repo]]
+url = "https://github.com/hashcloak/halo2-merkle-trees"
 
 [[repo]]
 url = "https://github.com/hashcloak/hashcloak.github.io"
@@ -206,6 +269,9 @@ url = "https://github.com/hashcloak/inchworm"
 
 [[repo]]
 url = "https://github.com/hashcloak/inchworm-examples"
+
+[[repo]]
+url = "https://github.com/hashcloak/ityfuzz"
 
 [[repo]]
 url = "https://github.com/hashcloak/JanusPP"
@@ -250,6 +316,15 @@ url = "https://github.com/hashcloak/lucre"
 url = "https://github.com/hashcloak/MATor"
 
 [[repo]]
+url = "https://github.com/hashcloak/merkle-trees-leo"
+
+[[repo]]
+url = "https://github.com/hashcloak/merkle-trees-zkwasm"
+
+[[repo]]
+url = "https://github.com/hashcloak/merkle_trees_gnark"
+
+[[repo]]
 url = "https://github.com/hashcloak/merkleeyes"
 
 [[repo]]
@@ -283,6 +358,9 @@ url = "https://github.com/hashcloak/Meson-simulation"
 url = "https://github.com/hashcloak/Meson-testbed"
 
 [[repo]]
+url = "https://github.com/hashcloak/meson-wallet"
+
+[[repo]]
 url = "https://github.com/hashcloak/meson-wallet-app"
 
 [[repo]]
@@ -290,6 +368,9 @@ url = "https://github.com/hashcloak/Meson-wallet-demo"
 
 [[repo]]
 url = "https://github.com/hashcloak/mev-rs"
+
+[[repo]]
+url = "https://github.com/hashcloak/microsoft-seal-cheat-sheet"
 
 [[repo]]
 url = "https://github.com/hashcloak/minimint"
@@ -310,7 +391,16 @@ url = "https://github.com/hashcloak/mp-spdz-cheatsheet"
 url = "https://github.com/hashcloak/mpc-alliance.github.io"
 
 [[repo]]
+url = "https://github.com/hashcloak/mpc-cfmm-solver"
+
+[[repo]]
 url = "https://github.com/hashcloak/mpc-research-engineer-challenge"
+
+[[repo]]
+url = "https://github.com/hashcloak/MPC_lwe_elgamal"
+
+[[repo]]
+url = "https://github.com/hashcloak/mpcsecurity"
 
 [[repo]]
 url = "https://github.com/hashcloak/mpir"
@@ -334,7 +424,46 @@ url = "https://github.com/hashcloak/narcos"
 url = "https://github.com/hashcloak/NEAR-Vulnerabilities"
 
 [[repo]]
+url = "https://github.com/hashcloak/noir-bigint"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir-bigint-bench"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir-bignum"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir-fixed-point"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir-matrix"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir-mpc-ml"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir-zk-regex"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir_base64"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir_fixed_point"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir_rsa"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir_rsa_bench"
+
+[[repo]]
+url = "https://github.com/hashcloak/noir_string_search"
+
+[[repo]]
 url = "https://github.com/hashcloak/okg_experiments"
+
+[[repo]]
+url = "https://github.com/hashcloak/orderbook-contract"
 
 [[repo]]
 url = "https://github.com/hashcloak/organ"
@@ -359,6 +488,15 @@ url = "https://github.com/hashcloak/piranha"
 
 [[repo]]
 url = "https://github.com/hashcloak/PIRmint"
+
+[[repo]]
+url = "https://github.com/hashcloak/plonky2-incremental-merkle-tree"
+
+[[repo]]
+url = "https://github.com/hashcloak/plonky2-merkle-trees"
+
+[[repo]]
+url = "https://github.com/hashcloak/plonky2-u32"
 
 [[repo]]
 url = "https://github.com/hashcloak/preZKPceremony"
@@ -391,6 +529,9 @@ url = "https://github.com/hashcloak/rapidsnark"
 url = "https://github.com/hashcloak/research"
 
 [[repo]]
+url = "https://github.com/hashcloak/schnorr_curve25519_mcu"
+
+[[repo]]
 url = "https://github.com/hashcloak/scicrypt"
 
 [[repo]]
@@ -401,6 +542,12 @@ url = "https://github.com/hashcloak/semacaulk"
 
 [[repo]]
 url = "https://github.com/hashcloak/server"
+
+[[repo]]
+url = "https://github.com/hashcloak/shami-rs"
+
+[[repo]]
+url = "https://github.com/hashcloak/shamir-rs"
 
 [[repo]]
 url = "https://github.com/hashcloak/ShieldDB"
@@ -416,6 +563,12 @@ url = "https://github.com/hashcloak/skunkworks"
 
 [[repo]]
 url = "https://github.com/hashcloak/slingshot"
+
+[[repo]]
+url = "https://github.com/hashcloak/smol"
+
+[[repo]]
+url = "https://github.com/hashcloak/smol-mpc"
 
 [[repo]]
 url = "https://github.com/hashcloak/soul-wallet-contract"
@@ -457,6 +610,9 @@ url = "https://github.com/hashcloak/unipig"
 url = "https://github.com/hashcloak/uniswap-interface"
 
 [[repo]]
+url = "https://github.com/hashcloak/UniswapV3_in_Scrypto"
+
+[[repo]]
 url = "https://github.com/hashcloak/web3-Essentials"
 
 [[repo]]
@@ -481,10 +637,28 @@ url = "https://github.com/hashcloak/Zilch"
 url = "https://github.com/hashcloak/zips"
 
 [[repo]]
+url = "https://github.com/hashcloak/zk-benchmarks"
+
+[[repo]]
+url = "https://github.com/hashcloak/zk-proof-of-assets"
+
+[[repo]]
+url = "https://github.com/hashcloak/zk-regex"
+
+[[repo]]
+url = "https://github.com/hashcloak/zk-regex-tests-and-examples"
+
+[[repo]]
 url = "https://github.com/hashcloak/ZK-to-Zcash"
 
 [[repo]]
+url = "https://github.com/hashcloak/zk_evm"
+
+[[repo]]
 url = "https://github.com/hashcloak/zkp-ecdsa"
+
+[[repo]]
+url = "https://github.com/hashcloak/zkTrue-up-trusted-setup"
 
 [[repo]]
 url = "https://github.com/hashcloak/zkveth"

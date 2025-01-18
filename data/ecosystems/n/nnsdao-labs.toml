@@ -10,7 +10,14 @@ github_organizations = ["https://github.com/NnsDao"]
 url = "https://github.com/NnsDao/.github"
 
 [[repo]]
+url = "https://github.com/NnsDao/awesome-internet-computer"
+
+[[repo]]
 url = "https://github.com/NnsDao/dao_manager"
+
+[[repo]]
+url = "https://github.com/NnsDao/ddz-fe"
+missing = true
 
 [[repo]]
 url = "https://github.com/NnsDao/Dfinity-React-Typescript-tailwind2"
@@ -22,10 +29,22 @@ url = "https://github.com/NnsDao/dfinity-sdk-docs"
 url = "https://github.com/NnsDao/docs"
 
 [[repo]]
+url = "https://github.com/NnsDao/feedback"
+
+[[repo]]
 url = "https://github.com/NnsDao/go-icpscan"
 
 [[repo]]
 url = "https://github.com/NnsDao/ic-2048-dApp"
+
+[[repo]]
+url = "https://github.com/NnsDao/icgames"
+
+[[repo]]
+url = "https://github.com/NnsDao/iclandlord-docs"
+
+[[repo]]
+url = "https://github.com/NnsDao/iclandlord-fe"
 
 [[repo]]
 url = "https://github.com/NnsDao/icmarketdocs"
@@ -35,6 +54,7 @@ url = "https://github.com/NnsDao/icpdrops"
 
 [[repo]]
 url = "https://github.com/NnsDao/icpodcast"
+missing = true
 
 [[repo]]
 url = "https://github.com/NnsDao/icpodcast_service"
@@ -52,6 +72,9 @@ url = "https://github.com/NnsDao/ICTexas"
 url = "https://github.com/NnsDao/ICTexas-UI"
 
 [[repo]]
+url = "https://github.com/NnsDao/mora-inscribe"
+
+[[repo]]
 url = "https://github.com/NnsDao/ndp-airdrops"
 
 [[repo]]
@@ -62,9 +85,13 @@ url = "https://github.com/NnsDao/nft-staking"
 
 [[repo]]
 url = "https://github.com/NnsDao/nid"
+missing = true
 
 [[repo]]
 url = "https://github.com/NnsDao/nip"
+
+[[repo]]
+url = "https://github.com/NnsDao/nns-dapp"
 
 [[repo]]
 url = "https://github.com/NnsDao/nns-motoko-token"
@@ -85,7 +112,14 @@ url = "https://github.com/NnsDao/nnsdao-nid"
 url = "https://github.com/NnsDao/nnsdao-org"
 
 [[repo]]
+url = "https://github.com/NnsDao/nnsdao-org-v2"
+
+[[repo]]
 url = "https://github.com/NnsDao/nnsdao_sdk"
+
+[[repo]]
+url = "https://github.com/NnsDao/Nnsocial"
+missing = true
 
 [[repo]]
 url = "https://github.com/NnsDao/nomos-v1"
@@ -94,7 +128,13 @@ url = "https://github.com/NnsDao/nomos-v1"
 url = "https://github.com/NnsDao/NSWAP"
 
 [[repo]]
+url = "https://github.com/NnsDao/oisy-wallet"
+
+[[repo]]
 url = "https://github.com/NnsDao/podcast-fe"
+
+[[repo]]
+url = "https://github.com/NnsDao/portal"
 
 [[repo]]
 url = "https://github.com/NnsDao/promotion"

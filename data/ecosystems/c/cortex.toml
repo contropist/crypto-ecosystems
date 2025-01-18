@@ -32,12 +32,15 @@ url = "https://github.com/CortexFoundation/bee"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/bellman"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/bignumber.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/bittorrent-tracker"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/Block-Farm"
@@ -47,12 +50,17 @@ url = "https://github.com/CortexFoundation/blockscout"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/bloomfilter"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/bobo"
 
 [[repo]]
+url = "https://github.com/CortexFoundation/boojum"
+
+[[repo]]
 url = "https://github.com/CortexFoundation/caffe-int8-convert-tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/casper"
@@ -65,24 +73,32 @@ url = "https://github.com/CortexFoundation/chain"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/chihaya"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/CIPs"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/cloud-torrent"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/cockroach"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/coda"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/cola"
 
 [[repo]]
+url = "https://github.com/CortexFoundation/compress"
+
+[[repo]]
 url = "https://github.com/CortexFoundation/confluence"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/cortex-deploy"
@@ -124,6 +140,9 @@ url = "https://github.com/CortexFoundation/CortexTheseus"
 url = "https://github.com/CortexFoundation/CortexWhitePaper"
 
 [[repo]]
+url = "https://github.com/CortexFoundation/cosmos-sdk"
+
+[[repo]]
 url = "https://github.com/CortexFoundation/cpp-ethereum"
 
 [[repo]]
@@ -158,6 +177,10 @@ url = "https://github.com/CortexFoundation/DEx.top"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/dht"
+missing = true
+
+[[repo]]
+url = "https://github.com/CortexFoundation/discv4-crawl"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/discv4-dns-lists"
@@ -170,6 +193,7 @@ url = "https://github.com/CortexFoundation/EfficientNetV2"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/emmy"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/equihash"
@@ -179,21 +203,26 @@ url = "https://github.com/CortexFoundation/ethash"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/ethereum-games"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/ethereum-games-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/ethereum-org-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/ethereumj"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/ethsnarks"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/evm2wasm"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/evmc"
@@ -212,6 +241,7 @@ url = "https://github.com/CortexFoundation/faceswap-GAN"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/fastcache"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/filecache"
@@ -221,36 +251,50 @@ url = "https://github.com/CortexFoundation/franklin-crypto"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/Gluon-Detection"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/go-ethereum-classic"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/go-ethereum-hdwallet"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/go-libutp"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/go-snark"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/golang-Eos-dpos-Ethereum"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/golang-kv"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/golang-set"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/goleveldb"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/gonpy"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/googletest"
+
+[[repo]]
+url = "https://github.com/CortexFoundation/halo2"
+
+[[repo]]
+url = "https://github.com/CortexFoundation/halo2curves"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/HIP"
@@ -263,6 +307,9 @@ url = "https://github.com/CortexFoundation/hiveos-linux"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/Home-Credit-Default-Risk-rank8"
+
+[[repo]]
+url = "https://github.com/CortexFoundation/ibc-go"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/inference"
@@ -302,12 +349,14 @@ url = "https://github.com/CortexFoundation/MinerInterface"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/missinggo"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/monitor"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/MStorage"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/Multi-Style-Transfer"
@@ -317,9 +366,11 @@ url = "https://github.com/CortexFoundation/museum"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/n2n"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/ncnn"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/NLP-progress"
@@ -329,15 +380,18 @@ url = "https://github.com/CortexFoundation/node-crawler"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/node-cryptonote-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/nvidia-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/onnx"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/open-ethereum-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/open-ethereum-pool-pps"
@@ -365,12 +419,15 @@ url = "https://github.com/CortexFoundation/Poseidon252"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/ProgPOW"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/proof-of-work"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/py-ssz"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/py_mrt"
@@ -380,12 +437,15 @@ url = "https://github.com/CortexFoundation/qemu"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/QNNPACK"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/RandomX"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/react-native-tensorflow"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/remix"
@@ -398,12 +458,14 @@ url = "https://github.com/CortexFoundation/remix-project"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/rescue-poseidon"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/robot"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/roll_up"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/rosetta-cortex"
@@ -422,6 +484,7 @@ url = "https://github.com/CortexFoundation/sign-ws"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/slingshot"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/SmartDev-Contract"
@@ -431,12 +494,14 @@ url = "https://github.com/CortexFoundation/SmartWearableDeviceDemo"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/snark-relay"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/solc-bin"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/solidity-create2-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/solution"
@@ -449,6 +514,9 @@ url = "https://github.com/CortexFoundation/stylegan2-pytorch"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/StyleTransferTrilogy"
+
+[[repo]]
+url = "https://github.com/CortexFoundation/tachikoma"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/tech-doc"
@@ -464,6 +532,7 @@ url = "https://github.com/CortexFoundation/tools"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/torrent"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/torrentfs"
@@ -473,6 +542,7 @@ url = "https://github.com/CortexFoundation/tracker"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/trackerslist"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/trusted_setup"
@@ -485,12 +555,17 @@ url = "https://github.com/CortexFoundation/tvm-cvm"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/uint256"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/vaults"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/vision-transformer"
+
+[[repo]]
+url = "https://github.com/CortexFoundation/w3"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/WAGE"
@@ -500,12 +575,21 @@ url = "https://github.com/CortexFoundation/wallet"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/web3.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/web3.py"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/wiki-1"
+missing = true
+
+[[repo]]
+url = "https://github.com/CortexFoundation/wormhole"
+
+[[repo]]
+url = "https://github.com/CortexFoundation/WTF-Solidity"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/XCortex"
@@ -523,13 +607,23 @@ url = "https://github.com/CortexFoundation/z3_prover"
 url = "https://github.com/CortexFoundation/zcash"
 
 [[repo]]
+url = "https://github.com/CortexFoundation/zkcvm-mono"
+
+[[repo]]
 url = "https://github.com/CortexFoundation/ZKPlayground"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/zkr"
+missing = true
+
+[[repo]]
+url = "https://github.com/CortexFoundation/zksync-era"
 
 [[repo]]
 url = "https://github.com/CortexFoundation/ZoKrates"
+missing = true
 
 [[repo]]
 url = "https://github.com/CortexFoundation/ZoKratesPlugin"
+missing = true

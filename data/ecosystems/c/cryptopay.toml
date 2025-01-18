@@ -10,6 +10,10 @@ github_organizations = ["https://github.com/cryptopay-dev"]
 url = "https://github.com/cryptopay-dev/api-documentation"
 
 [[repo]]
+url = "https://github.com/cryptopay-dev/backstage"
+missing = true
+
+[[repo]]
 url = "https://github.com/cryptopay-dev/bitgo-cli"
 
 [[repo]]
@@ -49,6 +53,9 @@ url = "https://github.com/cryptopay-dev/cryptopay-ruby"
 url = "https://github.com/cryptopay-dev/cryptopay-virtuemart-payment-plugin"
 
 [[repo]]
+url = "https://github.com/cryptopay-dev/elixir-soap"
+
+[[repo]]
 url = "https://github.com/cryptopay-dev/entice"
 
 [[repo]]
@@ -65,12 +72,16 @@ url = "https://github.com/cryptopay-dev/helm"
 
 [[repo]]
 url = "https://github.com/cryptopay-dev/hooker"
+missing = true
 
 [[repo]]
 url = "https://github.com/cryptopay-dev/hooker_old"
 
 [[repo]]
 url = "https://github.com/cryptopay-dev/info-page"
+
+[[repo]]
+url = "https://github.com/cryptopay-dev/iso-swift"
 
 [[repo]]
 url = "https://github.com/cryptopay-dev/mv-core"
@@ -92,6 +103,9 @@ url = "https://github.com/cryptopay-dev/pony-readme"
 
 [[repo]]
 url = "https://github.com/cryptopay-dev/pushwoosh"
+
+[[repo]]
+url = "https://github.com/cryptopay-dev/release-to-jira"
 
 [[repo]]
 url = "https://github.com/cryptopay-dev/SVGKit"

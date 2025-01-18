@@ -19,6 +19,9 @@ url = "https://github.com/PRCYCoin/Bitcoin-Node-Api"
 url = "https://github.com/PRCYCoin/bitcoin-wallet-ui-vue"
 
 [[repo]]
+url = "https://github.com/PRCYCoin/btc-rpc-explorer"
+
+[[repo]]
 url = "https://github.com/PRCYCoin/ccminer"
 
 [[repo]]
@@ -26,6 +29,9 @@ url = "https://github.com/PRCYCoin/contract-metadata"
 
 [[repo]]
 url = "https://github.com/PRCYCoin/eiquidus"
+
+[[repo]]
+url = "https://github.com/PRCYCoin/electrumx"
 
 [[repo]]
 url = "https://github.com/PRCYCoin/generic-seeder"
@@ -50,9 +56,13 @@ url = "https://github.com/PRCYCoin/PRCY-android"
 
 [[repo]]
 url = "https://github.com/PRCYCoin/PRCY-iOS"
+missing = true
 
 [[repo]]
 url = "https://github.com/PRCYCoin/PRCY-mn-installer"
+
+[[repo]]
+url = "https://github.com/PRCYCoin/prcy-rpc-rs"
 
 [[repo]]
 url = "https://github.com/PRCYCoin/prcy-seeder"
@@ -65,12 +75,19 @@ url = "https://github.com/PRCYCoin/PRCYCoin"
 
 [[repo]]
 url = "https://github.com/PRCYCoin/prcycoin-detached-sigs"
+missing = true
 
 [[repo]]
 url = "https://github.com/PRCYCoin/PRCYJS"
 
 [[repo]]
 url = "https://github.com/PRCYCoin/Scripts"
+
+[[repo]]
+url = "https://github.com/PRCYCoin/Superalgos"
+
+[[repo]]
+url = "https://github.com/PRCYCoin/TelegramDiscordRelay"
 
 [[repo]]
 url = "https://github.com/PRCYCoin/web3privacy"

@@ -3,7 +3,7 @@ title = "XBacked-DAO"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/xbacked-dao", "https://github.com/xBacked-DAO"]
+github_organizations = ["https://github.com/xBacked-DAO"]
 
 # Repositories
 [[repo]]
@@ -35,3 +35,9 @@ url = "https://github.com/xBacked-DAO/xbacked-collector"
 
 [[repo]]
 url = "https://github.com/xBacked-DAO/xbacked-sdk"
+
+[[repo]]
+url = "https://github.com/xBacked-DAO/xbacked-zap-sdk"
+
+[[repo]]
+url = "https://github.com/xBacked-DAO/xGov"

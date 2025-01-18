@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/polkamon"]
 # Repositories
 [[repo]]
 url = "https://github.com/polkamon/dev-infrastructure"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkamon/gatsby-plugin-windicss"
@@ -26,6 +27,7 @@ url = "https://github.com/polkamon/heroku-redirect"
 
 [[repo]]
 url = "https://github.com/polkamon/Medium-tables"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkamon/nft-sales-adapters"
@@ -38,3 +40,6 @@ url = "https://github.com/polkamon/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/polkamon/solana-web3.js"
+
+[[repo]]
+url = "https://github.com/polkamon/wallet-connect-example"

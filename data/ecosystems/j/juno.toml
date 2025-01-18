@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Juno"
 
-sub_ecosystems = []
+sub_ecosystems = ["Andromeda", "Notional Labs", "White Whale"]
 
 github_organizations = ["https://github.com/CosmosContracts"]
 
@@ -25,10 +25,16 @@ url = "https://github.com/CosmosContracts/contract-templates"
 url = "https://github.com/CosmosContracts/cosmos-discord-faucet"
 
 [[repo]]
+url = "https://github.com/CosmosContracts/cosmos-proposal-maker"
+
+[[repo]]
 url = "https://github.com/CosmosContracts/cosmostation_token_resource"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/cosmverse"
+
+[[repo]]
+url = "https://github.com/CosmosContracts/council"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/cw-unity-prop"
@@ -41,6 +47,9 @@ url = "https://github.com/CosmosContracts/docs"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/ecosystem-test"
+
+[[repo]]
+url = "https://github.com/CosmosContracts/elections"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/faucet"
@@ -103,6 +112,9 @@ url = "https://github.com/CosmosContracts/neta-airdrop"
 url = "https://github.com/CosmosContracts/neta-frontend"
 
 [[repo]]
+url = "https://github.com/CosmosContracts/old-website"
+
+[[repo]]
 url = "https://github.com/CosmosContracts/osmosis-frontend"
 
 [[repo]]
@@ -118,6 +130,9 @@ url = "https://github.com/CosmosContracts/starport"
 url = "https://github.com/CosmosContracts/starter-kit"
 
 [[repo]]
+url = "https://github.com/CosmosContracts/stride-pol"
+
+[[repo]]
 url = "https://github.com/CosmosContracts/subDAOs"
 
 [[repo]]
@@ -125,6 +140,7 @@ url = "https://github.com/CosmosContracts/supply-info-api"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/teritori-chain-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/CosmosContracts/testnets"
@@ -140,6 +156,9 @@ url = "https://github.com/CosmosContracts/token-factory"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/tokenfactory-contracts"
+
+[[repo]]
+url = "https://github.com/CosmosContracts/tokenfactory-ui"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/ts-relayer"
@@ -158,6 +177,7 @@ url = "https://github.com/CosmosContracts/wasmd"
 
 [[repo]]
 url = "https://github.com/CosmosContracts/website"
+missing = true
 
 [[repo]]
 url = "https://github.com/CosmosContracts/whisper"

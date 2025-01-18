@@ -76,7 +76,19 @@ url = "https://github.com/dxos/actions-dashboard"
 url = "https://github.com/dxos/arena"
 
 [[repo]]
+url = "https://github.com/dxos/arena-app"
+
+[[repo]]
+url = "https://github.com/dxos/automerge"
+
+[[repo]]
+url = "https://github.com/dxos/automerge-repo"
+
+[[repo]]
 url = "https://github.com/dxos/benchmark-suite"
+
+[[repo]]
+url = "https://github.com/dxos/bounties"
 
 [[repo]]
 url = "https://github.com/dxos/browser-runner"
@@ -91,16 +103,23 @@ url = "https://github.com/dxos/codec-protobuf"
 url = "https://github.com/dxos/console"
 
 [[repo]]
+url = "https://github.com/dxos/contacts-app"
+
+[[repo]]
 url = "https://github.com/dxos/dind-actions-runners"
 
 [[repo]]
 url = "https://github.com/dxos/discovery-swarm-webrtc"
 
 [[repo]]
+url = "https://github.com/dxos/dlmalloc-rs"
+
+[[repo]]
 url = "https://github.com/dxos/dockerpi"
 
 [[repo]]
 url = "https://github.com/dxos/dxns"
+missing = true
 
 [[repo]]
 url = "https://github.com/dxos/dxns-cosmos"
@@ -119,6 +138,7 @@ url = "https://github.com/dxos/feed-level-indexer"
 
 [[repo]]
 url = "https://github.com/dxos/frame-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/dxos/fu"
@@ -127,7 +147,20 @@ url = "https://github.com/dxos/fu"
 url = "https://github.com/dxos/gem"
 
 [[repo]]
+url = "https://github.com/dxos/ghost"
+missing = true
+
+[[repo]]
+url = "https://github.com/dxos/ghost-theme"
+
+[[repo]]
+url = "https://github.com/dxos/ghost-theme-ruby-dark"
+
+[[repo]]
 url = "https://github.com/dxos/gravity"
+
+[[repo]]
+url = "https://github.com/dxos/hello"
 
 [[repo]]
 url = "https://github.com/dxos/hypercore-protocol"
@@ -155,6 +188,12 @@ url = "https://github.com/dxos/metrics"
 
 [[repo]]
 url = "https://github.com/dxos/mobile-playground"
+
+[[repo]]
+url = "https://github.com/dxos/native"
+
+[[repo]]
+url = "https://github.com/dxos/openfaas-node18-dxos"
 
 [[repo]]
 url = "https://github.com/dxos/pi-gen"
@@ -190,7 +229,13 @@ url = "https://github.com/dxos/release-please-action"
 url = "https://github.com/dxos/sandbox"
 
 [[repo]]
+url = "https://github.com/dxos/shared-counter"
+
+[[repo]]
 url = "https://github.com/dxos/simple-hypercore-protocol"
+
+[[repo]]
+url = "https://github.com/dxos/template-plugin"
 
 [[repo]]
 url = "https://github.com/dxos/templates"
@@ -209,3 +254,9 @@ url = "https://github.com/dxos/vite"
 
 [[repo]]
 url = "https://github.com/dxos/web"
+
+[[repo]]
+url = "https://github.com/dxos/wrtc"
+
+[[repo]]
+url = "https://github.com/dxos/zsh"

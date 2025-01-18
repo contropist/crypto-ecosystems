@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/celer-network"]
 url = "https://github.com/celer-network/accept-sdk-ios"
 
 [[repo]]
+url = "https://github.com/celer-network/AEADs"
+
+[[repo]]
 url = "https://github.com/celer-network/Appium-Auto-test"
 
 [[repo]]
@@ -28,10 +31,17 @@ url = "https://github.com/celer-network/brevis-circuits"
 url = "https://github.com/celer-network/brevis-contracts"
 
 [[repo]]
+url = "https://github.com/celer-network/brevis-contracts-deprecated"
+
+[[repo]]
+url = "https://github.com/celer-network/bridges-server"
+
+[[repo]]
 url = "https://github.com/celer-network/bsc-relayer"
 
 [[repo]]
 url = "https://github.com/celer-network/cadence"
+missing = true
 
 [[repo]]
 url = "https://github.com/celer-network/cApps-eth"
@@ -62,15 +72,18 @@ url = "https://github.com/celer-network/cChannel-substrate"
 
 [[repo]]
 url = "https://github.com/celer-network/Celer-Android-SDK"
+missing = true
 
 [[repo]]
 url = "https://github.com/celer-network/celer-client"
 
 [[repo]]
 url = "https://github.com/celer-network/celer-ios-game-sdk-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/celer-network/Celer-iOS-SDK"
+missing = true
 
 [[repo]]
 url = "https://github.com/celer-network/celer-light-client"
@@ -83,6 +96,7 @@ url = "https://github.com/celer-network/celer-token-contracts"
 
 [[repo]]
 url = "https://github.com/celer-network/celer-unity-android-game-sdk-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/celer-network/Celer-Web-SDK"
@@ -110,6 +124,7 @@ url = "https://github.com/celer-network/cocos2d-x"
 
 [[repo]]
 url = "https://github.com/celer-network/common-constants"
+missing = true
 
 [[repo]]
 url = "https://github.com/celer-network/contract_addresses"
@@ -118,10 +133,16 @@ url = "https://github.com/celer-network/contract_addresses"
 url = "https://github.com/celer-network/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/celer-network/curve25519-dalek"
+
+[[repo]]
 url = "https://github.com/celer-network/defi-pooling-broker-contracts"
 
 [[repo]]
 url = "https://github.com/celer-network/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/celer-network/defillama-sdk"
 
 [[repo]]
 url = "https://github.com/celer-network/endpoint-proxy"
@@ -130,16 +151,32 @@ url = "https://github.com/celer-network/endpoint-proxy"
 url = "https://github.com/celer-network/eth-services"
 
 [[repo]]
+url = "https://github.com/celer-network/flowkit"
+
+[[repo]]
 url = "https://github.com/celer-network/gnark"
 
 [[repo]]
+url = "https://github.com/celer-network/gnark-1"
+
+[[repo]]
+url = "https://github.com/celer-network/gnark-1-gpu"
+
+[[repo]]
 url = "https://github.com/celer-network/gnark-bench"
+missing = true
 
 [[repo]]
 url = "https://github.com/celer-network/gnark-circomlib"
 
 [[repo]]
 url = "https://github.com/celer-network/gnark-crypto"
+
+[[repo]]
+url = "https://github.com/celer-network/go-ethereum"
+
+[[repo]]
+url = "https://github.com/celer-network/go-ord-tx"
 
 [[repo]]
 url = "https://github.com/celer-network/go-rollup"
@@ -152,6 +189,7 @@ url = "https://github.com/celer-network/goutils"
 
 [[repo]]
 url = "https://github.com/celer-network/grpc-swift"
+missing = true
 
 [[repo]]
 url = "https://github.com/celer-network/halo2"
@@ -163,6 +201,9 @@ url = "https://github.com/celer-network/hashi"
 url = "https://github.com/celer-network/hop"
 
 [[repo]]
+url = "https://github.com/celer-network/icicle"
+
+[[repo]]
 url = "https://github.com/celer-network/im-executor"
 
 [[repo]]
@@ -170,6 +211,9 @@ url = "https://github.com/celer-network/im-guardian"
 
 [[repo]]
 url = "https://github.com/celer-network/Interface_automation-Robot_framework"
+
+[[repo]]
+url = "https://github.com/celer-network/l2-lxp-liquidity-reward"
 
 [[repo]]
 url = "https://github.com/celer-network/l2beat"
@@ -193,6 +237,9 @@ url = "https://github.com/celer-network/lens"
 url = "https://github.com/celer-network/Liquidity-Backing"
 
 [[repo]]
+url = "https://github.com/celer-network/merkle-patricia-trie"
+
+[[repo]]
 url = "https://github.com/celer-network/message-app-examples"
 
 [[repo]]
@@ -206,6 +253,10 @@ url = "https://github.com/celer-network/nft-bridge-contracts"
 
 [[repo]]
 url = "https://github.com/celer-network/NODE-GOOGLE_SHEETS"
+missing = true
+
+[[repo]]
+url = "https://github.com/celer-network/Nova"
 
 [[repo]]
 url = "https://github.com/celer-network/osp-explorer"
@@ -215,6 +266,9 @@ url = "https://github.com/celer-network/paysafe_sdk_ios"
 
 [[repo]]
 url = "https://github.com/celer-network/pb3-gen-sol"
+
+[[repo]]
+url = "https://github.com/celer-network/peggedassets-server"
 
 [[repo]]
 url = "https://github.com/celer-network/peti-rfq-contract"
@@ -254,6 +308,7 @@ url = "https://github.com/celer-network/sgn-v2-networks"
 
 [[repo]]
 url = "https://github.com/celer-network/sgnv2"
+missing = true
 
 [[repo]]
 url = "https://github.com/celer-network/sha256-prover-comparison"
@@ -269,6 +324,7 @@ url = "https://github.com/celer-network/snapshot-strategies"
 
 [[repo]]
 url = "https://github.com/celer-network/snapshot.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/celer-network/stripe-ios"
@@ -280,6 +336,9 @@ url = "https://github.com/celer-network/sui"
 url = "https://github.com/celer-network/tendermint"
 
 [[repo]]
+url = "https://github.com/celer-network/tendermint-temp"
+
+[[repo]]
 url = "https://github.com/celer-network/tm-db"
 
 [[repo]]
@@ -287,6 +346,10 @@ url = "https://github.com/celer-network/tofu-contracts"
 
 [[repo]]
 url = "https://github.com/celer-network/token-profile"
+missing = true
+
+[[repo]]
+url = "https://github.com/celer-network/ts-grpc-example"
 
 [[repo]]
 url = "https://github.com/celer-network/web3modal"

@@ -7,7 +7,28 @@ github_organizations = ["https://github.com/dialectlabs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/dialectlabs/actions"
+
+[[repo]]
+url = "https://github.com/dialectlabs/actions-examples"
+
+[[repo]]
+url = "https://github.com/dialectlabs/actions-ui"
+
+[[repo]]
 url = "https://github.com/dialectlabs/backpack"
+
+[[repo]]
+url = "https://github.com/dialectlabs/bitcoin-donate-actions"
+
+[[repo]]
+url = "https://github.com/dialectlabs/blinks"
+
+[[repo]]
+url = "https://github.com/dialectlabs/blinks-chrome-extension"
+
+[[repo]]
+url = "https://github.com/dialectlabs/blinks-react-native"
 
 [[repo]]
 url = "https://github.com/dialectlabs/cli"
@@ -26,9 +47,13 @@ url = "https://github.com/dialectlabs/dart-web3"
 
 [[repo]]
 url = "https://github.com/dialectlabs/data-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/dialectlabs/dialect"
+
+[[repo]]
+url = "https://github.com/dialectlabs/digital-asset-rpc-infrastructure"
 
 [[repo]]
 url = "https://github.com/dialectlabs/governance-api"
@@ -53,6 +78,7 @@ url = "https://github.com/dialectlabs/jet-monitoring-service"
 
 [[repo]]
 url = "https://github.com/dialectlabs/jet-v1"
+missing = true
 
 [[repo]]
 url = "https://github.com/dialectlabs/jupiter-monitoring-service"
@@ -112,13 +138,20 @@ url = "https://github.com/dialectlabs/sdk"
 url = "https://github.com/dialectlabs/smart-messaging"
 
 [[repo]]
+url = "https://github.com/dialectlabs/solana-actions"
+
+[[repo]]
 url = "https://github.com/dialectlabs/solana-monitoring-service"
 
 [[repo]]
 url = "https://github.com/dialectlabs/spec"
 
 [[repo]]
+url = "https://github.com/dialectlabs/superbasedd-actions"
+
+[[repo]]
 url = "https://github.com/dialectlabs/tribeca-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/dialectlabs/tribeca-monitoring-service"

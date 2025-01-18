@@ -3,11 +3,12 @@ title = "Honey Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/honey-labs", "https://github.com/honey-protocol"]
+github_organizations = ["https://github.com/Honey-Labs", "https://github.com/honey-protocol"]
 
 # Repositories
 [[repo]]
 url = "https://github.com/honey-labs/honey-p2p-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/honey-protocol/.github"
@@ -83,6 +84,9 @@ url = "https://github.com/honey-protocol/staking-dapp"
 
 [[repo]]
 url = "https://github.com/honey-protocol/staking-ui"
+
+[[repo]]
+url = "https://github.com/honey-protocol/Subgraph-EVM-Loans-V2"
 
 [[repo]]
 url = "https://github.com/honey-protocol/token-list"

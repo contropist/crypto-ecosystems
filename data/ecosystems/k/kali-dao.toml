@@ -19,10 +19,19 @@ url = "https://github.com/kalidao/Baal"
 url = "https://github.com/kalidao/chapter_1_season_3"
 
 [[repo]]
+url = "https://github.com/kalidao/deal"
+
+[[repo]]
+url = "https://github.com/kalidao/draft"
+
+[[repo]]
 url = "https://github.com/kalidao/ERC1155V"
 
 [[repo]]
 url = "https://github.com/kalidao/hooks"
+
+[[repo]]
+url = "https://github.com/kalidao/kali-berger"
 
 [[repo]]
 url = "https://github.com/kalidao/kali-contracts"
@@ -38,6 +47,9 @@ url = "https://github.com/kalidao/kali-landing"
 
 [[repo]]
 url = "https://github.com/kalidao/kali-legal"
+
+[[repo]]
+url = "https://github.com/kalidao/kali-markets"
 
 [[repo]]
 url = "https://github.com/kalidao/kali-subgraph"
@@ -64,6 +76,9 @@ url = "https://github.com/kalidao/kplate-ui"
 url = "https://github.com/kalidao/landing"
 
 [[repo]]
+url = "https://github.com/kalidao/lextek"
+
+[[repo]]
 url = "https://github.com/kalidao/locker"
 
 [[repo]]
@@ -80,6 +95,9 @@ url = "https://github.com/kalidao/reality"
 
 [[repo]]
 url = "https://github.com/kalidao/ricardian-subgraph"
+
+[[repo]]
+url = "https://github.com/kalidao/signeth"
 
 [[repo]]
 url = "https://github.com/kalidao/tribute-router"

@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/FigureTechnologies"]
 # Repositories
 [[repo]]
 url = "https://github.com/FigureTechnologies/aggregate-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/asset-classification-libs"
@@ -23,6 +24,7 @@ url = "https://github.com/FigureTechnologies/ats-smart-contract"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/backstage"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/blockchain-explorer"
@@ -34,19 +36,25 @@ url = "https://github.com/FigureTechnologies/cac_calibrate"
 url = "https://github.com/FigureTechnologies/cosmwasm"
 
 [[repo]]
+url = "https://github.com/FigureTechnologies/devops-skills-assessment"
+
+[[repo]]
 url = "https://github.com/FigureTechnologies/digital-currency-consortium"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/digital-currency-consortium-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/easy-peasy-slash-command-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/empty-smart-contract-template"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/eth-ecies"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/event-stream"
@@ -65,6 +73,7 @@ url = "https://github.com/FigureTechnologies/fabric-sdk-java"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/figure-wallet-extension"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/flutter-cupertino-date-picker"
@@ -79,13 +88,23 @@ url = "https://github.com/FigureTechnologies/flutter_fullpdfview"
 url = "https://github.com/FigureTechnologies/forge.pb"
 
 [[repo]]
+url = "https://github.com/FigureTechnologies/forward-market-smart-contract"
+
+[[repo]]
 url = "https://github.com/FigureTechnologies/frontend-asset-classification"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/frontend-asset-manager"
+missing = true
+
+[[repo]]
+url = "https://github.com/FigureTechnologies/frontend-interview-starter"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/ft-coroutines"
+
+[[repo]]
+url = "https://github.com/FigureTechnologies/funding-trading-bridge-smart-contract"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/gas-price-service"
@@ -133,6 +152,10 @@ url = "https://github.com/FigureTechnologies/konga"
 url = "https://github.com/FigureTechnologies/kotlin-xml-builder"
 
 [[repo]]
+url = "https://github.com/FigureTechnologies/kubernetes-ingress-controller"
+missing = true
+
+[[repo]]
 url = "https://github.com/FigureTechnologies/kubernetes-kafka"
 
 [[repo]]
@@ -143,6 +166,9 @@ url = "https://github.com/FigureTechnologies/marketpalace-capital-call-contract"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/marketpalace-raise-contract"
+
+[[repo]]
+url = "https://github.com/FigureTechnologies/marketpalace-securitization-contract"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/marketpalace-subscription-contract"
@@ -164,24 +190,29 @@ url = "https://github.com/FigureTechnologies/p8e-docker-compose-1"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/plnet"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/plnet-af"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/plugin-image-zoom"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/processor-clear-capital"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/protobuf-gradle-plugin"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/provenance-code-extension"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/provenance-eventstream-legacy-kotlin"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/qpl"
@@ -193,7 +224,11 @@ url = "https://github.com/FigureTechnologies/qr_code_scanner"
 url = "https://github.com/FigureTechnologies/restricted-marker-transfer-smart-contract"
 
 [[repo]]
+url = "https://github.com/FigureTechnologies/riverpod_infinite_scroll"
+
+[[repo]]
 url = "https://github.com/FigureTechnologies/service-asset-onboarding"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/terraform-aws-eks"
@@ -206,6 +241,7 @@ url = "https://github.com/FigureTechnologies/validation-oracle-smart-contract"
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/vm-utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/FigureTechnologies/walletconnect-monorepo"

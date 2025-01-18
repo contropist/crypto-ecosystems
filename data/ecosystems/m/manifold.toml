@@ -7,7 +7,11 @@ github_organizations = ["https://github.com/manifoldxyz"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/manifoldxyz/.github"
+
+[[repo]]
 url = "https://github.com/manifoldxyz/Akutar"
+missing = true
 
 [[repo]]
 url = "https://github.com/manifoldxyz/cloudflare-cloudinary-proxy"
@@ -37,13 +41,20 @@ url = "https://github.com/manifoldxyz/ffprobe-static"
 url = "https://github.com/manifoldxyz/foundry-bin"
 
 [[repo]]
+url = "https://github.com/manifoldxyz/indexer"
+
+[[repo]]
 url = "https://github.com/manifoldxyz/libraries-solidity"
+
+[[repo]]
+url = "https://github.com/manifoldxyz/manifold-brand"
 
 [[repo]]
 url = "https://github.com/manifoldxyz/manifold-templates"
 
 [[repo]]
 url = "https://github.com/manifoldxyz/manifold-tutorials"
+missing = true
 
 [[repo]]
 url = "https://github.com/manifoldxyz/manifold-widget-wrappers"
@@ -61,4 +72,10 @@ url = "https://github.com/manifoldxyz/royalty-registry-client"
 url = "https://github.com/manifoldxyz/royalty-registry-solidity"
 
 [[repo]]
+url = "https://github.com/manifoldxyz/sponsored-claims"
+
+[[repo]]
 url = "https://github.com/manifoldxyz/token-owned-wallet-solidity"
+
+[[repo]]
+url = "https://github.com/manifoldxyz/widget-wrappers"

@@ -8,9 +8,23 @@ github_organizations = ["https://github.com/desmos-labs", "https://github.com/fo
 # Repositories
 [[repo]]
 url = "https://github.com/desmos-labs/app-desmos"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/assetlists"
+missing = true
+
+[[repo]]
+url = "https://github.com/desmos-labs/athena"
+
+[[repo]]
+url = "https://github.com/desmos-labs/bdjuno"
+
+[[repo]]
+url = "https://github.com/desmos-labs/bondscape-website"
+
+[[repo]]
+url = "https://github.com/desmos-labs/caerus"
 
 [[repo]]
 url = "https://github.com/desmos-labs/chain-link-tool"
@@ -25,7 +39,11 @@ url = "https://github.com/desmos-labs/community-incentive"
 url = "https://github.com/desmos-labs/contract-utils"
 
 [[repo]]
+url = "https://github.com/desmos-labs/contracts-bindings"
+
+[[repo]]
 url = "https://github.com/desmos-labs/cosmjs"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/cosmos-go-wallet"
@@ -35,12 +53,21 @@ url = "https://github.com/desmos-labs/cosmos-sdk"
 
 [[repo]]
 url = "https://github.com/desmos-labs/cosmos-tool"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/cosmwasm-advisories"
+missing = true
+
+[[repo]]
+url = "https://github.com/desmos-labs/cross-chain-link-contracts"
+
+[[repo]]
+url = "https://github.com/desmos-labs/cross-chain-link-contracts-demo"
 
 [[repo]]
 url = "https://github.com/desmos-labs/cw-nfts"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/cw-plus"
@@ -65,6 +92,7 @@ url = "https://github.com/desmos-labs/desmos-contracts"
 
 [[repo]]
 url = "https://github.com/desmos-labs/discord-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/djuno"
@@ -79,25 +107,36 @@ url = "https://github.com/desmos-labs/docs"
 url = "https://github.com/desmos-labs/dpm"
 
 [[repo]]
+url = "https://github.com/desmos-labs/dpm-apis"
+
+[[repo]]
 url = "https://github.com/desmos-labs/faucet"
 
 [[repo]]
 url = "https://github.com/desmos-labs/gaia"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/gaia-goz"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/go-bitsong"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/Go-Emoji-Utils"
 
 [[repo]]
 url = "https://github.com/desmos-labs/go-key-manager"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/go-w3s-client"
+
+[[repo]]
+url = "https://github.com/desmos-labs/gogoproto"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/grants"
@@ -110,15 +149,18 @@ url = "https://github.com/desmos-labs/hephaestus"
 
 [[repo]]
 url = "https://github.com/desmos-labs/ibc-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/ibc-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/introduction"
 
 [[repo]]
 url = "https://github.com/desmos-labs/keplr-chain-registry"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/ledger-desmos"
@@ -128,6 +170,7 @@ url = "https://github.com/desmos-labs/ledger-desmos-go"
 
 [[repo]]
 url = "https://github.com/desmos-labs/ledger-desmos-obsolete"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/mainnet"
@@ -142,13 +185,22 @@ url = "https://github.com/desmos-labs/mooncake"
 url = "https://github.com/desmos-labs/mooncake-analytics"
 
 [[repo]]
+url = "https://github.com/desmos-labs/mooncake-website"
+
+[[repo]]
 url = "https://github.com/desmos-labs/morpheus"
 
 [[repo]]
+url = "https://github.com/desmos-labs/osmosis"
+missing = true
+
+[[repo]]
 url = "https://github.com/desmos-labs/osmosis-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/pbjson"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/plutus-apis"
@@ -164,15 +216,19 @@ url = "https://github.com/desmos-labs/proposer-monitor"
 
 [[repo]]
 url = "https://github.com/desmos-labs/protojs"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/relayer"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/restake"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/scoreboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/soteria"
@@ -191,15 +247,18 @@ url = "https://github.com/desmos-labs/themis"
 
 [[repo]]
 url = "https://github.com/desmos-labs/ts-relayer"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/validators-program-rewards"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/walletconnect-examples"
 
 [[repo]]
 url = "https://github.com/desmos-labs/wasmd"
+missing = true
 
 [[repo]]
 url = "https://github.com/desmos-labs/website"
@@ -209,6 +268,9 @@ url = "https://github.com/desmos-labs/xenia"
 
 [[repo]]
 url = "https://github.com/forbole/accounts-bootstrap"
+
+[[repo]]
+url = "https://github.com/forbole/agoric-sdk"
 
 [[repo]]
 url = "https://github.com/forbole/agoric-validator-profiles"
@@ -223,7 +285,14 @@ url = "https://github.com/forbole/akash-net"
 url = "https://github.com/forbole/amber-network-entities"
 
 [[repo]]
+url = "https://github.com/forbole/apisix-go-plugin-runner"
+missing = true
+
+[[repo]]
 url = "https://github.com/forbole/awesome-akash"
+
+[[repo]]
+url = "https://github.com/forbole/babylon-networks"
 
 [[repo]]
 url = "https://github.com/forbole/band-launch"
@@ -301,6 +370,9 @@ url = "https://github.com/forbole/bookkeeper"
 url = "https://github.com/forbole/bot_monitor"
 
 [[repo]]
+url = "https://github.com/forbole/callisto"
+
+[[repo]]
 url = "https://github.com/forbole/careers"
 
 [[repo]]
@@ -371,6 +443,7 @@ url = "https://github.com/forbole/forbole-x-extension-react"
 
 [[repo]]
 url = "https://github.com/forbole/forbole-x-mobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/forbole/forboled"
@@ -401,6 +474,7 @@ url = "https://github.com/forbole/GhostSDK"
 
 [[repo]]
 url = "https://github.com/forbole/go-migrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/forbole/ibcjuno"
@@ -439,6 +513,12 @@ url = "https://github.com/forbole/mrm-preset-forbole-rn"
 url = "https://github.com/forbole/multiversx"
 
 [[repo]]
+url = "https://github.com/forbole/namada-mainnet-genesis"
+
+[[repo]]
+url = "https://github.com/forbole/namadajuno"
+
+[[repo]]
 url = "https://github.com/forbole/njuno"
 
 [[repo]]
@@ -446,6 +526,7 @@ url = "https://github.com/forbole/oasis-mainnet-entities"
 
 [[repo]]
 url = "https://github.com/forbole/official-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/forbole/omniflix-mainnet"
@@ -470,6 +551,9 @@ url = "https://github.com/forbole/rust-cross-containers"
 
 [[repo]]
 url = "https://github.com/forbole/sentinel-big_dipper"
+
+[[repo]]
+url = "https://github.com/forbole/smartstake-relayers"
 
 [[repo]]
 url = "https://github.com/forbole/solana"
@@ -512,6 +596,7 @@ url = "https://github.com/forbole/substrate-exporter"
 
 [[repo]]
 url = "https://github.com/forbole/substrate-validator-exporter"
+missing = true
 
 [[repo]]
 url = "https://github.com/forbole/Tank"
@@ -551,9 +636,13 @@ url = "https://github.com/forbole/uglifyjs2"
 
 [[repo]]
 url = "https://github.com/forbole/UI-UX"
+missing = true
 
 [[repo]]
 url = "https://github.com/forbole/UIUX"
+
+[[repo]]
+url = "https://github.com/forbole/validator-assets"
 
 [[repo]]
 url = "https://github.com/forbole/validator-profiles"
@@ -569,3 +658,6 @@ url = "https://github.com/forbole/website"
 
 [[repo]]
 url = "https://github.com/forbole/wormhole-networks"
+
+[[repo]]
+url = "https://github.com/forbole/xion-staking"

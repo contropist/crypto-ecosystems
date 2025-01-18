@@ -23,6 +23,7 @@ url = "https://github.com/boltlabs-inc/dialectic"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/dialectic-examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/emp-ag2pc"
@@ -41,9 +42,13 @@ url = "https://github.com/boltlabs-inc/ff"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/key-mgmt"
+missing = true
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/key-mgmt-demo"
+
+[[repo]]
+url = "https://github.com/boltlabs-inc/key-mgmt-registry"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/key-mgmt-spec"
@@ -56,6 +61,7 @@ url = "https://github.com/boltlabs-inc/libbolt-go"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/libra"
+missing = true
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/librustzcash"
@@ -104,6 +110,12 @@ url = "https://github.com/boltlabs-inc/update-state"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/vesta"
+
+[[repo]]
+url = "https://github.com/boltlabs-inc/waggle"
+
+[[repo]]
+url = "https://github.com/boltlabs-inc/waggle-lk"
 
 [[repo]]
 url = "https://github.com/boltlabs-inc/wagyu"

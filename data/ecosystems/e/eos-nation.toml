@@ -13,6 +13,9 @@ url = "https://github.com/EOS-Nation/action-return-value"
 url = "https://github.com/EOS-Nation/Ambassadors"
 
 [[repo]]
+url = "https://github.com/EOS-Nation/antelope-nodeos-5-0-grafana"
+
+[[repo]]
 url = "https://github.com/EOS-Nation/auditor.bos"
 
 [[repo]]
@@ -23,6 +26,7 @@ url = "https://github.com/EOS-Nation/bancor-stats"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/bancor20x"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/bancorx"
@@ -146,9 +150,11 @@ url = "https://github.com/EOS-Nation/eden-check"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/ens"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/ens-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-bios-config"
@@ -173,18 +179,26 @@ url = "https://github.com/EOS-Nation/eos-detective-data"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-detective-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-detective-lang"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-encrypt"
+
+[[repo]]
+url = "https://github.com/EOS-Nation/eos-evm"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-go"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-mainnet-powerup"
+
+[[repo]]
+url = "https://github.com/EOS-Nation/eos-network-resources"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-receipt"
@@ -196,7 +210,20 @@ url = "https://github.com/EOS-Nation/eos-receipt-UI"
 url = "https://github.com/EOS-Nation/eos-resources"
 
 [[repo]]
+url = "https://github.com/EOS-Nation/eos-rex-2.0"
+
+[[repo]]
+url = "https://github.com/EOS-Nation/eos-rex-js"
+
+[[repo]]
+url = "https://github.com/EOS-Nation/eos-system-contracts"
+
+[[repo]]
+url = "https://github.com/EOS-Nation/eos-tokenomics"
+
+[[repo]]
 url = "https://github.com/EOS-Nation/eos-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eos-wps"
@@ -212,6 +239,7 @@ url = "https://github.com/EOS-Nation/EOScholar-Testnet"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eosio-names"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eosio-protocol"
@@ -244,6 +272,10 @@ url = "https://github.com/EOS-Nation/eosio.lost"
 url = "https://github.com/EOS-Nation/eosio.msig"
 
 [[repo]]
+url = "https://github.com/EOS-Nation/eosio.vault"
+missing = true
+
+[[repo]]
 url = "https://github.com/EOS-Nation/eosio.yield"
 
 [[repo]]
@@ -251,6 +283,7 @@ url = "https://github.com/EOS-Nation/eosio.yield-stats"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eosn-proxy"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/eosn-torch"
@@ -442,10 +475,17 @@ url = "https://github.com/EOS-Nation/substreams-nodejs-examples"
 url = "https://github.com/EOS-Nation/tropical-example-web-app"
 
 [[repo]]
+url = "https://github.com/EOS-Nation/v3.3.0-upgrade"
+
+[[repo]]
+url = "https://github.com/EOS-Nation/v3.4.0-upgrade"
+
+[[repo]]
 url = "https://github.com/EOS-Nation/vue-ts-eostransit-bootstrap-boilerplate"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/wax-delphioracle"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/waxguilds"
@@ -461,6 +501,7 @@ url = "https://github.com/EOS-Nation/worbli-testnet"
 
 [[repo]]
 url = "https://github.com/EOS-Nation/xnation-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/EOS-Nation/xy-network"

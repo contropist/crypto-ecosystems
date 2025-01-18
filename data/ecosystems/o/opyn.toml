@@ -77,12 +77,14 @@ url = "https://github.com/opynfinance/OGP"
 
 [[repo]]
 url = "https://github.com/opynfinance/opyn-0x-market-maker"
+missing = true
 
 [[repo]]
 url = "https://github.com/opynfinance/opyn-analytics"
 
 [[repo]]
 url = "https://github.com/opynfinance/Opyn-CeFi-Bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/opynfinance/Opyn-GitBooks-Docs"
@@ -92,12 +94,14 @@ url = "https://github.com/opynfinance/opyn-reward"
 
 [[repo]]
 url = "https://github.com/opynfinance/Opyn-Templates"
+missing = true
 
 [[repo]]
 url = "https://github.com/opynfinance/opyn-tokenlist"
 
 [[repo]]
 url = "https://github.com/opynfinance/opynv2-kpi"
+missing = true
 
 [[repo]]
 url = "https://github.com/opynfinance/paradigmco-sdk"
@@ -109,18 +113,10 @@ url = "https://github.com/opynfinance/paradigmco-settlement-contracts"
 url = "https://github.com/opynfinance/perp-vault-templates"
 
 [[repo]]
-url = "https://github.com/opynfinance/PerpVault"
-missing = true
-
-[[repo]]
 url = "https://github.com/opynfinance/ProjectTemplate"
 
 [[repo]]
 url = "https://github.com/opynfinance/react-performance"
-
-[[repo]]
-url = "https://github.com/opynfinance/scaffold-eth"
-missing = true
 
 [[repo]]
 url = "https://github.com/opynfinance/simple-security-toolkit"

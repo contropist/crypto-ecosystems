@@ -7,7 +7,14 @@ github_organizations = ["https://github.com/statechannels"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/statechannels/account-abstraction"
+missing = true
+
+[[repo]]
 url = "https://github.com/statechannels/apps"
+
+[[repo]]
+url = "https://github.com/statechannels/boost"
 
 [[repo]]
 url = "https://github.com/statechannels/buntdb"
@@ -28,6 +35,17 @@ url = "https://github.com/statechannels/dispute-game"
 url = "https://github.com/statechannels/exit-format"
 
 [[repo]]
+url = "https://github.com/statechannels/foundry-toolchain"
+missing = true
+
+[[repo]]
+url = "https://github.com/statechannels/go-crypto"
+missing = true
+
+[[repo]]
+url = "https://github.com/statechannels/go-ethereum"
+
+[[repo]]
 url = "https://github.com/statechannels/go-nitro"
 
 [[repo]]
@@ -43,6 +61,10 @@ url = "https://github.com/statechannels/hardhat-docker"
 url = "https://github.com/statechannels/legacy-packages"
 
 [[repo]]
+url = "https://github.com/statechannels/lotus"
+missing = true
+
+[[repo]]
 url = "https://github.com/statechannels/native-utils"
 
 [[repo]]
@@ -56,6 +78,10 @@ url = "https://github.com/statechannels/nitro-protocol"
 
 [[repo]]
 url = "https://github.com/statechannels/nitro-rpc-client"
+missing = true
+
+[[repo]]
+url = "https://github.com/statechannels/nitro-smart-contract-wallet"
 
 [[repo]]
 url = "https://github.com/statechannels/nitro-tutorial"
@@ -71,6 +97,9 @@ url = "https://github.com/statechannels/research.statechannels.org"
 
 [[repo]]
 url = "https://github.com/statechannels/SAFE-protocol"
+
+[[repo]]
+url = "https://github.com/statechannels/SCBridge-Wallet"
 
 [[repo]]
 url = "https://github.com/statechannels/solidoc"

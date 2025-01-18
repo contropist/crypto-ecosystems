@@ -22,19 +22,30 @@ url = "https://github.com/jelly-swap/jelly-tron-htlc"
 url = "https://github.com/liquality/near-htlc-contracts"
 
 [[repo]]
+url = "https://github.com/weichain/aleo-client"
+
+[[repo]]
 url = "https://github.com/weichain/Artion-Client"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/Artion-Contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/Artion-Server"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/Artion-trackers"
+missing = true
+
+[[repo]]
+url = "https://github.com/weichain/ascendia-release"
 
 [[repo]]
 url = "https://github.com/weichain/atomicagent"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/brand"
@@ -44,6 +55,7 @@ url = "https://github.com/weichain/cal-generator"
 
 [[repo]]
 url = "https://github.com/weichain/chainabstractionlayer"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/chainbridge-ui"
@@ -56,12 +68,29 @@ url = "https://github.com/weichain/credefi-contracts"
 
 [[repo]]
 url = "https://github.com/weichain/cryptoassets"
+missing = true
+
+[[repo]]
+url = "https://github.com/weichain/DistroFund"
+
+[[repo]]
+url = "https://github.com/weichain/easyappointments"
 
 [[repo]]
 url = "https://github.com/weichain/ethereum-scraper"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/expedition"
+
+[[repo]]
+url = "https://github.com/weichain/FlowiseChatEmbed"
+
+[[repo]]
+url = "https://github.com/weichain/galactic-bridge-icp"
+
+[[repo]]
+url = "https://github.com/weichain/galactic-bridge-sol"
 
 [[repo]]
 url = "https://github.com/weichain/Gnosis-Safe"
@@ -73,7 +102,13 @@ url = "https://github.com/weichain/hydradex-info"
 url = "https://github.com/weichain/liquality-near-playground"
 
 [[repo]]
+url = "https://github.com/weichain/nestjs-microservices-boilerplate"
+
+[[repo]]
 url = "https://github.com/weichain/quanterall-motion-defi-course"
+
+[[repo]]
+url = "https://github.com/weichain/react-native-boilerplate"
 
 [[repo]]
 url = "https://github.com/weichain/react-storefront"
@@ -94,13 +129,23 @@ url = "https://github.com/weichain/safe-infrastructure"
 url = "https://github.com/weichain/safe-transaction-service"
 
 [[repo]]
+url = "https://github.com/weichain/saleor"
+
+[[repo]]
+url = "https://github.com/weichain/saleor-dashboard"
+
+[[repo]]
 url = "https://github.com/weichain/simple-fe-task"
 
 [[repo]]
 url = "https://github.com/weichain/smart-order-router-maisubnet"
 
 [[repo]]
+url = "https://github.com/weichain/solana-htlc"
+
+[[repo]]
 url = "https://github.com/weichain/solidity_playground"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/uniswap-interface"
@@ -125,6 +170,7 @@ url = "https://github.com/weichain/v2-subgraph-maisubnet"
 
 [[repo]]
 url = "https://github.com/weichain/wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/weichain/web-core"

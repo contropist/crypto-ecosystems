@@ -37,6 +37,9 @@ url = "https://github.com/fewcha-wallet/fewcha-aptos"
 url = "https://github.com/fewcha-wallet/fewcha-aptos-node"
 
 [[repo]]
+url = "https://github.com/fewcha-wallet/fewcha-dex.v2-smc"
+
+[[repo]]
 url = "https://github.com/fewcha-wallet/fewcha-docs"
 
 [[repo]]
@@ -44,9 +47,11 @@ url = "https://github.com/fewcha-wallet/fewcha-plugin-wallet-adapter"
 
 [[repo]]
 url = "https://github.com/fewcha-wallet/fewcha-sui"
+missing = true
 
 [[repo]]
 url = "https://github.com/fewcha-wallet/fewcha.app"
+missing = true
 
 [[repo]]
 url = "https://github.com/fewcha-wallet/i18n"
@@ -55,7 +60,16 @@ url = "https://github.com/fewcha-wallet/i18n"
 url = "https://github.com/fewcha-wallet/integration-examples"
 
 [[repo]]
+url = "https://github.com/fewcha-wallet/nexm_flutter_bitcoin"
+
+[[repo]]
 url = "https://github.com/fewcha-wallet/nft"
 
 [[repo]]
 url = "https://github.com/fewcha-wallet/releases"
+
+[[repo]]
+url = "https://github.com/fewcha-wallet/sui"
+
+[[repo]]
+url = "https://github.com/nopa706/aptos-dart"

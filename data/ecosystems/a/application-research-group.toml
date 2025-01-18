@@ -7,7 +7,11 @@ github_organizations = ["https://github.com/application-research"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/application-research/add-cids-to-bstore"
+
+[[repo]]
 url = "https://github.com/application-research/APs"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/auth-svc"
@@ -25,6 +29,9 @@ url = "https://github.com/application-research/barge-v2"
 url = "https://github.com/application-research/bsutil"
 
 [[repo]]
+url = "https://github.com/application-research/checkmk-playbook"
+
+[[repo]]
 url = "https://github.com/application-research/cpi-delta"
 
 [[repo]]
@@ -35,6 +42,9 @@ url = "https://github.com/application-research/cpi-edge"
 
 [[repo]]
 url = "https://github.com/application-research/cpi-postgresql"
+
+[[repo]]
+url = "https://github.com/application-research/cpi-reporter"
 
 [[repo]]
 url = "https://github.com/application-research/delta"
@@ -58,10 +68,19 @@ url = "https://github.com/application-research/delta-dm-playbook"
 url = "https://github.com/application-research/delta-docs"
 
 [[repo]]
+url = "https://github.com/application-research/delta-drop"
+
+[[repo]]
 url = "https://github.com/application-research/delta-edge"
 
 [[repo]]
+url = "https://github.com/application-research/delta-edge-urid"
+
+[[repo]]
 url = "https://github.com/application-research/delta-events-consumer"
+
+[[repo]]
+url = "https://github.com/application-research/delta-global-metrics-rest-api"
 
 [[repo]]
 url = "https://github.com/application-research/delta-importer"
@@ -70,10 +89,14 @@ url = "https://github.com/application-research/delta-importer"
 url = "https://github.com/application-research/delta-metrics-rest"
 
 [[repo]]
+url = "https://github.com/application-research/delta-metrics-rest-api"
+
+[[repo]]
 url = "https://github.com/application-research/delta-nextjs-client"
 
 [[repo]]
 url = "https://github.com/application-research/delta-nextjs-white-label-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/delta-playbook"
@@ -82,13 +105,29 @@ url = "https://github.com/application-research/delta-playbook"
 url = "https://github.com/application-research/delta-sp-selection"
 
 [[repo]]
+url = "https://github.com/application-research/delta-standalone"
+
+[[repo]]
 url = "https://github.com/application-research/delta-swagger"
 
 [[repo]]
+url = "https://github.com/application-research/delta-ui"
+
+[[repo]]
 url = "https://github.com/application-research/delta-www"
+missing = true
+
+[[repo]]
+url = "https://github.com/application-research/edge-playbook"
 
 [[repo]]
 url = "https://github.com/application-research/edge-ur"
+
+[[repo]]
+url = "https://github.com/application-research/edge-urid-playbook"
+
+[[repo]]
+url = "https://github.com/application-research/edge-vertex"
 
 [[repo]]
 url = "https://github.com/application-research/ehi-bootstrap-playbook"
@@ -107,6 +146,7 @@ url = "https://github.com/application-research/estuary-api-moosefs"
 
 [[repo]]
 url = "https://github.com/application-research/estuary-api-node-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/estuary-auth"
@@ -134,6 +174,7 @@ url = "https://github.com/application-research/estuary-docker"
 
 [[repo]]
 url = "https://github.com/application-research/estuary-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/estuary-docusaurus"
@@ -173,9 +214,13 @@ url = "https://github.com/application-research/estuary-www"
 
 [[repo]]
 url = "https://github.com/application-research/estuary-www-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/fastcommp"
+
+[[repo]]
+url = "https://github.com/application-research/fdi-svc-helloworld"
 
 [[repo]]
 url = "https://github.com/application-research/fevm-data-segment"
@@ -196,7 +241,14 @@ url = "https://github.com/application-research/filclient"
 url = "https://github.com/application-research/filclient-unstable"
 
 [[repo]]
+url = "https://github.com/application-research/fildevsummit"
+
+[[repo]]
 url = "https://github.com/application-research/file.app"
+missing = true
+
+[[repo]]
+url = "https://github.com/application-research/filecoin-data-tools-web"
 
 [[repo]]
 url = "https://github.com/application-research/filecoin-education"
@@ -209,12 +261,14 @@ url = "https://github.com/application-research/filecoin-user-explorer"
 
 [[repo]]
 url = "https://github.com/application-research/filecoin-web-services-www"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/FIPs"
 
 [[repo]]
 url = "https://github.com/application-research/fvm"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/fvm-studio"
@@ -244,16 +298,30 @@ url = "https://github.com/application-research/infrastructure-slack-bot"
 url = "https://github.com/application-research/ipcr"
 
 [[repo]]
+url = "https://github.com/application-research/ipfs-camp-2024"
+
+[[repo]]
+url = "https://github.com/application-research/ipfs-events"
+
+[[repo]]
+url = "https://github.com/application-research/logtail-playbook"
+
+[[repo]]
 url = "https://github.com/application-research/migrate-lmdb-flatfs"
 
 [[repo]]
+url = "https://github.com/application-research/nautobot-plugin-chatops-ansible"
+
+[[repo]]
 url = "https://github.com/application-research/next-bucket"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/next-sass"
 
 [[repo]]
 url = "https://github.com/application-research/next-storage-deal"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/node-estuary-example"
@@ -265,7 +333,14 @@ url = "https://github.com/application-research/outercore-eng-kb"
 url = "https://github.com/application-research/pestuary"
 
 [[repo]]
+url = "https://github.com/application-research/pipepiper"
+
+[[repo]]
 url = "https://github.com/application-research/prototypes"
+missing = true
+
+[[repo]]
+url = "https://github.com/application-research/ptolemy"
 
 [[repo]]
 url = "https://github.com/application-research/radiant-data-to-delta"
@@ -275,6 +350,15 @@ url = "https://github.com/application-research/random-cid"
 
 [[repo]]
 url = "https://github.com/application-research/rclone"
+
+[[repo]]
+url = "https://github.com/application-research/redis-cluster-playbook"
+
+[[repo]]
+url = "https://github.com/application-research/seaweedfs"
+
+[[repo]]
+url = "https://github.com/application-research/seaweedfs-playbook"
 
 [[repo]]
 url = "https://github.com/application-research/seawhypfs-playbook"
@@ -292,10 +376,15 @@ url = "https://github.com/application-research/shuttle-request-forwarder"
 url = "https://github.com/application-research/storage-market-api"
 
 [[repo]]
+url = "https://github.com/application-research/strapi-cms-api-ipfs-events"
+
+[[repo]]
 url = "https://github.com/application-research/wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/web4"
+missing = true
 
 [[repo]]
 url = "https://github.com/application-research/whypfs-core"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/CoinSpace"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/CoinSpace/awesome-bitcoin"
+
+[[repo]]
 url = "https://github.com/CoinSpace/Awesome-ETC"
 
 [[repo]]
@@ -43,6 +46,9 @@ url = "https://github.com/CoinSpace/bitcore-lib-dogecoin"
 url = "https://github.com/CoinSpace/cardano-documentation"
 
 [[repo]]
+url = "https://github.com/CoinSpace/cashaddr"
+
+[[repo]]
 url = "https://github.com/CoinSpace/CoinSpace"
 
 [[repo]]
@@ -61,13 +67,22 @@ url = "https://github.com/CoinSpace/cs-avalanche-wallet"
 url = "https://github.com/CoinSpace/cs-binance-smart-chain-wallet"
 
 [[repo]]
+url = "https://github.com/CoinSpace/cs-bitcoin-wallet"
+
+[[repo]]
 url = "https://github.com/CoinSpace/cs-cardano-wallet"
+
+[[repo]]
+url = "https://github.com/CoinSpace/cs-common"
 
 [[repo]]
 url = "https://github.com/CoinSpace/cs-eos-wallet"
 
 [[repo]]
 url = "https://github.com/CoinSpace/cs-ethereum-wallet"
+
+[[repo]]
+url = "https://github.com/CoinSpace/cs-evm-wallet"
 
 [[repo]]
 url = "https://github.com/CoinSpace/cs-monero-wallet"
@@ -85,6 +100,15 @@ url = "https://github.com/CoinSpace/cs-solana-wallet"
 url = "https://github.com/CoinSpace/cs-stellar-wallet"
 
 [[repo]]
+url = "https://github.com/CoinSpace/cs-sui-wallet"
+
+[[repo]]
+url = "https://github.com/CoinSpace/cs-ton-wallet"
+
+[[repo]]
+url = "https://github.com/CoinSpace/cs-toncoin-wallet"
+
+[[repo]]
 url = "https://github.com/CoinSpace/cs-tron-wallet"
 
 [[repo]]
@@ -98,12 +122,16 @@ url = "https://github.com/CoinSpace/developer-portal"
 
 [[repo]]
 url = "https://github.com/CoinSpace/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoinSpace/docs-site"
 
 [[repo]]
 url = "https://github.com/CoinSpace/dogecoin.com"
+
+[[repo]]
+url = "https://github.com/CoinSpace/ecosystem-map"
 
 [[repo]]
 url = "https://github.com/CoinSpace/ecosystem-projects"
@@ -130,6 +158,9 @@ url = "https://github.com/CoinSpace/homebrew-cask"
 url = "https://github.com/CoinSpace/https-everywhere"
 
 [[repo]]
+url = "https://github.com/CoinSpace/micro-sol-signer"
+
+[[repo]]
 url = "https://github.com/CoinSpace/monero-core-js"
 
 [[repo]]
@@ -137,6 +168,22 @@ url = "https://github.com/CoinSpace/monero-site"
 
 [[repo]]
 url = "https://github.com/CoinSpace/monerolib"
+
+[[repo]]
+url = "https://github.com/CoinSpace/noble-curves"
+
+[[repo]]
+url = "https://github.com/CoinSpace/noble-ed25519"
+
+[[repo]]
+url = "https://github.com/CoinSpace/nostr-watch"
+missing = true
+
+[[repo]]
+url = "https://github.com/CoinSpace/nostream"
+
+[[repo]]
+url = "https://github.com/CoinSpace/purplerelay"
 
 [[repo]]
 url = "https://github.com/CoinSpace/recover"
@@ -157,7 +204,13 @@ url = "https://github.com/CoinSpace/tronlib"
 url = "https://github.com/CoinSpace/typhonjs"
 
 [[repo]]
+url = "https://github.com/CoinSpace/vue-i18n-next"
+
+[[repo]]
 url = "https://github.com/CoinSpace/walletsrecovery.org"
 
 [[repo]]
 url = "https://github.com/CoinSpace/wuc-new"
+
+[[repo]]
+url = "https://github.com/CoinSpace/xrpl-dev-portal"

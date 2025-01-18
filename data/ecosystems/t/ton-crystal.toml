@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/tonlabs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/tonlabs/admin-tool"
+
+[[repo]]
 url = "https://github.com/tonlabs/arangochair"
 
 [[repo]]
@@ -20,6 +23,10 @@ url = "https://github.com/tonlabs/che"
 
 [[repo]]
 url = "https://github.com/tonlabs/chess-match-making"
+
+[[repo]]
+url = "https://github.com/tonlabs/cloud-t-rex"
+missing = true
 
 [[repo]]
 url = "https://github.com/tonlabs/cmake_modules"
@@ -58,10 +65,15 @@ url = "https://github.com/tonlabs/crypto3-zk"
 url = "https://github.com/tonlabs/crypto3-zk-marshalling"
 
 [[repo]]
+url = "https://github.com/tonlabs/dapp-data-transfer"
+missing = true
+
+[[repo]]
 url = "https://github.com/tonlabs/dapp-remp-subscriptions"
 
 [[repo]]
 url = "https://github.com/tonlabs/dapp-services"
+missing = true
 
 [[repo]]
 url = "https://github.com/tonlabs/dapp-services-ranger"
@@ -100,6 +112,9 @@ url = "https://github.com/tonlabs/ever-block-json"
 url = "https://github.com/tonlabs/ever-bls-lib"
 
 [[repo]]
+url = "https://github.com/tonlabs/ever-cli"
+
+[[repo]]
 url = "https://github.com/tonlabs/ever-crypto"
 
 [[repo]]
@@ -118,6 +133,10 @@ url = "https://github.com/tonlabs/ever-labs-crypto"
 url = "https://github.com/tonlabs/ever-node"
 
 [[repo]]
+url = "https://github.com/tonlabs/ever-node-rpc"
+missing = true
+
+[[repo]]
 url = "https://github.com/tonlabs/ever-node-tools"
 
 [[repo]]
@@ -125,6 +144,9 @@ url = "https://github.com/tonlabs/ever-overlay"
 
 [[repo]]
 url = "https://github.com/tonlabs/ever-platform-docs"
+
+[[repo]]
+url = "https://github.com/tonlabs/ever-playground"
 
 [[repo]]
 url = "https://github.com/tonlabs/ever-rldp"
@@ -163,7 +185,17 @@ url = "https://github.com/tonlabs/Evernode-NQ"
 url = "https://github.com/tonlabs/evernode-se"
 
 [[repo]]
+url = "https://github.com/tonlabs/everos-cli"
+
+[[repo]]
 url = "https://github.com/tonlabs/eversdk-ton"
+
+[[repo]]
+url = "https://github.com/tonlabs/everx-node"
+missing = true
+
+[[repo]]
+url = "https://github.com/tonlabs/firebase-ios-sdk"
 
 [[repo]]
 url = "https://github.com/tonlabs/flex"
@@ -179,6 +211,7 @@ url = "https://github.com/tonlabs/github-tag-action"
 
 [[repo]]
 url = "https://github.com/tonlabs/gosh"
+missing = true
 
 [[repo]]
 url = "https://github.com/tonlabs/gosh-gitbook"
@@ -188,6 +221,9 @@ url = "https://github.com/tonlabs/graphql-playground"
 
 [[repo]]
 url = "https://github.com/tonlabs/highlights"
+
+[[repo]]
+url = "https://github.com/tonlabs/ipcnv"
 
 [[repo]]
 url = "https://github.com/tonlabs/kafka-connect-arangodb"
@@ -259,6 +295,9 @@ url = "https://github.com/tonlabs/sdk-samples"
 url = "https://github.com/tonlabs/sodalite"
 
 [[repo]]
+url = "https://github.com/tonlabs/stdlib.sol"
+
+[[repo]]
 url = "https://github.com/tonlabs/stTONs"
 
 [[repo]]
@@ -275,6 +314,9 @@ url = "https://github.com/tonlabs/TestSuite4"
 
 [[repo]]
 url = "https://github.com/tonlabs/TIP"
+
+[[repo]]
+url = "https://github.com/tonlabs/tl-parser"
 
 [[repo]]
 url = "https://github.com/tonlabs/ton-1"
@@ -296,6 +338,10 @@ url = "https://github.com/tonlabs/TON-Compiler"
 
 [[repo]]
 url = "https://github.com/tonlabs/ton-dev-cli"
+
+[[repo]]
+url = "https://github.com/tonlabs/ton-kafka"
+missing = true
 
 [[repo]]
 url = "https://github.com/tonlabs/ton-labs-abi"
@@ -382,7 +428,13 @@ url = "https://github.com/tonlabs/tor-service"
 url = "https://github.com/tonlabs/True-NFT"
 
 [[repo]]
+url = "https://github.com/tonlabs/TVM-Compiler"
+
+[[repo]]
 url = "https://github.com/tonlabs/TVM-linker"
+
+[[repo]]
+url = "https://github.com/tonlabs/TVM-Solidity-Compiler"
 
 [[repo]]
 url = "https://github.com/tonlabs/UIKit"
@@ -392,6 +444,7 @@ url = "https://github.com/tonlabs/wallet-sdk-js"
 
 [[repo]]
 url = "https://github.com/tonlabs/worldchess"
+missing = true
 
 [[repo]]
 url = "https://github.com/tonlabs/x25519-dalek"

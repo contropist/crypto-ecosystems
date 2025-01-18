@@ -8,18 +8,23 @@ github_organizations = ["https://github.com/argoapp-live"]
 # Repositories
 [[repo]]
 url = "https://github.com/argoapp-live/argo-airdrop-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-be"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-bounty-issue"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-faucet-app"
@@ -32,12 +37,14 @@ url = "https://github.com/argoapp-live/argo-react"
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-static-site-deployer"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-vesting-ui"
 
 [[repo]]
 url = "https://github.com/argoapp-live/argo-yieldfarming-staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/arseeding"
@@ -56,6 +63,7 @@ url = "https://github.com/argoapp-live/bounty-docs"
 
 [[repo]]
 url = "https://github.com/argoapp-live/compute-marketplace-startup"
+missing = true
 
 [[repo]]
 url = "https://github.com/argoapp-live/desub-js"

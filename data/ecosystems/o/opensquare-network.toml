@@ -16,7 +16,13 @@ url = "https://github.com/opensquare-network/blockmeta"
 url = "https://github.com/opensquare-network/bounties"
 
 [[repo]]
+url = "https://github.com/opensquare-network/cfgdash-fronted"
+
+[[repo]]
 url = "https://github.com/opensquare-network/collaboration"
+
+[[repo]]
+url = "https://github.com/opensquare-network/collaboration-static"
 
 [[repo]]
 url = "https://github.com/opensquare-network/common"
@@ -64,6 +70,9 @@ url = "https://github.com/opensquare-network/Grant-Milestone-Delivery"
 url = "https://github.com/opensquare-network/Grants-Program"
 
 [[repo]]
+url = "https://github.com/opensquare-network/hackathon-2023-winter"
+
+[[repo]]
 url = "https://github.com/opensquare-network/icons"
 
 [[repo]]
@@ -73,7 +82,13 @@ url = "https://github.com/opensquare-network/ipfs"
 url = "https://github.com/opensquare-network/ipfs-play"
 
 [[repo]]
+url = "https://github.com/opensquare-network/ipfs-server"
+
+[[repo]]
 url = "https://github.com/opensquare-network/open-generator"
+
+[[repo]]
+url = "https://github.com/opensquare-network/open-qf"
 
 [[repo]]
 url = "https://github.com/opensquare-network/opensquare"
@@ -89,6 +104,9 @@ url = "https://github.com/opensquare-network/paid-qa"
 
 [[repo]]
 url = "https://github.com/opensquare-network/papers"
+
+[[repo]]
+url = "https://github.com/opensquare-network/parity-governance-ui"
 
 [[repo]]
 url = "https://github.com/opensquare-network/patract-open-platform-program"
@@ -115,6 +133,9 @@ url = "https://github.com/opensquare-network/polkadot-api-container"
 url = "https://github.com/opensquare-network/polkadot-react-identicon"
 
 [[repo]]
+url = "https://github.com/opensquare-network/polkadot-wiki"
+
+[[repo]]
 url = "https://github.com/opensquare-network/previewer"
 
 [[repo]]
@@ -139,6 +160,12 @@ url = "https://github.com/opensquare-network/scan-common"
 url = "https://github.com/opensquare-network/scripts"
 
 [[repo]]
+url = "https://github.com/opensquare-network/sima"
+
+[[repo]]
+url = "https://github.com/opensquare-network/sima-spec"
+
+[[repo]]
 url = "https://github.com/opensquare-network/statescan"
 
 [[repo]]
@@ -155,6 +182,9 @@ url = "https://github.com/opensquare-network/subsquare"
 
 [[repo]]
 url = "https://github.com/opensquare-network/subsquare-landing"
+
+[[repo]]
+url = "https://github.com/opensquare-network/subsquare-static"
 
 [[repo]]
 url = "https://github.com/opensquare-network/ui"

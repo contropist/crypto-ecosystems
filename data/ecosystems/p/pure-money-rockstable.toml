@@ -22,6 +22,9 @@ url = "https://github.com/PureMoney/express-oauth-server"
 url = "https://github.com/PureMoney/hdwallet-provider"
 
 [[repo]]
+url = "https://github.com/PureMoney/inflation-resistant-stablecoin"
+
+[[repo]]
 url = "https://github.com/PureMoney/Kubernetes-Starter-Kit-Developers"
 
 [[repo]]
@@ -53,6 +56,9 @@ url = "https://github.com/PureMoney/POS"
 
 [[repo]]
 url = "https://github.com/PureMoney/provider-engine"
+
+[[repo]]
+url = "https://github.com/PureMoney/react-coinbase-commerce"
 
 [[repo]]
 url = "https://github.com/PureMoney/react-typescript-chrome-extension-boilerplate"

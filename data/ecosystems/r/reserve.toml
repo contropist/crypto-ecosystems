@@ -7,10 +7,17 @@ github_organizations = ["https://github.com/reserve-protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/reserve-protocol/.github"
+
+[[repo]]
 url = "https://github.com/reserve-protocol/0x-monorepo"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/basiscash-protocol"
+missing = true
+
+[[repo]]
+url = "https://github.com/reserve-protocol/brand-assets"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/brownie"
@@ -19,7 +26,19 @@ url = "https://github.com/reserve-protocol/brownie"
 url = "https://github.com/reserve-protocol/contract-metadata"
 
 [[repo]]
+url = "https://github.com/reserve-protocol/curve-lp-analyzer"
+
+[[repo]]
 url = "https://github.com/reserve-protocol/defender-autotask-examples"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/dgneth-interface"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/dgneth-subgraph"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/easyauction-ui"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/echidna-parade"
@@ -32,6 +51,9 @@ url = "https://github.com/reserve-protocol/elm-iso3166-data"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/emacs-solidity"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/ethereum-optimism.github.io"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/evm-semantics"
@@ -71,9 +93,16 @@ url = "https://github.com/reserve-protocol/poke"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/protocol"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/reserve-protocol/react-native-argon2"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/register"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/reserve-subgraph"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/rsd"
@@ -86,6 +115,12 @@ url = "https://github.com/reserve-protocol/rsr-mainnet"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/rsv-v2"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/rtoken-backtest"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/rtokens"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/simple-portal"
@@ -103,6 +138,12 @@ url = "https://github.com/reserve-protocol/solidity-oog-experiment"
 url = "https://github.com/reserve-protocol/solstice"
 
 [[repo]]
+url = "https://github.com/reserve-protocol/staking-contract"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/throttle-wallet"
+
+[[repo]]
 url = "https://github.com/reserve-protocol/tiny39"
 
 [[repo]]
@@ -110,6 +151,10 @@ url = "https://github.com/reserve-protocol/token-zapper"
 
 [[repo]]
 url = "https://github.com/reserve-protocol/trezor"
+
+[[repo]]
+url = "https://github.com/reserve-protocol/v1"
+missing = true
 
 [[repo]]
 url = "https://github.com/reserve-protocol/vesting"

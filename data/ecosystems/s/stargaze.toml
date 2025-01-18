@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Stargaze"
 
-sub_ecosystems = []
+sub_ecosystems = ["CryptoGopniks"]
 
 github_organizations = ["https://github.com/public-awesome"]
 
@@ -16,7 +16,19 @@ url = "https://github.com/public-awesome/advisories"
 url = "https://github.com/public-awesome/assets"
 
 [[repo]]
+url = "https://github.com/public-awesome/astra-cosmos-sdk"
+
+[[repo]]
+url = "https://github.com/public-awesome/astroport-core"
+
+[[repo]]
+url = "https://github.com/public-awesome/audits"
+
+[[repo]]
 url = "https://github.com/public-awesome/Autolinker.js"
+
+[[repo]]
+url = "https://github.com/public-awesome/badges"
 
 [[repo]]
 url = "https://github.com/public-awesome/badges-webapp"
@@ -40,10 +52,16 @@ url = "https://github.com/public-awesome/code-explorer"
 url = "https://github.com/public-awesome/constellations-book"
 
 [[repo]]
+url = "https://github.com/public-awesome/core"
+
+[[repo]]
 url = "https://github.com/public-awesome/cosmjs"
 
 [[repo]]
 url = "https://github.com/public-awesome/cosmodal"
+
+[[repo]]
+url = "https://github.com/public-awesome/cosmology-chain-registry"
 
 [[repo]]
 url = "https://github.com/public-awesome/cosmos-gravity-bridge"
@@ -58,10 +76,32 @@ url = "https://github.com/public-awesome/cosmos-multisig-ui"
 url = "https://github.com/public-awesome/cosmos-sdk"
 
 [[repo]]
+url = "https://github.com/public-awesome/cosmos-tracing"
+
+[[repo]]
+url = "https://github.com/public-awesome/cosmostation-chainlist"
+
+[[repo]]
+url = "https://github.com/public-awesome/cosmwasm"
+
+[[repo]]
+url = "https://github.com/public-awesome/couch-burner"
+
+[[repo]]
+url = "https://github.com/public-awesome/cw-ibc-demo"
+
+[[repo]]
+url = "https://github.com/public-awesome/cw-ics721"
+
+[[repo]]
 url = "https://github.com/public-awesome/cw-nfts"
+missing = true
 
 [[repo]]
 url = "https://github.com/public-awesome/cw-plus"
+
+[[repo]]
+url = "https://github.com/public-awesome/cw-plus-plus"
 
 [[repo]]
 url = "https://github.com/public-awesome/cw-wager"
@@ -86,6 +126,7 @@ url = "https://github.com/public-awesome/deep_space"
 
 [[repo]]
 url = "https://github.com/public-awesome/DMCA"
+missing = true
 
 [[repo]]
 url = "https://github.com/public-awesome/docs"
@@ -95,6 +136,9 @@ url = "https://github.com/public-awesome/Emeris-Airdrop"
 
 [[repo]]
 url = "https://github.com/public-awesome/explorer-1"
+
+[[repo]]
+url = "https://github.com/public-awesome/fren.party"
 
 [[repo]]
 url = "https://github.com/public-awesome/gaia"
@@ -112,7 +156,22 @@ url = "https://github.com/public-awesome/Gravity-Bridge"
 url = "https://github.com/public-awesome/Gravity-Docs"
 
 [[repo]]
+url = "https://github.com/public-awesome/gravity-nft-demo"
+
+[[repo]]
+url = "https://github.com/public-awesome/graz"
+
+[[repo]]
+url = "https://github.com/public-awesome/hyperlane-monorepo"
+
+[[repo]]
+url = "https://github.com/public-awesome/iavl"
+
+[[repo]]
 url = "https://github.com/public-awesome/ibc"
+
+[[repo]]
+url = "https://github.com/public-awesome/ibc-apps"
 
 [[repo]]
 url = "https://github.com/public-awesome/ibc-go"
@@ -125,18 +184,35 @@ url = "https://github.com/public-awesome/ics721"
 
 [[repo]]
 url = "https://github.com/public-awesome/infinity"
+missing = true
 
 [[repo]]
 url = "https://github.com/public-awesome/infinity-pool"
+missing = true
+
+[[repo]]
+url = "https://github.com/public-awesome/infinity-swap"
+
+[[repo]]
+url = "https://github.com/public-awesome/infinity-swap-contracts"
 
 [[repo]]
 url = "https://github.com/public-awesome/interchain-accounts-demo"
 
 [[repo]]
+url = "https://github.com/public-awesome/interchaintest"
+
+[[repo]]
 url = "https://github.com/public-awesome/ipfs-proxy"
 
 [[repo]]
+url = "https://github.com/public-awesome/keplr-chain-registry"
+
+[[repo]]
 url = "https://github.com/public-awesome/keplr-extension"
+
+[[repo]]
+url = "https://github.com/public-awesome/keplr-wallet"
 
 [[repo]]
 url = "https://github.com/public-awesome/launchpad"
@@ -161,15 +237,29 @@ url = "https://github.com/public-awesome/marketplace-outpost"
 
 [[repo]]
 url = "https://github.com/public-awesome/marketplace-proxy-demo"
+missing = true
+
+[[repo]]
+url = "https://github.com/public-awesome/marketplace-v2-client"
 
 [[repo]]
 url = "https://github.com/public-awesome/modules"
+missing = true
+
+[[repo]]
+url = "https://github.com/public-awesome/multisig-ui"
+
+[[repo]]
+url = "https://github.com/public-awesome/nakomoto-coefficient-calculator"
 
 [[repo]]
 url = "https://github.com/public-awesome/names"
 
 [[repo]]
 url = "https://github.com/public-awesome/nois-contracts"
+
+[[repo]]
+url = "https://github.com/public-awesome/NoPixels-CW"
 
 [[repo]]
 url = "https://github.com/public-awesome/osmosis"
@@ -181,7 +271,13 @@ url = "https://github.com/public-awesome/osmosis-frontend"
 url = "https://github.com/public-awesome/osmosis-info"
 
 [[repo]]
+url = "https://github.com/public-awesome/osmosis-query-demo"
+
+[[repo]]
 url = "https://github.com/public-awesome/pegasus"
+
+[[repo]]
+url = "https://github.com/public-awesome/pegasus-trade"
 
 [[repo]]
 url = "https://github.com/public-awesome/pulsar-ssd1306"
@@ -211,6 +307,9 @@ url = "https://github.com/public-awesome/spm"
 url = "https://github.com/public-awesome/staking-ui"
 
 [[repo]]
+url = "https://github.com/public-awesome/stardex-client"
+
+[[repo]]
 url = "https://github.com/public-awesome/stargaze"
 
 [[repo]]
@@ -221,6 +320,7 @@ url = "https://github.com/public-awesome/stargaze-burn"
 
 [[repo]]
 url = "https://github.com/public-awesome/stargaze-codes"
+missing = true
 
 [[repo]]
 url = "https://github.com/public-awesome/stargaze-codes-explorer"
@@ -242,6 +342,7 @@ url = "https://github.com/public-awesome/stargaze-tools"
 
 [[repo]]
 url = "https://github.com/public-awesome/stargaze-websocket-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/public-awesome/stargazer"
@@ -277,7 +378,19 @@ url = "https://github.com/public-awesome/terra-spacecamp"
 url = "https://github.com/public-awesome/testnets"
 
 [[repo]]
+url = "https://github.com/public-awesome/ts-codegen"
+
+[[repo]]
+url = "https://github.com/public-awesome/ts-relayer"
+
+[[repo]]
+url = "https://github.com/public-awesome/vote-ext-oracle-demo"
+
+[[repo]]
 url = "https://github.com/public-awesome/wasmd"
+
+[[repo]]
+url = "https://github.com/public-awesome/wasmtester"
 
 [[repo]]
 url = "https://github.com/public-awesome/web30"

@@ -25,10 +25,17 @@ url = "https://github.com/battlemon-project/babylonjs-game-server"
 url = "https://github.com/battlemon-project/battleapp"
 
 [[repo]]
+url = "https://github.com/battlemon-project/battleapp-dev"
+
+[[repo]]
 url = "https://github.com/battlemon-project/battlemon-animated"
 
 [[repo]]
+url = "https://github.com/battlemon-project/battlemon-ethereum"
+
+[[repo]]
 url = "https://github.com/battlemon-project/battlemon.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/battlemon-project/battlemon_backend"

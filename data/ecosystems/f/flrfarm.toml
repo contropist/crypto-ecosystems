@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/flrfinance"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/flrfinance/artblocks-contracts"
+
+[[repo]]
+url = "https://github.com/flrfinance/bridge-contracts"
+
+[[repo]]
 url = "https://github.com/flrfinance/flare-browser"
 
 [[repo]]
@@ -20,12 +26,16 @@ url = "https://github.com/flrfinance/flare-usd"
 
 [[repo]]
 url = "https://github.com/flrfinance/node-open-mining-portal"
+missing = true
 
 [[repo]]
 url = "https://github.com/flrfinance/oryy-web-core"
 
 [[repo]]
 url = "https://github.com/flrfinance/price-feed-ftso-connector"
+
+[[repo]]
+url = "https://github.com/flrfinance/react-enotify"
 
 [[repo]]
 url = "https://github.com/flrfinance/safe-apps-sdk"
@@ -35,3 +45,6 @@ url = "https://github.com/flrfinance/safe-react"
 
 [[repo]]
 url = "https://github.com/flrfinance/smart-contracts"
+
+[[repo]]
+url = "https://github.com/flrfinance/strapi-plugin-fuzzy-search"

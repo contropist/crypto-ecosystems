@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/gobitfly"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/gobitfly/beaconchain"
+
+[[repo]]
 url = "https://github.com/gobitfly/coda-explorer"
 
 [[repo]]
@@ -37,7 +40,13 @@ url = "https://github.com/gobitfly/eth2-client-metrics-exporter"
 url = "https://github.com/gobitfly/eth2-knowledge-base"
 
 [[repo]]
+url = "https://github.com/gobitfly/eth2-package"
+
+[[repo]]
 url = "https://github.com/gobitfly/etherchain-light"
+
+[[repo]]
+url = "https://github.com/gobitfly/ethereum-function-signature-registry"
 
 [[repo]]
 url = "https://github.com/gobitfly/ethereumjs-abi"
@@ -47,6 +56,9 @@ url = "https://github.com/gobitfly/go-ethereum"
 
 [[repo]]
 url = "https://github.com/gobitfly/lighthouse"
+
+[[repo]]
+url = "https://github.com/gobitfly/little_bigtable"
 
 [[repo]]
 url = "https://github.com/gobitfly/little_bigtable_postgres"
@@ -59,6 +71,12 @@ url = "https://github.com/gobitfly/pm2-gelf"
 
 [[repo]]
 url = "https://github.com/gobitfly/prysm"
+
+[[repo]]
+url = "https://github.com/gobitfly/rocketpool-go"
+
+[[repo]]
+url = "https://github.com/gobitfly/scs"
 
 [[repo]]
 url = "https://github.com/gobitfly/somp"

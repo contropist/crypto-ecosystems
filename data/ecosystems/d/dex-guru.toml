@@ -10,6 +10,13 @@ github_organizations = ["https://github.com/dex-guru"]
 url = "https://github.com/dex-guru/assets"
 
 [[repo]]
+url = "https://github.com/dex-guru/block-explorer"
+missing = true
+
+[[repo]]
+url = "https://github.com/dex-guru/blockchain-snapshots"
+
+[[repo]]
 url = "https://github.com/dex-guru/burning-tokens-list"
 
 [[repo]]
@@ -28,13 +35,46 @@ url = "https://github.com/dex-guru/dao-research"
 url = "https://github.com/dex-guru/data-sources"
 
 [[repo]]
+url = "https://github.com/dex-guru/dexguru-snapshots"
+
+[[repo]]
 url = "https://github.com/dex-guru/dg-sdk-node"
 
 [[repo]]
 url = "https://github.com/dex-guru/dg-sdk-python"
 
 [[repo]]
+url = "https://github.com/dex-guru/dg-warehouse-sdk"
+
+[[repo]]
 url = "https://github.com/dex-guru/docs"
+
+[[repo]]
+url = "https://github.com/dex-guru/ethereum-etl"
+
+[[repo]]
+url = "https://github.com/dex-guru/examples"
+
+[[repo]]
+url = "https://github.com/dex-guru/examples-dexguru-api"
+
+[[repo]]
+url = "https://github.com/dex-guru/flow-deploy"
+
+[[repo]]
+url = "https://github.com/dex-guru/flow-orchestrator"
+
+[[repo]]
+url = "https://github.com/dex-guru/governance-framework"
+
+[[repo]]
+url = "https://github.com/dex-guru/guru-builders"
+
+[[repo]]
+url = "https://github.com/dex-guru/guru-framework"
+
+[[repo]]
+url = "https://github.com/dex-guru/guru-infrastructure"
 
 [[repo]]
 url = "https://github.com/dex-guru/meta-aggregation-api"

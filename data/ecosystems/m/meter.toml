@@ -13,6 +13,13 @@ url = "https://github.com/meterio/abi-decoder"
 url = "https://github.com/meterio/account-abstraction"
 
 [[repo]]
+url = "https://github.com/meterio/Algebra"
+
+[[repo]]
+url = "https://github.com/meterio/AlgebraV1.9"
+missing = true
+
+[[repo]]
 url = "https://github.com/meterio/assets"
 
 [[repo]]
@@ -55,13 +62,22 @@ url = "https://github.com/meterio/chains-alt"
 url = "https://github.com/meterio/chainsafe-scripts"
 
 [[repo]]
+url = "https://github.com/meterio/chee-subgraph"
+
+[[repo]]
 url = "https://github.com/meterio/compound-js"
 
 [[repo]]
 url = "https://github.com/meterio/data-sources"
 
 [[repo]]
+url = "https://github.com/meterio/default-lists"
+
+[[repo]]
 url = "https://github.com/meterio/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/meterio/deployer"
 
 [[repo]]
 url = "https://github.com/meterio/dev-resources"
@@ -94,6 +110,9 @@ url = "https://github.com/meterio/Erc20MinterBurnerPauser"
 url = "https://github.com/meterio/ethereum-blocks"
 
 [[repo]]
+url = "https://github.com/meterio/ethscriber"
+
+[[repo]]
 url = "https://github.com/meterio/faucet-app"
 
 [[repo]]
@@ -122,6 +141,7 @@ url = "https://github.com/meterio/gmx-subgraph"
 
 [[repo]]
 url = "https://github.com/meterio/gnosis-py"
+missing = true
 
 [[repo]]
 url = "https://github.com/meterio/hackathon-demo"
@@ -130,7 +150,20 @@ url = "https://github.com/meterio/hackathon-demo"
 url = "https://github.com/meterio/hackathon-demo-react"
 
 [[repo]]
+url = "https://github.com/meterio/hotstuff2"
+
+[[repo]]
+url = "https://github.com/meterio/hs2"
+
+[[repo]]
+url = "https://github.com/meterio/integral-sdk"
+
+[[repo]]
+url = "https://github.com/meterio/integral-ui"
+
+[[repo]]
 url = "https://github.com/meterio/ldb_util"
+missing = true
 
 [[repo]]
 url = "https://github.com/meterio/liquidity-mining-report"
@@ -199,6 +232,9 @@ url = "https://github.com/meterio/meterify"
 url = "https://github.com/meterio/MeterToken"
 
 [[repo]]
+url = "https://github.com/meterio/moonwell-subgraph"
+
+[[repo]]
 url = "https://github.com/meterio/multisig-contracts"
 
 [[repo]]
@@ -211,7 +247,13 @@ url = "https://github.com/meterio/multisig-transaction-service"
 url = "https://github.com/meterio/nomp"
 
 [[repo]]
+url = "https://github.com/meterio/nova-point-v2"
+
+[[repo]]
 url = "https://github.com/meterio/nuxt-scan"
+
+[[repo]]
+url = "https://github.com/meterio/paraspace-graph"
 
 [[repo]]
 url = "https://github.com/meterio/passport-service"
@@ -236,6 +278,9 @@ url = "https://github.com/meterio/safe-eth-py"
 
 [[repo]]
 url = "https://github.com/meterio/safe-react"
+
+[[repo]]
+url = "https://github.com/meterio/safe-react-apps"
 
 [[repo]]
 url = "https://github.com/meterio/safe-transaction-service"
@@ -275,12 +320,32 @@ url = "https://github.com/meterio/solidly-subgraph"
 
 [[repo]]
 url = "https://github.com/meterio/solidly.exchange"
+missing = true
 
 [[repo]]
 url = "https://github.com/meterio/sourcify"
 
 [[repo]]
+url = "https://github.com/meterio/sumer-contracts"
+
+[[repo]]
+url = "https://github.com/meterio/sumer-oracle"
+
+[[repo]]
 url = "https://github.com/meterio/sumer-project"
+missing = true
+
+[[repo]]
+url = "https://github.com/meterio/Sumer_docs"
+
+[[repo]]
+url = "https://github.com/meterio/supernova"
+
+[[repo]]
+url = "https://github.com/meterio/sygma-relayer"
+
+[[repo]]
+url = "https://github.com/meterio/sygma-sdk"
 
 [[repo]]
 url = "https://github.com/meterio/sys-contracts"
@@ -304,10 +369,19 @@ url = "https://github.com/meterio/tokenERC721"
 url = "https://github.com/meterio/uniswap-info"
 
 [[repo]]
+url = "https://github.com/meterio/uniswap-v3-interface"
+
+[[repo]]
+url = "https://github.com/meterio/universal-router-sdk"
+
+[[repo]]
 url = "https://github.com/meterio/usage-samples"
 
 [[repo]]
 url = "https://github.com/meterio/utils"
+
+[[repo]]
+url = "https://github.com/meterio/v3-subgraph"
 
 [[repo]]
 url = "https://github.com/meterio/vfat-tools"
@@ -332,6 +406,9 @@ url = "https://github.com/meterio/voltswap_solidity"
 
 [[repo]]
 url = "https://github.com/meterio/voltswapv2-sdk"
+
+[[repo]]
+url = "https://github.com/meterio/wagmi-references"
 
 [[repo]]
 url = "https://github.com/meterio/WarringStakes"

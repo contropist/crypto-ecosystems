@@ -8,6 +8,10 @@ github_organizations = ["https://github.com/enzymefinance"]
 # Repositories
 [[repo]]
 url = "https://github.com/enzymefinance/aip"
+missing = true
+
+[[repo]]
+url = "https://github.com/enzymefinance/app"
 
 [[repo]]
 url = "https://github.com/enzymefinance/branding"
@@ -17,12 +21,17 @@ url = "https://github.com/enzymefinance/dao-fund-framework"
 
 [[repo]]
 url = "https://github.com/enzymefinance/DeFi-Pulse-Adapters"
+missing = true
+
+[[repo]]
+url = "https://github.com/enzymefinance/docs"
 
 [[repo]]
 url = "https://github.com/enzymefinance/documentation"
 
 [[repo]]
 url = "https://github.com/enzymefinance/ens-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/enzymefinance/ENZIP"
@@ -82,4 +91,10 @@ url = "https://github.com/enzymefinance/security"
 url = "https://github.com/enzymefinance/software-disclaimer"
 
 [[repo]]
+url = "https://github.com/enzymefinance/spec"
+
+[[repo]]
 url = "https://github.com/enzymefinance/subgraphs"
+
+[[repo]]
+url = "https://github.com/enzymefinance/substreams"

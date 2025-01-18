@@ -11,3 +11,11 @@ url = "https://github.com/Polkalokr/assets"
 
 [[repo]]
 url = "https://github.com/Polkalokr/Open-Grants-Program"
+
+[[repo]]
+url = "https://github.com/Polkalokr/raid"
+missing = true
+
+[[repo]]
+url = "https://github.com/Polkalokr/raid-api"
+missing = true

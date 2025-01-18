@@ -16,13 +16,35 @@ url = "https://github.com/OlympusDAO/bonds-subgraph"
 url = "https://github.com/OlympusDAO/coingecko-api"
 
 [[repo]]
+url = "https://github.com/OlympusDAO/community-server-bots"
+
+[[repo]]
+url = "https://github.com/OlympusDAO/cooler-alerts"
+
+[[repo]]
+url = "https://github.com/OlympusDAO/cooler-loans-api"
+
+[[repo]]
+url = "https://github.com/OlympusDAO/cooler-loans-subgraph"
+
+[[repo]]
+url = "https://github.com/OlympusDAO/cooler-subgraph"
+
+[[repo]]
 url = "https://github.com/OlympusDAO/DeFi-Pulse-Adapters"
 
 [[repo]]
 url = "https://github.com/OlympusDAO/DefiLlama-Adapters"
 
 [[repo]]
+url = "https://github.com/OlympusDAO/docker-flarum"
+missing = true
+
+[[repo]]
 url = "https://github.com/OlympusDAO/erc20-snapshot"
+
+[[repo]]
+url = "https://github.com/OlympusDAO/forge-proposal-simulator"
 
 [[repo]]
 url = "https://github.com/OlympusDAO/forge-template"
@@ -31,7 +53,16 @@ url = "https://github.com/OlympusDAO/forge-template"
 url = "https://github.com/OlympusDAO/gnosis-ido-ux"
 
 [[repo]]
+url = "https://github.com/OlympusDAO/governor-discord-alerts"
+
+[[repo]]
+url = "https://github.com/OlympusDAO/governor-subgraph"
+
+[[repo]]
 url = "https://github.com/OlympusDAO/incur-debt-ts"
+
+[[repo]]
+url = "https://github.com/OlympusDAO/ohm-price-subgraph"
 
 [[repo]]
 url = "https://github.com/OlympusDAO/olympus-contracts"
@@ -75,6 +106,7 @@ url = "https://github.com/OlympusDAO/olympus-subgraph"
 
 [[repo]]
 url = "https://github.com/OlympusDAO/Olympus-Terra.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/OlympusDAO/olympus-translations"
@@ -87,12 +119,14 @@ url = "https://github.com/OlympusDAO/olympus_liquidity_migration"
 
 [[repo]]
 url = "https://github.com/OlympusDAO/olymsig"
+missing = true
 
 [[repo]]
 url = "https://github.com/OlympusDAO/olymsig-logs"
 
 [[repo]]
 url = "https://github.com/OlympusDAO/op-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/OlympusDAO/rbs-discord-alerts"

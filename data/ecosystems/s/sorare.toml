@@ -16,6 +16,9 @@ url = "https://github.com/sorare/activejob-locking"
 url = "https://github.com/sorare/activerecord-jsonb-associations"
 
 [[repo]]
+url = "https://github.com/sorare/activerecord-postgres_pub_sub"
+
+[[repo]]
 url = "https://github.com/sorare/administrate"
 
 [[repo]]
@@ -40,6 +43,9 @@ url = "https://github.com/sorare/apollo-federation-ruby"
 url = "https://github.com/sorare/charts"
 
 [[repo]]
+url = "https://github.com/sorare/columns_on_demand"
+
+[[repo]]
 url = "https://github.com/sorare/countdown-context"
 
 [[repo]]
@@ -55,6 +61,9 @@ url = "https://github.com/sorare/crypto-cpp"
 url = "https://github.com/sorare/dd-trace-go"
 
 [[repo]]
+url = "https://github.com/sorare/devise-jwt"
+
+[[repo]]
 url = "https://github.com/sorare/devise-two-factor"
 
 [[repo]]
@@ -68,6 +77,7 @@ url = "https://github.com/sorare/graphql-anycable"
 
 [[repo]]
 url = "https://github.com/sorare/graphql-code-generator"
+missing = true
 
 [[repo]]
 url = "https://github.com/sorare/graphql-tools"
@@ -82,10 +92,26 @@ url = "https://github.com/sorare/gruf"
 url = "https://github.com/sorare/interactor"
 
 [[repo]]
+url = "https://github.com/sorare/knip"
+missing = true
+
+[[repo]]
 url = "https://github.com/sorare/loom-js"
 
 [[repo]]
+url = "https://github.com/sorare/puma"
+
+[[repo]]
+url = "https://github.com/sorare/rack"
+
+[[repo]]
+url = "https://github.com/sorare/rack-utf8_sanitizer"
+
+[[repo]]
 url = "https://github.com/sorare/router"
+
+[[repo]]
+url = "https://github.com/sorare/safe-pg-migrations"
 
 [[repo]]
 url = "https://github.com/sorare/seadrop"
@@ -97,10 +123,16 @@ url = "https://github.com/sorare/serverless-chrome"
 url = "https://github.com/sorare/sidekiq-scheduler"
 
 [[repo]]
+url = "https://github.com/sorare/tapioca"
+
+[[repo]]
 url = "https://github.com/sorare/tonic_helm_charts"
 
 [[repo]]
 url = "https://github.com/sorare/use-font-face-observer"
+
+[[repo]]
+url = "https://github.com/sorare/video_app"
 
 [[repo]]
 url = "https://github.com/sorare/vonage-ruby-sdk"

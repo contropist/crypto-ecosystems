@@ -7,13 +7,18 @@ github_organizations = ["https://github.com/persistenceOne"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/persistenceOne/alliance"
+
+[[repo]]
 url = "https://github.com/persistenceOne/assetlists"
 
 [[repo]]
 url = "https://github.com/persistenceOne/assetMantle"
+missing = true
 
 [[repo]]
 url = "https://github.com/persistenceOne/assetMantle-webApplication"
+missing = true
 
 [[repo]]
 url = "https://github.com/persistenceOne/assets"
@@ -22,16 +27,27 @@ url = "https://github.com/persistenceOne/assets"
 url = "https://github.com/persistenceOne/awesome-persistence"
 
 [[repo]]
+url = "https://github.com/persistenceOne/babylon-sdk"
+
+[[repo]]
 url = "https://github.com/persistenceOne/batom-price-feed"
 
 [[repo]]
 url = "https://github.com/persistenceOne/bdjuno"
 
 [[repo]]
+url = "https://github.com/persistenceOne/chain-registry"
+
+[[repo]]
 url = "https://github.com/persistenceOne/comdexCrust"
+missing = true
+
+[[repo]]
+url = "https://github.com/persistenceOne/cometbft"
 
 [[repo]]
 url = "https://github.com/persistenceOne/cosmjs"
+missing = true
 
 [[repo]]
 url = "https://github.com/persistenceOne/cosmos-sdk"
@@ -61,10 +77,23 @@ url = "https://github.com/persistenceOne/eth2-liquid-staking-contracts"
 url = "https://github.com/persistenceOne/faucet"
 
 [[repo]]
+url = "https://github.com/persistenceOne/frontend-images"
+
+[[repo]]
 url = "https://github.com/persistenceOne/gaia"
+missing = true
 
 [[repo]]
 url = "https://github.com/persistenceOne/helio-smart-contracts"
+
+[[repo]]
+url = "https://github.com/persistenceOne/ibc-apps"
+
+[[repo]]
+url = "https://github.com/persistenceOne/ibc-go"
+
+[[repo]]
+url = "https://github.com/persistenceOne/ica-liquid-staking"
 
 [[repo]]
 url = "https://github.com/persistenceOne/incident-reports"
@@ -76,16 +105,26 @@ url = "https://github.com/persistenceOne/infsys-tendermint"
 url = "https://github.com/persistenceOne/interchain-queries"
 
 [[repo]]
+url = "https://github.com/persistenceOne/keplr-chain-registry"
+
+[[repo]]
 url = "https://github.com/persistenceOne/ledger-amino"
 
 [[repo]]
 url = "https://github.com/persistenceOne/ledger-cosmos"
+missing = true
 
 [[repo]]
 url = "https://github.com/persistenceOne/ledger-persistence"
 
 [[repo]]
 url = "https://github.com/persistenceOne/lens"
+
+[[repo]]
+url = "https://github.com/persistenceOne/liquidity-staking-module"
+
+[[repo]]
+url = "https://github.com/persistenceOne/lsm-workshop-gateway23"
 
 [[repo]]
 url = "https://github.com/persistenceOne/money-market-contracts"
@@ -100,6 +139,10 @@ url = "https://github.com/persistenceOne/optimism"
 url = "https://github.com/persistenceOne/oracle-feeder"
 
 [[repo]]
+url = "https://github.com/persistenceOne/packet-forward-middleware"
+missing = true
+
+[[repo]]
 url = "https://github.com/persistenceOne/persistence-docs"
 
 [[repo]]
@@ -109,7 +152,13 @@ url = "https://github.com/persistenceOne/persistence-graph-node"
 url = "https://github.com/persistenceOne/persistence-multisig-ui"
 
 [[repo]]
+url = "https://github.com/persistenceOne/persistence-rust"
+
+[[repo]]
 url = "https://github.com/persistenceOne/persistence-sdk"
+
+[[repo]]
+url = "https://github.com/persistenceOne/persistence-ui-components"
 
 [[repo]]
 url = "https://github.com/persistenceOne/persistenceBridge"
@@ -127,6 +176,9 @@ url = "https://github.com/persistenceOne/persistenceWallet"
 url = "https://github.com/persistenceOne/ping-pub-explorer"
 
 [[repo]]
+url = "https://github.com/persistenceOne/pob"
+
+[[repo]]
 url = "https://github.com/persistenceOne/pStake-anchor-terraAssets"
 
 [[repo]]
@@ -137,9 +189,16 @@ url = "https://github.com/persistenceOne/pStake-bugBounty"
 
 [[repo]]
 url = "https://github.com/persistenceOne/pStake-component-library"
+missing = true
+
+[[repo]]
+url = "https://github.com/persistenceOne/pstake-frontend-releases"
 
 [[repo]]
 url = "https://github.com/persistenceOne/pstake-native"
+
+[[repo]]
+url = "https://github.com/persistenceOne/pstake-rewards-swapper"
 
 [[repo]]
 url = "https://github.com/persistenceOne/pStake-smartContracts"
@@ -148,10 +207,20 @@ url = "https://github.com/persistenceOne/pStake-smartContracts"
 url = "https://github.com/persistenceOne/pStake-token-contract"
 
 [[repo]]
+url = "https://github.com/persistenceOne/pstake-ui-components"
+
+[[repo]]
+url = "https://github.com/persistenceOne/pstake-validator-selection"
+
+[[repo]]
 url = "https://github.com/persistenceOne/pStake-webapp-LandingPage"
 
 [[repo]]
+url = "https://github.com/persistenceOne/ratesync-contracts"
+
+[[repo]]
 url = "https://github.com/persistenceOne/refundCoins"
+missing = true
 
 [[repo]]
 url = "https://github.com/persistenceOne/relayer"
@@ -160,7 +229,14 @@ url = "https://github.com/persistenceOne/relayer"
 url = "https://github.com/persistenceOne/slips"
 
 [[repo]]
+url = "https://github.com/persistenceOne/starship"
+
+[[repo]]
+url = "https://github.com/persistenceOne/stats"
+
+[[repo]]
 url = "https://github.com/persistenceOne/stkATOM_ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/persistenceOne/stkBNB-contracts"
@@ -175,4 +251,14 @@ url = "https://github.com/persistenceOne/stkBNB-web-sdk"
 url = "https://github.com/persistenceOne/tendermint"
 
 [[repo]]
+url = "https://github.com/persistenceOne/test-tube"
+
+[[repo]]
+url = "https://github.com/persistenceOne/v4-chain"
+
+[[repo]]
+url = "https://github.com/persistenceOne/wasmd"
+
+[[repo]]
 url = "https://github.com/persistenceOne/website"
+missing = true

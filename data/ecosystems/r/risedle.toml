@@ -43,10 +43,16 @@ url = "https://github.com/risedle/exchange"
 url = "https://github.com/risedle/flt"
 
 [[repo]]
+url = "https://github.com/risedle/gatcha-contracts"
+
+[[repo]]
 url = "https://github.com/risedle/homepage"
 
 [[repo]]
 url = "https://github.com/risedle/interface"
+
+[[repo]]
+url = "https://github.com/risedle/meta-aggregator"
 
 [[repo]]
 url = "https://github.com/risedle/meth"
@@ -67,6 +73,9 @@ url = "https://github.com/risedle/setup-dapptools"
 url = "https://github.com/risedle/snapshot"
 
 [[repo]]
+url = "https://github.com/risedle/sociocat-contracts"
+
+[[repo]]
 url = "https://github.com/risedle/solidity-coffeebreak"
 
 [[repo]]
@@ -74,6 +83,9 @@ url = "https://github.com/risedle/solmate"
 
 [[repo]]
 url = "https://github.com/risedle/subgraph"
+
+[[repo]]
+url = "https://github.com/risedle/swap-router"
 
 [[repo]]
 url = "https://github.com/risedle/wagmi"

@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/LinkdropHQ"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/LinkdropHQ/claim-app"
+
+[[repo]]
+url = "https://github.com/LinkdropHQ/countries"
+
+[[repo]]
 url = "https://github.com/LinkdropHQ/Gasless-Webwallet"
 
 [[repo]]
@@ -14,6 +20,9 @@ url = "https://github.com/LinkdropHQ/GECO"
 
 [[repo]]
 url = "https://github.com/LinkdropHQ/generate-links"
+
+[[repo]]
+url = "https://github.com/LinkdropHQ/linkdrop-batch-sdk"
 
 [[repo]]
 url = "https://github.com/LinkdropHQ/linkdrop-binance-x"
@@ -31,6 +40,15 @@ url = "https://github.com/LinkdropHQ/linkdrop-demo-app"
 url = "https://github.com/LinkdropHQ/linkdrop-mailchimp"
 
 [[repo]]
+url = "https://github.com/LinkdropHQ/linkdrop-p2p-contracts"
+
+[[repo]]
+url = "https://github.com/LinkdropHQ/linkdrop-p2p-react-native-example-app"
+
+[[repo]]
+url = "https://github.com/LinkdropHQ/linkdrop-p2p-sdk"
+
+[[repo]]
 url = "https://github.com/LinkdropHQ/Linkdrop-Relayer"
 
 [[repo]]
@@ -44,6 +62,7 @@ url = "https://github.com/LinkdropHQ/linkdrop-unlock"
 
 [[repo]]
 url = "https://github.com/LinkdropHQ/linkdrop-v1"
+missing = true
 
 [[repo]]
 url = "https://github.com/LinkdropHQ/Linkdrop-Webapp"
@@ -55,10 +74,16 @@ url = "https://github.com/LinkdropHQ/linkdrop-widget-monorepo"
 url = "https://github.com/LinkdropHQ/linkdrop-widget-provider"
 
 [[repo]]
+url = "https://github.com/LinkdropHQ/plausible-tracker-linkdrop"
+
+[[repo]]
 url = "https://github.com/LinkdropHQ/Proposal-Paper"
 
 [[repo]]
 url = "https://github.com/LinkdropHQ/qr-code-styling"
+
+[[repo]]
+url = "https://github.com/LinkdropHQ/qr-code-styling-bigmac"
 
 [[repo]]
 url = "https://github.com/LinkdropHQ/safe-contracts"

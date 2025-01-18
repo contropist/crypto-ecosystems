@@ -11,10 +11,24 @@ url = "https://github.com/functionland/ADR"
 tags = ["DEcision Documents"]
 
 [[repo]]
+url = "https://github.com/functionland/airdrop"
+
+[[repo]]
+url = "https://github.com/functionland/anet"
+
+[[repo]]
+url = "https://github.com/functionland/armbian-build"
+
+[[repo]]
+url = "https://github.com/functionland/automatic-poolnode-creation-script"
+
+[[repo]]
 url = "https://github.com/functionland/beast"
+missing = true
 
 [[repo]]
 url = "https://github.com/functionland/blog"
+missing = true
 
 [[repo]]
 url = "https://github.com/functionland/BLOX"
@@ -24,13 +38,23 @@ tags = ["Hardware"]
 url = "https://github.com/functionland/Blox-fula"
 
 [[repo]]
+url = "https://github.com/functionland/Borg-Goerli"
+
+[[repo]]
 url = "https://github.com/functionland/box-design-blender"
 
 [[repo]]
 url = "https://github.com/functionland/box-pcb"
+missing = true
+
+[[repo]]
+url = "https://github.com/functionland/build"
 
 [[repo]]
 url = "https://github.com/functionland/cancan-archived"
+
+[[repo]]
+url = "https://github.com/functionland/collabora-RK3588-linux"
 
 [[repo]]
 url = "https://github.com/functionland/community-1"
@@ -39,16 +63,25 @@ url = "https://github.com/functionland/community-1"
 url = "https://github.com/functionland/community-archive"
 
 [[repo]]
+url = "https://github.com/functionland/community-proposals"
+
+[[repo]]
 url = "https://github.com/functionland/Crust-Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/functionland/Crust-Grants-Program"
 
 [[repo]]
+url = "https://github.com/functionland/dataroom"
+
+[[repo]]
 url = "https://github.com/functionland/dfinity"
 
 [[repo]]
 url = "https://github.com/functionland/docs"
+
+[[repo]]
+url = "https://github.com/functionland/evm-sc"
 
 [[repo]]
 url = "https://github.com/functionland/expo-image-editor"
@@ -73,10 +106,25 @@ tags = ["Android", "Protocol"]
 url = "https://github.com/functionland/fula-build-xcframework"
 
 [[repo]]
+url = "https://github.com/functionland/fula-chain"
+
+[[repo]]
+url = "https://github.com/functionland/fula-companion"
+
+[[repo]]
+url = "https://github.com/functionland/fula-contract-api"
+
+[[repo]]
+url = "https://github.com/functionland/fula-file-explorer"
+
+[[repo]]
 url = "https://github.com/functionland/fula-interface"
 
 [[repo]]
 url = "https://github.com/functionland/fula-linking"
+
+[[repo]]
+url = "https://github.com/functionland/fula-node"
 
 [[repo]]
 url = "https://github.com/functionland/fula-ota"
@@ -96,7 +144,13 @@ url = "https://github.com/functionland/Fula-SDK"
 url = "https://github.com/functionland/fula-sec"
 
 [[repo]]
+url = "https://github.com/functionland/fula-sec-web"
+
+[[repo]]
 url = "https://github.com/functionland/fula-testnet"
+
+[[repo]]
+url = "https://github.com/functionland/fulahub"
 
 [[repo]]
 url = "https://github.com/functionland/functionland-status"
@@ -106,6 +160,9 @@ url = "https://github.com/functionland/functionland.github.io"
 
 [[repo]]
 url = "https://github.com/functionland/fx-blox"
+
+[[repo]]
+url = "https://github.com/functionland/fx-blox-demo-old"
 
 [[repo]]
 url = "https://github.com/functionland/fx-components"
@@ -119,20 +176,43 @@ url = "https://github.com/functionland/fx-fotos"
 tags = ["Gallery", "dApp"]
 
 [[repo]]
+url = "https://github.com/functionland/fx-recyclerlistview"
+
+[[repo]]
 url = "https://github.com/functionland/fx.land"
+missing = true
+
+[[repo]]
+url = "https://github.com/functionland/fxfotos-web"
 
 [[repo]]
 url = "https://github.com/functionland/go-fula"
 tags = ["Backend", "Protocol"]
 
 [[repo]]
+url = "https://github.com/functionland/go-graphsync"
+missing = true
+
+[[repo]]
+url = "https://github.com/functionland/go-libp2p-relay-daemon"
+
+[[repo]]
 url = "https://github.com/functionland/go-mfs"
+
+[[repo]]
+url = "https://github.com/functionland/go-multiaddr"
 
 [[repo]]
 url = "https://github.com/functionland/go-unixfs"
 
 [[repo]]
 url = "https://github.com/functionland/Grants-Program-archived"
+
+[[repo]]
+url = "https://github.com/functionland/ipfs-pinning-service"
+
+[[repo]]
+url = "https://github.com/functionland/linux-rockchip"
 
 [[repo]]
 url = "https://github.com/functionland/meetings"
@@ -142,6 +222,9 @@ url = "https://github.com/functionland/MicrochipSmartHub"
 tags = ["Hardware", "Hub"]
 
 [[repo]]
+url = "https://github.com/functionland/pinning-service"
+
+[[repo]]
 url = "https://github.com/functionland/progress"
 
 [[repo]]
@@ -149,11 +232,15 @@ url = "https://github.com/functionland/proof-engine"
 tags = ["Blockchain", "Substrate"]
 
 [[repo]]
+url = "https://github.com/functionland/react-native-background-actions"
+
+[[repo]]
 url = "https://github.com/functionland/react-native-fula"
 tags = ["Mobile", "Protocol"]
 
 [[repo]]
 url = "https://github.com/functionland/react-native-fulamobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/functionland/react-native-qrcode-svg"
@@ -168,11 +255,26 @@ url = "https://github.com/functionland/react-native-stories-view"
 url = "https://github.com/functionland/react-native-wnfs"
 
 [[repo]]
+url = "https://github.com/functionland/rendezvous"
+
+[[repo]]
+url = "https://github.com/functionland/rk1-image"
+
+[[repo]]
+url = "https://github.com/functionland/rpi-image"
+
+[[repo]]
 url = "https://github.com/functionland/rs-wnfs-archived"
+
+[[repo]]
+url = "https://github.com/functionland/run-chainlinkfunctions-dapp"
 
 [[repo]]
 url = "https://github.com/functionland/simulation"
 tags = ["Blockchain", "Tokenomics"]
+
+[[repo]]
+url = "https://github.com/functionland/Specs"
 
 [[repo]]
 url = "https://github.com/functionland/sugarfunge-admin-panel"
@@ -183,6 +285,9 @@ url = "https://github.com/functionland/sugarfunge-api"
 tags = ["Blockchain", "Substrate"]
 
 [[repo]]
+url = "https://github.com/functionland/sugarfunge-bundle"
+
+[[repo]]
 url = "https://github.com/functionland/sugarfunge-explorer"
 tags = ["Blockchain", "Substrate"]
 
@@ -191,7 +296,16 @@ url = "https://github.com/functionland/sugarfunge-node"
 tags = ["Blockchain", "Substrate"]
 
 [[repo]]
+url = "https://github.com/functionland/testnet-server"
+
+[[repo]]
 url = "https://github.com/functionland/tests"
+
+[[repo]]
+url = "https://github.com/functionland/u-boot"
+
+[[repo]]
+url = "https://github.com/functionland/web-drive"
 
 [[repo]]
 url = "https://github.com/functionland/web-gallery"
@@ -218,6 +332,9 @@ url = "https://github.com/functionland/wnfs-go-archived"
 url = "https://github.com/functionland/wnfs-ios"
 
 [[repo]]
+url = "https://github.com/functionland/wnfs-ios-bindings"
+
+[[repo]]
 url = "https://github.com/functionland/wnfs-swift-bindings"
 
 [[repo]]
@@ -226,3 +343,9 @@ url = "https://github.com/functionland/wnfs-swift-package"
 [[repo]]
 url = "https://github.com/functionland/wnfs-utils"
 tags = ["IPLD", "WNFS"]
+
+[[repo]]
+url = "https://github.com/functionland/wnfs-utils-web"
+
+[[repo]]
+url = "https://github.com/functionland/wnfslib-web"

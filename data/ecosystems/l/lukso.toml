@@ -10,21 +10,22 @@ github_organizations = ["https://github.com/lukso-network"]
 url = "https://github.com/frozeman/pandora-execution-engine"
 
 [[repo]]
-url = "https://github.com/lukso-network/backend-ipfs"
+url = "https://github.com/lukso-network/awesome-lukso"
 
 [[repo]]
-url = "https://github.com/lukso-network/blockscout"
-missing = true
+url = "https://github.com/lukso-network/backend-ipfs"
 
 [[repo]]
 url = "https://github.com/lukso-network/chainhammer"
 
 [[repo]]
+url = "https://github.com/lukso-network/checkpointz"
+
+[[repo]]
 url = "https://github.com/lukso-network/docs"
 
 [[repo]]
-url = "https://github.com/lukso-network/eth2.0-deposit-cli"
-missing = true
+url = "https://github.com/lukso-network/ETHDenver-2024"
 
 [[repo]]
 url = "https://github.com/lukso-network/ethereum-blockies-base64"
@@ -37,6 +38,7 @@ url = "https://github.com/lukso-network/events-hack-your-profile-hackathon"
 
 [[repo]]
 url = "https://github.com/lukso-network/example-dapp-forum"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/example-dapp-lsps"
@@ -45,13 +47,32 @@ url = "https://github.com/lukso-network/example-dapp-lsps"
 url = "https://github.com/lukso-network/example-dapps"
 
 [[repo]]
+url = "https://github.com/lukso-network/example-eip-6963-test-dapp"
+
+[[repo]]
+url = "https://github.com/lukso-network/example-eip-6963-walletconnect"
+
+[[repo]]
 url = "https://github.com/lukso-network/example-forum-dapp"
+
+[[repo]]
+url = "https://github.com/lukso-network/example-miniapp-monorepo"
+
+[[repo]]
+url = "https://github.com/lukso-network/example-miniapp-plain"
+
+[[repo]]
+url = "https://github.com/lukso-network/example-miniapp-template"
+
+[[repo]]
+url = "https://github.com/lukso-network/example-miniapps"
 
 [[repo]]
 url = "https://github.com/lukso-network/go-ethereum"
 
 [[repo]]
 url = "https://github.com/lukso-network/go-ethereum-optimism"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/homebrew-tools"
@@ -72,19 +93,44 @@ url = "https://github.com/lukso-network/l16-deploy-node-gcloud"
 url = "https://github.com/lukso-network/l16-testnet-genesis"
 
 [[repo]]
+url = "https://github.com/lukso-network/ledger-app-ethereum"
+
+[[repo]]
+url = "https://github.com/lukso-network/ledger-live"
+
+[[repo]]
 url = "https://github.com/lukso-network/lighthouse"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/LIPs"
 
 [[repo]]
+url = "https://github.com/lukso-network/lsp-bridge-HypLSP7"
+
+[[repo]]
 url = "https://github.com/lukso-network/lsp-smart-contracts"
+
+[[repo]]
+url = "https://github.com/lukso-network/lsp-smart-contracts-utils"
+
+[[repo]]
+url = "https://github.com/lukso-network/lsp-utils"
+
+[[repo]]
+url = "https://github.com/lukso-network/lsp17-extensions"
 
 [[repo]]
 url = "https://github.com/lukso-network/lukso-dapps-keys-generation"
 
 [[repo]]
 url = "https://github.com/lukso-network/lukso-dapps-voting"
+
+[[repo]]
+url = "https://github.com/lukso-network/lukso-foundry-template"
+
+[[repo]]
+url = "https://github.com/lukso-network/lukso-hardhat-viem-template"
 
 [[repo]]
 url = "https://github.com/lukso-network/lukso-orchestrator"
@@ -99,6 +145,18 @@ url = "https://github.com/lukso-network/lukso-scripts-moc"
 url = "https://github.com/lukso-network/lukso-test-setup"
 
 [[repo]]
+url = "https://github.com/lukso-network/network-besu"
+
+[[repo]]
+url = "https://github.com/lukso-network/network-blockprint"
+
+[[repo]]
+url = "https://github.com/lukso-network/network-clientdiversity-org"
+
+[[repo]]
+url = "https://github.com/lukso-network/network-clientdiversity-website"
+
+[[repo]]
 url = "https://github.com/lukso-network/network-configs"
 
 [[repo]]
@@ -111,30 +169,39 @@ url = "https://github.com/lukso-network/network-consensus-stats-client"
 url = "https://github.com/lukso-network/network-consensus-stats-dashboard"
 
 [[repo]]
+url = "https://github.com/lukso-network/network-consensus-stats-server"
+
+[[repo]]
 url = "https://github.com/lukso-network/network-deposit-cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/network-deposit-launchpad"
+missing = true
+
+[[repo]]
+url = "https://github.com/lukso-network/network-docker-containers"
 
 [[repo]]
 url = "https://github.com/lukso-network/network-docker-geth-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/network-docker-lighthouse-client"
+missing = true
+
+[[repo]]
+url = "https://github.com/lukso-network/network-docker-monitoring"
 
 [[repo]]
 url = "https://github.com/lukso-network/network-docker-prysm-client"
-
-[[repo]]
-url = "https://github.com/lukso-network/network-execution-explorer"
 missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/network-execution-netstats"
 
 [[repo]]
-url = "https://github.com/lukso-network/network-execution-parity-explorer"
-missing = true
+url = "https://github.com/lukso-network/network-execution-stats"
 
 [[repo]]
 url = "https://github.com/lukso-network/network-explorer-consensus"
@@ -143,7 +210,22 @@ url = "https://github.com/lukso-network/network-explorer-consensus"
 url = "https://github.com/lukso-network/network-explorer-execution"
 
 [[repo]]
+url = "https://github.com/lukso-network/network-explorer-execution-frontend"
+
+[[repo]]
+url = "https://github.com/lukso-network/network-faucet-app"
+
+[[repo]]
+url = "https://github.com/lukso-network/network-genesis-deposit-contract"
+
+[[repo]]
+url = "https://github.com/lukso-network/network-genesis-hash-calc"
+
+[[repo]]
 url = "https://github.com/lukso-network/network-hbbft-posdao-contracts"
+
+[[repo]]
+url = "https://github.com/lukso-network/network-internet-identity"
 
 [[repo]]
 url = "https://github.com/lukso-network/network-l14-chain-spec"
@@ -164,13 +246,18 @@ url = "https://github.com/lukso-network/network-optimism-integration-test"
 url = "https://github.com/lukso-network/network-poa-consensus-contracts"
 
 [[repo]]
+url = "https://github.com/lukso-network/network-slot-finder"
+
+[[repo]]
 url = "https://github.com/lukso-network/network-validator-tools"
 
 [[repo]]
 url = "https://github.com/lukso-network/network-vanguard-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/network-vanguard-stats-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/NFC-SDK-Android"
@@ -183,12 +270,15 @@ url = "https://github.com/lukso-network/nfc-tag-js"
 
 [[repo]]
 url = "https://github.com/lukso-network/openethereum"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/optimism-monorepo"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/orchestrator"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/pandora-execution-engine"
@@ -206,10 +296,37 @@ url = "https://github.com/lukso-network/rICO-js"
 url = "https://github.com/lukso-network/RICO-smart-contracts"
 
 [[repo]]
+url = "https://github.com/lukso-network/service-bridge-hyperlane-warp-website"
+
+[[repo]]
 url = "https://github.com/lukso-network/service-cloudflare-4bytes-proxy"
 
 [[repo]]
+url = "https://github.com/lukso-network/service-graph-node"
+
+[[repo]]
+url = "https://github.com/lukso-network/service-ipfs-proxy"
+
+[[repo]]
+url = "https://github.com/lukso-network/service-thegraph-node"
+
+[[repo]]
 url = "https://github.com/lukso-network/standards-implementations"
+
+[[repo]]
+url = "https://github.com/lukso-network/teku"
+
+[[repo]]
+url = "https://github.com/lukso-network/tool-hypersync-client-node"
+
+[[repo]]
+url = "https://github.com/lukso-network/tools-ar-module"
+
+[[repo]]
+url = "https://github.com/lukso-network/tools-dapp-boilerplate"
+
+[[repo]]
+url = "https://github.com/lukso-network/tools-data-providers"
 
 [[repo]]
 url = "https://github.com/lukso-network/tools-eip191-signer"
@@ -221,6 +338,12 @@ url = "https://github.com/lukso-network/tools-erc725-inspect"
 url = "https://github.com/lukso-network/tools-key-gen-cli"
 
 [[repo]]
+url = "https://github.com/lukso-network/tools-lodestar-genesis-ssz-generator"
+
+[[repo]]
+url = "https://github.com/lukso-network/tools-lodestar-genesis-szz-generator"
+
+[[repo]]
 url = "https://github.com/lukso-network/tools-lsp-factory"
 
 [[repo]]
@@ -228,6 +351,16 @@ url = "https://github.com/lukso-network/tools-lukso-cli"
 
 [[repo]]
 url = "https://github.com/lukso-network/tools-lukso-cli-deprecated"
+
+[[repo]]
+url = "https://github.com/lukso-network/tools-lukso-hardhat-examples"
+missing = true
+
+[[repo]]
+url = "https://github.com/lukso-network/tools-lukso-permissionless.js"
+
+[[repo]]
+url = "https://github.com/lukso-network/tools-lyx-builder"
 
 [[repo]]
 url = "https://github.com/lukso-network/tools-mock-relayer"
@@ -239,13 +372,24 @@ url = "https://github.com/lukso-network/tools-staking-deposit-cli"
 url = "https://github.com/lukso-network/tools-up-hammer"
 
 [[repo]]
+url = "https://github.com/lukso-network/tools-up-provider"
+
+[[repo]]
+url = "https://github.com/lukso-network/tools-vitest-chrome"
+
+[[repo]]
 url = "https://github.com/lukso-network/tools-wagyu-key-gen"
 
 [[repo]]
+url = "https://github.com/lukso-network/tools-walletconnect-monorepo"
+
+[[repo]]
 url = "https://github.com/lukso-network/universalprofile-ios-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/universalprofile-ios-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/lukso-network/universalprofile-sample-ios-app"
@@ -266,6 +410,9 @@ url = "https://github.com/lukso-network/universalprofile-unity-avatar-sdk-exampl
 url = "https://github.com/lukso-network/universalprofile-unity-avatar-sdk-example-third-person"
 
 [[repo]]
+url = "https://github.com/lukso-network/universalprofile.cloud"
+
+[[repo]]
 url = "https://github.com/lukso-network/vanguard-apis"
 
 [[repo]]
@@ -275,4 +422,11 @@ url = "https://github.com/lukso-network/vanguard-consensus-engine"
 url = "https://github.com/lukso-network/wallet.universalprofile.cloud"
 
 [[repo]]
+url = "https://github.com/lukso-network/web3-onboard-config"
+
+[[repo]]
+url = "https://github.com/lukso-network/website-support-center"
+
+[[repo]]
 url = "https://github.com/lukso-network/wiki"
+missing = true

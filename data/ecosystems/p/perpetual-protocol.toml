@@ -16,16 +16,21 @@ url = "https://github.com/perpetual-protocol/assets"
 url = "https://github.com/perpetual-protocol/configurable-rights-pool"
 
 [[repo]]
+url = "https://github.com/perpetual-protocol/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/perpetual-protocol/examples"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/immunefi-14204"
+missing = true
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-admin-safe-app"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-arbitrageur"
+missing = true
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/perp-bounties"
@@ -109,13 +114,20 @@ url = "https://github.com/perpetual-protocol/snapshot-spaces"
 url = "https://github.com/perpetual-protocol/snapshot.js"
 
 [[repo]]
+url = "https://github.com/perpetual-protocol/uniswap-v3-pools"
+
+[[repo]]
 url = "https://github.com/perpetual-protocol/use-ethereum"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/vault-kit-themed"
+missing = true
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/voting-escrow"
 
 [[repo]]
 url = "https://github.com/perpetual-protocol/ygift-ui"
+
+[[repo]]
+url = "https://github.com/perpetual-protocol/yield-server"

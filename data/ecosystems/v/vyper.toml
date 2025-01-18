@@ -13,10 +13,16 @@ url = "https://github.com/pcaversaccio/snekmate"
 url = "https://github.com/vyperlang/atom-vyper"
 
 [[repo]]
+url = "https://github.com/vyperlang/audits"
+
+[[repo]]
 url = "https://github.com/vyperlang/blackadder"
 
 [[repo]]
 url = "https://github.com/vyperlang/coq-vyper"
+
+[[repo]]
+url = "https://github.com/vyperlang/devconnect2023"
 
 [[repo]]
 url = "https://github.com/vyperlang/egg"
@@ -34,6 +40,9 @@ url = "https://github.com/vyperlang/learn"
 url = "https://github.com/vyperlang/mamushi"
 
 [[repo]]
+url = "https://github.com/vyperlang/morelia-spilota"
+
+[[repo]]
 url = "https://github.com/vyperlang/pyodide"
 
 [[repo]]
@@ -44,6 +53,12 @@ url = "https://github.com/vyperlang/SublimeEthereum"
 
 [[repo]]
 url = "https://github.com/vyperlang/titanoboa"
+
+[[repo]]
+url = "https://github.com/vyperlang/titanoboa-zksync"
+
+[[repo]]
+url = "https://github.com/vyperlang/try.vyperlang.org"
 
 [[repo]]
 url = "https://github.com/vyperlang/verified-vyper-contracts"
@@ -61,10 +76,19 @@ url = "https://github.com/vyperlang/vvm"
 url = "https://github.com/vyperlang/vyper"
 
 [[repo]]
+url = "https://github.com/vyperlang/vyper-brand"
+
+[[repo]]
+url = "https://github.com/vyperlang/vyper-builds"
+
+[[repo]]
 url = "https://github.com/vyperlang/vyper-debug"
 
 [[repo]]
 url = "https://github.com/vyperlang/vyper-in-browser"
+
+[[repo]]
+url = "https://github.com/vyperlang/vyper-lsp"
 
 [[repo]]
 url = "https://github.com/vyperlang/vyper-static-linux-build"

@@ -10,7 +10,16 @@ github_organizations = ["https://github.com/ref-finance"]
 url = "https://github.com/ref-finance/boost-farm"
 
 [[repo]]
+url = "https://github.com/ref-finance/booster_calculator"
+
+[[repo]]
+url = "https://github.com/ref-finance/buy-back"
+
+[[repo]]
 url = "https://github.com/ref-finance/docs"
+
+[[repo]]
+url = "https://github.com/ref-finance/fastapi-template"
 
 [[repo]]
 url = "https://github.com/ref-finance/guide"
@@ -28,6 +37,9 @@ url = "https://github.com/ref-finance/pool-analysis"
 url = "https://github.com/ref-finance/pool-datastore"
 
 [[repo]]
+url = "https://github.com/ref-finance/publish"
+
+[[repo]]
 url = "https://github.com/ref-finance/ref-contracts"
 
 [[repo]]
@@ -41,6 +53,7 @@ url = "https://github.com/ref-finance/ref-sdk"
 
 [[repo]]
 url = "https://github.com/ref-finance/ref-stats"
+missing = true
 
 [[repo]]
 url = "https://github.com/ref-finance/ref-token"
@@ -50,3 +63,6 @@ url = "https://github.com/ref-finance/ref-ui"
 
 [[repo]]
 url = "https://github.com/ref-finance/ref-ve"
+
+[[repo]]
+url = "https://github.com/ref-finance/token_locker"

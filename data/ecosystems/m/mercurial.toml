@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Mercurial"
 
-sub_ecosystems = []
+sub_ecosystems = ["Meteora"]
 
 github_organizations = ["https://github.com/mercurial-finance"]
 
@@ -20,6 +20,7 @@ url = "https://github.com/mercurial-finance/create-ata-if-missing-program"
 
 [[repo]]
 url = "https://github.com/mercurial-finance/create-jupiter"
+missing = true
 
 [[repo]]
 url = "https://github.com/mercurial-finance/cypher-client-ts-v3"
@@ -65,6 +66,9 @@ url = "https://github.com/mercurial-finance/merkle-distributor"
 
 [[repo]]
 url = "https://github.com/mercurial-finance/metaplex"
+
+[[repo]]
+url = "https://github.com/mercurial-finance/mrgn-ts"
 
 [[repo]]
 url = "https://github.com/mercurial-finance/multisig"

@@ -7,6 +7,10 @@ github_organizations = ["https://github.com/ComposableFi"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ComposableFi/2-assets-matching-rs"
+missing = true
+
+[[repo]]
 url = "https://github.com/ComposableFi/airdrop-addresses"
 
 [[repo]]
@@ -14,6 +18,9 @@ url = "https://github.com/ComposableFi/apps"
 
 [[repo]]
 url = "https://github.com/ComposableFi/aptos-core"
+
+[[repo]]
+url = "https://github.com/ComposableFi/arxiv"
 
 [[repo]]
 url = "https://github.com/ComposableFi/async-icq"
@@ -28,16 +35,44 @@ url = "https://github.com/ComposableFi/cBridge-typescript-client"
 url = "https://github.com/ComposableFi/centauri"
 
 [[repo]]
+url = "https://github.com/ComposableFi/chopsticks"
+
+[[repo]]
+url = "https://github.com/ComposableFi/cometbft"
+
+[[repo]]
 url = "https://github.com/ComposableFi/composable"
+
+[[repo]]
+url = "https://github.com/ComposableFi/composable-centauri"
+
+[[repo]]
+url = "https://github.com/ComposableFi/composable-cosmos"
+
+[[repo]]
+url = "https://github.com/ComposableFi/composable-ibc"
 
 [[repo]]
 url = "https://github.com/ComposableFi/composable-labs"
 
 [[repo]]
+url = "https://github.com/ComposableFi/composable-networks"
+
+[[repo]]
 url = "https://github.com/ComposableFi/composable-public"
+missing = true
+
+[[repo]]
+url = "https://github.com/ComposableFi/composable-testnet"
+
+[[repo]]
+url = "https://github.com/ComposableFi/composable-vm"
 
 [[repo]]
 url = "https://github.com/ComposableFi/contract-dev-interface"
+
+[[repo]]
+url = "https://github.com/ComposableFi/cosmos-notifier"
 
 [[repo]]
 url = "https://github.com/ComposableFi/cosmos-sdk"
@@ -52,10 +87,16 @@ url = "https://github.com/ComposableFi/cosmwasm-vm"
 url = "https://github.com/ComposableFi/cosmwasm-vm-fork"
 
 [[repo]]
+url = "https://github.com/ComposableFi/CosmWasmJS"
+
+[[repo]]
 url = "https://github.com/ComposableFi/crev-proofs"
 
 [[repo]]
 url = "https://github.com/ComposableFi/cumulus"
+
+[[repo]]
+url = "https://github.com/ComposableFi/cvm"
 
 [[repo]]
 url = "https://github.com/ComposableFi/cw-template-project"
@@ -65,15 +106,36 @@ url = "https://github.com/ComposableFi/cw-toolkit"
 
 [[repo]]
 url = "https://github.com/ComposableFi/defi-health-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/ComposableFi/developer-relations-technical-task"
+missing = true
+
+[[repo]]
+url = "https://github.com/ComposableFi/docs"
 
 [[repo]]
 url = "https://github.com/ComposableFi/easy-start"
 
 [[repo]]
+url = "https://github.com/ComposableFi/emulated-light-client"
+
+[[repo]]
+url = "https://github.com/ComposableFi/env"
+
+[[repo]]
 url = "https://github.com/ComposableFi/ETHOnline_2021_public"
+missing = true
+
+[[repo]]
+url = "https://github.com/ComposableFi/evm-indexer"
+
+[[repo]]
+url = "https://github.com/ComposableFi/example_solver"
+
+[[repo]]
+url = "https://github.com/ComposableFi/FE-assets"
 
 [[repo]]
 url = "https://github.com/ComposableFi/gaia"
@@ -94,23 +156,35 @@ url = "https://github.com/ComposableFi/go-subkey"
 url = "https://github.com/ComposableFi/go-substrate-rpc-client"
 
 [[repo]]
+url = "https://github.com/ComposableFi/gogoproto"
+
+[[repo]]
 url = "https://github.com/ComposableFi/Grants-Program"
 
 [[repo]]
+url = "https://github.com/ComposableFi/helm-charts"
+
+[[repo]]
 url = "https://github.com/ComposableFi/hyperspace"
+missing = true
 
 [[repo]]
 url = "https://github.com/ComposableFi/ibc"
 
 [[repo]]
+url = "https://github.com/ComposableFi/ibc-apps"
+
+[[repo]]
+url = "https://github.com/ComposableFi/ibc-apps-more-rs"
+
+[[repo]]
 url = "https://github.com/ComposableFi/ibc-go"
 
 [[repo]]
-url = "https://github.com/ComposableFi/ibc-relayer"
-missing = true
+url = "https://github.com/ComposableFi/ibc-rs"
 
 [[repo]]
-url = "https://github.com/ComposableFi/ibc-rs"
+url = "https://github.com/ComposableFi/ibc-rs-apps"
 
 [[repo]]
 url = "https://github.com/ComposableFi/ibctest"
@@ -123,9 +197,26 @@ url = "https://github.com/ComposableFi/ics23"
 
 [[repo]]
 url = "https://github.com/ComposableFi/instrumental-finance"
+missing = true
 
 [[repo]]
 url = "https://github.com/ComposableFi/KTFPs"
+
+[[repo]]
+url = "https://github.com/ComposableFi/mantis-docs"
+
+[[repo]]
+url = "https://github.com/ComposableFi/mantis-sdk"
+missing = true
+
+[[repo]]
+url = "https://github.com/ComposableFi/mantis-solana"
+
+[[repo]]
+url = "https://github.com/ComposableFi/mantis-spl"
+
+[[repo]]
+url = "https://github.com/ComposableFi/mantis_sdk"
 
 [[repo]]
 url = "https://github.com/ComposableFi/mmr-go"
@@ -144,9 +235,16 @@ url = "https://github.com/ComposableFi/nearcore"
 
 [[repo]]
 url = "https://github.com/ComposableFi/necc"
+missing = true
 
 [[repo]]
 url = "https://github.com/ComposableFi/NEPs"
+
+[[repo]]
+url = "https://github.com/ComposableFi/networks"
+
+[[repo]]
+url = "https://github.com/ComposableFi/nix"
 
 [[repo]]
 url = "https://github.com/ComposableFi/open-runtime-module-library"
@@ -158,13 +256,25 @@ url = "https://github.com/ComposableFi/openzeppelin-contracts-upgradeable"
 url = "https://github.com/ComposableFi/osmosis"
 
 [[repo]]
+url = "https://github.com/ComposableFi/osmosis-std"
+
+[[repo]]
 url = "https://github.com/ComposableFi/parachain-strategies"
 
 [[repo]]
 url = "https://github.com/ComposableFi/patricia-merkle-trie"
 
 [[repo]]
+url = "https://github.com/ComposableFi/picasso"
+
+[[repo]]
+url = "https://github.com/ComposableFi/picasso-sdk"
+
+[[repo]]
 url = "https://github.com/ComposableFi/polkadot"
+
+[[repo]]
+url = "https://github.com/ComposableFi/polkadot-launch"
 
 [[repo]]
 url = "https://github.com/ComposableFi/relayer"
@@ -174,6 +284,7 @@ url = "https://github.com/ComposableFi/rs-merkle"
 
 [[repo]]
 url = "https://github.com/ComposableFi/sc-simnode"
+missing = true
 
 [[repo]]
 url = "https://github.com/ComposableFi/serde-json-wasm"
@@ -183,6 +294,10 @@ url = "https://github.com/ComposableFi/simple-avl"
 
 [[repo]]
 url = "https://github.com/ComposableFi/sol-benchmarks"
+missing = true
+
+[[repo]]
+url = "https://github.com/ComposableFi/solana-program-library"
 
 [[repo]]
 url = "https://github.com/ComposableFi/squid"
@@ -192,6 +307,7 @@ url = "https://github.com/ComposableFi/substrate"
 
 [[repo]]
 url = "https://github.com/ComposableFi/substrate-ibc"
+missing = true
 
 [[repo]]
 url = "https://github.com/ComposableFi/subwasm"
@@ -200,7 +316,17 @@ url = "https://github.com/ComposableFi/subwasm"
 url = "https://github.com/ComposableFi/subxt"
 
 [[repo]]
+url = "https://github.com/ComposableFi/succint_exporter"
+
+[[repo]]
 url = "https://github.com/ComposableFi/tendermint-rs"
+
+[[repo]]
+url = "https://github.com/ComposableFi/tendermintx-private"
+
+[[repo]]
+url = "https://github.com/ComposableFi/tmp-solana-ibc-post"
+missing = true
 
 [[repo]]
 url = "https://github.com/ComposableFi/v1-sdk-contracts"

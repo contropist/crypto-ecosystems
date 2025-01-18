@@ -7,6 +7,13 @@ github_organizations = ["https://github.com/caloriecoin"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/caloriecoin/caloriecoin-jump-rope-app-lisk"
+missing = true
+
+[[repo]]
+url = "https://github.com/caloriecoin/CalorieCoin_Gym_Contract"
+
+[[repo]]
 url = "https://github.com/caloriecoin/cloudinary"
 
 [[repo]]
@@ -32,6 +39,27 @@ url = "https://github.com/caloriecoin/gitpulltest"
 
 [[repo]]
 url = "https://github.com/caloriecoin/gitpulltest2"
+
+[[repo]]
+url = "https://github.com/caloriecoin/image-preview-react"
+
+[[repo]]
+url = "https://github.com/caloriecoin/image-profile-upload"
+
+[[repo]]
+url = "https://github.com/caloriecoin/mern-chat-app-best"
+
+[[repo]]
+url = "https://github.com/caloriecoin/MERN-Recipe-App"
+
+[[repo]]
+url = "https://github.com/caloriecoin/MERN-Stack-Build-a-social-media-app"
+
+[[repo]]
+url = "https://github.com/caloriecoin/photo-gallery-app-yt--backend"
+
+[[repo]]
+url = "https://github.com/caloriecoin/react-modal"
 
 [[repo]]
 url = "https://github.com/caloriecoin/TeamEdu"

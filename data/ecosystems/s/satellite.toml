@@ -13,6 +13,15 @@ url = "https://github.com/Satellite-im/.github"
 url = "https://github.com/Satellite-im/android"
 
 [[repo]]
+url = "https://github.com/Satellite-im/aom-rs"
+
+[[repo]]
+url = "https://github.com/Satellite-im/audiopus_sys"
+
+[[repo]]
+url = "https://github.com/Satellite-im/automated-tests-web"
+
+[[repo]]
 url = "https://github.com/Satellite-im/bittorrent-tracker"
 
 [[repo]]
@@ -20,10 +29,6 @@ url = "https://github.com/Satellite-im/Blink"
 
 [[repo]]
 url = "https://github.com/Satellite-im/bls12_381_plus"
-
-[[repo]]
-url = "https://github.com/Satellite-im/Build-Desktop"
-missing = true
 
 [[repo]]
 url = "https://github.com/Satellite-im/CLI"
@@ -35,7 +40,17 @@ url = "https://github.com/Satellite-im/Core-PWA"
 url = "https://github.com/Satellite-im/cypress"
 
 [[repo]]
+url = "https://github.com/Satellite-im/debug-crash"
+missing = true
+
+[[repo]]
 url = "https://github.com/Satellite-im/did-key.rs"
+
+[[repo]]
+url = "https://github.com/Satellite-im/did_url"
+
+[[repo]]
+url = "https://github.com/Satellite-im/dioxus"
 
 [[repo]]
 url = "https://github.com/Satellite-im/dioxus-heroicons"
@@ -45,9 +60,11 @@ url = "https://github.com/Satellite-im/dioxus-toast"
 
 [[repo]]
 url = "https://github.com/Satellite-im/echo"
+missing = true
 
 [[repo]]
 url = "https://github.com/Satellite-im/iridium"
+missing = true
 
 [[repo]]
 url = "https://github.com/Satellite-im/js-ipfs"
@@ -57,6 +74,21 @@ url = "https://github.com/Satellite-im/Legacy-Contracts"
 
 [[repo]]
 url = "https://github.com/Satellite-im/locales"
+
+[[repo]]
+url = "https://github.com/Satellite-im/markdowns"
+
+[[repo]]
+url = "https://github.com/Satellite-im/messaging-poc"
+
+[[repo]]
+url = "https://github.com/Satellite-im/mp4-rust"
+
+[[repo]]
+url = "https://github.com/Satellite-im/Mycelium"
+
+[[repo]]
+url = "https://github.com/Satellite-im/opus-rs"
 
 [[repo]]
 url = "https://github.com/Satellite-im/P2PT"
@@ -71,14 +103,11 @@ url = "https://github.com/Satellite-im/Safer"
 url = "https://github.com/Satellite-im/Sata"
 
 [[repo]]
-url = "https://github.com/Satellite-im/Satellite-Build-Desktop"
-missing = true
-
-[[repo]]
 url = "https://github.com/Satellite-im/satellite-im.github.io"
 
 [[repo]]
 url = "https://github.com/Satellite-im/Satellite-Legacy"
+missing = true
 
 [[repo]]
 url = "https://github.com/Satellite-im/satellite-lucide-vue"
@@ -88,6 +117,7 @@ url = "https://github.com/Satellite-im/Satellite-Web"
 
 [[repo]]
 url = "https://github.com/Satellite-im/signal-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/Satellite-im/simple-webrtc"
@@ -109,15 +139,40 @@ url = "https://github.com/Satellite-im/solana-programs"
 
 [[repo]]
 url = "https://github.com/Satellite-im/stun"
+missing = true
+
+[[repo]]
+url = "https://github.com/Satellite-im/tauri"
+
+[[repo]]
+url = "https://github.com/Satellite-im/test-builds-uplink"
+
+[[repo]]
+url = "https://github.com/Satellite-im/test-reports"
 
 [[repo]]
 url = "https://github.com/Satellite-im/testing-uplink"
+
+[[repo]]
+url = "https://github.com/Satellite-im/transit"
+missing = true
 
 [[repo]]
 url = "https://github.com/Satellite-im/typed-emitter"
 
 [[repo]]
 url = "https://github.com/Satellite-im/Uplink"
+
+[[repo]]
+url = "https://github.com/Satellite-im/Uplink-Backlog"
+
+[[repo]]
+url = "https://github.com/Satellite-im/Uplink-build-testing"
+missing = true
+
+[[repo]]
+url = "https://github.com/Satellite-im/Uplink-Builds"
+missing = true
 
 [[repo]]
 url = "https://github.com/Satellite-im/Uplink-Deprecated"
@@ -127,6 +182,19 @@ url = "https://github.com/Satellite-im/Uplink-Desktop-CSS-Test-Bench"
 
 [[repo]]
 url = "https://github.com/Satellite-im/Uplink-Mobile"
+
+[[repo]]
+url = "https://github.com/Satellite-im/Uplink-Test_Builds"
+missing = true
+
+[[repo]]
+url = "https://github.com/Satellite-im/uplink.satellite.im"
+
+[[repo]]
+url = "https://github.com/Satellite-im/UplinkWeb"
+
+[[repo]]
+url = "https://github.com/Satellite-im/video-streaming-prototype"
 
 [[repo]]
 url = "https://github.com/Satellite-im/vue-emoji-picker"
@@ -141,13 +209,19 @@ url = "https://github.com/Satellite-im/warp-dart"
 url = "https://github.com/Satellite-im/warp-docs"
 
 [[repo]]
+url = "https://github.com/Satellite-im/warp-runner"
+missing = true
+
+[[repo]]
 url = "https://github.com/Satellite-im/warp-wasm"
 
 [[repo]]
 url = "https://github.com/Satellite-im/webrtc-star-signalling"
+missing = true
 
 [[repo]]
 url = "https://github.com/Satellite-im/Website"
 
 [[repo]]
 url = "https://github.com/Satellite-im/wormhole-docs"
+missing = true

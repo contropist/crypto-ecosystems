@@ -10,6 +10,12 @@ github_organizations = ["https://github.com/BlockWit"]
 url = "https://github.com/BlockWit/artitime-token"
 
 [[repo]]
+url = "https://github.com/BlockWit/blockwit-balances-contract-field-optimization"
+
+[[repo]]
+url = "https://github.com/BlockWit/blockwit-empty-contract-field-optimization"
+
+[[repo]]
 url = "https://github.com/BlockWit/bns-contracts"
 
 [[repo]]
@@ -40,6 +46,9 @@ url = "https://github.com/BlockWit/cov-token"
 url = "https://github.com/BlockWit/daot-contracts"
 
 [[repo]]
+url = "https://github.com/BlockWit/discovery"
+
+[[repo]]
 url = "https://github.com/BlockWit/esh-kse-12"
 
 [[repo]]
@@ -53,6 +62,9 @@ url = "https://github.com/BlockWit/eth-bsc-swap-contracts"
 
 [[repo]]
 url = "https://github.com/BlockWit/hegic-contracts"
+
+[[repo]]
+url = "https://github.com/BlockWit/infra"
 
 [[repo]]
 url = "https://github.com/BlockWit/inmonkeys"
@@ -83,6 +95,9 @@ url = "https://github.com/BlockWit/read-transactions"
 
 [[repo]]
 url = "https://github.com/BlockWit/RFI-SWAP-emilation"
+
+[[repo]]
+url = "https://github.com/BlockWit/sandbox-flask-ws-1"
 
 [[repo]]
 url = "https://github.com/BlockWit/skrylov-service"

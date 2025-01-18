@@ -1,11 +1,14 @@
 # Ecosystem Level Information
 title = "CertiK"
 
-sub_ecosystems = []
+sub_ecosystems = ["MyWish"]
 
 github_organizations = ["https://github.com/certikfoundation", "https://github.com/CertiKProject"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/CertiKProject/action-required-review"
+
 [[repo]]
 url = "https://github.com/CertiKProject/arbitrage-bot"
 
@@ -28,6 +31,21 @@ url = "https://github.com/CertiKProject/datadog-api-client-typescript"
 url = "https://github.com/CertiKProject/echidna_fuzzer"
 
 [[repo]]
+url = "https://github.com/CertiKProject/erigon"
+
+[[repo]]
+url = "https://github.com/CertiKProject/FAR"
+
+[[repo]]
+url = "https://github.com/CertiKProject/FAR-standard"
+
+[[repo]]
+url = "https://github.com/CertiKProject/hello-20world"
+
+[[repo]]
+url = "https://github.com/CertiKProject/lightbox_public"
+
+[[repo]]
 url = "https://github.com/CertiKProject/MOVE-CTF-2022"
 
 [[repo]]
@@ -38,12 +56,20 @@ url = "https://github.com/CertiKProject/ocaml-solidity"
 
 [[repo]]
 url = "https://github.com/CertiKProject/QuoteTools"
+missing = true
 
 [[repo]]
 url = "https://github.com/CertiKProject/shentu"
 
 [[repo]]
 url = "https://github.com/CertiKProject/slither-certik"
+
+[[repo]]
+url = "https://github.com/CertiKProject/slither-internal"
+missing = true
+
+[[repo]]
+url = "https://github.com/CertiKProject/smartbugs-certik"
 
 [[repo]]
 url = "https://github.com/CertiKProject/SmartPulseTool"
@@ -53,6 +79,7 @@ url = "https://github.com/CertiKProject/solc-select"
 
 [[repo]]
 url = "https://github.com/CertiKProject/SVS"
+missing = true
 
 [[repo]]
 url = "https://github.com/CertiKProject/SWC-registry"
@@ -70,7 +97,17 @@ url = "https://github.com/CertiKProject/validator-directory"
 url = "https://github.com/CertiKProject/vercel_ruby"
 
 [[repo]]
+url = "https://github.com/CertiKProject/yara"
+
+[[repo]]
+url = "https://github.com/CertiKProject/yara-python"
+
+[[repo]]
+url = "https://github.com/CertiKProject/zkwasm-fv"
+
+[[repo]]
 url = "https://github.com/ShentuChain/hub"
+missing = true
 
 [[repo]]
 url = "https://github.com/ShentuChain/TVL-Adapters"
@@ -80,12 +117,14 @@ url = "https://github.com/shentufoundation/deepsea"
 
 [[repo]]
 url = "https://github.com/shentufoundation/hub"
+missing = true
 
 [[repo]]
 url = "https://github.com/shentufoundation/mainnet"
 
 [[repo]]
 url = "https://github.com/shentufoundation/oracle-operator"
+missing = true
 
 [[repo]]
 url = "https://github.com/shentufoundation/security-oracle-smart-contracts"

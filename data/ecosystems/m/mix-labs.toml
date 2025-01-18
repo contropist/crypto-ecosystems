@@ -7,6 +7,10 @@ github_organizations = ["https://github.com/mix-labs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/mix-labs/aggregator"
+missing = true
+
+[[repo]]
 url = "https://github.com/mix-labs/aptoscan"
 
 [[repo]]
@@ -20,6 +24,9 @@ url = "https://github.com/mix-labs/DfinityTutorials"
 
 [[repo]]
 url = "https://github.com/mix-labs/docs"
+
+[[repo]]
+url = "https://github.com/mix-labs/evm-token-indexer"
 
 [[repo]]
 url = "https://github.com/mix-labs/IC-demo-11-30-21"
@@ -38,6 +45,9 @@ url = "https://github.com/mix-labs/IC_WhitePaper"
 
 [[repo]]
 url = "https://github.com/mix-labs/ICSP"
+
+[[repo]]
+url = "https://github.com/mix-labs/imart-indexer"
 
 [[repo]]
 url = "https://github.com/mix-labs/imart-toolkit"
@@ -61,10 +71,17 @@ url = "https://github.com/mix-labs/nft-token"
 url = "https://github.com/mix-labs/nns_sync"
 
 [[repo]]
+url = "https://github.com/mix-labs/seaport"
+
+[[repo]]
 url = "https://github.com/mix-labs/seaport-orderbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/mix-labs/StableLibrary"
 
 [[repo]]
 url = "https://github.com/mix-labs/StableMap"
+
+[[repo]]
+url = "https://github.com/mix-labs/XID-contract"

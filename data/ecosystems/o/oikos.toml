@@ -32,9 +32,11 @@ url = "https://github.com/oikos-cash/exchange-v2"
 
 [[repo]]
 url = "https://github.com/oikos-cash/home"
+missing = true
 
 [[repo]]
 url = "https://github.com/oikos-cash/homepage"
+missing = true
 
 [[repo]]
 url = "https://github.com/oikos-cash/learn-and-earn"
@@ -49,10 +51,14 @@ url = "https://github.com/oikos-cash/minter"
 url = "https://github.com/oikos-cash/oikos"
 
 [[repo]]
+url = "https://github.com/oikos-cash/oikos-assets"
+
+[[repo]]
 url = "https://github.com/oikos-cash/oikos-bsc"
 
 [[repo]]
 url = "https://github.com/oikos-cash/oikos-dashboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/oikos-cash/oikos-data"
@@ -65,6 +71,9 @@ url = "https://github.com/oikos-cash/oikos-docs-bsc"
 
 [[repo]]
 url = "https://github.com/oikos-cash/oikos-exchange-stats"
+
+[[repo]]
+url = "https://github.com/oikos-cash/oikos-home"
 
 [[repo]]
 url = "https://github.com/oikos-cash/oikos-js"

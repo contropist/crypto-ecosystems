@@ -20,6 +20,10 @@ url = "https://github.com/sea-protocol/seaprotocol"
 
 [[repo]]
 url = "https://github.com/sea-protocol/webapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/sea-protocol/XEN-crypto"
+
+[[repo]]
+url = "https://github.com/tespersuffsu/seaprotocol"

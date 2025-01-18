@@ -19,16 +19,34 @@ url = "https://github.com/grassrootseconomics/Accdash"
 url = "https://github.com/grassrootseconomics/asynq"
 
 [[repo]]
+url = "https://github.com/grassrootseconomics/aurora-backend"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/aurora-dashboard"
+
+[[repo]]
 url = "https://github.com/grassrootseconomics/auroraCacao"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/base-image"
 
 [[repo]]
+url = "https://github.com/grassrootseconomics/cel2-node"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/celo-blockchain"
+
+[[repo]]
 url = "https://github.com/grassrootseconomics/celo-chainlib-eth"
 
 [[repo]]
+url = "https://github.com/grassrootseconomics/celo-indexer"
+
+[[repo]]
 url = "https://github.com/grassrootseconomics/celo-node"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/celo-tracker"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/celoutils"
@@ -85,6 +103,9 @@ url = "https://github.com/grassrootseconomics/cic-seeding"
 url = "https://github.com/grassrootseconomics/cic-stack"
 
 [[repo]]
+url = "https://github.com/grassrootseconomics/cic-stack-docs"
+
+[[repo]]
 url = "https://github.com/grassrootseconomics/cic-stack-publish"
 
 [[repo]]
@@ -112,7 +133,13 @@ url = "https://github.com/grassrootseconomics/cic-ussd-cli"
 url = "https://github.com/grassrootseconomics/contracts"
 
 [[repo]]
+url = "https://github.com/grassrootseconomics/custodial-docker-stack"
+
+[[repo]]
 url = "https://github.com/grassrootseconomics/custodial-registration-proxy"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/dapp-list"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/Dashboard"
@@ -124,10 +151,43 @@ url = "https://github.com/grassrootseconomics/docker-flarum"
 url = "https://github.com/grassrootseconomics/docs.grassecon.org"
 
 [[repo]]
+url = "https://github.com/grassrootseconomics/ens-offchain-resolver"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/erc20-limiter"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/erc20-pool"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/eth-custodial"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/eth-indexer"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/eth-tracker"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/ethutils"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/fonbnk-go"
+
+[[repo]]
 url = "https://github.com/grassrootseconomics/ge-dw-admin"
 
 [[repo]]
+url = "https://github.com/grassrootseconomics/ge-publish"
+
+[[repo]]
 url = "https://github.com/grassrootseconomics/ge-self-hosted"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/ge-software-docs"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/giz-ussd-v1"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/HowTo-Paper-Currencies"
@@ -142,6 +202,9 @@ url = "https://github.com/grassrootseconomics/kitabu-ethstats-client"
 url = "https://github.com/grassrootseconomics/kitabu-ethstats-server"
 
 [[repo]]
+url = "https://github.com/grassrootseconomics/kotani-go"
+
+[[repo]]
 url = "https://github.com/grassrootseconomics/liveness"
 
 [[repo]]
@@ -149,6 +212,9 @@ url = "https://github.com/grassrootseconomics/login"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/my_sarafu"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/mycofig"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/mySarafu"
@@ -160,10 +226,22 @@ url = "https://github.com/grassrootseconomics/okota"
 url = "https://github.com/grassrootseconomics/org-website"
 
 [[repo]]
+url = "https://github.com/grassrootseconomics/plate"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/price-index-quoter"
+
+[[repo]]
 url = "https://github.com/grassrootseconomics/public-dashboard"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/sarafu-network"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/sarafu-ussd-instance"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/sarafu.network"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/SempoBlockchain"
@@ -175,10 +253,25 @@ url = "https://github.com/grassrootseconomics/stateness"
 url = "https://github.com/grassrootseconomics/tern"
 
 [[repo]]
+url = "https://github.com/grassrootseconomics/urdt-ussd"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/urdt-ussd-term"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/ussd-canary-proxy"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/ussd-data-service"
+
+[[repo]]
 url = "https://github.com/grassrootseconomics/visualizer"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/vms"
+
+[[repo]]
+url = "https://github.com/grassrootseconomics/w3-celo"
 
 [[repo]]
 url = "https://github.com/grassrootseconomics/w3-celo-patch"

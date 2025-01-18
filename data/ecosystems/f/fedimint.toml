@@ -10,7 +10,16 @@ github_organizations = ["https://github.com/fedimint"]
 url = "https://github.com/fedimint/.github"
 
 [[repo]]
+url = "https://github.com/fedimint/arti"
+
+[[repo]]
+url = "https://github.com/fedimint/awesome-fedimint"
+
+[[repo]]
 url = "https://github.com/fedimint/bitcoin_hashes"
+
+[[repo]]
+url = "https://github.com/fedimint/bls12_381"
 
 [[repo]]
 url = "https://github.com/fedimint/clientd"
@@ -25,7 +34,29 @@ url = "https://github.com/fedimint/faucet"
 url = "https://github.com/fedimint/fedimint"
 
 [[repo]]
+url = "https://github.com/fedimint/fedimint-alephbft"
+
+[[repo]]
+url = "https://github.com/fedimint/fedimint-clientd"
+
+[[repo]]
 url = "https://github.com/fedimint/fedimint-custom-modules-example"
+
+[[repo]]
+url = "https://github.com/fedimint/fedimint-docker"
+
+[[repo]]
+url = "https://github.com/fedimint/fedimint-http"
+missing = true
+
+[[repo]]
+url = "https://github.com/fedimint/fedimint-infra"
+
+[[repo]]
+url = "https://github.com/fedimint/fedimint-thunderhub"
+
+[[repo]]
+url = "https://github.com/fedimint/fedimint-web-sdk"
 
 [[repo]]
 url = "https://github.com/fedimint/fedimint.org"
@@ -34,7 +65,13 @@ url = "https://github.com/fedimint/fedimint.org"
 url = "https://github.com/fedimint/fedimint.org-old"
 
 [[repo]]
+url = "https://github.com/fedimint/gateway-startos"
+
+[[repo]]
 url = "https://github.com/fedimint/hbbft"
+
+[[repo]]
+url = "https://github.com/fedimint/ldk-node"
 
 [[repo]]
 url = "https://github.com/fedimint/lightning"
@@ -50,6 +87,12 @@ url = "https://github.com/fedimint/nix-bitcoin"
 
 [[repo]]
 url = "https://github.com/fedimint/nix-rpi-stack"
+
+[[repo]]
+url = "https://github.com/fedimint/nixos-deployment"
+
+[[repo]]
+url = "https://github.com/fedimint/rust-bip39"
 
 [[repo]]
 url = "https://github.com/fedimint/rust-clightning-rpc"
@@ -71,3 +114,6 @@ url = "https://github.com/fedimint/threshold_crypto"
 
 [[repo]]
 url = "https://github.com/fedimint/tonic_lnd"
+
+[[repo]]
+url = "https://github.com/fedimint/ui"

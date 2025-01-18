@@ -10,6 +10,13 @@ github_organizations = ["https://github.com/hoprnet"]
 url = "https://github.com/hoprnet/abortable-iterator"
 
 [[repo]]
+url = "https://github.com/hoprnet/actions-runner-controller"
+missing = true
+
+[[repo]]
+url = "https://github.com/hoprnet/ansible-hoprd"
+
+[[repo]]
 url = "https://github.com/hoprnet/ansible-nethermind"
 
 [[repo]]
@@ -40,13 +47,46 @@ url = "https://github.com/hoprnet/ceramic-docker"
 url = "https://github.com/hoprnet/clap"
 
 [[repo]]
+url = "https://github.com/hoprnet/cowswap"
+
+[[repo]]
+url = "https://github.com/hoprnet/crane"
+
+[[repo]]
+url = "https://github.com/hoprnet/ct-applications"
+
+[[repo]]
+url = "https://github.com/hoprnet/ct-platform"
+
+[[repo]]
+url = "https://github.com/hoprnet/ct-research"
+
+[[repo]]
+url = "https://github.com/hoprnet/curve25519-dalek"
+
+[[repo]]
 url = "https://github.com/hoprnet/DAppNodePackage-Hopr"
+
+[[repo]]
+url = "https://github.com/hoprnet/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/hoprnet/DefiLlama-Adapters-dimension"
 
 [[repo]]
 url = "https://github.com/hoprnet/derp"
 
 [[repo]]
+url = "https://github.com/hoprnet/docs-rpch-net"
+
+[[repo]]
+url = "https://github.com/hoprnet/ed25519-dalek"
+
+[[repo]]
 url = "https://github.com/hoprnet/education-hoprnet-org"
+
+[[repo]]
+url = "https://github.com/hoprnet/ethereum-helm-charts"
 
 [[repo]]
 url = "https://github.com/hoprnet/ethereum-provider"
@@ -55,7 +95,20 @@ url = "https://github.com/hoprnet/ethereum-provider"
 url = "https://github.com/hoprnet/ethers-js-provider"
 
 [[repo]]
+url = "https://github.com/hoprnet/fast-socks5"
+
+[[repo]]
+url = "https://github.com/hoprnet/foundry"
+
+[[repo]]
 url = "https://github.com/hoprnet/gnosis-hosted"
+
+[[repo]]
+url = "https://github.com/hoprnet/gnosisvpn-io"
+missing = true
+
+[[repo]]
+url = "https://github.com/hoprnet/hickory-dns"
 
 [[repo]]
 url = "https://github.com/hoprnet/hopr-activities"
@@ -110,6 +163,7 @@ url = "https://github.com/hoprnet/hopr-demo-seeds"
 
 [[repo]]
 url = "https://github.com/hoprnet/hopr-devops"
+missing = true
 
 [[repo]]
 url = "https://github.com/hoprnet/hopr-devrel"
@@ -140,6 +194,7 @@ url = "https://github.com/hoprnet/hopr-genesis"
 
 [[repo]]
 url = "https://github.com/hoprnet/hopr-ground0"
+missing = true
 
 [[repo]]
 url = "https://github.com/hoprnet/hopr-leaderboard"
@@ -161,6 +216,9 @@ url = "https://github.com/hoprnet/hopr-react-components"
 
 [[repo]]
 url = "https://github.com/hoprnet/HOPR-Relay"
+
+[[repo]]
+url = "https://github.com/hoprnet/hopr-sdk"
 
 [[repo]]
 url = "https://github.com/hoprnet/hopr-server"
@@ -199,22 +257,42 @@ url = "https://github.com/hoprnet/hopr-whitepaper"
 url = "https://github.com/hoprnet/hopr-workflows"
 
 [[repo]]
+url = "https://github.com/hoprnet/hopraf"
+
+[[repo]]
 url = "https://github.com/hoprnet/hoprd"
+
+[[repo]]
+url = "https://github.com/hoprnet/hoprd-api-python"
 
 [[repo]]
 url = "https://github.com/hoprnet/hoprd-operator"
 
 [[repo]]
+url = "https://github.com/hoprnet/hoprd-sdk-python"
+
+[[repo]]
+url = "https://github.com/hoprnet/hoprd-test"
+
+[[repo]]
 url = "https://github.com/hoprnet/hoprnet"
 
 [[repo]]
+url = "https://github.com/hoprnet/hoprnet-ci"
+
+[[repo]]
 url = "https://github.com/hoprnet/hoprnet-org"
+missing = true
 
 [[repo]]
 url = "https://github.com/hoprnet/hoprsim"
 
 [[repo]]
+url = "https://github.com/hoprnet/hub-hoprnet-org"
+
+[[repo]]
 url = "https://github.com/hoprnet/interface-datastore"
+missing = true
 
 [[repo]]
 url = "https://github.com/hoprnet/it-length-prefixed"
@@ -229,13 +307,34 @@ url = "https://github.com/hoprnet/js-libp2p-kad-dht"
 url = "https://github.com/hoprnet/js-multiformats"
 
 [[repo]]
+url = "https://github.com/hoprnet/k6-operator"
+
+[[repo]]
+url = "https://github.com/hoprnet/k8s-reset-terminating"
+
+[[repo]]
 url = "https://github.com/hoprnet/kubespray"
+
+[[repo]]
+url = "https://github.com/hoprnet/leveldb-rs"
 
 [[repo]]
 url = "https://github.com/hoprnet/lighthouse"
 
 [[repo]]
 url = "https://github.com/hoprnet/maze-dapp-game-hopr"
+
+[[repo]]
+url = "https://github.com/hoprnet/metaclear-attacknet"
+
+[[repo]]
+url = "https://github.com/hoprnet/metaclear-ethereum-package"
+
+[[repo]]
+url = "https://github.com/hoprnet/metaclear-lighthouse"
+
+[[repo]]
+url = "https://github.com/hoprnet/metaclear-mev-relay"
 
 [[repo]]
 url = "https://github.com/hoprnet/metamask-extension"
@@ -250,6 +349,12 @@ url = "https://github.com/hoprnet/myne-chat"
 url = "https://github.com/hoprnet/myne-chat-website"
 
 [[repo]]
+url = "https://github.com/hoprnet/mytokentracker-xyz"
+
+[[repo]]
+url = "https://github.com/hoprnet/nixpkgs-terraform-providers-bin"
+
+[[repo]]
 url = "https://github.com/hoprnet/non-private-nft"
 
 [[repo]]
@@ -259,13 +364,41 @@ url = "https://github.com/hoprnet/notification-service"
 url = "https://github.com/hoprnet/npNFT-mint0000r"
 
 [[repo]]
+url = "https://github.com/hoprnet/onechart"
+
+[[repo]]
 url = "https://github.com/hoprnet/open-api"
 
 [[repo]]
 url = "https://github.com/hoprnet/openzeppelin-contracts"
 
 [[repo]]
+url = "https://github.com/hoprnet/p-rivate-HTTP-sdk"
+
+[[repo]]
+url = "https://github.com/hoprnet/passport-ethereum-siwe"
+
+[[repo]]
+url = "https://github.com/hoprnet/pHTTP-crypto"
+
+[[repo]]
+url = "https://github.com/hoprnet/pHTTP-diagrams"
+
+[[repo]]
+url = "https://github.com/hoprnet/pHTTP-exit-app"
+
+[[repo]]
+url = "https://github.com/hoprnet/phttp-extension"
+missing = true
+
+[[repo]]
+url = "https://github.com/hoprnet/pHTTP-lib"
+
+[[repo]]
 url = "https://github.com/hoprnet/playground"
+
+[[repo]]
+url = "https://github.com/hoprnet/privacy-pools-v1-relayer"
 
 [[repo]]
 url = "https://github.com/hoprnet/projects"
@@ -277,13 +410,65 @@ url = "https://github.com/hoprnet/provider-proxy"
 url = "https://github.com/hoprnet/RPCh"
 
 [[repo]]
+url = "https://github.com/hoprnet/rpch-getlogs-explorer"
+
+[[repo]]
+url = "https://github.com/hoprnet/RPCh-latency-monitor"
+missing = true
+
+[[repo]]
+url = "https://github.com/hoprnet/RPCh-Metamask-SIPs"
+
+[[repo]]
+url = "https://github.com/hoprnet/RPCh-Militereum"
+
+[[repo]]
+url = "https://github.com/hoprnet/RPCh-mm-snap-private-send"
+
+[[repo]]
+url = "https://github.com/hoprnet/RPCh-specifications"
+
+[[repo]]
+url = "https://github.com/hoprnet/RPCh-wallet-argent-x"
+
+[[repo]]
+url = "https://github.com/hoprnet/RPCh-wallet-block-wallet"
+
+[[repo]]
+url = "https://github.com/hoprnet/RPCh-wallet-enKrypt"
+
+[[repo]]
+url = "https://github.com/hoprnet/RPCh-wallet-frame"
+
+[[repo]]
+url = "https://github.com/hoprnet/RPCh-wallet-liquality"
+
+[[repo]]
+url = "https://github.com/hoprnet/rust-libp2p"
+
+[[repo]]
+url = "https://github.com/hoprnet/rust-stream-ext-concurrent"
+
+[[repo]]
+url = "https://github.com/hoprnet/safe-charts"
+
+[[repo]]
 url = "https://github.com/hoprnet/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/hoprnet/safe-config-service"
+
+[[repo]]
+url = "https://github.com/hoprnet/safe-core-sdk"
 
 [[repo]]
 url = "https://github.com/hoprnet/safe-react"
 
 [[repo]]
 url = "https://github.com/hoprnet/safe-transaction-service"
+
+[[repo]]
+url = "https://github.com/hoprnet/safe-wallet-web"
 
 [[repo]]
 url = "https://github.com/hoprnet/snapshot-spaces"
@@ -295,7 +480,13 @@ url = "https://github.com/hoprnet/snapshot-strategies"
 url = "https://github.com/hoprnet/snapshot.js"
 
 [[repo]]
+url = "https://github.com/hoprnet/solc.nix"
+
+[[repo]]
 url = "https://github.com/hoprnet/stake-hoprnet-net"
+
+[[repo]]
+url = "https://github.com/hoprnet/swapr-dapp"
 
 [[repo]]
 url = "https://github.com/hoprnet/terraform-linode-lke"
@@ -307,10 +498,34 @@ url = "https://github.com/hoprnet/testing-challenge"
 url = "https://github.com/hoprnet/twitter-api-client"
 
 [[repo]]
+url = "https://github.com/hoprnet/uHTTP-crypto"
+
+[[repo]]
+url = "https://github.com/hoprnet/uHTTP-diagrams"
+
+[[repo]]
+url = "https://github.com/hoprnet/uhttp-docker"
+
+[[repo]]
+url = "https://github.com/hoprnet/uHTTP-exit-app"
+
+[[repo]]
+url = "https://github.com/hoprnet/uHTTP-latency-monitor"
+
+[[repo]]
+url = "https://github.com/hoprnet/uHTTP-lib"
+
+[[repo]]
 url = "https://github.com/hoprnet/ursa"
 
 [[repo]]
+url = "https://github.com/hoprnet/utoipa"
+
+[[repo]]
 url = "https://github.com/hoprnet/vercel-action"
+
+[[repo]]
+url = "https://github.com/hoprnet/wallet-block-wallet"
 
 [[repo]]
 url = "https://github.com/hoprnet/wallet-integration-guide"
@@ -329,3 +544,4 @@ url = "https://github.com/hoprnet/website-hoprnet-org"
 
 [[repo]]
 url = "https://github.com/hoprnet/website-token-page"
+missing = true

@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/PositionExchange"]
 url = "https://github.com/PositionExchange/bls"
 
 [[repo]]
+url = "https://github.com/PositionExchange/cross-chain-bridge-v2"
+
+[[repo]]
 url = "https://github.com/PositionExchange/cypress-metamask-v3"
 
 [[repo]]
@@ -20,6 +23,7 @@ url = "https://github.com/PositionExchange/decentralized-perpetual-trading-proto
 
 [[repo]]
 url = "https://github.com/PositionExchange/defillama-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/PositionExchange/deploy-posichain-example"
@@ -71,6 +75,7 @@ url = "https://github.com/PositionExchange/position-dex-periphery-v2"
 
 [[repo]]
 url = "https://github.com/PositionExchange/position-dex-sdk-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/PositionExchange/position-exchange-analytics"

@@ -10,10 +10,23 @@ github_organizations = ["https://github.com/OAK-Foundation"]
 url = "https://github.com/OAK-Foundation/apps"
 
 [[repo]]
+url = "https://github.com/OAK-Foundation/assets-info"
+
+[[repo]]
 url = "https://github.com/OAK-Foundation/auction-toolkit"
 
 [[repo]]
+url = "https://github.com/OAK-Foundation/automation-price-demo"
+
+[[repo]]
+url = "https://github.com/OAK-Foundation/avs-mvp"
+
+[[repo]]
+url = "https://github.com/OAK-Foundation/bridge"
+
+[[repo]]
 url = "https://github.com/OAK-Foundation/chainbridge-substrate"
+missing = true
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/common"
@@ -23,6 +36,9 @@ url = "https://github.com/OAK-Foundation/cumulus"
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/docs"
+
+[[repo]]
+url = "https://github.com/OAK-Foundation/eigendata"
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/extension"
@@ -50,6 +66,9 @@ url = "https://github.com/OAK-Foundation/mangata-node"
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/moonbeam"
+
+[[repo]]
+url = "https://github.com/OAK-Foundation/moonkit"
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/OAK-blockchain"
@@ -118,6 +137,12 @@ url = "https://github.com/OAK-Foundation/quadratic-funding-webapp"
 url = "https://github.com/OAK-Foundation/ss58-registry"
 
 [[repo]]
+url = "https://github.com/OAK-Foundation/subql"
+
+[[repo]]
+url = "https://github.com/OAK-Foundation/substrate"
+
+[[repo]]
 url = "https://github.com/OAK-Foundation/substrate-node-template"
 
 [[repo]]
@@ -134,6 +159,7 @@ url = "https://github.com/OAK-Foundation/ui"
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/unreleased-changelog-action"
+missing = true
 
 [[repo]]
 url = "https://github.com/OAK-Foundation/W3F-Grants-Fork"

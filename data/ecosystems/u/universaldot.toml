@@ -23,9 +23,17 @@ url = "https://github.com/UniversalDot/front-end"
 
 [[repo]]
 url = "https://github.com/UniversalDot/Grant-Milestone-Delivery"
+missing = true
 
 [[repo]]
 url = "https://github.com/UniversalDot/Grants-Program"
+missing = true
+
+[[repo]]
+url = "https://github.com/UniversalDot/JAM"
+
+[[repo]]
+url = "https://github.com/UniversalDot/jam-milestone-delivery"
 
 [[repo]]
 url = "https://github.com/UniversalDot/pallets"
@@ -68,3 +76,6 @@ url = "https://github.com/UniversalDot/website-app"
 
 [[repo]]
 url = "https://github.com/UniversalDot/website-foundation"
+
+[[repo]]
+url = "https://github.com/UniversalDot/zero-knowledge"

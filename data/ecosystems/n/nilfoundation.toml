@@ -43,6 +43,9 @@ url = "https://github.com/NilFoundation/actor-opencl"
 url = "https://github.com/NilFoundation/actor-zk"
 
 [[repo]]
+url = "https://github.com/NilFoundation/amm"
+
+[[repo]]
 url = "https://github.com/NilFoundation/application"
 
 [[repo]]
@@ -53,6 +56,16 @@ url = "https://github.com/NilFoundation/arkworks-curves"
 
 [[repo]]
 url = "https://github.com/NilFoundation/arkworks-std"
+
+[[repo]]
+url = "https://github.com/NilFoundation/awesome-nil"
+
+[[repo]]
+url = "https://github.com/NilFoundation/badger"
+
+[[repo]]
+url = "https://github.com/NilFoundation/bitvm-placeholder-verification"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/boost-crypto3"
@@ -67,10 +80,23 @@ url = "https://github.com/NilFoundation/cairo-ed25519"
 url = "https://github.com/NilFoundation/cairo-placeholder-verification"
 
 [[repo]]
+url = "https://github.com/NilFoundation/ci-cd"
+
+[[repo]]
+url = "https://github.com/NilFoundation/cmake-modules"
+
+[[repo]]
+url = "https://github.com/NilFoundation/cmake-shared-tools"
+
+[[repo]]
+url = "https://github.com/NilFoundation/cmake_modules"
+
+[[repo]]
 url = "https://github.com/NilFoundation/config"
 
 [[repo]]
 url = "https://github.com/NilFoundation/cpp-ton"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/crusty3"
@@ -100,6 +126,9 @@ url = "https://github.com/NilFoundation/crypto3-algebra-marshalling"
 url = "https://github.com/NilFoundation/crypto3-block"
 
 [[repo]]
+url = "https://github.com/NilFoundation/crypto3-clone"
+
+[[repo]]
 url = "https://github.com/NilFoundation/crypto3-codec"
 
 [[repo]]
@@ -118,10 +147,16 @@ url = "https://github.com/NilFoundation/crypto3-dkg"
 url = "https://github.com/NilFoundation/crypto3-environment"
 
 [[repo]]
+url = "https://github.com/NilFoundation/crypto3-fhe"
+
+[[repo]]
 url = "https://github.com/NilFoundation/crypto3-fil-proofs"
 
 [[repo]]
 url = "https://github.com/NilFoundation/crypto3-hash"
+
+[[repo]]
+url = "https://github.com/NilFoundation/crypto3-homomorphic"
 
 [[repo]]
 url = "https://github.com/NilFoundation/crypto3-kdf"
@@ -143,6 +178,9 @@ url = "https://github.com/NilFoundation/crypto3-multiprecision"
 
 [[repo]]
 url = "https://github.com/NilFoundation/crypto3-multiprecision-marshalling"
+
+[[repo]]
+url = "https://github.com/NilFoundation/crypto3-multiprecision-marshalling-clone"
 
 [[repo]]
 url = "https://github.com/NilFoundation/crypto3-passhash"
@@ -175,6 +213,12 @@ url = "https://github.com/NilFoundation/crypto3-stream"
 url = "https://github.com/NilFoundation/crypto3-template"
 
 [[repo]]
+url = "https://github.com/NilFoundation/crypto3-testing-tools"
+
+[[repo]]
+url = "https://github.com/NilFoundation/crypto3-threshold"
+
+[[repo]]
 url = "https://github.com/NilFoundation/crypto3-vdf"
 
 [[repo]]
@@ -193,10 +237,15 @@ url = "https://github.com/NilFoundation/dbms-python"
 url = "https://github.com/NilFoundation/dbms-replication"
 
 [[repo]]
+url = "https://github.com/NilFoundation/docs.nil.foundation"
+
+[[repo]]
 url = "https://github.com/NilFoundation/doomretro"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/doomretro-circuit"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/dpdk"
@@ -205,22 +254,72 @@ url = "https://github.com/NilFoundation/dpdk"
 url = "https://github.com/NilFoundation/epoll-shim"
 
 [[repo]]
+url = "https://github.com/NilFoundation/ethereum-adapter"
+
+[[repo]]
+url = "https://github.com/NilFoundation/ethereum-casper-ffg-proof"
+
+[[repo]]
+url = "https://github.com/NilFoundation/ethereum-consensus-proof"
+
+[[repo]]
 url = "https://github.com/NilFoundation/ethereum-state-proof"
 
 [[repo]]
+url = "https://github.com/NilFoundation/ever-assembler"
+missing = true
+
+[[repo]]
 url = "https://github.com/NilFoundation/everscale.nil.foundation"
+missing = true
+
+[[repo]]
+url = "https://github.com/NilFoundation/evm-assigner"
+
+[[repo]]
+url = "https://github.com/NilFoundation/evm-layerzero-oracle"
+
+[[repo]]
+url = "https://github.com/NilFoundation/evm-lorem-ipsum"
 
 [[repo]]
 url = "https://github.com/NilFoundation/evm-placeholder-verification"
 
 [[repo]]
+url = "https://github.com/NilFoundation/evm-proof-market"
+
+[[repo]]
+url = "https://github.com/NilFoundation/evm-proof-market-relayer"
+
+[[repo]]
+url = "https://github.com/NilFoundation/evmc"
+
+[[repo]]
 url = "https://github.com/NilFoundation/evmone"
+
+[[repo]]
+url = "https://github.com/NilFoundation/expressions_task"
+
+[[repo]]
+url = "https://github.com/NilFoundation/fastssz"
+
+[[repo]]
+url = "https://github.com/NilFoundation/forbid-merge-commits-action"
 
 [[repo]]
 url = "https://github.com/NilFoundation/fswatch"
 
 [[repo]]
+url = "https://github.com/NilFoundation/goatcounter"
+
+[[repo]]
 url = "https://github.com/NilFoundation/hwloc2-rs"
+
+[[repo]]
+url = "https://github.com/NilFoundation/js-crypto"
+
+[[repo]]
+url = "https://github.com/NilFoundation/l2beat"
 
 [[repo]]
 url = "https://github.com/NilFoundation/lean-prover"
@@ -235,6 +334,9 @@ url = "https://github.com/NilFoundation/lorem-ipsum-cli"
 url = "https://github.com/NilFoundation/marshalling"
 
 [[repo]]
+url = "https://github.com/NilFoundation/marshalling-clone"
+
+[[repo]]
 url = "https://github.com/NilFoundation/mina-add-zkapp"
 
 [[repo]]
@@ -245,6 +347,33 @@ url = "https://github.com/NilFoundation/module"
 
 [[repo]]
 url = "https://github.com/NilFoundation/network-marshalling"
+
+[[repo]]
+url = "https://github.com/NilFoundation/nil-by-example"
+
+[[repo]]
+url = "https://github.com/NilFoundation/nil-hardhat-example"
+
+[[repo]]
+url = "https://github.com/NilFoundation/nil-hardhat-plugin"
+
+[[repo]]
+url = "https://github.com/NilFoundation/nil.foundation"
+
+[[repo]]
+url = "https://github.com/NilFoundation/nil.js"
+
+[[repo]]
+url = "https://github.com/NilFoundation/nil_cli"
+
+[[repo]]
+url = "https://github.com/NilFoundation/nix-3rdparty"
+
+[[repo]]
+url = "https://github.com/NilFoundation/parallel-crypto3"
+
+[[repo]]
+url = "https://github.com/NilFoundation/placeholder"
 
 [[repo]]
 url = "https://github.com/NilFoundation/pluggable-scaling-model"
@@ -259,73 +388,126 @@ url = "https://github.com/NilFoundation/podspec"
 url = "https://github.com/NilFoundation/powers-of-tau"
 
 [[repo]]
+url = "https://github.com/NilFoundation/proof-checker-public"
+
+[[repo]]
 url = "https://github.com/NilFoundation/proof-market-circuit-json"
+
+[[repo]]
+url = "https://github.com/NilFoundation/proof-market-contracts"
 
 [[repo]]
 url = "https://github.com/NilFoundation/proof-market-toolchain"
 
 [[repo]]
+url = "https://github.com/NilFoundation/proof-market-v2"
+missing = true
+
+[[repo]]
+url = "https://github.com/NilFoundation/proof-producer"
+
+[[repo]]
+url = "https://github.com/NilFoundation/proof.market.nil.foundation"
+
+[[repo]]
+url = "https://github.com/NilFoundation/qna"
+
+[[repo]]
 url = "https://github.com/NilFoundation/react-components"
+
+[[repo]]
+url = "https://github.com/NilFoundation/research-excalibur-visualizer"
 
 [[repo]]
 url = "https://github.com/NilFoundation/rust-gpu-tools"
 
 [[repo]]
 url = "https://github.com/NilFoundation/rust-ton"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/rust-tvm"
+missing = true
+
+[[repo]]
+url = "https://github.com/NilFoundation/solana-consensus-proof"
 
 [[repo]]
 url = "https://github.com/NilFoundation/solana-state-proof"
+
+[[repo]]
+url = "https://github.com/NilFoundation/sszpp"
+
+[[repo]]
+url = "https://github.com/NilFoundation/stakeavote"
 
 [[repo]]
 url = "https://github.com/NilFoundation/thread_binder"
 
 [[repo]]
 url = "https://github.com/NilFoundation/ton-custler.uninode"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/ton-executor"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/ton-proof-verification-protocol"
 
 [[repo]]
 url = "https://github.com/NilFoundation/ton-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/ton-TestSuite4"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/ton-tonos-cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/tondev"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/tonos-se"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/tvm-assembler"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/tvm-linker"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/tvm-llvm"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/tvm-solidity"
+missing = true
 
 [[repo]]
 url = "https://github.com/NilFoundation/ui-kit"
+
+[[repo]]
+url = "https://github.com/NilFoundation/uniswap-v2-nil"
 
 [[repo]]
 url = "https://github.com/NilFoundation/vote-saver-protocol"
 
 [[repo]]
 url = "https://github.com/NilFoundation/vote-saver-protocol-mpc"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkEVM-framework"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkEVM1"
 
 [[repo]]
 url = "https://github.com/NilFoundation/zkllvm"
@@ -352,6 +534,9 @@ url = "https://github.com/NilFoundation/zkllvm-doom"
 url = "https://github.com/NilFoundation/zkllvm-examples-doom"
 
 [[repo]]
+url = "https://github.com/NilFoundation/zkllvm-knazarov-playground"
+
+[[repo]]
 url = "https://github.com/NilFoundation/zkllvm-libcxx"
 
 [[repo]]
@@ -361,7 +546,13 @@ url = "https://github.com/NilFoundation/zkllvm-rslang"
 url = "https://github.com/NilFoundation/zkllvm-rslang-types"
 
 [[repo]]
+url = "https://github.com/NilFoundation/zkllvm-rust-template"
+
+[[repo]]
 url = "https://github.com/NilFoundation/zkllvm-scaffold"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-soll"
 
 [[repo]]
 url = "https://github.com/NilFoundation/zkllvm-stdlib"
@@ -371,3 +562,10 @@ url = "https://github.com/NilFoundation/zkllvm-template"
 
 [[repo]]
 url = "https://github.com/NilFoundation/zkllvm-transpiler"
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-tutorials"
+missing = true
+
+[[repo]]
+url = "https://github.com/NilFoundation/zkllvm-unroll"

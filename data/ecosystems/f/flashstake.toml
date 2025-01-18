@@ -14,6 +14,7 @@ url = "https://github.com/BlockzeroLabs/aquafi-bug-bounty-round2"
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/aquafi-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/aquafi-stats"
@@ -62,6 +63,7 @@ url = "https://github.com/BlockzeroLabs/flashv3-contracts"
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/flashV3-model"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/impersonator"
@@ -83,6 +85,7 @@ url = "https://github.com/BlockzeroLabs/snapshot.js"
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/vortex-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/BlockzeroLabs/xio-flash-token"

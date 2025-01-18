@@ -29,6 +29,7 @@ url = "https://github.com/CryptoBlades/cb-multifarm-bot"
 
 [[repo]]
 url = "https://github.com/CryptoBlades/cb-tracker-mobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/CryptoBlades/cbdiscordbot"
@@ -65,3 +66,6 @@ url = "https://github.com/CryptoBlades/test-netlify-cms"
 
 [[repo]]
 url = "https://github.com/CryptoBlades/uptime"
+
+[[repo]]
+url = "https://github.com/CryptoBlades/village-builder"

@@ -16,6 +16,13 @@ url = "https://github.com/filswan/ai-worker"
 url = "https://github.com/filswan/autobid"
 
 [[repo]]
+url = "https://github.com/filswan/boost-service"
+
+[[repo]]
+url = "https://github.com/filswan/chainlist"
+missing = true
+
+[[repo]]
 url = "https://github.com/filswan/cli"
 
 [[repo]]
@@ -25,6 +32,9 @@ url = "https://github.com/filswan/colorjson"
 url = "https://github.com/filswan/community"
 
 [[repo]]
+url = "https://github.com/filswan/company_official"
+
+[[repo]]
 url = "https://github.com/filswan/contracts-challenge"
 
 [[repo]]
@@ -32,6 +42,18 @@ url = "https://github.com/filswan/dao-client"
 
 [[repo]]
 url = "https://github.com/filswan/data-oracle"
+
+[[repo]]
+url = "https://github.com/filswan/devgrants"
+
+[[repo]]
+url = "https://github.com/filswan/docker-compose-wordpress-nginx-mysql"
+
+[[repo]]
+url = "https://github.com/filswan/eth-faucet"
+
+[[repo]]
+url = "https://github.com/filswan/ether-test"
 
 [[repo]]
 url = "https://github.com/filswan/filclient"
@@ -65,6 +87,12 @@ url = "https://github.com/filswan/fs3-mc"
 
 [[repo]]
 url = "https://github.com/filswan/fsclone"
+
+[[repo]]
+url = "https://github.com/filswan/Generative-Art-NFT"
+
+[[repo]]
+url = "https://github.com/filswan/go-computing-provider"
 
 [[repo]]
 url = "https://github.com/filswan/go-graphsplit"
@@ -118,6 +146,9 @@ url = "https://github.com/filswan/multi-chain-storage"
 url = "https://github.com/filswan/nft"
 
 [[repo]]
+url = "https://github.com/filswan/optimism-swan"
+
+[[repo]]
 url = "https://github.com/filswan/python-mcs-sdk"
 
 [[repo]]
@@ -136,7 +167,16 @@ url = "https://github.com/filswan/snapshot-strategies"
 url = "https://github.com/filswan/swan"
 
 [[repo]]
+url = "https://github.com/filswan/swan-boost-lib"
+
+[[repo]]
+url = "https://github.com/filswan/swan-bridge-example"
+
+[[repo]]
 url = "https://github.com/filswan/swan-client"
+
+[[repo]]
+url = "https://github.com/filswan/swan-cloud-storage-example"
 
 [[repo]]
 url = "https://github.com/filswan/swan-doc"
@@ -145,7 +185,30 @@ url = "https://github.com/filswan/swan-doc"
 url = "https://github.com/filswan/swan-faucet"
 
 [[repo]]
+url = "https://github.com/filswan/swan-geth"
+
+[[repo]]
+url = "https://github.com/filswan/swan-node"
+missing = true
+
+[[repo]]
+url = "https://github.com/filswan/swan-optimism"
+missing = true
+
+[[repo]]
 url = "https://github.com/filswan/swan-provider"
 
 [[repo]]
+url = "https://github.com/filswan/swan-sdk"
+
+[[repo]]
+url = "https://github.com/filswan/swan-storage"
+
+[[repo]]
+url = "https://github.com/filswan/uniswapV2"
+
+[[repo]]
 url = "https://github.com/filswan/wnfs-go"
+
+[[repo]]
+url = "https://github.com/filswan/zabbix-docker"

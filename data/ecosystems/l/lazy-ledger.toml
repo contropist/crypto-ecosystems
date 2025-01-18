@@ -3,7 +3,7 @@ title = "Lazy Ledger"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/LazyLedger"]
+github_organizations = ["https://github.com/lazyledger"]
 
 # Repositories
 [[repo]]
@@ -32,6 +32,7 @@ url = "https://github.com/celestiaorg/go-leopard"
 
 [[repo]]
 url = "https://github.com/celestiaorg/go-multihash"
+missing = true
 
 [[repo]]
 url = "https://github.com/celestiaorg/go-verifcid"
@@ -76,21 +77,16 @@ url = "https://github.com/celestiaorg/rsmt2d"
 url = "https://github.com/celestiaorg/smt"
 
 [[repo]]
-url = "https://github.com/lazyledger/docs.lazyledger.io"
-missing = true
-
-[[repo]]
 url = "https://github.com/lazyledger/docs.lazyledger.org"
-
-[[repo]]
-url = "https://github.com/lazyledger/go-multihash"
 missing = true
 
 [[repo]]
 url = "https://github.com/lazyledger/lazyledger.org"
+missing = true
 
 [[repo]]
 url = "https://github.com/lazyledger/smt-ipfs-mapstore"
+missing = true
 
 [[repo]]
 url = "https://github.com/rollkit/rollkit"

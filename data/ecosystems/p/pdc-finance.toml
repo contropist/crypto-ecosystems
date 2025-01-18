@@ -11,9 +11,14 @@ url = "https://github.com/PDC-Finance/.github"
 
 [[repo]]
 url = "https://github.com/PDC-Finance/contracts"
+missing = true
+
+[[repo]]
+url = "https://github.com/PDC-Finance/doc-sample"
 
 [[repo]]
 url = "https://github.com/PDC-Finance/frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/PDC-Finance/Utilities"

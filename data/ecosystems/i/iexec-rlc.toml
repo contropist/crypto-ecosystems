@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/iExecBlockchainComputing"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/iExecBlockchainComputing/Bellecour-Contract-Verification"
+
+[[repo]]
 url = "https://github.com/iExecBlockchainComputing/bench"
 
 [[repo]]
@@ -14,6 +17,9 @@ url = "https://github.com/iExecBlockchainComputing/bitdew"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/blockscout"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/blockscout-links"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/bounty-iexec-oracle-watcher"
@@ -31,7 +37,13 @@ url = "https://github.com/iExecBlockchainComputing/confidential-email-sender"
 url = "https://github.com/iExecBlockchainComputing/confidential-nft"
 
 [[repo]]
+url = "https://github.com/iExecBlockchainComputing/content-creator-usecase-demo"
+
+[[repo]]
 url = "https://github.com/iExecBlockchainComputing/dapp-FaceSwap"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/dappide"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/DAppNodePackage-iexec-scheduler-db"
@@ -49,13 +61,26 @@ url = "https://github.com/iExecBlockchainComputing/data-protector-sandbox"
 url = "https://github.com/iExecBlockchainComputing/dataprotector-sandbox"
 
 [[repo]]
+url = "https://github.com/iExecBlockchainComputing/dataprotector-sdk"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/dataprotector-sharing-sandbox"
+
+[[repo]]
 url = "https://github.com/iExecBlockchainComputing/dataprotector-useCaseDemo"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/datasets-dev"
 
 [[repo]]
+url = "https://github.com/iExecBlockchainComputing/deploy-workerpool"
+
+[[repo]]
 url = "https://github.com/iExecBlockchainComputing/documentation"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/documentation-tools"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/emacs-solidity"
@@ -77,6 +102,7 @@ url = "https://github.com/iExecBlockchainComputing/eth-netstats"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/eth-netstats-deployer"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/ethereum-developer-tools-list"
@@ -119,6 +145,20 @@ url = "https://github.com/iExecBlockchainComputing/graphene-apps"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/graphnode-deployment"
+missing = true
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/huggingface_hub"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/iapp"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/idapp"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/idapp-cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-apps"
@@ -131,12 +171,14 @@ url = "https://github.com/iExecBlockchainComputing/iexec-blockchain-adapter-api"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-common"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-common-legacy"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-commons-containers"
@@ -152,6 +194,7 @@ url = "https://github.com/iExecBlockchainComputing/iexec-dapps-registry"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-dapps-store-db"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-datasets"
@@ -161,6 +204,7 @@ url = "https://github.com/iExecBlockchainComputing/iexec-datasets-registry"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-deploy"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-doc"
@@ -210,6 +254,7 @@ url = "https://github.com/iExecBlockchainComputing/iexec-onchain-tools"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-oracle-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-oracle-factory-wrapper"
@@ -234,15 +279,26 @@ url = "https://github.com/iExecBlockchainComputing/iexec-result-proxy"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-scheduler"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-scheduler-mock"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-schema-validator"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-sdk"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/iexec-sdk-sandbox-buy-computation"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/iexec-sdk-sandbox-deploy-and-sell-application"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/iexec-sdk-sandbox-deploy-and-sell-dataset"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-server-js-client"
@@ -269,6 +325,15 @@ url = "https://github.com/iExecBlockchainComputing/iexec-SupportVectorMachine-Ba
 url = "https://github.com/iExecBlockchainComputing/iexec-tutorials"
 
 [[repo]]
+url = "https://github.com/iExecBlockchainComputing/iexec-ui-with-shadcn"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/iexec-voucher-contracts"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/iexec-voucher-subgraph"
+
+[[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-worker"
 
 [[repo]]
@@ -276,9 +341,14 @@ url = "https://github.com/iExecBlockchainComputing/iexec-worker-deploy"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-worker-legacy"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-worker-mock"
+missing = true
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/iexec-worker-standalone"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/iexec-workshop"
@@ -300,6 +370,7 @@ url = "https://github.com/iExecBlockchainComputing/knowledge-base"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/local-deployement-without-dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/luckydraw-checker"
@@ -324,6 +395,7 @@ url = "https://github.com/iExecBlockchainComputing/nethermind"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/nethermind-debugging"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/nft-price-checker"
@@ -336,6 +408,9 @@ url = "https://github.com/iExecBlockchainComputing/offchain-python-hello-world"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/openzeppelin-subgraphs-bellecour"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/oracle-factory-sandbox"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/pandapp"
@@ -363,18 +438,21 @@ url = "https://github.com/iExecBlockchainComputing/poa-dapps-voting"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/poa-dapps-voting-gestion"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/poa-deployment-bench"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/poa-machaine-deployment-final"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/poa-network-consensus-contracts"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/poa-script-moc"
+missing = true
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/poa-scripts-moc"
@@ -458,7 +536,39 @@ url = "https://github.com/iExecBlockchainComputing/token-bridge"
 url = "https://github.com/iExecBlockchainComputing/tokenbridge"
 
 [[repo]]
+url = "https://github.com/iExecBlockchainComputing/tokenbridge-test"
+missing = true
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/tools-documentation"
+missing = true
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/Trainify"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/transformers"
+
+[[repo]]
 url = "https://github.com/iExecBlockchainComputing/trusted-compute-framework"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/voucher-deployer"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/web3Mail"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/web3Mail-sandbox"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/web3mail-sdk"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/web3mail-usecase-demo"
+
+[[repo]]
+url = "https://github.com/iExecBlockchainComputing/whitelist-smart-contract"
 
 [[repo]]
 url = "https://github.com/iExecBlockchainComputing/whitepaper"

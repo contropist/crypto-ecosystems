@@ -28,6 +28,12 @@ url = "https://github.com/EthereansOS/Ethereum-Emergency-Mode"
 url = "https://github.com/EthereansOS/EthOS-Explainer"
 
 [[repo]]
+url = "https://github.com/EthereansOS/event-blocks"
+
+[[repo]]
+url = "https://github.com/EthereansOS/farming-base"
+
+[[repo]]
 url = "https://github.com/EthereansOS/interfaces-core"
 
 [[repo]]
@@ -70,7 +76,13 @@ url = "https://github.com/EthereansOS/Organizations-Microservices"
 url = "https://github.com/EthereansOS/Organizations-SDK"
 
 [[repo]]
+url = "https://github.com/EthereansOS/organizations-tests"
+
+[[repo]]
 url = "https://github.com/EthereansOS/PenguinSwap-Dev"
+
+[[repo]]
+url = "https://github.com/EthereansOS/public-gantt"
 
 [[repo]]
 url = "https://github.com/EthereansOS/Responsible-DeFi-Guidelines"
@@ -83,6 +95,9 @@ url = "https://github.com/EthereansOS/ROBE-Interface"
 
 [[repo]]
 url = "https://github.com/EthereansOS/super-saiyan-token"
+
+[[repo]]
+url = "https://github.com/EthereansOS/trust-wallet-assets"
 
 [[repo]]
 url = "https://github.com/EthereansOS/unifihub-deprecated"

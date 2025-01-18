@@ -16,10 +16,19 @@ url = "https://github.com/hyperledger-labs/perun-cosmwasm-contract"
 url = "https://github.com/hyperledger-labs/perun-credential-payment"
 
 [[repo]]
+url = "https://github.com/perun-network/aries-framework-go"
+
+[[repo]]
+url = "https://github.com/perun-network/atala-prism-threshold"
+
+[[repo]]
 url = "https://github.com/perun-network/awesome-interop"
 
 [[repo]]
 url = "https://github.com/perun-network/cardano-devnet"
+
+[[repo]]
+url = "https://github.com/perun-network/channel-service"
 
 [[repo]]
 url = "https://github.com/perun-network/channels-on-rollups"
@@ -49,6 +58,10 @@ url = "https://github.com/perun-network/eth-bonus-exercise"
 url = "https://github.com/perun-network/ganache"
 
 [[repo]]
+url = "https://github.com/perun-network/go"
+missing = true
+
+[[repo]]
 url = "https://github.com/perun-network/go-ethereum-hdwallet"
 
 [[repo]]
@@ -64,10 +77,19 @@ url = "https://github.com/perun-network/Grant-Milestone-Delivery"
 url = "https://github.com/perun-network/Grants-Program"
 
 [[repo]]
+url = "https://github.com/perun-network/identus-apollo"
+
+[[repo]]
+url = "https://github.com/perun-network/identus-edge-agent-sdk-kmp"
+
+[[repo]]
 url = "https://github.com/perun-network/nerd"
 
 [[repo]]
 url = "https://github.com/perun-network/nerd-op"
+
+[[repo]]
+url = "https://github.com/perun-network/neuron"
 
 [[repo]]
 url = "https://github.com/perun-network/NFT_Game"
@@ -89,6 +111,9 @@ url = "https://github.com/perun-network/perun-ckb-backend"
 
 [[repo]]
 url = "https://github.com/perun-network/perun-ckb-contract"
+
+[[repo]]
+url = "https://github.com/perun-network/perun-ckb-demo"
 
 [[repo]]
 url = "https://github.com/perun-network/perun-cosmwasm-study_client"
@@ -130,6 +155,15 @@ url = "https://github.com/perun-network/perun-icp-backend"
 url = "https://github.com/perun-network/perun-icp-canister"
 
 [[repo]]
+url = "https://github.com/perun-network/perun-icp-demo"
+
+[[repo]]
+url = "https://github.com/perun-network/perun-libp2p-wire"
+
+[[repo]]
+url = "https://github.com/perun-network/perun-nervos-demo"
+
+[[repo]]
 url = "https://github.com/perun-network/perun-payment-channels"
 
 [[repo]]
@@ -151,13 +185,47 @@ url = "https://github.com/perun-network/perun-polkadot-pallet"
 url = "https://github.com/perun-network/perun-proposals"
 
 [[repo]]
+url = "https://github.com/perun-network/perun-soroban-contract"
+
+[[repo]]
+url = "https://github.com/perun-network/perun-soroban-token"
+
+[[repo]]
+url = "https://github.com/perun-network/perun-stellar-backend"
+
+[[repo]]
+url = "https://github.com/perun-network/perun-stellar-demo"
+
+[[repo]]
 url = "https://github.com/perun-network/perun-tutorial"
+missing = true
+
+[[repo]]
+url = "https://github.com/perun-network/perun-wallet-ckb-client"
+
+[[repo]]
+url = "https://github.com/perun-network/perun-wallet-spec"
+
+[[repo]]
+url = "https://github.com/perun-network/perun-wallet-wrapper"
+
+[[repo]]
+url = "https://github.com/perun-network/polkadot-wallet-grant"
 
 [[repo]]
 url = "https://github.com/perun-network/poly-go"
+
+[[repo]]
+url = "https://github.com/perun-network/privacy-for-safe"
+
+[[repo]]
+url = "https://github.com/perun-network/shutter"
 
 [[repo]]
 url = "https://github.com/perun-network/slate"
 
 [[repo]]
 url = "https://github.com/perun-network/static"
+
+[[repo]]
+url = "https://github.com/perun-network/threshold-bbs-plus-signatures"

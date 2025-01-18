@@ -19,7 +19,13 @@ url = "https://github.com/Giveth/ApproveAndVoteGov"
 url = "https://github.com/Giveth/bridge-contract"
 
 [[repo]]
+url = "https://github.com/Giveth/buddy-bot"
+
+[[repo]]
 url = "https://github.com/Giveth/Campaign_Deployer"
+
+[[repo]]
+url = "https://github.com/Giveth/COCM_QF_Algorithm"
 
 [[repo]]
 url = "https://github.com/Giveth/collection-box"
@@ -50,6 +56,18 @@ url = "https://github.com/Giveth/dapp-mailer"
 
 [[repo]]
 url = "https://github.com/Giveth/deploy-giv-economy"
+
+[[repo]]
+url = "https://github.com/Giveth/DeVouch"
+
+[[repo]]
+url = "https://github.com/Giveth/DeVouch-BE"
+
+[[repo]]
+url = "https://github.com/Giveth/DeVouch-contracts"
+
+[[repo]]
+url = "https://github.com/Giveth/DeVouch-FE"
 
 [[repo]]
 url = "https://github.com/Giveth/docker-dapp"
@@ -100,10 +118,19 @@ url = "https://github.com/Giveth/giv-token-subgraph"
 url = "https://github.com/Giveth/givback-calculation"
 
 [[repo]]
+url = "https://github.com/Giveth/givbacks-picker"
+
+[[repo]]
 url = "https://github.com/Giveth/givbacks-scripts"
 
 [[repo]]
 url = "https://github.com/Giveth/GIVeconomy"
+
+[[repo]]
+url = "https://github.com/Giveth/giveconomy-balance-aggregator"
+
+[[repo]]
+url = "https://github.com/Giveth/giveconomy-foundry"
 
 [[repo]]
 url = "https://github.com/Giveth/GIVeconomy-fundraising"
@@ -133,6 +160,9 @@ url = "https://github.com/Giveth/giveth-bridge"
 url = "https://github.com/Giveth/giveth-bridge-monitor"
 
 [[repo]]
+url = "https://github.com/Giveth/giveth-caddy"
+
+[[repo]]
 url = "https://github.com/Giveth/giveth-claims"
 
 [[repo]]
@@ -152,6 +182,9 @@ url = "https://github.com/Giveth/giveth-design-assets"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-docs"
+
+[[repo]]
+url = "https://github.com/Giveth/giveth-docs-bot"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-donations-dashboard"
@@ -175,10 +208,19 @@ url = "https://github.com/Giveth/giveth-io-typescript"
 url = "https://github.com/Giveth/giveth-landing-page"
 
 [[repo]]
+url = "https://github.com/Giveth/giveth-monitor"
+
+[[repo]]
 url = "https://github.com/Giveth/giveth-next"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-planning"
+
+[[repo]]
+url = "https://github.com/Giveth/giveth-pro"
+
+[[repo]]
+url = "https://github.com/Giveth/giveth-redis"
 
 [[repo]]
 url = "https://github.com/Giveth/giveth-rewards"
@@ -202,7 +244,13 @@ url = "https://github.com/Giveth/givethcampaign"
 url = "https://github.com/Giveth/givethdirectory"
 
 [[repo]]
+url = "https://github.com/Giveth/givethGovernor"
+
+[[repo]]
 url = "https://github.com/Giveth/GIVfi"
+
+[[repo]]
+url = "https://github.com/Giveth/GIVfi-subgraph"
 
 [[repo]]
 url = "https://github.com/Giveth/givpower"
@@ -218,6 +266,9 @@ url = "https://github.com/Giveth/graph-deploy"
 
 [[repo]]
 url = "https://github.com/Giveth/impact-graph"
+
+[[repo]]
+url = "https://github.com/Giveth/langchain-ask-giveth"
 
 [[repo]]
 url = "https://github.com/Giveth/liquidity-mining-dapp"
@@ -289,6 +340,9 @@ url = "https://github.com/Giveth/raw-praise"
 url = "https://github.com/Giveth/retro-price"
 
 [[repo]]
+url = "https://github.com/Giveth/retropgf-op"
+
+[[repo]]
 url = "https://github.com/Giveth/reward-dao"
 
 [[repo]]
@@ -311,9 +365,11 @@ url = "https://github.com/Giveth/solcpiler"
 
 [[repo]]
 url = "https://github.com/Giveth/sourcecred"
+missing = true
 
 [[repo]]
 url = "https://github.com/Giveth/sourcecred-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/Giveth/sourcecred-instance"
@@ -326,6 +382,7 @@ url = "https://github.com/Giveth/thegraph-gatsby-example"
 
 [[repo]]
 url = "https://github.com/Giveth/tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/Giveth/twitter-analytics-dashboard"
@@ -335,6 +392,12 @@ url = "https://github.com/Giveth/ui-design-system"
 
 [[repo]]
 url = "https://github.com/Giveth/univ3-liquidity-calc"
+
+[[repo]]
+url = "https://github.com/Giveth/vault-fetch-service"
+
+[[repo]]
+url = "https://github.com/Giveth/vault-secret-injector"
 
 [[repo]]
 url = "https://github.com/Giveth/vaultcontract"

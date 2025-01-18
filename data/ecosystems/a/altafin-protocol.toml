@@ -8,9 +8,13 @@ github_organizations = ["https://github.com/altafinprotocol"]
 # Repositories
 [[repo]]
 url = "https://github.com/altafinprotocol/altafinprotocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/altafinprotocol/altafinprotocol-subgraph"
+
+[[repo]]
+url = "https://github.com/altafinprotocol/CCTP-Bridge"
 
 [[repo]]
 url = "https://github.com/altafinprotocol/DefiLlama-Adapters"

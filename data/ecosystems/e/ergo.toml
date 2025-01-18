@@ -2,78 +2,63 @@
 title = "Ergo"
 
 sub_ecosystems = [
-    # Exchanges
-    "Spectrum Finance",
-    "anetaBTC",
+  "anetaBTC",
+  "Azorus",
+  "BlitzTCG",
+  "BlobsTopia",
+  "ChainCash",
+  "Comet",
+  "Crux Finance",
+  "Cyberverse",
+  "Dexy",
+  "Duckpools",
+  "Ergo Auction Coin",
+  "Ergo Auction House",
+  "Ergo Developer Tooling",
+  "Ergo Education",
+  "Ergo Hackathons",
+  "Ergo Labs",
+  "Ergo Miner Tooling",
+  "Ergo Names",
+  "Ergo Raffle",
+  "Ergo Stats & Analysis",
+  "Ergo Stats and Analysis",
+  "Ergo Wallets",
+  "Ergode",
+  "ErgoMixer",
+  "ErgoPad",
+  "ErgoTeam",
+  "EXLE",
+  "FleetSDK",
+  "Gluon",
+  "Grand Gambit",
+  "GuapSwap",
+  "HodlcoinERG",
+  "Kiosk",
+  "LiliumErgo",
+  "Lithos Protocol",
+  "Machina Finance",
+  "Minotaur",
+  "Nautilus",
+  "NightOwl Casino",
+  "PaideiaDAO",
+  "Rosen Bridge",
+  "SAFEW",
+  "Satergo",
+  "SentientFoundation",
+  "SigmaFi",
+  "SigmaO",
+  "SigmaUSD",
+  "SkyHarbor",
+  "Spectrum Finance",
+  "Spectrum Labs",
+  "Swamp Audio",
+  "TremendouslyHighFrequency",
+  "zenGate Global",
+  "ZK Treasury",
+]
 
-    # Launchpad
-    "ErgoPad",
-
-    # Stablecoins
-    "ChainCash",
-    "Dexy",
-    "SigmaUSD", 
-
-    # Fundraising
-    "Ergo Raffle", 
-
-    # Mining
-    "Lithos Protocol",
-    "GuapSwap", 
-    "Ergo Miner Tooling",
-    
-    # Lending
-    "EXLE",
-    "Duckpools",
-    "SigmaFi", 
-
-    # Gambling
-    "NightOwl Casino",
-    "BlobsTopia",
-    "Grand Gambit",
-
-    # Wallets
-    "Nautilus",
-    "Minotaur",
-    "Satergo",
-    "SAFEW", 
-
-    # Privacy
-    "ErgoMixer",
-    "ZK Treasury",
-
-    # NFTs 
-    "SkyHarbor",
-    "Ergo Auction House",
-
-    # Dev
-    "FleetSDK",
-    "Kiosk",
-    "Azorus",
-    "Ergo Education", 
-    "Ergo Developer Tooling",
-    "Ergo Hackathons", 
-
-    # DAO 
-    "PaideiaDAO",
-    "ErgoTeam",
-    "Swamp Audio",
-
-    # Layer 2s / Sidechains / Bridges
-    "SentientFoundation",
-    "Rosen Bridge",
-
-    # Misc 
-    "ZenGate Global",
-    "Ergode",
-    "Ergo Names",
-    "LiliumErgo",
-    "Comet", 
-    "Ergo Stats and Analysis"
-
-    ]
-
-github_organizations = ["https://github.com/ergoplatform","https://github.com/ScorexFoundation/"]
+github_organizations = ["https://github.com/ergoplatform", "https://github.com/ScorexFoundation"]
 
 # Repositories
 [[repo]]
@@ -107,6 +92,9 @@ url = "https://github.com/ergoplatform/community"
 url = "https://github.com/ergoplatform/developer-docs"
 
 [[repo]]
+url = "https://github.com/ergoplatform/dexy-usd-bank-ui"
+
+[[repo]]
 url = "https://github.com/ergoplatform/difficultyrecalculation"
 
 [[repo]]
@@ -135,6 +123,9 @@ url = "https://github.com/ergoplatform/ergo-devnet-docker"
 url = "https://github.com/ergoplatform/ergo-dex"
 
 [[repo]]
+url = "https://github.com/ergoplatform/ergo-dropbox"
+
+[[repo]]
 url = "https://github.com/ergoplatform/ergo-headless-dapp-framework"
 
 [[repo]]
@@ -157,6 +148,7 @@ url = "https://github.com/ergoplatform/ergo-node-interface-rust"
 
 [[repo]]
 url = "https://github.com/ergoplatform/ergo-p2p"
+missing = true
 
 [[repo]]
 url = "https://github.com/ergoplatform/ergo-playgrounds"
@@ -190,6 +182,9 @@ url = "https://github.com/ergoplatform/ergo-wallet-app"
 tags = ["Wallet"]
 
 [[repo]]
+url = "https://github.com/ergoplatform/ergo_avltree_rust"
+
+[[repo]]
 url = "https://github.com/ergoplatform/ergodocs"
 tags = ["Documentation"]
 
@@ -221,7 +216,13 @@ url = "https://github.com/ergoplatform/faucet"
 url = "https://github.com/ergoplatform/grow-ergo"
 
 [[repo]]
+url = "https://github.com/ergoplatform/kiosk"
+
+[[repo]]
 url = "https://github.com/ergoplatform/ledger-app-ergo"
+
+[[repo]]
+url = "https://github.com/ergoplatform/ledger-demo-old"
 
 [[repo]]
 url = "https://github.com/ergoplatform/node-info-monitor"
@@ -240,6 +241,9 @@ url = "https://github.com/ergoplatform/Self-Reproducing-Coins"
 
 [[repo]]
 url = "https://github.com/ergoplatform/sigma-rust"
+
+[[repo]]
+url = "https://github.com/ergoplatform/sigmastate-interpreter"
 
 [[repo]]
 url = "https://github.com/ergoplatform/sigmaverse"
@@ -263,13 +267,40 @@ url = "https://github.com/ergoplatform/static-data"
 url = "https://github.com/ergoplatform/website"
 
 [[repo]]
+url = "https://github.com/mgpai22/ergosapiens"
+
+[[repo]]
 url = "https://github.com/scalahub/ErgoScriptCompiler"
 
 [[repo]]
-url = "https://github.com/glasgowm148/ergodocs"
+url = "https://github.com/ScorexFoundation/AVLIODB"
+
+[[repo]]
+url = "https://github.com/ScorexFoundation/blockchainMeasurer"
+
+[[repo]]
+url = "https://github.com/ScorexFoundation/debox"
+
+[[repo]]
+url = "https://github.com/ScorexFoundation/Lagonaki"
+
+[[repo]]
+url = "https://github.com/ScorexFoundation/perma"
+
+[[repo]]
+url = "https://github.com/ScorexFoundation/ProofOfStake"
+
+[[repo]]
+url = "https://github.com/ScorexFoundation/scorex-util"
+
+[[repo]]
+url = "https://github.com/ScorexFoundation/ScorexTutorial"
 
 [[repo]]
 url = "https://github.com/ScorexFoundation/sigmastate-interpreter"
 
 [[repo]]
-url = "https://github.com/scalahub/ErgoScriptCompiler"
+url = "https://github.com/ScorexFoundation/SimpleTransactions"
+
+[[repo]]
+url = "https://github.com/spectrum-finance/cardano-dex-sdk-haskell"

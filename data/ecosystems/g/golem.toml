@@ -3,7 +3,7 @@ title = "Golem"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/golemfactory"]
+github_organizations = ["https://github.com/golemfactory", "https://github.com/golemfoundation"]
 
 # Repositories
 [[repo]]
@@ -52,6 +52,9 @@ url = "https://github.com/golemfactory/ansible-role-nginx"
 url = "https://github.com/golemfactory/ansible-role-promtail"
 
 [[repo]]
+url = "https://github.com/golemfactory/ansible-role-pushprox-client"
+
+[[repo]]
 url = "https://github.com/golemfactory/ansible-role-server-security"
 
 [[repo]]
@@ -62,6 +65,9 @@ url = "https://github.com/golemfactory/ansible-role-ya-provider"
 
 [[repo]]
 url = "https://github.com/golemfactory/ansible-role-ya-requestor"
+
+[[repo]]
+url = "https://github.com/golemfactory/asnom"
 
 [[repo]]
 url = "https://github.com/golemfactory/async-docker"
@@ -97,6 +103,9 @@ url = "https://github.com/golemfactory/bor-node-ansible"
 url = "https://github.com/golemfactory/build-deb-action"
 
 [[repo]]
+url = "https://github.com/golemfactory/cache-on-golem-demo"
+
+[[repo]]
 url = "https://github.com/golemfactory/capnp-playground"
 
 [[repo]]
@@ -115,6 +124,9 @@ url = "https://github.com/golemfactory/concent-deployment"
 url = "https://github.com/golemfactory/concent-deployment-values"
 
 [[repo]]
+url = "https://github.com/golemfactory/create-golem-app"
+
+[[repo]]
 url = "https://github.com/golemfactory/dapp-experiments"
 
 [[repo]]
@@ -128,9 +140,22 @@ url = "https://github.com/golemfactory/dapp-store"
 
 [[repo]]
 url = "https://github.com/golemfactory/dapp-webapp"
+missing = true
+
+[[repo]]
+url = "https://github.com/golemfactory/dashboard-db"
+
+[[repo]]
+url = "https://github.com/golemfactory/deposit-payment-example"
 
 [[repo]]
 url = "https://github.com/golemfactory/devops-ansible-playbook-template"
+
+[[repo]]
+url = "https://github.com/golemfactory/devops-testnet-deployment"
+
+[[repo]]
+url = "https://github.com/golemfactory/devops-ya-relay-e2e-test"
 
 [[repo]]
 url = "https://github.com/golemfactory/devp2p-playground"
@@ -139,7 +164,13 @@ url = "https://github.com/golemfactory/devp2p-playground"
 url = "https://github.com/golemfactory/docker-cgroups-stats"
 
 [[repo]]
+url = "https://github.com/golemfactory/docker-on-golem"
+
+[[repo]]
 url = "https://github.com/golemfactory/docker-polygon"
+
+[[repo]]
+url = "https://github.com/golemfactory/docker-provider"
 
 [[repo]]
 url = "https://github.com/golemfactory/docsify"
@@ -148,16 +179,31 @@ url = "https://github.com/golemfactory/docsify"
 url = "https://github.com/golemfactory/enforce"
 
 [[repo]]
+url = "https://github.com/golemfactory/erc20_payment_lib"
+
+[[repo]]
 url = "https://github.com/golemfactory/erigon"
 
 [[repo]]
 url = "https://github.com/golemfactory/error-chain"
 
 [[repo]]
+url = "https://github.com/golemfactory/eth-warsaw-dc-app"
+
+[[repo]]
+url = "https://github.com/golemfactory/eth_ui"
+
+[[repo]]
 url = "https://github.com/golemfactory/ethereum-contracts"
 
 [[repo]]
 url = "https://github.com/golemfactory/ethereum-payments"
+
+[[repo]]
+url = "https://github.com/golemfactory/ethereum-tx-sign"
+
+[[repo]]
+url = "https://github.com/golemfactory/ethsign"
 
 [[repo]]
 url = "https://github.com/golemfactory/example-web-service"
@@ -178,6 +224,9 @@ url = "https://github.com/golemfactory/g-flite"
 url = "https://github.com/golemfactory/galatea"
 
 [[repo]]
+url = "https://github.com/golemfactory/gamerhash-facade"
+
+[[repo]]
 url = "https://github.com/golemfactory/gas_scanner"
 
 [[repo]]
@@ -191,6 +240,10 @@ url = "https://github.com/golemfactory/GDP-tech-support"
 
 [[repo]]
 url = "https://github.com/golemfactory/gfaas"
+
+[[repo]]
+url = "https://github.com/golemfactory/glm.golem.network"
+missing = true
 
 [[repo]]
 url = "https://github.com/golemfactory/gMorph"
@@ -209,10 +262,16 @@ url = "https://github.com/golemfactory/golem"
 tags = ["Protocol"]
 
 [[repo]]
+url = "https://github.com/golemfactory/golem-apt-repository"
+
+[[repo]]
 url = "https://github.com/golemfactory/golem-architecture"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-binary-dependencies"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-cert-companion"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-certificate"
@@ -234,6 +293,9 @@ url = "https://github.com/golemfactory/golem-core-rs"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-crowdfunding"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-cuda-samples"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-des"
@@ -260,13 +322,34 @@ url = "https://github.com/golemfactory/golem-electron"
 url = "https://github.com/golemfactory/golem-electron-dev"
 
 [[repo]]
+url = "https://github.com/golemfactory/golem-ftp"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-gpu-info"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-gpu-live"
+
+[[repo]]
 url = "https://github.com/golemfactory/golem-granary"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-js"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-js-code-crush"
 
 [[repo]]
+url = "https://github.com/golemfactory/golem-js-eth-warsaw-workshop"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-js-meetups"
+
+[[repo]]
 url = "https://github.com/golemfactory/golem-js-preview-program"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-kernel-python"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-libp2p"
@@ -288,6 +371,9 @@ url = "https://github.com/golemfactory/golem-monitor-replicator"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-network-vis"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-nvidia-kernel"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-pinger"
@@ -314,7 +400,22 @@ url = "https://github.com/golemfactory/golem-rpc-provider"
 url = "https://github.com/golemfactory/golem-run"
 
 [[repo]]
+url = "https://github.com/golemfactory/golem-sdk-cli"
+
+[[repo]]
 url = "https://github.com/golemfactory/golem-sdk-docs"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-sdk-pino-logger"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-sdk-react"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-sdk-registry-images"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-sdk-task-executor"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-sdk-yagna"
@@ -324,6 +425,9 @@ url = "https://github.com/golemfactory/golem-smart-contracts-interface"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-stats-backend"
+
+[[repo]]
+url = "https://github.com/golemfactory/golem-stats-frontend"
 
 [[repo]]
 url = "https://github.com/golemfactory/golem-tasks-python"
@@ -341,6 +445,9 @@ url = "https://github.com/golemfactory/golem-verificator"
 url = "https://github.com/golemfactory/golem-wiki"
 
 [[repo]]
+url = "https://github.com/golemfactory/golem-workers"
+
+[[repo]]
 url = "https://github.com/golemfactory/golemate"
 
 [[repo]]
@@ -348,9 +455,13 @@ url = "https://github.com/golemfactory/golemrpc"
 
 [[repo]]
 url = "https://github.com/golemfactory/golemstats-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/golemfactory/goth"
+
+[[repo]]
+url = "https://github.com/golemfactory/gprocess-man"
 
 [[repo]]
 url = "https://github.com/golemfactory/gpu-on-golem-poc"
@@ -464,10 +575,26 @@ url = "https://github.com/golemfactory/meta-swupdate-boards"
 url = "https://github.com/golemfactory/munin-plugin-pgp-expiration"
 
 [[repo]]
+url = "https://github.com/golemfactory/music-on-golem"
+
+[[repo]]
 url = "https://github.com/golemfactory/nsjail"
 
 [[repo]]
+url = "https://github.com/golemfactory/onboarding"
+
+[[repo]]
+url = "https://github.com/golemfactory/onboarding_production"
+missing = true
+
+[[repo]]
+url = "https://github.com/golemfactory/onboarding_staging"
+
+[[repo]]
 url = "https://github.com/golemfactory/openexrpython"
+
+[[repo]]
+url = "https://github.com/golemfactory/outbound-helper-scripts"
 
 [[repo]]
 url = "https://github.com/golemfactory/paperclip"
@@ -497,19 +624,48 @@ url = "https://github.com/golemfactory/ProofOfDevice"
 url = "https://github.com/golemfactory/provider-network-benchmarks"
 
 [[repo]]
+url = "https://github.com/golemfactory/provider-provisioning-client"
+missing = true
+
+[[repo]]
 url = "https://github.com/golemfactory/pydevp2p"
 
 [[repo]]
+url = "https://github.com/golemfactory/pylproxy"
+
+[[repo]]
+url = "https://github.com/golemfactory/ray-on-golem"
+
+[[repo]]
+url = "https://github.com/golemfactory/rayongolem-sd-poc"
+
+[[repo]]
+url = "https://github.com/golemfactory/react-image-classifier"
+
+[[repo]]
+url = "https://github.com/golemfactory/react-use-etherscan"
+
+[[repo]]
 url = "https://github.com/golemfactory/Rendering-on-Golem-4-Reality-NFT"
+missing = true
 
 [[repo]]
 url = "https://github.com/golemfactory/reputation-aggregator-mock"
+
+[[repo]]
+url = "https://github.com/golemfactory/reputation-auditor"
+
+[[repo]]
+url = "https://github.com/golemfactory/request-for-proposals"
 
 [[repo]]
 url = "https://github.com/golemfactory/rust-web3"
 
 [[repo]]
 url = "https://github.com/golemfactory/sdk-community-feedback"
+
+[[repo]]
+url = "https://github.com/golemfactory/serial_test"
 
 [[repo]]
 url = "https://github.com/golemfactory/sgx-ias-js"
@@ -519,6 +675,9 @@ url = "https://github.com/golemfactory/sgx-types"
 
 [[repo]]
 url = "https://github.com/golemfactory/simple-transfer"
+
+[[repo]]
+url = "https://github.com/golemfactory/smol-async-process"
 
 [[repo]]
 url = "https://github.com/golemfactory/smoltcp"
@@ -531,12 +690,19 @@ url = "https://github.com/golemfactory/stats-api-docs"
 
 [[repo]]
 url = "https://github.com/golemfactory/stats-deploy"
+missing = true
 
 [[repo]]
 url = "https://github.com/golemfactory/styleguide"
 
 [[repo]]
 url = "https://github.com/golemfactory/task-api"
+
+[[repo]]
+url = "https://github.com/golemfactory/tesseract-ocr-golem"
+
+[[repo]]
+url = "https://github.com/golemfactory/test-binary"
 
 [[repo]]
 url = "https://github.com/golemfactory/testutil"
@@ -554,7 +720,17 @@ url = "https://github.com/golemfactory/tutorialapp"
 url = "https://github.com/golemfactory/v8-wasm"
 
 [[repo]]
+url = "https://github.com/golemfactory/vm-dns-test"
+
+[[repo]]
+url = "https://github.com/golemfactory/wait-my-workflow"
+
+[[repo]]
 url = "https://github.com/golemfactory/wasm-store"
+
+[[repo]]
+url = "https://github.com/golemfactory/web3-playground"
+missing = true
 
 [[repo]]
 url = "https://github.com/golemfactory/webcomputing"
@@ -584,6 +760,9 @@ url = "https://github.com/golemfactory/ya-packet-trace"
 url = "https://github.com/golemfactory/ya-perf"
 
 [[repo]]
+url = "https://github.com/golemfactory/ya-provider"
+
+[[repo]]
 url = "https://github.com/golemfactory/ya-provider-winui"
 
 [[repo]]
@@ -591,6 +770,9 @@ url = "https://github.com/golemfactory/ya-py-aioclient"
 
 [[repo]]
 url = "https://github.com/golemfactory/ya-relay"
+
+[[repo]]
+url = "https://github.com/golemfactory/ya-runtime-ai"
 
 [[repo]]
 url = "https://github.com/golemfactory/ya-runtime-dbg"
@@ -623,6 +805,9 @@ url = "https://github.com/golemfactory/ya-runtime-sgx"
 url = "https://github.com/golemfactory/ya-runtime-vm"
 
 [[repo]]
+url = "https://github.com/golemfactory/ya-runtime-vm-nvidia"
+
+[[repo]]
 url = "https://github.com/golemfactory/ya-runtime-wasi"
 
 [[repo]]
@@ -644,7 +829,16 @@ url = "https://github.com/golemfactory/ya-vm-file-server"
 url = "https://github.com/golemfactory/ya-vpn-connector"
 
 [[repo]]
+url = "https://github.com/golemfactory/ya_tmp_pyapi"
+
+[[repo]]
 url = "https://github.com/golemfactory/yagna"
+
+[[repo]]
+url = "https://github.com/golemfactory/yagna-diesel-patch"
+
+[[repo]]
+url = "https://github.com/golemfactory/yagna-docker"
 
 [[repo]]
 url = "https://github.com/golemfactory/yagna-docs"
@@ -659,6 +853,9 @@ url = "https://github.com/golemfactory/yagna-infrastructure-docs"
 url = "https://github.com/golemfactory/yagna-service-erigon"
 
 [[repo]]
+url = "https://github.com/golemfactory/yagna-setup"
+
+[[repo]]
 url = "https://github.com/golemfactory/yagna-triage"
 
 [[repo]]
@@ -669,6 +866,9 @@ url = "https://github.com/golemfactory/yagna-zksync"
 
 [[repo]]
 url = "https://github.com/golemfactory/yagna_connect"
+
+[[repo]]
+url = "https://github.com/golemfactory/yagna_web_terminal"
 
 [[repo]]
 url = "https://github.com/golemfactory/yajapi"
@@ -699,3 +899,30 @@ url = "https://github.com/golemfactory/zksync"
 
 [[repo]]
 url = "https://github.com/golemfactory/zmqpoc"
+
+[[repo]]
+url = "https://github.com/golemfoundation/foundry"
+
+[[repo]]
+url = "https://github.com/golemfoundation/MultiSigWallet"
+
+[[repo]]
+url = "https://github.com/golemfoundation/octant"
+
+[[repo]]
+url = "https://github.com/golemfoundation/octant-strategy-foundry-mix"
+
+[[repo]]
+url = "https://github.com/golemfoundation/pybear"
+
+[[repo]]
+url = "https://github.com/golemfoundation/tokenized-strategy-periphery"
+
+[[repo]]
+url = "https://github.com/golemfoundation/wildland-bootstrap"
+
+[[repo]]
+url = "https://github.com/golemfoundation/wildland-client"
+
+[[repo]]
+url = "https://github.com/golemfoundation/wildland-model"

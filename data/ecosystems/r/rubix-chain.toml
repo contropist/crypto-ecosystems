@@ -16,10 +16,28 @@ url = "https://github.com/rubixchain/electronwallet"
 url = "https://github.com/rubixchain/externaljars"
 
 [[repo]]
+url = "https://github.com/rubixchain/faucet-rubix"
+
+[[repo]]
+url = "https://github.com/rubixchain/FINAO-SPV-POC"
+
+[[repo]]
 url = "https://github.com/rubixchain/learn"
 
 [[repo]]
 url = "https://github.com/rubixchain/platform-java"
+
+[[repo]]
+url = "https://github.com/rubixchain/rubix-dapps"
+
+[[repo]]
+url = "https://github.com/rubixchain/rubix-nexus"
+
+[[repo]]
+url = "https://github.com/rubixchain/Rubix-Smart-Contract-Examples"
+
+[[repo]]
+url = "https://github.com/rubixchain/rubix-wasm"
 
 [[repo]]
 url = "https://github.com/rubixchain/rubixcorejava"
@@ -37,6 +55,9 @@ url = "https://github.com/rubixchain/rubixdoc"
 url = "https://github.com/rubixchain/rubixgoplatform"
 
 [[repo]]
+url = "https://github.com/rubixchain/rubixgoplatform-SC"
+
+[[repo]]
 url = "https://github.com/rubixchain/rubixnetwork"
 
 [[repo]]
@@ -44,6 +65,9 @@ url = "https://github.com/rubixchain/rubixplatform"
 
 [[repo]]
 url = "https://github.com/rubixchain/rubixsetup"
+
+[[repo]]
+url = "https://github.com/rubixchain/TokenHashGenerator"
 
 [[repo]]
 url = "https://github.com/rubixchain/vmscripts"

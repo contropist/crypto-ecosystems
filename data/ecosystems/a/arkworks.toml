@@ -16,6 +16,9 @@ url = "https://github.com/arkworks-rs/accumulation"
 url = "https://github.com/arkworks-rs/algebra"
 
 [[repo]]
+url = "https://github.com/arkworks-rs/arkworks-rs.github.io"
+
+[[repo]]
 url = "https://github.com/arkworks-rs/bcs"
 
 [[repo]]
@@ -47,6 +50,9 @@ url = "https://github.com/arkworks-rs/ldt"
 
 [[repo]]
 url = "https://github.com/arkworks-rs/marlin"
+
+[[repo]]
+url = "https://github.com/arkworks-rs/nimue"
 
 [[repo]]
 url = "https://github.com/arkworks-rs/nonnative"

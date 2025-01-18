@@ -10,7 +10,11 @@ github_organizations = ["https://github.com/paxosglobal"]
 url = "https://github.com/paxosglobal/acme.sh"
 
 [[repo]]
+url = "https://github.com/paxosglobal/address-list-contract"
+
+[[repo]]
 url = "https://github.com/paxosglobal/airbyte"
+missing = true
 
 [[repo]]
 url = "https://github.com/paxosglobal/alertmanager"
@@ -56,12 +60,16 @@ url = "https://github.com/paxosglobal/aurora-snapshot-tool"
 
 [[repo]]
 url = "https://github.com/paxosglobal/auth0-spring-security-mvc-sample"
+missing = true
 
 [[repo]]
 url = "https://github.com/paxosglobal/aws"
 
 [[repo]]
 url = "https://github.com/paxosglobal/bazel-central-registry"
+
+[[repo]]
+url = "https://github.com/paxosglobal/bazel-lib"
 
 [[repo]]
 url = "https://github.com/paxosglobal/bchd"
@@ -74,6 +82,9 @@ url = "https://github.com/paxosglobal/btcd"
 
 [[repo]]
 url = "https://github.com/paxosglobal/busd-contract"
+
+[[repo]]
+url = "https://github.com/paxosglobal/cargo-mutants"
 
 [[repo]]
 url = "https://github.com/paxosglobal/charts"
@@ -92,6 +103,7 @@ url = "https://github.com/paxosglobal/chef-prometheus-exporters"
 
 [[repo]]
 url = "https://github.com/paxosglobal/chef-sugar"
+missing = true
 
 [[repo]]
 url = "https://github.com/paxosglobal/chromatic-github-action"
@@ -103,10 +115,14 @@ url = "https://github.com/paxosglobal/client-python"
 url = "https://github.com/paxosglobal/config-reloader-sidecar"
 
 [[repo]]
+url = "https://github.com/paxosglobal/cross-chain-contracts"
+
+[[repo]]
 url = "https://github.com/paxosglobal/DEPRECATED-gocqlx"
 
 [[repo]]
 url = "https://github.com/paxosglobal/devops-test-script"
+missing = true
 
 [[repo]]
 url = "https://github.com/paxosglobal/dex"
@@ -142,6 +158,9 @@ url = "https://github.com/paxosglobal/fintech-devcon-2021-stablecoin-workshop"
 url = "https://github.com/paxosglobal/gen-self-signed-cert"
 
 [[repo]]
+url = "https://github.com/paxosglobal/github-actions-usage"
+
+[[repo]]
 url = "https://github.com/paxosglobal/github-exporter"
 
 [[repo]]
@@ -151,6 +170,9 @@ url = "https://github.com/paxosglobal/GitWebhookProxy"
 url = "https://github.com/paxosglobal/go-ethereum"
 
 [[repo]]
+url = "https://github.com/paxosglobal/go-ethereum-arbitrum"
+
+[[repo]]
 url = "https://github.com/paxosglobal/go-grpc-middleware"
 
 [[repo]]
@@ -158,18 +180,27 @@ url = "https://github.com/paxosglobal/go-keychain"
 
 [[repo]]
 url = "https://github.com/paxosglobal/golang-dind"
+missing = true
 
 [[repo]]
 url = "https://github.com/paxosglobal/golang-socketio"
 
 [[repo]]
+url = "https://github.com/paxosglobal/golangci-lint-action"
+
+[[repo]]
 url = "https://github.com/paxosglobal/google-cloud-go"
 
 [[repo]]
+url = "https://github.com/paxosglobal/governator"
+
+[[repo]]
 url = "https://github.com/paxosglobal/gradle-helm-plugin"
+missing = true
 
 [[repo]]
 url = "https://github.com/paxosglobal/gradle-xjc-plugin"
+missing = true
 
 [[repo]]
 url = "https://github.com/paxosglobal/grpc-gateway"
@@ -179,6 +210,9 @@ url = "https://github.com/paxosglobal/helm"
 
 [[repo]]
 url = "https://github.com/paxosglobal/hydra"
+
+[[repo]]
+url = "https://github.com/paxosglobal/insta"
 
 [[repo]]
 url = "https://github.com/paxosglobal/istio"
@@ -208,6 +242,12 @@ url = "https://github.com/paxosglobal/kafka-docker"
 url = "https://github.com/paxosglobal/kafka-go"
 
 [[repo]]
+url = "https://github.com/paxosglobal/libfido2"
+
+[[repo]]
+url = "https://github.com/paxosglobal/ltcd"
+
+[[repo]]
 url = "https://github.com/paxosglobal/ltcutil"
 
 [[repo]]
@@ -229,6 +269,9 @@ url = "https://github.com/paxosglobal/nothing-but-netting"
 url = "https://github.com/paxosglobal/packr"
 
 [[repo]]
+url = "https://github.com/paxosglobal/pam-u2f"
+
+[[repo]]
 url = "https://github.com/paxosglobal/pastey"
 
 [[repo]]
@@ -238,16 +281,28 @@ url = "https://github.com/paxosglobal/paxos-gold-contract"
 url = "https://github.com/paxosglobal/paxos-terraform-examples"
 
 [[repo]]
+url = "https://github.com/paxosglobal/paxos-token-contracts"
+
+[[repo]]
 url = "https://github.com/paxosglobal/prowide-core"
 
 [[repo]]
+url = "https://github.com/paxosglobal/pyusd-contract"
+
+[[repo]]
 url = "https://github.com/paxosglobal/rds-snapshot-tool"
+
+[[repo]]
+url = "https://github.com/paxosglobal/request-action"
 
 [[repo]]
 url = "https://github.com/paxosglobal/richgo"
 
 [[repo]]
 url = "https://github.com/paxosglobal/rules_go"
+
+[[repo]]
+url = "https://github.com/paxosglobal/rules_proto"
 
 [[repo]]
 url = "https://github.com/paxosglobal/safe-react"
@@ -259,10 +314,19 @@ url = "https://github.com/paxosglobal/simple-multisig"
 url = "https://github.com/paxosglobal/snyk_actions"
 
 [[repo]]
+url = "https://github.com/paxosglobal/solana-go"
+
+[[repo]]
+url = "https://github.com/paxosglobal/solana-programs"
+
+[[repo]]
 url = "https://github.com/paxosglobal/subconscious"
 
 [[repo]]
 url = "https://github.com/paxosglobal/swagger-injector"
+
+[[repo]]
+url = "https://github.com/paxosglobal/tcld"
 
 [[repo]]
 url = "https://github.com/paxosglobal/terraform"
@@ -272,6 +336,9 @@ url = "https://github.com/paxosglobal/terraform-aws-acm"
 
 [[repo]]
 url = "https://github.com/paxosglobal/terraform-aws-consul"
+
+[[repo]]
+url = "https://github.com/paxosglobal/terraform-aws-lambda"
 
 [[repo]]
 url = "https://github.com/paxosglobal/terraform-aws-memory-db"
@@ -301,6 +368,13 @@ url = "https://github.com/paxosglobal/terragrunt"
 url = "https://github.com/paxosglobal/tf_aws_elasticache_redis"
 
 [[repo]]
+url = "https://github.com/paxosglobal/tf_tg_newway"
+
+[[repo]]
+url = "https://github.com/paxosglobal/tflint-bundle"
+missing = true
+
+[[repo]]
 url = "https://github.com/paxosglobal/token-profile"
 
 [[repo]]
@@ -308,6 +382,9 @@ url = "https://github.com/paxosglobal/tokens"
 
 [[repo]]
 url = "https://github.com/paxosglobal/topicctl"
+
+[[repo]]
+url = "https://github.com/paxosglobal/usdg-contract"
 
 [[repo]]
 url = "https://github.com/paxosglobal/usdp-contracts"
@@ -323,6 +400,10 @@ url = "https://github.com/paxosglobal/vault-plugin-secrets-kubernetes"
 
 [[repo]]
 url = "https://github.com/paxosglobal/vault-token-helper-osx-keychain"
+missing = true
+
+[[repo]]
+url = "https://github.com/paxosglobal/ybs-contract"
 
 [[repo]]
 url = "https://github.com/paxosglobal/yet-another-cloudwatch-exporter"

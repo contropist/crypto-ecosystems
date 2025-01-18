@@ -34,10 +34,22 @@ url = "https://github.com/dotbitHQ/blockabc_docs_template"
 url = "https://github.com/dotbitHQ/capsule"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/ccToken-merchant-tool"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/ccToken-mint-tool"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/cell-data-generator"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/ckb-cli"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/ckb-dev-all-in-one"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/ckb-multisig-wizard"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/ckb-rpc"
@@ -58,6 +70,9 @@ url = "https://github.com/dotbitHQ/ckb-time-script"
 url = "https://github.com/dotbitHQ/cloudflare-workers-for-dotbit-dweb"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/connect-did-sdk"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/da.systems"
 
 [[repo]]
@@ -74,6 +89,7 @@ url = "https://github.com/dotbitHQ/das-contracts"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-dapp-demo"
+missing = true
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-database"
@@ -83,6 +99,12 @@ url = "https://github.com/dotbitHQ/das-hedge-coin-server"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-lib"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/das-lock"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/das-multi-device"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/das-notice"
@@ -118,10 +140,22 @@ url = "https://github.com/dotbitHQ/data.did.id"
 url = "https://github.com/dotbitHQ/DBIPs"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/did-bit-spec"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/did-cell-indexer"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/did-config"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/did-contracts"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/Documents"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/dotbit-did-spec"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/dotbit-template-lib"
@@ -142,6 +176,21 @@ url = "https://github.com/dotbitHQ/grapheme-collector"
 url = "https://github.com/dotbitHQ/identicons"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/libecc"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/libecc-optimised"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/libecc-riscv-optimized"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/mybtckb-svr"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/remote-sign-svr"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/simple-ast"
 
 [[repo]]
@@ -157,7 +206,13 @@ url = "https://github.com/dotbitHQ/sub-account-store"
 url = "https://github.com/dotbitHQ/sub-account-svr"
 
 [[repo]]
+url = "https://github.com/dotbitHQ/twitter-to-lark"
+
+[[repo]]
 url = "https://github.com/dotbitHQ/unipay"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/vite-component-library-template"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/voting-system-backend"
@@ -170,6 +225,9 @@ url = "https://github.com/dotbitHQ/voting-system-frontend"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/voting-system-protocol"
+
+[[repo]]
+url = "https://github.com/dotbitHQ/wallet-bridge"
 
 [[repo]]
 url = "https://github.com/dotbitHQ/wallet-sdk-js"

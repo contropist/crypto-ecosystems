@@ -13,6 +13,9 @@ url = "https://github.com/openlawteam/0x-launch-kit-frontend"
 url = "https://github.com/openlawteam/alertbot"
 
 [[repo]]
+url = "https://github.com/openlawteam/ape-ledger"
+
+[[repo]]
 url = "https://github.com/openlawteam/Artblocks-Contract"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/openlawteam/artblocks-server-production"
 
 [[repo]]
 url = "https://github.com/openlawteam/artblocks-site-production"
+
+[[repo]]
+url = "https://github.com/openlawteam/content-writer"
 
 [[repo]]
 url = "https://github.com/openlawteam/docker-gradle"
@@ -176,6 +182,7 @@ url = "https://github.com/openlawteam/tribute-contracts-cli"
 
 [[repo]]
 url = "https://github.com/openlawteam/tribute-discord-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/openlawteam/tribute-docs-website"

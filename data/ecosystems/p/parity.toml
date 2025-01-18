@@ -7,10 +7,20 @@ github_organizations = ["https://github.com/paritytech"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/inkdevhub/swanky-cli"
+
+[[repo]]
 url = "https://github.com/libp2p/rust-libp2p"
 
 [[repo]]
+url = "https://github.com/parity-asia/hackathon-2022-winter"
+
+[[repo]]
 url = "https://github.com/paritytech/.github"
+
+[[repo]]
+url = "https://github.com/paritytech/0x863df6bfa4"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/actions"
@@ -34,10 +44,31 @@ url = "https://github.com/paritytech/alethzero"
 url = "https://github.com/paritytech/ansible-galaxy"
 
 [[repo]]
+url = "https://github.com/paritytech/ansible-polkadot"
+
+[[repo]]
+url = "https://github.com/paritytech/appsec_ctf_decoded23"
+
+[[repo]]
+url = "https://github.com/paritytech/appsec_ctf_playground"
+
+[[repo]]
 url = "https://github.com/paritytech/arber"
 
 [[repo]]
+url = "https://github.com/paritytech/argocd-deployment-action"
+
+[[repo]]
+url = "https://github.com/paritytech/argocd-diff-action"
+
+[[repo]]
 url = "https://github.com/paritytech/ark-substrate"
+
+[[repo]]
+url = "https://github.com/paritytech/arkworks-extensions"
+
+[[repo]]
+url = "https://github.com/paritytech/arkworks-substrate"
 
 [[repo]]
 url = "https://github.com/paritytech/artist"
@@ -49,6 +80,9 @@ url = "https://github.com/paritytech/as-substrate"
 url = "https://github.com/paritytech/asset-transfer-api"
 
 [[repo]]
+url = "https://github.com/paritytech/asset-transfer-api-registry"
+
+[[repo]]
 url = "https://github.com/paritytech/asset_cli_tool"
 
 [[repo]]
@@ -56,6 +90,9 @@ url = "https://github.com/paritytech/assets"
 
 [[repo]]
 url = "https://github.com/paritytech/async-std"
+
+[[repo]]
+url = "https://github.com/paritytech/auto-merge-bot"
 
 [[repo]]
 url = "https://github.com/paritytech/await-status-action"
@@ -103,10 +140,16 @@ url = "https://github.com/paritytech/bridge-ui"
 url = "https://github.com/paritytech/bugbounty"
 
 [[repo]]
+url = "https://github.com/paritytech/build-n-push-action"
+
+[[repo]]
 url = "https://github.com/paritytech/burn-in-tests"
 
 [[repo]]
 url = "https://github.com/paritytech/cachepot"
+
+[[repo]]
+url = "https://github.com/paritytech/calamar"
 
 [[repo]]
 url = "https://github.com/paritytech/canvas"
@@ -124,7 +167,16 @@ url = "https://github.com/paritytech/capi-binary-builds"
 url = "https://github.com/paritytech/capi-crypto-wrappers"
 
 [[repo]]
+url = "https://github.com/paritytech/capi-multisig-app"
+
+[[repo]]
 url = "https://github.com/paritytech/capi-node-example"
+
+[[repo]]
+url = "https://github.com/paritytech/capi-old"
+
+[[repo]]
+url = "https://github.com/paritytech/capi-team-milestones"
 
 [[repo]]
 url = "https://github.com/paritytech/capi-vite-example"
@@ -145,10 +197,16 @@ url = "https://github.com/paritytech/chainextension-registry"
 url = "https://github.com/paritytech/chainlink-hackathon-2022"
 
 [[repo]]
+url = "https://github.com/paritytech/chainspecs"
+
+[[repo]]
 url = "https://github.com/paritytech/changelogerator"
 
 [[repo]]
 url = "https://github.com/paritytech/chaoscope"
+
+[[repo]]
+url = "https://github.com/paritytech/chatbot"
 
 [[repo]]
 url = "https://github.com/paritytech/chicken"
@@ -157,19 +215,34 @@ url = "https://github.com/paritytech/chicken"
 url = "https://github.com/paritytech/ci-script"
 
 [[repo]]
+url = "https://github.com/paritytech/cikube"
+
+[[repo]]
 url = "https://github.com/paritytech/cla-bot-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/clabot-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/clabot-test1"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/clachair"
 
 [[repo]]
+url = "https://github.com/paritytech/claim-nft"
+
+[[repo]]
 url = "https://github.com/paritytech/clusterfuzz-parity-db"
+
+[[repo]]
+url = "https://github.com/paritytech/cmd-action"
+
+[[repo]]
+url = "https://github.com/paritytech/co2-passport"
 
 [[repo]]
 url = "https://github.com/paritytech/collection"
@@ -190,7 +263,16 @@ url = "https://github.com/paritytech/console"
 url = "https://github.com/paritytech/content"
 
 [[repo]]
+url = "https://github.com/paritytech/contract-docs"
+
+[[repo]]
+url = "https://github.com/paritytech/contract-issues"
+
+[[repo]]
 url = "https://github.com/paritytech/contract-sizes"
+
+[[repo]]
+url = "https://github.com/paritytech/contracts-boilerplate"
 
 [[repo]]
 url = "https://github.com/paritytech/contracts-ui"
@@ -200,6 +282,9 @@ url = "https://github.com/paritytech/core-sorting"
 
 [[repo]]
 url = "https://github.com/paritytech/crates.io"
+
+[[repo]]
+url = "https://github.com/paritytech/create-polkadot-dapp"
 
 [[repo]]
 url = "https://github.com/paritytech/create-react-app"
@@ -322,6 +407,9 @@ url = "https://github.com/paritytech/did-reg-abi"
 url = "https://github.com/paritytech/diener"
 
 [[repo]]
+url = "https://github.com/paritytech/disabling-e2e-tests"
+
+[[repo]]
 url = "https://github.com/paritytech/do-nothing-app"
 
 [[repo]]
@@ -329,6 +417,13 @@ url = "https://github.com/paritytech/do_nothing_app"
 
 [[repo]]
 url = "https://github.com/paritytech/docker-machine"
+missing = true
+
+[[repo]]
+url = "https://github.com/paritytech/dockerfiles"
+
+[[repo]]
+url = "https://github.com/paritytech/docs.capi.dev"
 
 [[repo]]
 url = "https://github.com/paritytech/dot-jaeger"
@@ -338,6 +433,12 @@ url = "https://github.com/paritytech/dotdrop"
 
 [[repo]]
 url = "https://github.com/paritytech/dotexporter"
+
+[[repo]]
+url = "https://github.com/paritytech/dotlake-community"
+
+[[repo]]
+url = "https://github.com/paritytech/dotlake-sidecar"
 
 [[repo]]
 url = "https://github.com/paritytech/downloads-proxy"
@@ -364,7 +465,13 @@ url = "https://github.com/paritytech/element-web"
 url = "https://github.com/paritytech/email-verification"
 
 [[repo]]
+url = "https://github.com/paritytech/eng-automation"
+
+[[repo]]
 url = "https://github.com/paritytech/environmental"
+
+[[repo]]
+url = "https://github.com/paritytech/erasure-coding"
 
 [[repo]]
 url = "https://github.com/paritytech/ethabi"
@@ -400,10 +507,19 @@ url = "https://github.com/paritytech/ethstore"
 url = "https://github.com/paritytech/eventsource"
 
 [[repo]]
+url = "https://github.com/paritytech/evidences-action"
+
+[[repo]]
+url = "https://github.com/paritytech/evm-tps"
+
+[[repo]]
 url = "https://github.com/paritytech/evmjit"
 
 [[repo]]
 url = "https://github.com/paritytech/exit-future"
+
+[[repo]]
+url = "https://github.com/paritytech/extended-parachain-template"
 
 [[repo]]
 url = "https://github.com/paritytech/fdlimit"
@@ -418,10 +534,19 @@ url = "https://github.com/paritytech/fireworks"
 url = "https://github.com/paritytech/fleetwood"
 
 [[repo]]
+url = "https://github.com/paritytech/forklift"
+
+[[repo]]
+url = "https://github.com/paritytech/frame-decode"
+
+[[repo]]
 url = "https://github.com/paritytech/frame-metadata"
 
 [[repo]]
 url = "https://github.com/paritytech/frontier"
+
+[[repo]]
+url = "https://github.com/paritytech/frontier-parachain-template"
 
 [[repo]]
 url = "https://github.com/paritytech/fs-swap"
@@ -436,10 +561,17 @@ url = "https://github.com/paritytech/gatsby-plugin-substrate"
 url = "https://github.com/paritytech/generate-type-bundle"
 
 [[repo]]
+url = "https://github.com/paritytech/get-fellows-action"
+
+[[repo]]
+url = "https://github.com/paritytech/gift-app"
+
+[[repo]]
 url = "https://github.com/paritytech/github-issue-sync"
 
 [[repo]]
 url = "https://github.com/paritytech/gitsync"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/governance-ui"
@@ -478,10 +610,16 @@ url = "https://github.com/paritytech/homebrew-paritytech"
 url = "https://github.com/paritytech/hyper"
 
 [[repo]]
+url = "https://github.com/paritytech/images"
+
+[[repo]]
 url = "https://github.com/paritytech/index-tpl-crud"
 
 [[repo]]
 url = "https://github.com/paritytech/ink"
+
+[[repo]]
+url = "https://github.com/paritytech/ink-championship"
 
 [[repo]]
 url = "https://github.com/paritytech/ink-docs"
@@ -535,6 +673,9 @@ url = "https://github.com/paritytech/js-mobx"
 url = "https://github.com/paritytech/js-precompiled"
 
 [[repo]]
+url = "https://github.com/paritytech/js-revive"
+
+[[repo]]
 url = "https://github.com/paritytech/js-shapeshift"
 
 [[repo]]
@@ -557,6 +698,9 @@ url = "https://github.com/paritytech/jsonrpc"
 
 [[repo]]
 url = "https://github.com/paritytech/jsonrpsee"
+
+[[repo]]
+url = "https://github.com/paritytech/k8s-manifests-validation"
 
 [[repo]]
 url = "https://github.com/paritytech/keccak-hash"
@@ -610,6 +754,9 @@ url = "https://github.com/paritytech/link"
 url = "https://github.com/paritytech/list-team-members"
 
 [[repo]]
+url = "https://github.com/paritytech/litep2p"
+
+[[repo]]
 url = "https://github.com/paritytech/llvm-wasm-codesize"
 
 [[repo]]
@@ -652,10 +799,16 @@ url = "https://github.com/paritytech/memory-lru"
 url = "https://github.com/paritytech/memorydb"
 
 [[repo]]
+url = "https://github.com/paritytech/merkle-mountain-range"
+
+[[repo]]
 url = "https://github.com/paritytech/metadata-portal"
 
 [[repo]]
 url = "https://github.com/paritytech/meteor-dapp-wallet"
+
+[[repo]]
+url = "https://github.com/paritytech/metrics"
 
 [[repo]]
 url = "https://github.com/paritytech/migrate-to-registry-2"
@@ -667,10 +820,18 @@ url = "https://github.com/paritytech/mio"
 url = "https://github.com/paritytech/mixnet"
 
 [[repo]]
+url = "https://github.com/paritytech/mixnet-spec"
+
+[[repo]]
+url = "https://github.com/paritytech/mlctrib-cli"
+
+[[repo]]
 url = "https://github.com/paritytech/monorepo-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/mta-sts"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/mta-sts-ethcore.io"
@@ -691,10 +852,20 @@ url = "https://github.com/paritytech/mydapp"
 url = "https://github.com/paritytech/nanomsg.rs"
 
 [[repo]]
+url = "https://github.com/paritytech/nft-portal"
+
+[[repo]]
+url = "https://github.com/paritytech/nfts-campaign-runner"
+
+[[repo]]
 url = "https://github.com/paritytech/nohash-hasher"
 
 [[repo]]
 url = "https://github.com/paritytech/Nomidot"
+
+[[repo]]
+url = "https://github.com/paritytech/nos"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/oo7"
@@ -710,6 +881,9 @@ url = "https://github.com/paritytech/oo7-react"
 
 [[repo]]
 url = "https://github.com/paritytech/openethereum"
+
+[[repo]]
+url = "https://github.com/paritytech/openzeppelin-rococo-parachain-ansible-quickstart"
 
 [[repo]]
 url = "https://github.com/paritytech/operations-dist"
@@ -745,10 +919,25 @@ url = "https://github.com/paritytech/pallet-contracts-waterfall"
 url = "https://github.com/paritytech/pallet-contracts-xcm"
 
 [[repo]]
+url = "https://github.com/paritytech/parachain-deployment-quickstart"
+
+[[repo]]
+url = "https://github.com/paritytech/parachain-utils"
+
+[[repo]]
 url = "https://github.com/paritytech/parachains-core-milestones"
 
 [[repo]]
 url = "https://github.com/paritytech/parachains-integration-tests"
+
+[[repo]]
+url = "https://github.com/paritytech/parachains-utils"
+
+[[repo]]
+url = "https://github.com/paritytech/parathreat"
+
+[[repo]]
+url = "https://github.com/paritytech/parcel-transformer-capi"
 
 [[repo]]
 url = "https://github.com/paritytech/parity-ansible"
@@ -796,6 +985,9 @@ url = "https://github.com/paritytech/parity-news"
 url = "https://github.com/paritytech/parity-processbot"
 
 [[repo]]
+url = "https://github.com/paritytech/parity-publish"
+
+[[repo]]
 url = "https://github.com/paritytech/parity-react-scripts"
 
 [[repo]]
@@ -827,6 +1019,8 @@ url = "https://github.com/paritytech/parity-wasm"
 
 [[repo]]
 url = "https://github.com/paritytech/parity-website"
+tags = ["Protocol"]
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/parity-zcash"
@@ -836,6 +1030,9 @@ url = "https://github.com/paritytech/parity.js"
 
 [[repo]]
 url = "https://github.com/paritytech/patricia-trie"
+
+[[repo]]
+url = "https://github.com/paritytech/pdp-templates"
 
 [[repo]]
 url = "https://github.com/paritytech/pipeline-scripts"
@@ -859,13 +1056,28 @@ url = "https://github.com/paritytech/polkadash"
 url = "https://github.com/paritytech/polkadot"
 
 [[repo]]
+url = "https://github.com/paritytech/polkadot-api"
+
+[[repo]]
 url = "https://github.com/paritytech/polkadot-basic-notification"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-cloud"
 
 [[repo]]
 url = "https://github.com/paritytech/polkadot-dashboard-ui"
 
 [[repo]]
+url = "https://github.com/paritytech/polkadot-developer-data"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-hub-app"
+
+[[repo]]
 url = "https://github.com/paritytech/polkadot-identicon-rust"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-integration-tests"
 
 [[repo]]
 url = "https://github.com/paritytech/polkadot-interaction-examples-rs"
@@ -875,15 +1087,25 @@ url = "https://github.com/paritytech/polkadot-introspector"
 
 [[repo]]
 url = "https://github.com/paritytech/polkadot-language-landing-pages"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/polkadot-launch"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-matrix-feed-aggregator"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-monitoring-mixin"
 
 [[repo]]
 url = "https://github.com/paritytech/polkadot-onboard"
 
 [[repo]]
 url = "https://github.com/paritytech/polkadot-parachain-exporter"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-provider"
 
 [[repo]]
 url = "https://github.com/paritytech/polkadot-runtime-prom-exporter"
@@ -895,10 +1117,31 @@ url = "https://github.com/paritytech/polkadot-runtime-test"
 url = "https://github.com/paritytech/polkadot-scripts"
 
 [[repo]]
+url = "https://github.com/paritytech/polkadot-sdk"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-sdk-docs"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-sdk-minimal-template"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-sdk-parachain-template"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-sdk-solochain-template"
+
+[[repo]]
 url = "https://github.com/paritytech/polkadot-spec"
 
 [[repo]]
 url = "https://github.com/paritytech/polkadot-staking-dashboard"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-staking-miner"
+
+[[repo]]
+url = "https://github.com/paritytech/polkadot-staking-miner-monitor"
 
 [[repo]]
 url = "https://github.com/paritytech/polkadot-stps"
@@ -922,10 +1165,16 @@ url = "https://github.com/paritytech/polkapobal"
 url = "https://github.com/paritytech/polkassembly"
 
 [[repo]]
+url = "https://github.com/paritytech/polkavm"
+
+[[repo]]
 url = "https://github.com/paritytech/ppa"
 
 [[repo]]
 url = "https://github.com/paritytech/pr-custom-review"
+
+[[repo]]
+url = "https://github.com/paritytech/prdoc"
 
 [[repo]]
 url = "https://github.com/paritytech/primitives"
@@ -937,16 +1186,34 @@ url = "https://github.com/paritytech/prism"
 url = "https://github.com/paritytech/prism.dapp"
 
 [[repo]]
+url = "https://github.com/paritytech/project-mythical"
+
+[[repo]]
+url = "https://github.com/paritytech/psvm"
+
+[[repo]]
 url = "https://github.com/paritytech/push-release"
 
 [[repo]]
+url = "https://github.com/paritytech/pvf-checker"
+
+[[repo]]
+url = "https://github.com/paritytech/pvf-executor"
+
+[[repo]]
 url = "https://github.com/paritytech/pwasm-runtime-js"
+
+[[repo]]
+url = "https://github.com/paritytech/qualysapi"
 
 [[repo]]
 url = "https://github.com/paritytech/quicksink"
 
 [[repo]]
 url = "https://github.com/paritytech/quinn"
+
+[[repo]]
+url = "https://github.com/paritytech/radium-0.7-fork"
 
 [[repo]]
 url = "https://github.com/paritytech/react-inspector"
@@ -970,10 +1237,47 @@ url = "https://github.com/paritytech/reed-solomon-novelpoly"
 url = "https://github.com/paritytech/release-it"
 
 [[repo]]
+url = "https://github.com/paritytech/release-registry"
+
+[[repo]]
 url = "https://github.com/paritytech/releng-scripts"
 
 [[repo]]
 url = "https://github.com/paritytech/reref"
+
+[[repo]]
+url = "https://github.com/paritytech/review-bot"
+
+[[repo]]
+url = "https://github.com/paritytech/revive"
+
+[[repo]]
+url = "https://github.com/paritytech/revive-ethereum-rpc"
+missing = true
+
+[[repo]]
+url = "https://github.com/paritytech/revive-llvm-builder"
+
+[[repo]]
+url = "https://github.com/paritytech/revive-remix"
+
+[[repo]]
+url = "https://github.com/paritytech/revive-remix-backend"
+
+[[repo]]
+url = "https://github.com/paritytech/rfc-action"
+
+[[repo]]
+url = "https://github.com/paritytech/rfc-book"
+
+[[repo]]
+url = "https://github.com/paritytech/rfc-bot"
+
+[[repo]]
+url = "https://github.com/paritytech/rfc-propose"
+
+[[repo]]
+url = "https://github.com/paritytech/RFCs"
 
 [[repo]]
 url = "https://github.com/paritytech/rhododendron"
@@ -994,10 +1298,16 @@ url = "https://github.com/paritytech/rocksdb"
 url = "https://github.com/paritytech/rotor"
 
 [[repo]]
+url = "https://github.com/paritytech/rpc-checker"
+
+[[repo]]
 url = "https://github.com/paritytech/rtxqr"
 
 [[repo]]
 url = "https://github.com/paritytech/ruled_labels"
+
+[[repo]]
+url = "https://github.com/paritytech/rune"
 
 [[repo]]
 url = "https://github.com/paritytech/Runtime-Contract-Interactions"
@@ -1010,6 +1320,9 @@ url = "https://github.com/paritytech/rust-ci"
 
 [[repo]]
 url = "https://github.com/paritytech/rust-cid"
+
+[[repo]]
+url = "https://github.com/paritytech/rust-contract-template"
 
 [[repo]]
 url = "https://github.com/paritytech/rust-ctrlc"
@@ -1036,6 +1349,9 @@ url = "https://github.com/paritytech/rust_solc"
 url = "https://github.com/paritytech/rustc-codesize-min"
 
 [[repo]]
+url = "https://github.com/paritytech/rustc-rv32e-toolchain"
+
+[[repo]]
 url = "https://github.com/paritytech/rustls"
 
 [[repo]]
@@ -1057,16 +1373,28 @@ url = "https://github.com/paritytech/scale-encode"
 url = "https://github.com/paritytech/scale-info"
 
 [[repo]]
+url = "https://github.com/paritytech/scale-info-legacy"
+
+[[repo]]
 url = "https://github.com/paritytech/scale-ts"
 
 [[repo]]
 url = "https://github.com/paritytech/scale-ts-benchmark"
 
 [[repo]]
+url = "https://github.com/paritytech/scale-type-resolver"
+
+[[repo]]
+url = "https://github.com/paritytech/scale-typegen"
+
+[[repo]]
 url = "https://github.com/paritytech/scale-value"
 
 [[repo]]
 url = "https://github.com/paritytech/schildichat-desktop"
+
+[[repo]]
+url = "https://github.com/paritytech/schlau"
 
 [[repo]]
 url = "https://github.com/paritytech/schnorrkel"
@@ -1082,6 +1410,14 @@ url = "https://github.com/paritytech/second-price-auction"
 
 [[repo]]
 url = "https://github.com/paritytech/secret-store"
+
+[[repo]]
+url = "https://github.com/paritytech/secretstore-key-server-set"
+missing = true
+
+[[repo]]
+url = "https://github.com/paritytech/secretstore-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/send_wrapper"
@@ -1135,6 +1471,9 @@ url = "https://github.com/paritytech/soketto"
 url = "https://github.com/paritytech/solo-para-bridge-poc"
 
 [[repo]]
+url = "https://github.com/paritytech/sp-curves"
+
+[[repo]]
 url = "https://github.com/paritytech/specs"
 
 [[repo]]
@@ -1180,6 +1519,9 @@ url = "https://github.com/paritytech/subport"
 url = "https://github.com/paritytech/subpub"
 
 [[repo]]
+url = "https://github.com/paritytech/subshape"
+
+[[repo]]
 url = "https://github.com/paritytech/substrate"
 
 [[repo]]
@@ -1198,6 +1540,9 @@ url = "https://github.com/paritytech/substrate-api-sidecar"
 url = "https://github.com/paritytech/substrate-archive"
 
 [[repo]]
+url = "https://github.com/paritytech/substrate-assets"
+
+[[repo]]
 url = "https://github.com/paritytech/substrate-bip39"
 
 [[repo]]
@@ -1211,6 +1556,9 @@ url = "https://github.com/paritytech/substrate-connect"
 
 [[repo]]
 url = "https://github.com/paritytech/substrate-contracts-node"
+
+[[repo]]
+url = "https://github.com/paritytech/substrate-curves"
 
 [[repo]]
 url = "https://github.com/paritytech/substrate-debug-kit"
@@ -1247,9 +1595,16 @@ url = "https://github.com/paritytech/substrate-matrix-faucet"
 
 [[repo]]
 url = "https://github.com/paritytech/substrate-node-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/paritytech/substrate-open-working-groups"
+
+[[repo]]
+url = "https://github.com/paritytech/substrate-parachain-node"
+
+[[repo]]
+url = "https://github.com/paritytech/substrate-parachain-node-1"
 
 [[repo]]
 url = "https://github.com/paritytech/substrate-playground"
@@ -1282,7 +1637,16 @@ url = "https://github.com/paritytech/substrate-website"
 url = "https://github.com/paritytech/substrate-website-banner"
 
 [[repo]]
+url = "https://github.com/paritytech/substrate-weight-compare"
+
+[[repo]]
+url = "https://github.com/paritytech/subtrie"
+
+[[repo]]
 url = "https://github.com/paritytech/subxt"
+
+[[repo]]
+url = "https://github.com/paritytech/subxt-explorer"
 
 [[repo]]
 url = "https://github.com/paritytech/subxt-team-milestones"
@@ -1291,10 +1655,16 @@ url = "https://github.com/paritytech/subxt-team-milestones"
 url = "https://github.com/paritytech/table-renderer"
 
 [[repo]]
+url = "https://github.com/paritytech/test-dapp"
+
+[[repo]]
 url = "https://github.com/paritytech/testdapp"
 
 [[repo]]
 url = "https://github.com/paritytech/testnet-manager"
+
+[[repo]]
+url = "https://github.com/paritytech/The-Track3-Non-Tech-Hackathon-at-BCN"
 
 [[repo]]
 url = "https://github.com/paritytech/tide-github"
@@ -1310,6 +1680,12 @@ url = "https://github.com/paritytech/toml-cli"
 
 [[repo]]
 url = "https://github.com/paritytech/tools-team-milestones"
+
+[[repo]]
+url = "https://github.com/paritytech/Track-3-Feedback"
+
+[[repo]]
+url = "https://github.com/paritytech/Track3-Non-Tech-Hackathon-at-BCN"
 
 [[repo]]
 url = "https://github.com/paritytech/transaction-scheduler"
@@ -1339,6 +1715,9 @@ url = "https://github.com/paritytech/trun"
 url = "https://github.com/paritytech/try-runtime-cli"
 
 [[repo]]
+url = "https://github.com/paritytech/try-runtime-gha"
+
+[[repo]]
 url = "https://github.com/paritytech/twip"
 
 [[repo]]
@@ -1357,6 +1736,9 @@ url = "https://github.com/paritytech/unsigned-varint"
 url = "https://github.com/paritytech/untrusted"
 
 [[repo]]
+url = "https://github.com/paritytech/up-to-date-action"
+
+[[repo]]
 url = "https://github.com/paritytech/upnp-igdp"
 
 [[repo]]
@@ -1364,6 +1746,9 @@ url = "https://github.com/paritytech/useink"
 
 [[repo]]
 url = "https://github.com/paritytech/useink-kitchen-sink"
+
+[[repo]]
+url = "https://github.com/paritytech/verifiable"
 
 [[repo]]
 url = "https://github.com/paritytech/vscode-substrate"
@@ -1406,6 +1791,12 @@ url = "https://github.com/paritytech/ws-rs"
 
 [[repo]]
 url = "https://github.com/paritytech/x509-signature"
+
+[[repo]]
+url = "https://github.com/paritytech/xcm"
+
+[[repo]]
+url = "https://github.com/paritytech/xcm-docs"
 
 [[repo]]
 url = "https://github.com/paritytech/xcm-format"

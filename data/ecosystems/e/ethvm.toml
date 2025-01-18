@@ -29,6 +29,7 @@ url = "https://github.com/EthVM/EthVM"
 
 [[repo]]
 url = "https://github.com/EthVM/ethvm-extension-pack"
+missing = true
 
 [[repo]]
 url = "https://github.com/EthVM/evm-source-verification"
@@ -38,6 +39,9 @@ url = "https://github.com/EthVM/go-ebsinit"
 
 [[repo]]
 url = "https://github.com/EthVM/go-ethereum"
+
+[[repo]]
+url = "https://github.com/EthVM/go-ethereum-ethvm"
 
 [[repo]]
 url = "https://github.com/EthVM/kafka-connect-jdbc"

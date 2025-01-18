@@ -49,6 +49,9 @@ url = "https://github.com/chainx-org/awesome-taproot"
 url = "https://github.com/chainx-org/bda-issue"
 
 [[repo]]
+url = "https://github.com/chainx-org/bevm-erc20-factory"
+
+[[repo]]
 url = "https://github.com/chainx-org/bit-vec"
 
 [[repo]]
@@ -74,6 +77,10 @@ url = "https://github.com/chainx-org/bridge"
 
 [[repo]]
 url = "https://github.com/chainx-org/BSCDOT"
+
+[[repo]]
+url = "https://github.com/chainx-org/bswap-wbtc"
+missing = true
 
 [[repo]]
 url = "https://github.com/chainx-org/c-abci"
@@ -427,6 +434,9 @@ url = "https://github.com/chainx-org/polkadot"
 url = "https://github.com/chainx-org/polkadot-launch"
 
 [[repo]]
+url = "https://github.com/chainx-org/polkadot-sdk"
+
+[[repo]]
 url = "https://github.com/chainx-org/polkadot-white-paper-cn"
 
 [[repo]]
@@ -467,6 +477,9 @@ url = "https://github.com/chainx-org/rust-musl-builder"
 
 [[repo]]
 url = "https://github.com/chainx-org/rust-secp256k1"
+
+[[repo]]
+url = "https://github.com/chainx-org/rustsec"
 
 [[repo]]
 url = "https://github.com/chainx-org/schnorrkel"

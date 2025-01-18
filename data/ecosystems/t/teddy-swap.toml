@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/teddy-swap"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/teddy-swap/.github"
+
+[[repo]]
 url = "https://github.com/teddy-swap/blog.teddyswap.org"
 
 [[repo]]
@@ -14,6 +17,9 @@ url = "https://github.com/teddy-swap/cardano-dex-backend"
 
 [[repo]]
 url = "https://github.com/teddy-swap/cardano-dex-contracts"
+
+[[repo]]
+url = "https://github.com/teddy-swap/cardano-dex-index"
 
 [[repo]]
 url = "https://github.com/teddy-swap/cardano-dex-sdk-haskell"
@@ -25,10 +31,25 @@ url = "https://github.com/teddy-swap/cardano-dex-sdk-js"
 url = "https://github.com/teddy-swap/cardano-explorer-backend"
 
 [[repo]]
+url = "https://github.com/teddy-swap/cardano-markets-tracker"
+
+[[repo]]
 url = "https://github.com/teddy-swap/cardano-metadata-service"
 
 [[repo]]
+url = "https://github.com/teddy-swap/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/teddy-swap/deno-offchain-poc"
+
+[[repo]]
+url = "https://github.com/teddy-swap/dexter"
+
+[[repo]]
 url = "https://github.com/teddy-swap/docs.teddyswap.org"
+
+[[repo]]
+url = "https://github.com/teddy-swap/fiso-calculator-frontend"
 
 [[repo]]
 url = "https://github.com/teddy-swap/fiso-dashboard"
@@ -40,6 +61,12 @@ url = "https://github.com/teddy-swap/frontend"
 url = "https://github.com/teddy-swap/ghost-azurestorage"
 
 [[repo]]
+url = "https://github.com/teddy-swap/market-cap"
+
+[[repo]]
+url = "https://github.com/teddy-swap/pallas-dotnet"
+
+[[repo]]
 url = "https://github.com/teddy-swap/tbc-homepage"
 
 [[repo]]
@@ -47,6 +74,9 @@ url = "https://github.com/teddy-swap/teddy-swap-ui"
 
 [[repo]]
 url = "https://github.com/teddy-swap/teddy-tx-builder-api"
+
+[[repo]]
+url = "https://github.com/teddy-swap/teddyswap-explorer-proxy"
 
 [[repo]]
 url = "https://github.com/teddy-swap/teddyswap-yeild-contracts"
@@ -62,3 +92,12 @@ url = "https://github.com/teddy-swap/testnet-token-metadata-registry"
 
 [[repo]]
 url = "https://github.com/teddy-swap/token-logos"
+
+[[repo]]
+url = "https://github.com/teddy-swap/tokenlist"
+
+[[repo]]
+url = "https://github.com/teddy-swap/uada-contracts"
+
+[[repo]]
+url = "https://github.com/teddy-swap/verified-pools"

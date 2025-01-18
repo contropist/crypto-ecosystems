@@ -13,7 +13,13 @@ url = "https://github.com/dataunions/dataunions"
 url = "https://github.com/streamr-dev/airtraffic"
 
 [[repo]]
+url = "https://github.com/streamr-dev/android-webview-demo"
+
+[[repo]]
 url = "https://github.com/streamr-dev/api-explorer"
+
+[[repo]]
+url = "https://github.com/streamr-dev/ator-metrics-node"
 
 [[repo]]
 url = "https://github.com/streamr-dev/broker"
@@ -23,6 +29,9 @@ url = "https://github.com/streamr-dev/broker-kms-integration"
 
 [[repo]]
 url = "https://github.com/streamr-dev/browser-node-test"
+
+[[repo]]
+url = "https://github.com/streamr-dev/brubeck-bridge"
 
 [[repo]]
 url = "https://github.com/streamr-dev/brubeck-rewards"
@@ -86,6 +95,7 @@ url = "https://github.com/streamr-dev/dimo-integration"
 
 [[repo]]
 url = "https://github.com/streamr-dev/documentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/streamr-dev/draggabilly"
@@ -115,10 +125,19 @@ url = "https://github.com/streamr-dev/extracted-webrtc"
 url = "https://github.com/streamr-dev/extracted-webrtc-browser"
 
 [[repo]]
+url = "https://github.com/streamr-dev/flag-monitor"
+
+[[repo]]
+url = "https://github.com/streamr-dev/flux-hub-server"
+
+[[repo]]
 url = "https://github.com/streamr-dev/github-template"
 
 [[repo]]
 url = "https://github.com/streamr-dev/go-streamr-client"
+
+[[repo]]
+url = "https://github.com/streamr-dev/goproxyclient"
 
 [[repo]]
 url = "https://github.com/streamr-dev/grails-builder"
@@ -131,6 +150,9 @@ url = "https://github.com/streamr-dev/helium-mqtt-adapter"
 
 [[repo]]
 url = "https://github.com/streamr-dev/hopscotch"
+
+[[repo]]
+url = "https://github.com/streamr-dev/hub"
 
 [[repo]]
 url = "https://github.com/streamr-dev/iata-hackathon-2018"
@@ -146,6 +168,9 @@ url = "https://github.com/streamr-dev/ledger-live-common"
 
 [[repo]]
 url = "https://github.com/streamr-dev/libdatachannel"
+
+[[repo]]
+url = "https://github.com/streamr-dev/live-crawler"
 
 [[repo]]
 url = "https://github.com/streamr-dev/lnem"
@@ -167,6 +192,12 @@ url = "https://github.com/streamr-dev/mydiem-app"
 
 [[repo]]
 url = "https://github.com/streamr-dev/mysql"
+
+[[repo]]
+url = "https://github.com/streamr-dev/native-sdk"
+
+[[repo]]
+url = "https://github.com/streamr-dev/native-ts-integration"
 
 [[repo]]
 url = "https://github.com/streamr-dev/network"
@@ -220,6 +251,12 @@ url = "https://github.com/streamr-dev/redis"
 url = "https://github.com/streamr-dev/Rocket.Chat"
 
 [[repo]]
+url = "https://github.com/streamr-dev/route53-cleaner"
+
+[[repo]]
+url = "https://github.com/streamr-dev/router-protocol-streams"
+
+[[repo]]
 url = "https://github.com/streamr-dev/ruuvi-streamr"
 
 [[repo]]
@@ -265,6 +302,9 @@ url = "https://github.com/streamr-dev/streamr-client-react"
 url = "https://github.com/streamr-dev/streamr-client-testing"
 
 [[repo]]
+url = "https://github.com/streamr-dev/streamr-dashboard-creator"
+
+[[repo]]
 url = "https://github.com/streamr-dev/streamr-docker-dev"
 
 [[repo]]
@@ -275,6 +315,9 @@ url = "https://github.com/streamr-dev/streamr-ethereum-watcher"
 
 [[repo]]
 url = "https://github.com/streamr-dev/streamr-exporter"
+
+[[repo]]
+url = "https://github.com/streamr-dev/streamr-filetransfer-cli"
 
 [[repo]]
 url = "https://github.com/streamr-dev/streamr-flink"
@@ -298,6 +341,9 @@ url = "https://github.com/streamr-dev/streamr-network-simulator-tools"
 url = "https://github.com/streamr-dev/streamr-nifi"
 
 [[repo]]
+url = "https://github.com/streamr-dev/streamr-snapshot-strategy"
+
+[[repo]]
 url = "https://github.com/streamr-dev/streamr-spark"
 
 [[repo]]
@@ -311,6 +357,10 @@ url = "https://github.com/streamr-dev/streamr-test-utils"
 
 [[repo]]
 url = "https://github.com/streamr-dev/streamr-tests"
+missing = true
+
+[[repo]]
+url = "https://github.com/streamr-dev/streamr-video-player"
 
 [[repo]]
 url = "https://github.com/streamr-dev/StreamrFS"
@@ -346,10 +396,25 @@ url = "https://github.com/streamr-dev/Unity_Datagathering_Demo"
 url = "https://github.com/streamr-dev/uws-js-unofficial"
 
 [[repo]]
+url = "https://github.com/streamr-dev/video-player-customized-case"
+
+[[repo]]
+url = "https://github.com/streamr-dev/weather-ai-example"
+
+[[repo]]
 url = "https://github.com/streamr-dev/web3j"
 
 [[repo]]
 url = "https://github.com/streamr-dev/Web3jTest"
+
+[[repo]]
+url = "https://github.com/streamr-dev/webcambroadcast"
+
+[[repo]]
+url = "https://github.com/streamr-dev/webcambroadcast-server"
+
+[[repo]]
+url = "https://github.com/streamr-dev/webcambroadcast-stable-demo"
 
 [[repo]]
 url = "https://github.com/streamr-dev/webcomponentsjs"

@@ -28,10 +28,21 @@ url = "https://github.com/deeper-chain/deeper-balances"
 url = "https://github.com/deeper-chain/deeper-chain"
 
 [[repo]]
+url = "https://github.com/deeper-chain/deeper-dev-upptime"
+
+[[repo]]
 url = "https://github.com/deeper-chain/deeper-machine"
+missing = true
+
+[[repo]]
+url = "https://github.com/deeper-chain/deeper-upptime"
 
 [[repo]]
 url = "https://github.com/deeper-chain/deeperchain-docs"
+
+[[repo]]
+url = "https://github.com/deeper-chain/deepergpt-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/deeper-chain/deeperscan"
@@ -40,13 +51,22 @@ url = "https://github.com/deeper-chain/deeperscan"
 url = "https://github.com/deeper-chain/deeperscan-nft"
 
 [[repo]]
+url = "https://github.com/deeper-chain/dep-docs"
+
+[[repo]]
 url = "https://github.com/deeper-chain/desub"
 
 [[repo]]
 url = "https://github.com/deeper-chain/DeveloperCommunity"
 
 [[repo]]
+url = "https://github.com/deeper-chain/dpr-halving-countdown"
+
+[[repo]]
 url = "https://github.com/deeper-chain/frontier"
+
+[[repo]]
+url = "https://github.com/deeper-chain/github-actions-v2"
 
 [[repo]]
 url = "https://github.com/deeper-chain/Grant-Milestone-Delivery"
@@ -56,6 +76,7 @@ url = "https://github.com/deeper-chain/Grants-Program"
 
 [[repo]]
 url = "https://github.com/deeper-chain/hd-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/deeper-chain/integration-tests"
@@ -74,6 +95,7 @@ url = "https://github.com/deeper-chain/polygonbridge"
 
 [[repo]]
 url = "https://github.com/deeper-chain/proxy-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/deeper-chain/py-scale-codec"
@@ -83,12 +105,14 @@ url = "https://github.com/deeper-chain/substrate-archive"
 
 [[repo]]
 url = "https://github.com/deeper-chain/tops-chain"
+missing = true
 
 [[repo]]
 url = "https://github.com/deeper-chain/txwrapper"
 
 [[repo]]
 url = "https://github.com/deeper-chain/wallet-core-interact"
+missing = true
 
 [[repo]]
 url = "https://github.com/deeper-chain/web3d"

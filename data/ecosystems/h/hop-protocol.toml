@@ -7,10 +7,14 @@ github_organizations = ["https://github.com/hop-protocol"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/hop-protocol/arbitrum-refund-merkle-rewards"
+
+[[repo]]
 url = "https://github.com/hop-protocol/contracts"
 
 [[repo]]
 url = "https://github.com/hop-protocol/contracts-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/hop-protocol/docs"
@@ -20,6 +24,9 @@ url = "https://github.com/hop-protocol/explorer"
 
 [[repo]]
 url = "https://github.com/hop-protocol/fee-refund"
+
+[[repo]]
+url = "https://github.com/hop-protocol/go-webhook-server"
 
 [[repo]]
 url = "https://github.com/hop-protocol/goerli-test-merkle-rewards-data"
@@ -35,6 +42,9 @@ url = "https://github.com/hop-protocol/hop-airdrop"
 
 [[repo]]
 url = "https://github.com/hop-protocol/hop-galaxy-op-subgraphs"
+
+[[repo]]
+url = "https://github.com/hop-protocol/hop-transaction-validation"
 
 [[repo]]
 url = "https://github.com/hop-protocol/lambda-bonder-transaction-validation"

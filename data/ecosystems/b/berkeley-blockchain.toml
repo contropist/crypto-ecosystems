@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/BerkeleyBlockchain"]
 url = "https://github.com/BerkeleyBlockchain/arbiter"
 
 [[repo]]
+url = "https://github.com/BerkeleyBlockchain/arbitrum-bypasser-frontend-fa23"
+
+[[repo]]
 url = "https://github.com/BerkeleyBlockchain/auction-platform"
 
 [[repo]]
@@ -17,6 +20,7 @@ url = "https://github.com/BerkeleyBlockchain/auction-platform-backend"
 
 [[repo]]
 url = "https://github.com/BerkeleyBlockchain/avalanche-passport-public"
+missing = true
 
 [[repo]]
 url = "https://github.com/BerkeleyBlockchain/babcoin-backend"
@@ -50,6 +54,7 @@ url = "https://github.com/BerkeleyBlockchain/dapper-labs-consulting"
 
 [[repo]]
 url = "https://github.com/BerkeleyBlockchain/dev-decal-fa22"
+missing = true
 
 [[repo]]
 url = "https://github.com/BerkeleyBlockchain/dev-decal-sp20"
@@ -76,13 +81,22 @@ url = "https://github.com/BerkeleyBlockchain/dfinity-dao-consulting"
 url = "https://github.com/BerkeleyBlockchain/dfinity-research"
 
 [[repo]]
+url = "https://github.com/BerkeleyBlockchain/fa23-dev-decal"
+
+[[repo]]
 url = "https://github.com/BerkeleyBlockchain/frontend-challenge"
 
 [[repo]]
 url = "https://github.com/BerkeleyBlockchain/greeter"
 
 [[repo]]
+url = "https://github.com/BerkeleyBlockchain/landing-page"
+
+[[repo]]
 url = "https://github.com/BerkeleyBlockchain/okcoin-consulting-sp21"
+
+[[repo]]
+url = "https://github.com/BerkeleyBlockchain/ponchik-rs"
 
 [[repo]]
 url = "https://github.com/BerkeleyBlockchain/satchel"

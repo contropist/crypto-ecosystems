@@ -13,6 +13,9 @@ url = "https://github.com/ConcaveFi/account-abstraction-starter"
 url = "https://github.com/ConcaveFi/assets"
 
 [[repo]]
+url = "https://github.com/ConcaveFi/balancer-math"
+
+[[repo]]
 url = "https://github.com/ConcaveFi/balpy"
 
 [[repo]]
@@ -35,18 +38,27 @@ url = "https://github.com/ConcaveFi/conduit"
 
 [[repo]]
 url = "https://github.com/ConcaveFi/Contrast"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConcaveFi/contrast-gitbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConcaveFi/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/oracle-actor-poc"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConcaveFi/pbr"
 
 [[repo]]
 url = "https://github.com/ConcaveFi/synthswap"
+
+[[repo]]
+url = "https://github.com/ConcaveFi/token-extensions"
 
 [[repo]]
 url = "https://github.com/ConcaveFi/txs"

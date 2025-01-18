@@ -16,6 +16,9 @@ url = "https://github.com/eluv-io/add_hdr_metadata"
 url = "https://github.com/eluv-io/add_mez_watermark"
 
 [[repo]]
+url = "https://github.com/eluv-io/afero"
+
+[[repo]]
 url = "https://github.com/eluv-io/apexlog-go"
 
 [[repo]]
@@ -40,6 +43,9 @@ url = "https://github.com/eluv-io/cbor"
 url = "https://github.com/eluv-io/circl-secp-hpke"
 
 [[repo]]
+url = "https://github.com/eluv-io/common-go"
+
+[[repo]]
 url = "https://github.com/eluv-io/composable-machine"
 
 [[repo]]
@@ -55,6 +61,15 @@ url = "https://github.com/eluv-io/contracts-evm-builds"
 url = "https://github.com/eluv-io/copy_offering"
 
 [[repo]]
+url = "https://github.com/eluv-io/docsy"
+
+[[repo]]
+url = "https://github.com/eluv-io/ecobra-go"
+
+[[repo]]
+url = "https://github.com/eluv-io/eluvio-androidtv-deeplinks-library"
+
+[[repo]]
 url = "https://github.com/eluv-io/elv-a-welcome"
 
 [[repo]]
@@ -62,6 +77,9 @@ url = "https://github.com/eluv-io/elv-abr-profile"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-admin-app"
+
+[[repo]]
+url = "https://github.com/eluv-io/elv-ai-search"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-algos"
@@ -85,6 +103,9 @@ url = "https://github.com/eluv-io/elv-client-js"
 url = "https://github.com/eluv-io/elv-client-proxy"
 
 [[repo]]
+url = "https://github.com/eluv-io/elv-client-py"
+
+[[repo]]
 url = "https://github.com/eluv-io/elv-clip-search"
 
 [[repo]]
@@ -92,6 +113,9 @@ url = "https://github.com/eluv-io/elv-components-js"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-core-js"
+
+[[repo]]
+url = "https://github.com/eluv-io/elv-creator-studio"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-dapp-content-management-sample"
@@ -109,6 +133,9 @@ url = "https://github.com/eluv-io/elv-docs"
 url = "https://github.com/eluv-io/elv-embed"
 
 [[repo]]
+url = "https://github.com/eluv-io/elv-embed-preview"
+
+[[repo]]
 url = "https://github.com/eluv-io/elv-encryption"
 
 [[repo]]
@@ -121,10 +148,16 @@ url = "https://github.com/eluv-io/elv-fabric-browser-app-template"
 url = "https://github.com/eluv-io/elv-fairplay-client-sample"
 
 [[repo]]
+url = "https://github.com/eluv-io/elv-headless-ingest"
+
+[[repo]]
 url = "https://github.com/eluv-io/elv-ingest"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-ingest-rb"
+
+[[repo]]
+url = "https://github.com/eluv-io/elv-ingest-sample"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-js-helpers"
@@ -137,9 +170,13 @@ url = "https://github.com/eluv-io/elv-live-js"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-live-manager"
+missing = true
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-live-react-native"
+
+[[repo]]
+url = "https://github.com/eluv-io/elv-live-stream"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-lro-status"
@@ -157,10 +194,19 @@ url = "https://github.com/eluv-io/elv-ml-challenge"
 url = "https://github.com/eluv-io/elv-music-app"
 
 [[repo]]
+url = "https://github.com/eluv-io/elv-o"
+
+[[repo]]
 url = "https://github.com/eluv-io/elv-player-js"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-ramdoc"
+
+[[repo]]
+url = "https://github.com/eluv-io/elv-sample-custom-app-purchase"
+
+[[repo]]
+url = "https://github.com/eluv-io/elv-sample-dotnet"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-search"
@@ -196,16 +242,28 @@ url = "https://github.com/eluv-io/elv-utils-js"
 url = "https://github.com/eluv-io/elv-video-editor"
 
 [[repo]]
+url = "https://github.com/eluv-io/elv-wallet-android"
+missing = true
+
+[[repo]]
 url = "https://github.com/eluv-io/elv-wallet-client-demo"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-wallet-ios"
 
 [[repo]]
+url = "https://github.com/eluv-io/elv-wallet-kmp"
+missing = true
+
+[[repo]]
 url = "https://github.com/eluv-io/elv-wasm"
 
 [[repo]]
 url = "https://github.com/eluv-io/elv-wasm-docs"
+
+[[repo]]
+url = "https://github.com/eluv-io/elv.NET"
+missing = true
 
 [[repo]]
 url = "https://github.com/eluv-io/elv_wasm"
@@ -226,7 +284,13 @@ url = "https://github.com/eluv-io/generator-elv-wasm"
 url = "https://github.com/eluv-io/generator-elv_wasm"
 
 [[repo]]
+url = "https://github.com/eluv-io/gls"
+
+[[repo]]
 url = "https://github.com/eluv-io/go-ftx"
+
+[[repo]]
+url = "https://github.com/eluv-io/go-noto-universal"
 
 [[repo]]
 url = "https://github.com/eluv-io/gorqlite"
@@ -259,6 +323,18 @@ url = "https://github.com/eluv-io/ksm"
 url = "https://github.com/eluv-io/log-go"
 
 [[repo]]
+url = "https://github.com/eluv-io/manifest"
+
+[[repo]]
+url = "https://github.com/eluv-io/mediamtx"
+
+[[repo]]
+url = "https://github.com/eluv-io/ml-services-docs"
+
+[[repo]]
+url = "https://github.com/eluv-io/netint-logan-libxcoder"
+
+[[repo]]
 url = "https://github.com/eluv-io/ObjectModel"
 
 [[repo]]
@@ -266,6 +342,10 @@ url = "https://github.com/eluv-io/offmark-py"
 
 [[repo]]
 url = "https://github.com/eluv-io/openapi-runtime-go"
+missing = true
+
+[[repo]]
+url = "https://github.com/eluv-io/probe-to-liveconf"
 
 [[repo]]
 url = "https://github.com/eluv-io/programming-challenges"
@@ -283,6 +363,9 @@ url = "https://github.com/eluv-io/react-native-randombytes"
 url = "https://github.com/eluv-io/react-native-sjcl"
 
 [[repo]]
+url = "https://github.com/eluv-io/redeemable-fulfillment-sample"
+
+[[repo]]
 url = "https://github.com/eluv-io/rqlite"
 
 [[repo]]
@@ -298,7 +381,19 @@ url = "https://github.com/eluv-io/rust-hpke-secp"
 url = "https://github.com/eluv-io/Samples"
 
 [[repo]]
+url = "https://github.com/eluv-io/scheduler-go"
+
+[[repo]]
+url = "https://github.com/eluv-io/scte35-go"
+
+[[repo]]
+url = "https://github.com/eluv-io/sql"
+
+[[repo]]
 url = "https://github.com/eluv-io/stack"
+
+[[repo]]
+url = "https://github.com/eluv-io/structura.js"
 
 [[repo]]
 url = "https://github.com/eluv-io/sxsw2020"
@@ -310,10 +405,14 @@ url = "https://github.com/eluv-io/tantivy-jpc"
 url = "https://github.com/eluv-io/tantivy_jpc"
 
 [[repo]]
+url = "https://github.com/eluv-io/tvos-deeplink-samples"
+
+[[repo]]
 url = "https://github.com/eluv-io/utc-go"
 
 [[repo]]
 url = "https://github.com/eluv-io/video-watermarking"
+missing = true
 
 [[repo]]
 url = "https://github.com/eluv-io/wapc-go"

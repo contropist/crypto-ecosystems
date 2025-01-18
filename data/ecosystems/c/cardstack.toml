@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/cardstack"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/cardstack/action-setup-tfswitch"
+
+[[repo]]
 url = "https://github.com/cardstack/boxel"
 
 [[repo]]
@@ -16,6 +19,9 @@ url = "https://github.com/cardstack/boxel-archive-2021"
 url = "https://github.com/cardstack/boxel-motion"
 
 [[repo]]
+url = "https://github.com/cardstack/boxel-vscode-extension"
+
+[[repo]]
 url = "https://github.com/cardstack/card-catalog"
 
 [[repo]]
@@ -23,6 +29,9 @@ url = "https://github.com/cardstack/card-commerce-protocol"
 
 [[repo]]
 url = "https://github.com/cardstack/card-erc20-mock"
+
+[[repo]]
+url = "https://github.com/cardstack/card-maker-onboarding"
 
 [[repo]]
 url = "https://github.com/cardstack/card-pay-protocol"
@@ -82,6 +91,9 @@ url = "https://github.com/cardstack/docker-chrome"
 url = "https://github.com/cardstack/ember-cli-deploy-cardstack-eb"
 
 [[repo]]
+url = "https://github.com/cardstack/ember-cli-deploy-compress"
+
+[[repo]]
 url = "https://github.com/cardstack/ember-data-fastboot"
 
 [[repo]]
@@ -106,6 +118,9 @@ url = "https://github.com/cardstack/ethereum-test-network"
 url = "https://github.com/cardstack/etherwallet"
 
 [[repo]]
+url = "https://github.com/cardstack/gh-actions"
+
+[[repo]]
 url = "https://github.com/cardstack/gitchain"
 
 [[repo]]
@@ -113,6 +128,9 @@ url = "https://github.com/cardstack/githereum"
 
 [[repo]]
 url = "https://github.com/cardstack/glimmer-scoped-css"
+
+[[repo]]
+url = "https://github.com/cardstack/glint"
 
 [[repo]]
 url = "https://github.com/cardstack/guidemaker-cardstack-template"
@@ -136,6 +154,9 @@ url = "https://github.com/cardstack/merklelib"
 url = "https://github.com/cardstack/MyCrypto"
 
 [[repo]]
+url = "https://github.com/cardstack/nft-membership"
+
+[[repo]]
 url = "https://github.com/cardstack/nft-membership-nyu"
 
 [[repo]]
@@ -143,6 +164,9 @@ url = "https://github.com/cardstack/nyu-carbon"
 
 [[repo]]
 url = "https://github.com/cardstack/portfolio"
+
+[[repo]]
+url = "https://github.com/cardstack/prettier"
 
 [[repo]]
 url = "https://github.com/cardstack/project-template"
@@ -188,6 +212,9 @@ url = "https://github.com/cardstack/stupendous-rentals"
 
 [[repo]]
 url = "https://github.com/cardstack/subgraph-extractor"
+
+[[repo]]
+url = "https://github.com/cardstack/synapse"
 
 [[repo]]
 url = "https://github.com/cardstack/takeoff"

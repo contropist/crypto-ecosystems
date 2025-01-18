@@ -8,12 +8,14 @@ github_organizations = ["https://github.com/DeversiFi"]
 # Repositories
 [[repo]]
 url = "https://github.com/DeversiFi/copper-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/DeversiFi/dvf-has-moved"
 
 [[repo]]
 url = "https://github.com/DeversiFi/nec-dao-scripts"
+missing = true
 
 [[repo]]
 url = "https://github.com/nec-community/community-gateway"
@@ -26,6 +28,7 @@ url = "https://github.com/nec-community/necDAO-assets"
 
 [[repo]]
 url = "https://github.com/rhinofi/aave-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/rhinofi/ampleforth-wrapper"
@@ -41,9 +44,6 @@ url = "https://github.com/rhinofi/berry"
 
 [[repo]]
 url = "https://github.com/rhinofi/bitfinex-api-node"
-
-[[repo]]
-url = "https://github.com/rhinofi/client-js"
 
 [[repo]]
 url = "https://github.com/rhinofi/cmake-js"

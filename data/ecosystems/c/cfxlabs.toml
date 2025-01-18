@@ -7,7 +7,13 @@ github_organizations = ["https://github.com/CFXLabsInc"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/CFXLabsInc/cfx-pipedream-movemoney"
+missing = true
+
+[[repo]]
 url = "https://github.com/CFXLabsInc/cfx-solana-contexts"
+missing = true
 
 [[repo]]
 url = "https://github.com/CFXLabsInc/Fib"
+missing = true

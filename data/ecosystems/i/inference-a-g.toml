@@ -10,13 +10,23 @@ github_organizations = ["https://github.com/InferenceAG"]
 url = "https://github.com/InferenceAG/misc"
 
 [[repo]]
+url = "https://github.com/InferenceAG/netdata-plugins"
+
+[[repo]]
 url = "https://github.com/InferenceAG/ReportPublications"
 
 [[repo]]
 url = "https://github.com/InferenceAG/TezosCodeOptimization"
+missing = true
+
+[[repo]]
+url = "https://github.com/InferenceAG/TezosFA1.2ContractChecker"
 
 [[repo]]
 url = "https://github.com/InferenceAG/TezosFAContractChecker"
+
+[[repo]]
+url = "https://github.com/InferenceAG/TezosQA"
 
 [[repo]]
 url = "https://github.com/InferenceAG/TezosSecurityAssessmentChecklist"

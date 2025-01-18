@@ -35,3 +35,16 @@ url = "https://github.com/boltcard/boltcard-wallet"
 
 [[repo]]
 url = "https://github.com/boltcard/boltcard-wallet-app"
+
+[[repo]]
+url = "https://github.com/boltcard/boltcard.org"
+
+[[repo]]
+url = "https://github.com/boltcard/boltcardwallet-umbrel-community-app-store"
+
+[[repo]]
+url = "https://github.com/boltcard/hub"
+
+[[repo]]
+url = "https://github.com/boltcard/umbrel-apps"
+missing = true

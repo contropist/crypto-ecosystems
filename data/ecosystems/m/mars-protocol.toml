@@ -28,6 +28,12 @@ url = "https://github.com/mars-protocol/chain-registry"
 url = "https://github.com/mars-protocol/changelog"
 
 [[repo]]
+url = "https://github.com/mars-protocol/contracts"
+
+[[repo]]
+url = "https://github.com/mars-protocol/core-contracts"
+
+[[repo]]
 url = "https://github.com/mars-protocol/cosmodal"
 
 [[repo]]
@@ -43,13 +49,28 @@ url = "https://github.com/mars-protocol/cw-coins"
 url = "https://github.com/mars-protocol/cw-plus"
 
 [[repo]]
+url = "https://github.com/mars-protocol/cw-plus-plus"
+
+[[repo]]
+url = "https://github.com/mars-protocol/defi-llama-yield-server"
+
+[[repo]]
 url = "https://github.com/mars-protocol/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/mars-protocol/dimension-adapters"
 
 [[repo]]
 url = "https://github.com/mars-protocol/docs"
 
 [[repo]]
 url = "https://github.com/mars-protocol/faucet"
+
+[[repo]]
+url = "https://github.com/mars-protocol/frontend-config"
+
+[[repo]]
+url = "https://github.com/mars-protocol/hive-graph"
 
 [[repo]]
 url = "https://github.com/mars-protocol/hub"
@@ -82,13 +103,22 @@ url = "https://github.com/mars-protocol/mars-classic-snapshot"
 url = "https://github.com/mars-protocol/mars-common"
 
 [[repo]]
+url = "https://github.com/mars-protocol/mars-leaderboard-fe"
+
+[[repo]]
 url = "https://github.com/mars-protocol/mars-legal-docs"
 
 [[repo]]
 url = "https://github.com/mars-protocol/mars-mocks"
 
 [[repo]]
+url = "https://github.com/mars-protocol/mars-rd-fe"
+
+[[repo]]
 url = "https://github.com/mars-protocol/mars-under-construction"
+
+[[repo]]
+url = "https://github.com/mars-protocol/mars-v2-frontend"
 
 [[repo]]
 url = "https://github.com/mars-protocol/mips"
@@ -116,12 +146,28 @@ url = "https://github.com/mars-protocol/red-bank"
 
 [[repo]]
 url = "https://github.com/mars-protocol/red-bank-NMO"
+missing = true
+
+[[repo]]
+url = "https://github.com/mars-protocol/redbank-incentives-calculation"
+
+[[repo]]
+url = "https://github.com/mars-protocol/rover"
+
+[[repo]]
+url = "https://github.com/mars-protocol/scripts"
 
 [[repo]]
 url = "https://github.com/mars-protocol/slips"
 
 [[repo]]
+url = "https://github.com/mars-protocol/test-tube"
+
+[[repo]]
 url = "https://github.com/mars-protocol/translations"
+
+[[repo]]
+url = "https://github.com/mars-protocol/tvl"
 
 [[repo]]
 url = "https://github.com/mars-protocol/v1-core"

@@ -3,7 +3,7 @@ title = "ELTCOIN"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ELTCOIN"]
+github_organizations = ["https://github.com/eltcoin"]
 
 # Repositories
 [[repo]]
@@ -41,9 +41,11 @@ url = "https://github.com/eltcoin/projects"
 
 [[repo]]
 url = "https://github.com/ELTCOIN/sale_website"
+missing = true
 
 [[repo]]
 url = "https://github.com/ELTCOIN/smart_contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/ELTCOIN/website"

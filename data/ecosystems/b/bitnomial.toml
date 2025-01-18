@@ -34,7 +34,13 @@ url = "https://github.com/bitnomial/bloodhound"
 url = "https://github.com/bitnomial/cache"
 
 [[repo]]
+url = "https://github.com/bitnomial/cassava-streams"
+
+[[repo]]
 url = "https://github.com/bitnomial/checkout"
+
+[[repo]]
+url = "https://github.com/bitnomial/cqg-api-client"
 
 [[repo]]
 url = "https://github.com/bitnomial/fourmolu-action"
@@ -70,10 +76,16 @@ url = "https://github.com/bitnomial/ledgerjs"
 url = "https://github.com/bitnomial/linux-inotify"
 
 [[repo]]
+url = "https://github.com/bitnomial/logger"
+
+[[repo]]
 url = "https://github.com/bitnomial/network-bitcoin"
 
 [[repo]]
 url = "https://github.com/bitnomial/opaleye-trans"
+
+[[repo]]
+url = "https://github.com/bitnomial/pandoc"
 
 [[repo]]
 url = "https://github.com/bitnomial/pg-transact-cluster"
@@ -83,6 +95,9 @@ url = "https://github.com/bitnomial/prometheus"
 
 [[repo]]
 url = "https://github.com/bitnomial/prometheus-wai-middleware"
+
+[[repo]]
+url = "https://github.com/bitnomial/python-btnl-client"
 
 [[repo]]
 url = "https://github.com/bitnomial/seqid"
@@ -107,6 +122,9 @@ url = "https://github.com/bitnomial/stack-cache-action"
 
 [[repo]]
 url = "https://github.com/bitnomial/tardis-node"
+
+[[repo]]
+url = "https://github.com/bitnomial/terraform-provider-nomad-fork"
 
 [[repo]]
 url = "https://github.com/bitnomial/unagi-streams"

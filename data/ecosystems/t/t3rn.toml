@@ -11,6 +11,7 @@ url = "https://github.com/t3rn/.github"
 
 [[repo]]
 url = "https://github.com/t3rn/3vm"
+missing = true
 
 [[repo]]
 url = "https://github.com/t3rn/archives"
@@ -19,10 +20,19 @@ url = "https://github.com/t3rn/archives"
 url = "https://github.com/t3rn/cargo-contract"
 
 [[repo]]
+url = "https://github.com/t3rn/eth2-collusion-calculation"
+
+[[repo]]
+url = "https://github.com/t3rn/eth2-proof"
+
+[[repo]]
 url = "https://github.com/t3rn/evm"
 
 [[repo]]
 url = "https://github.com/t3rn/evm-rmrk"
+
+[[repo]]
+url = "https://github.com/t3rn/executor-release"
 
 [[repo]]
 url = "https://github.com/t3rn/faucet"
@@ -61,19 +71,32 @@ url = "https://github.com/t3rn/node-tiny"
 url = "https://github.com/t3rn/open-runtime-module-library"
 
 [[repo]]
+url = "https://github.com/t3rn/openzeppelin-upgrades"
+
+[[repo]]
 url = "https://github.com/t3rn/parity-bridges-common"
 
 [[repo]]
 url = "https://github.com/t3rn/polkadot"
 
 [[repo]]
+url = "https://github.com/t3rn/polkadot-js-apps"
+
+[[repo]]
+url = "https://github.com/t3rn/polkadot-sdk"
+
+[[repo]]
 url = "https://github.com/t3rn/polkascan-explorer"
+
+[[repo]]
+url = "https://github.com/t3rn/pricer"
 
 [[repo]]
 url = "https://github.com/t3rn/PSPs"
 
 [[repo]]
 url = "https://github.com/t3rn/sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/t3rn/semantic-version"
@@ -97,10 +120,19 @@ url = "https://github.com/t3rn/substrate-subxt"
 url = "https://github.com/t3rn/t3rn"
 
 [[repo]]
+url = "https://github.com/t3rn/t3rn-ci"
+missing = true
+
+[[repo]]
 url = "https://github.com/t3rn/t3rn-ci-playground"
+missing = true
 
 [[repo]]
 url = "https://github.com/t3rn/t3rn-squid"
+missing = true
 
 [[repo]]
 url = "https://github.com/t3rn/xbi"
+
+[[repo]]
+url = "https://github.com/t3rn/xcm-simulator"

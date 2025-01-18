@@ -19,6 +19,9 @@ url = "https://github.com/Khalifa-Blockchain/liquid"
 url = "https://github.com/Setheum-Labs/.github"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/acala-orml-open-web3.js"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/actix-web"
 
 [[repo]]
@@ -31,13 +34,43 @@ url = "https://github.com/Setheum-Labs/AlephBFT"
 url = "https://github.com/Setheum-Labs/alertmanager"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/algebra-intro"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ark-algebra"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ark-curves"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/arrow-ballista"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/arrow-datafusion"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/arrow-rs"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/as-substrate"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/atom"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/awesome-decentralized-database"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/awesome-ink"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/awesome-ipfs"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/awesome-zama"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/axiom-snark-verifier"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/base-services-charts"
@@ -50,6 +83,21 @@ url = "https://github.com/Setheum-Labs/bench-bot"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/bigint"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/binserve"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/blaze"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/blitzar"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/blitzar-rs"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/blobscan-indexer.rs"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/bls"
@@ -79,6 +127,12 @@ url = "https://github.com/Setheum-Labs/cargo-contract"
 url = "https://github.com/Setheum-Labs/cargo-unleash"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/ccip-read"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/cfnts"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/ChainBridge"
 
 [[repo]]
@@ -98,6 +152,9 @@ url = "https://github.com/Setheum-Labs/chainlink-polkadot"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/chainspec-generator"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/chopsticks"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/cla-bot-test"
@@ -136,16 +193,43 @@ url = "https://github.com/Setheum-Labs/cumulus"
 url = "https://github.com/Setheum-Labs/Dagestan"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/DefinitelyTyped"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/delta-rs"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/desub"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/DEX"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/did-core"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/dns.js.org"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/docker-ink-dev"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/docknetwork-crypto"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/docusaurus"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/dotexporter"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/ECDP"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/elastic-array"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/esdoc"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/esdoc-plugins"
@@ -160,10 +244,25 @@ url = "https://github.com/Setheum-Labs/ethereum-tracker"
 url = "https://github.com/Setheum-Labs/ethers.js"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/ethical-defi-wiki"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/EthicalDeFi"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ethicaldefi-wiki"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/ethnode"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/evm"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ezkl"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/fast-danksharding"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/faucet-bot"
@@ -178,16 +277,46 @@ url = "https://github.com/Setheum-Labs/fdlimit"
 url = "https://github.com/Setheum-Labs/fetch-price-archived"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/file-manager"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/flutter_rust_bridge"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/freqtrade"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/frontier"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/frost"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/frost-dalek"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/ghost-preview"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/github-actions"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/github-actions-runners-exporter"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/github-actions-validator"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/github-org-member-list"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/Github-Release-Action"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/gnark"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/governor"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/grandpa-bridge-gadget"
@@ -197,6 +326,12 @@ url = "https://github.com/Setheum-Labs/Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/graph-node"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/groth16"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/halo2"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/hashmap_core"
@@ -211,7 +346,19 @@ url = "https://github.com/Setheum-Labs/helm"
 url = "https://github.com/Setheum-Labs/helm-ts"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/hermes"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/how-not-to-build-a-pallet"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/how-not-to-build-a-pallet-guidelines"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ibc-rs"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/icicle"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/incubator-teaclave-sgx-sdk"
@@ -220,10 +367,25 @@ url = "https://github.com/Setheum-Labs/incubator-teaclave-sgx-sdk"
 url = "https://github.com/Setheum-Labs/incubator-teaclave-trustzone-sdk"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/index-contract"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ingonyama-zk-papers"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ingopedia"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/injection-tool"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/ink"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ink-analyzer"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ink-contracts-bulletin-board-example"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/ink-playground"
@@ -232,7 +394,22 @@ url = "https://github.com/Setheum-Labs/ink-playground"
 url = "https://github.com/Setheum-Labs/ink-types-node-runtime"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/ink-vscode"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ink-wrapper"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ink-xvm-sdk"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/inkathon"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/ip-watch"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/ipfs-webui"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/isogenies_vdf_uses"
@@ -241,7 +418,16 @@ url = "https://github.com/Setheum-Labs/isogenies_vdf_uses"
 url = "https://github.com/Setheum-Labs/issue-label-manager-action"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/jellyfish"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/jemalloc"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/jeti"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/js-ipfs-unixfs"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/js-libp2p-crypto"
@@ -257,6 +443,9 @@ url = "https://github.com/Setheum-Labs/jsonrpsee"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/laminar-chain"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/lattice-estimator"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/launchpad-crowdsales"
@@ -283,6 +472,9 @@ url = "https://github.com/Setheum-Labs/libudev-rs"
 url = "https://github.com/Setheum-Labs/libusb-sys"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/liquid"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/lookup-service"
 
 [[repo]]
@@ -293,6 +485,9 @@ url = "https://github.com/Setheum-Labs/lookup-test-tools"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/mangata-bridge"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/markedjs"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/matrix-recorder-chart"
@@ -316,10 +511,16 @@ url = "https://github.com/Setheum-Labs/mooc-exercises"
 url = "https://github.com/Setheum-Labs/msquic"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/multi-party-ecdsa"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/multichain"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/MultiSigil"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/Multix"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/network-policy-chart"
@@ -343,7 +544,13 @@ url = "https://github.com/Setheum-Labs/Nomidot"
 url = "https://github.com/Setheum-Labs/NPoS-Economics"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/obce"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/offences-monitor"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/okaywal"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/oo7"
@@ -356,15 +563,25 @@ url = "https://github.com/Setheum-Labs/open-ren-bridge-ui"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/open-runtime-module-library"
+missing = true
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/openbrush-contracts"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/openethereum"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/openpgpjs"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/openzeppelin-contracts"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/OpenZKP"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/openzl"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/pallet-contracts-waterfall"
@@ -397,16 +614,34 @@ url = "https://github.com/Setheum-Labs/parity-wasm"
 url = "https://github.com/Setheum-Labs/parity-zcash"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/patron-backend"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/patron-frontend"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/payments"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/peer-verifier"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/perpetualpowersoftau"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/phase2-bn254"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/phishing"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/platform"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/playwright"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/plonky2"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/polkadot-1"
@@ -424,6 +659,9 @@ url = "https://github.com/Setheum-Labs/polkadot-dashboard"
 url = "https://github.com/Setheum-Labs/polkadot-deployer-ci"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/polkadot-js-docs"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/polkadot-lab"
 
 [[repo]]
@@ -437,6 +675,15 @@ url = "https://github.com/Setheum-Labs/polkadot-lab-types-ts"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/polkadot-launch"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/polkadot-registrar-challenger"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/polkadot-runtimes"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/polkadot-sdk"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/polkadot-spec"
@@ -454,6 +701,15 @@ url = "https://github.com/Setheum-Labs/polkascan-explorer-gui-docker"
 url = "https://github.com/Setheum-Labs/polkascan-os"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/poseidon-hash"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/poseidon377"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/powersoftau"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/predeploy-contracts"
 
 [[repo]]
@@ -466,10 +722,28 @@ url = "https://github.com/Setheum-Labs/proc-macro-crate"
 url = "https://github.com/Setheum-Labs/prometheus-api-client-ts"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/PSP22"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/psp22-example"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/PSPs"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/Publish-Docker-Github-Action"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/quinn"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/r1cs-std"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/r1cs-tutorial"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/rayon"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/React-Native-ECEncryption"
@@ -490,16 +764,28 @@ url = "https://github.com/Setheum-Labs/reed-solomon-erasure"
 url = "https://github.com/Setheum-Labs/reverse-proxy-chart"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/revm"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/rhododendron"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/ring-vrf"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/rsa-challenge-with-halo2"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/runtime-review-guidelines"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/rusqlite"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/rust-decimal"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/rust-ipfs"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/rust-libp2p"
@@ -580,16 +866,32 @@ url = "https://github.com/Setheum-Labs/setheum-archived"
 url = "https://github.com/Setheum-Labs/setheum-commons"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/setheum-console"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/Setheum-Dinar-Contract"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/setheum-docs"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/setheum-js-docs"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/setheum-js-oracle-dispatcher"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/setheum-js-servers"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/setheum-js-utils"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/Setheum-Labs-White-Papers"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/setheum-labs.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/Setheum-OGP"
@@ -598,7 +900,17 @@ url = "https://github.com/Setheum-Labs/Setheum-OGP"
 url = "https://github.com/Setheum-Labs/setheum-oracle-dispatcher"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/setheum-signer"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/setheum-utils"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/setheum-wiki"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/setheum-xyz"
+missing = true
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/setheum.js"
@@ -640,6 +952,9 @@ url = "https://github.com/Setheum-Labs/settpay-ui-poc"
 url = "https://github.com/Setheum-Labs/settpay.js"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/sha2-on-cq"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/shared-deployment-scripts"
 
 [[repo]]
@@ -650,6 +965,10 @@ url = "https://github.com/Setheum-Labs/Sial"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/SIOTEE"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/slickpay"
+missing = true
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/slog-async"
@@ -664,13 +983,25 @@ url = "https://github.com/Setheum-Labs/snowbridge"
 url = "https://github.com/Setheum-Labs/soketto"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/sol2ink"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/solang"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/solidity-template"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/sp1-reth"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/specs"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/sqlite"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/sqlite-loadable-rs"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/sr25519-crust"
@@ -680,6 +1011,9 @@ url = "https://github.com/Setheum-Labs/ssc"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/SSPs"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/staking-dashboard"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/stateless-blockchain"
@@ -695,9 +1029,11 @@ url = "https://github.com/Setheum-Labs/stp258-currencies"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/stp258-standard"
+missing = true
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/stp258-tokens"
+missing = true
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/subchain-node-template"
@@ -710,6 +1046,9 @@ url = "https://github.com/Setheum-Labs/subport"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/subql"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/substra-hooks"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/substrate"
@@ -751,6 +1090,9 @@ url = "https://github.com/Setheum-Labs/substrate-debug-kit"
 url = "https://github.com/Setheum-Labs/substrate-deps"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/substrate-etl"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/substrate-exchange"
 
 [[repo]]
@@ -769,6 +1111,12 @@ url = "https://github.com/Setheum-Labs/substrate-lfs"
 url = "https://github.com/Setheum-Labs/substrate-light-ui"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/substrate-matrix-faucet"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/substrate-migrations-guidelines"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/substrate-parachain-template"
 
 [[repo]]
@@ -781,10 +1129,28 @@ url = "https://github.com/Setheum-Labs/substrate-telemetry-chart"
 url = "https://github.com/Setheum-Labs/substrate-up"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/subway"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/subxtxt"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/succinct"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/sumcheck"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/swanky-node"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/sygma-relayer"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/sygma-sdk"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/sygma-substrate-pallets"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/teleport-role"
@@ -817,10 +1183,43 @@ url = "https://github.com/Setheum-Labs/terratest-polkadot-deployer"
 url = "https://github.com/Setheum-Labs/testnet-manager"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/tfhe-rs"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/threshold-ecdsa"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/traffic-maker"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/trie"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/ts"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/typechain-polkadot"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/unicorn"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/uniswap-rs"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/uniswap-sdk-core-rust"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/uniswap-token-lists"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/uniswap-v3-automation-sdk"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/uniswap-v3-math"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/uniswap-v3-sdk-rs"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/unsigned-varint"
@@ -838,7 +1237,16 @@ url = "https://github.com/Setheum-Labs/vscode-substrate"
 url = "https://github.com/Setheum-Labs/walletconnect-docs"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/warpshell"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/wasm"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/wasm-bencher"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/wasm-contracts-indexer"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/wasm-utils"
@@ -854,6 +1262,9 @@ url = "https://github.com/Setheum-Labs/web3-assets-chart"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/wiki"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/workers-rs"
 
 [[repo]]
 url = "https://github.com/Setheum-Labs/ws-rs"
@@ -874,7 +1285,34 @@ url = "https://github.com/Setheum-Labs/xcm-format"
 url = "https://github.com/Setheum-Labs/yamux"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/zeth"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/zexe"
 
 [[repo]]
+url = "https://github.com/Setheum-Labs/zkevm-aggregator"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/zkevm-circuits"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/zkevm-contracts"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/zkevm-node"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/zkevm-prover"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/zkevm-synchronizer-l1"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/zkValidium-quickstart"
+
+[[repo]]
 url = "https://github.com/Setheum-Labs/zombienet"
+
+[[repo]]
+url = "https://github.com/Setheum-Labs/zombienet-sdk"

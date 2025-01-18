@@ -22,6 +22,9 @@ url = "https://github.com/BigWhaleLabs/backend-starter"
 url = "https://github.com/BigWhaleLabs/backend-utils"
 
 [[repo]]
+url = "https://github.com/BigWhaleLabs/battle-dot-fun-contracts"
+
+[[repo]]
 url = "https://github.com/BigWhaleLabs/bigwhalelabs"
 
 [[repo]]
@@ -35,6 +38,9 @@ url = "https://github.com/BigWhaleLabs/bwl-eslint-backend"
 
 [[repo]]
 url = "https://github.com/BigWhaleLabs/bwl-eslint-config"
+
+[[repo]]
+url = "https://github.com/BigWhaleLabs/bwl-ipfs-cluster"
 
 [[repo]]
 url = "https://github.com/BigWhaleLabs/bwl-metadata-bridge-contract"
@@ -88,6 +94,13 @@ url = "https://github.com/BigWhaleLabs/frontend-starter"
 url = "https://github.com/BigWhaleLabs/frontend-utils"
 
 [[repo]]
+url = "https://github.com/BigWhaleLabs/gql-backend-starter"
+
+[[repo]]
+url = "https://github.com/BigWhaleLabs/graphql-backend-starter"
+missing = true
+
+[[repo]]
 url = "https://github.com/BigWhaleLabs/ketl-ai-rewrite"
 
 [[repo]]
@@ -100,13 +113,32 @@ url = "https://github.com/BigWhaleLabs/ketl-attestation-token"
 url = "https://github.com/BigWhaleLabs/ketl-attestation-verifier"
 
 [[repo]]
+url = "https://github.com/BigWhaleLabs/ketl-email"
+
+[[repo]]
 url = "https://github.com/BigWhaleLabs/ketl-landing"
 
 [[repo]]
 url = "https://github.com/BigWhaleLabs/ketl-notifications-backend"
 
 [[repo]]
+url = "https://github.com/BigWhaleLabs/ketl-pfp-generator"
+
+[[repo]]
 url = "https://github.com/BigWhaleLabs/ketl-zk-frontend"
+
+[[repo]]
+url = "https://github.com/BigWhaleLabs/link-preview"
+
+[[repo]]
+url = "https://github.com/BigWhaleLabs/lunchbreak-images"
+missing = true
+
+[[repo]]
+url = "https://github.com/BigWhaleLabs/lunchbreak-metadata"
+
+[[repo]]
+url = "https://github.com/BigWhaleLabs/lunchbreak-seats-contract"
 
 [[repo]]
 url = "https://github.com/BigWhaleLabs/metadata"
@@ -181,10 +213,17 @@ url = "https://github.com/BigWhaleLabs/seal-hub-frontend"
 url = "https://github.com/BigWhaleLabs/seal-hub-kit"
 
 [[repo]]
+url = "https://github.com/BigWhaleLabs/seal-hub-memorabilia-token"
+
+[[repo]]
+url = "https://github.com/BigWhaleLabs/seal-hub-memorabilia-token-contracts"
+
+[[repo]]
 url = "https://github.com/BigWhaleLabs/seal-hub-prover"
 
 [[repo]]
 url = "https://github.com/BigWhaleLabs/seal-hub-solidity-example"
+missing = true
 
 [[repo]]
 url = "https://github.com/BigWhaleLabs/seal-hub-verifier-template"

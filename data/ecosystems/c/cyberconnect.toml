@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/cyberconnecthq"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/cyberconnecthq/aa-sdk"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/abstract"
+
+[[repo]]
 url = "https://github.com/cyberconnecthq/cc-badge-app"
 
 [[repo]]
@@ -29,6 +35,7 @@ url = "https://github.com/cyberconnecthq/cc-xmtp-chatapp"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/cmd-tool"
+missing = true
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/connect-jssdk-v2-demo"
@@ -38,6 +45,50 @@ url = "https://github.com/cyberconnecthq/connect-verify-node"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/contracts"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-account"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-account-demo"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-account-plugins"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-account-sdk-demo"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-account-sign-message"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-ai-base"
+missing = true
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-app-demo"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-app-sdk"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-auth"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-demos"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-docs"
+missing = true
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-dune-rn"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyber-token-bridges"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/Cyber_ID_Parser_Snap"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/cyberconnect-arweave"
@@ -74,6 +125,10 @@ url = "https://github.com/cyberconnecthq/cybercontracts"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/CyberGraph"
+missing = true
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/cyberid"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/cyberprofile"
@@ -97,6 +152,9 @@ url = "https://github.com/cyberconnecthq/ethereum-etl"
 url = "https://github.com/cyberconnecthq/explorer-and-cyberconnected-dapps"
 
 [[repo]]
+url = "https://github.com/cyberconnecthq/farcaster-frame-v1"
+
+[[repo]]
 url = "https://github.com/cyberconnecthq/follow-button"
 
 [[repo]]
@@ -106,13 +164,20 @@ url = "https://github.com/cyberconnecthq/Gitcoin-Hackathon"
 url = "https://github.com/cyberconnecthq/goar"
 
 [[repo]]
+url = "https://github.com/cyberconnecthq/golines"
+
+[[repo]]
 url = "https://github.com/cyberconnecthq/gorm"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/GraphVis"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/js-ceramic"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/js-cyberconnect"
+missing = true
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/lfg"
@@ -124,10 +189,16 @@ url = "https://github.com/cyberconnecthq/litHackasonDemo"
 url = "https://github.com/cyberconnecthq/Maskbook"
 
 [[repo]]
+url = "https://github.com/cyberconnecthq/metamask-contract-metadata"
+
+[[repo]]
 url = "https://github.com/cyberconnecthq/metaplex"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/og-image"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/passport"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/profile-subgraph"
@@ -143,6 +214,12 @@ url = "https://github.com/cyberconnecthq/rn-cyberconnect"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/scaffold-eth-examples"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/SmolV2"
+
+[[repo]]
+url = "https://github.com/cyberconnecthq/snapshot-sidekick"
 
 [[repo]]
 url = "https://github.com/cyberconnecthq/social-verifier"

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/HausDAO"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/HausDAO/.github"
+
+[[repo]]
 url = "https://github.com/HausDAO/Baal"
 
 [[repo]]
@@ -16,7 +19,19 @@ url = "https://github.com/HausDAO/baal-docs"
 url = "https://github.com/HausDAO/baal-shamans"
 
 [[repo]]
+url = "https://github.com/HausDAO/baal-tokens"
+
+[[repo]]
+url = "https://github.com/HausDAO/baal-tokens-old"
+
+[[repo]]
+url = "https://github.com/HausDAO/baal-v3.5"
+
+[[repo]]
 url = "https://github.com/HausDAO/bolton-onboarder"
+
+[[repo]]
+url = "https://github.com/HausDAO/comment-emitter"
 
 [[repo]]
 url = "https://github.com/HausDAO/dao-app-starter-vite"
@@ -88,6 +103,9 @@ url = "https://github.com/HausDAO/daohaus-website"
 url = "https://github.com/HausDAO/daohaus-yeeter-v2"
 
 [[repo]]
+url = "https://github.com/HausDAO/dev-docs"
+
+[[repo]]
 url = "https://github.com/HausDAO/dGov-Hackathon"
 
 [[repo]]
@@ -118,6 +136,21 @@ url = "https://github.com/HausDAO/ERC20-Zap-Minion"
 url = "https://github.com/HausDAO/ethereum-optimism.github.io"
 
 [[repo]]
+url = "https://github.com/HausDAO/example-simple-eth-onboarder"
+
+[[repo]]
+url = "https://github.com/HausDAO/farcastle"
+
+[[repo]]
+url = "https://github.com/HausDAO/farcastle-frames"
+
+[[repo]]
+url = "https://github.com/HausDAO/farcastle-framev2-proposal-playground"
+
+[[repo]]
+url = "https://github.com/HausDAO/farcastle-proposals-frame"
+
+[[repo]]
 url = "https://github.com/HausDAO/farmhaus"
 
 [[repo]]
@@ -136,16 +169,28 @@ url = "https://github.com/HausDAO/Grant-Seekersv2"
 url = "https://github.com/HausDAO/hats-demo"
 
 [[repo]]
+url = "https://github.com/HausDAO/haus-dao-hooks"
+
+[[repo]]
 url = "https://github.com/HausDAO/haus-report"
 
 [[repo]]
 url = "https://github.com/HausDAO/haus-tasks"
 
 [[repo]]
+url = "https://github.com/HausDAO/haus-twa-sandbox"
+
+[[repo]]
+url = "https://github.com/HausDAO/haus-tx-prepper"
+
+[[repo]]
 url = "https://github.com/HausDAO/honeycomb-subgraph"
 
 [[repo]]
 url = "https://github.com/HausDAO/manifesto"
+
+[[repo]]
+url = "https://github.com/HausDAO/menagerie"
 
 [[repo]]
 url = "https://github.com/HausDAO/Minion-Factory"
@@ -164,6 +209,7 @@ url = "https://github.com/HausDAO/Molochv2.1"
 
 [[repo]]
 url = "https://github.com/HausDAO/molochv3-cra-starter"
+missing = true
 
 [[repo]]
 url = "https://github.com/HausDAO/molochv3-vite-starter-DEPRECATED"
@@ -181,7 +227,13 @@ url = "https://github.com/HausDAO/onboarder-app"
 url = "https://github.com/HausDAO/protocol-guild"
 
 [[repo]]
+url = "https://github.com/HausDAO/protocol-guild-contracts"
+
+[[repo]]
 url = "https://github.com/HausDAO/pubhaus"
+
+[[repo]]
+url = "https://github.com/HausDAO/public-haus"
 
 [[repo]]
 url = "https://github.com/HausDAO/publichaus"
@@ -200,6 +252,7 @@ url = "https://github.com/HausDAO/temp-Moloch2.2"
 
 [[repo]]
 url = "https://github.com/HausDAO/TheSource"
+missing = true
 
 [[repo]]
 url = "https://github.com/HausDAO/TransmutationSummoner"
@@ -209,6 +262,9 @@ url = "https://github.com/HausDAO/UberHaus-Minion"
 
 [[repo]]
 url = "https://github.com/HausDAO/unipool"
+
+[[repo]]
+url = "https://github.com/HausDAO/user-guide"
 
 [[repo]]
 url = "https://github.com/HausDAO/wc"

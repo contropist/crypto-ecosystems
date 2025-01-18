@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/RequestNetwork"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/RequestNetwork/ai-agent-poc"
+
+[[repo]]
 url = "https://github.com/RequestNetwork/blockchain-engineer-recruitement-test"
 
 [[repo]]
@@ -14,6 +17,9 @@ url = "https://github.com/RequestNetwork/central"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/crowdfunding"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/demo-api"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/docker-images"
@@ -32,9 +38,26 @@ url = "https://github.com/RequestNetwork/donations.request.network"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/edge-core-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/RequestNetwork/edge-react-gui"
+missing = true
+
+[[repo]]
+url = "https://github.com/RequestNetwork/encrypt-requests-with-wallet-prototype"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/ethwarsaw-ticketing"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/expo-starter-request-network"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/fluidpay-app"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/invoicing-template"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/js-ipfs-api"
@@ -58,6 +81,24 @@ url = "https://github.com/RequestNetwork/payments-subgraph"
 url = "https://github.com/RequestNetwork/price-aggregators-subgraph"
 
 [[repo]]
+url = "https://github.com/RequestNetwork/public-issues"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/quickstart-browser-create-a-request"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/quickstart-browser-pay-a-request"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/quickstart-browser-retrieve-a-request"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/quickstart-node-js"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/quickstart-node.js"
+
+[[repo]]
 url = "https://github.com/RequestNetwork/react-request-network"
 
 [[repo]]
@@ -67,7 +108,11 @@ url = "https://github.com/RequestNetwork/Request"
 url = "https://github.com/RequestNetwork/request-apps"
 
 [[repo]]
+url = "https://github.com/RequestNetwork/request-cli"
+
+[[repo]]
 url = "https://github.com/RequestNetwork/request-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/RequestNetwork/request-helm-charts"
@@ -79,7 +124,14 @@ url = "https://github.com/RequestNetwork/request-network-dev-env"
 url = "https://github.com/RequestNetwork/Request-OP"
 
 [[repo]]
+url = "https://github.com/RequestNetwork/request-scan"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/request-token-list"
+
+[[repo]]
 url = "https://github.com/RequestNetwork/Request_App"
+missing = true
 
 [[repo]]
 url = "https://github.com/RequestNetwork/Request_Artifacts"
@@ -100,6 +152,12 @@ url = "https://github.com/RequestNetwork/RequestTokenSale"
 url = "https://github.com/RequestNetwork/RequestVesting"
 
 [[repo]]
+url = "https://github.com/RequestNetwork/rn-checkout"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/rn-expo-support"
+
+[[repo]]
 url = "https://github.com/RequestNetwork/storage-subgraph"
 
 [[repo]]
@@ -110,6 +168,12 @@ url = "https://github.com/RequestNetwork/template-web3-app"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/turbo-request-app"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/wallet-balance-notifier"
+
+[[repo]]
+url = "https://github.com/RequestNetwork/web-components"
 
 [[repo]]
 url = "https://github.com/RequestNetwork/workadventure"

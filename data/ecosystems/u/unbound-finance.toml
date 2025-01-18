@@ -11,12 +11,19 @@ url = "https://github.com/unbound-finance/arbidex-core"
 
 [[repo]]
 url = "https://github.com/unbound-finance/bulkssrf"
+missing = true
+
+[[repo]]
+url = "https://github.com/unbound-finance/crypto-assets"
 
 [[repo]]
 url = "https://github.com/unbound-finance/defiedge-react-sdk"
 
 [[repo]]
 url = "https://github.com/unbound-finance/defiedge-sdk"
+
+[[repo]]
+url = "https://github.com/unbound-finance/defiedgecodev3"
 
 [[repo]]
 url = "https://github.com/unbound-finance/DefiLlama-Adapters"
@@ -29,6 +36,9 @@ url = "https://github.com/unbound-finance/encoder-bug"
 
 [[repo]]
 url = "https://github.com/unbound-finance/LEAPs"
+
+[[repo]]
+url = "https://github.com/unbound-finance/quickswap-interface-v2"
 
 [[repo]]
 url = "https://github.com/unbound-finance/studio"

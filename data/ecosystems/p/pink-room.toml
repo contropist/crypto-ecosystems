@@ -19,6 +19,9 @@ url = "https://github.com/pink-room/flutter_dapp_boilerplate"
 url = "https://github.com/pink-room/kotlin-multiplatform-template"
 
 [[repo]]
+url = "https://github.com/pink-room/MarketSight"
+
+[[repo]]
 url = "https://github.com/pink-room/NFTDancing"
 
 [[repo]]
@@ -41,6 +44,9 @@ url = "https://github.com/pink-room/Pokedex"
 
 [[repo]]
 url = "https://github.com/pink-room/react-native-dapp-boilerplate"
+
+[[repo]]
+url = "https://github.com/pink-room/react-native-workflows"
 
 [[repo]]
 url = "https://github.com/pink-room/react-workshop"

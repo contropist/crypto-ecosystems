@@ -8,9 +8,11 @@ github_organizations = ["https://github.com/horse-link"]
 # Repositories
 [[repo]]
 url = "https://github.com/horse-link/.github"
+missing = true
 
 [[repo]]
 url = "https://github.com/horse-link/api.horse.link"
+missing = true
 
 [[repo]]
 url = "https://github.com/horse-link/benchmark-esdcsa-rust-go-node"
@@ -22,7 +24,14 @@ url = "https://github.com/horse-link/contracts.horse.link"
 url = "https://github.com/horse-link/gapi.horse.link"
 
 [[repo]]
+url = "https://github.com/horse-link/horse-link-home"
+
+[[repo]]
+url = "https://github.com/horse-link/horse-link-splash-page"
+
+[[repo]]
 url = "https://github.com/horse-link/horse.link"
+missing = true
 
 [[repo]]
 url = "https://github.com/horse-link/horse.link.subgraph"
@@ -43,13 +52,21 @@ url = "https://github.com/horse-link/horse.link.subgraph.sepolia"
 url = "https://github.com/horse-link/horselink-cli.net"
 
 [[repo]]
+url = "https://github.com/horse-link/sdk.horse.link"
+
+[[repo]]
 url = "https://github.com/horse-link/smtp.horse.link"
+missing = true
 
 [[repo]]
 url = "https://github.com/horse-link/stable.horse.link"
+missing = true
 
 [[repo]]
 url = "https://github.com/horse-link/tab.client"
 
 [[repo]]
 url = "https://github.com/horse-link/telegrambot"
+
+[[repo]]
+url = "https://github.com/horse-link/tg.horse.link"

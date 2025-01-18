@@ -37,13 +37,22 @@ url = "https://github.com/zeitgeistpm/external"
 url = "https://github.com/zeitgeistpm/frontier"
 
 [[repo]]
+url = "https://github.com/zeitgeistpm/ink-library"
+
+[[repo]]
 url = "https://github.com/zeitgeistpm/LMSR-zeitgeist"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/manifest"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/migration-guide"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/moonbeam"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/moonkit"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/nft-checker-tool"
@@ -58,6 +67,12 @@ url = "https://github.com/zeitgeistpm/open-runtime-module-library"
 url = "https://github.com/zeitgeistpm/polkadot"
 
 [[repo]]
+url = "https://github.com/zeitgeistpm/polkadot-sdk"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/raydium-cp-swap"
+
+[[repo]]
 url = "https://github.com/zeitgeistpm/rikiddo"
 
 [[repo]]
@@ -68,6 +83,7 @@ url = "https://github.com/zeitgeistpm/Seer-For-China"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/snapshot-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/substrate"
@@ -77,6 +93,12 @@ url = "https://github.com/zeitgeistpm/tools"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/ui"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/wsx"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/wsx-landing"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/xcm-simulator"
@@ -95,6 +117,9 @@ url = "https://github.com/zeitgeistpm/zeitgeist-subsquid"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/zeitgeist-token-api"
+
+[[repo]]
+url = "https://github.com/zeitgeistpm/zeitgeist-workshop"
 
 [[repo]]
 url = "https://github.com/zeitgeistpm/zeitgeistpm.github.io"

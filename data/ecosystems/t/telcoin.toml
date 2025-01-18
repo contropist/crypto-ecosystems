@@ -11,9 +11,14 @@ url = "https://github.com/telcoin/actix-threadpool-diesel"
 
 [[repo]]
 url = "https://github.com/telcoin/assets"
+missing = true
 
 [[repo]]
 url = "https://github.com/telcoin/balancer-airdrops"
+
+[[repo]]
+url = "https://github.com/telcoin/blockscout-helm"
+missing = true
 
 [[repo]]
 url = "https://github.com/telcoin/cdr-parser"
@@ -29,6 +34,9 @@ url = "https://github.com/telcoin/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/telcoin/diesel"
+
+[[repo]]
+url = "https://github.com/telcoin/diesel_as_jsonb"
 
 [[repo]]
 url = "https://github.com/telcoin/ethcontract-rs"
@@ -50,6 +58,7 @@ url = "https://github.com/telcoin/ico"
 
 [[repo]]
 url = "https://github.com/telcoin/matic-cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/telcoin/maticcontracts"
@@ -65,12 +74,15 @@ url = "https://github.com/telcoin/substrate"
 
 [[repo]]
 url = "https://github.com/telcoin/telcoin-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/telcoin/telcoin-laboratories"
+missing = true
 
 [[repo]]
 url = "https://github.com/telcoin/telcoin-staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/telcoin/token-list"

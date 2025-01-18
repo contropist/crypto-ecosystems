@@ -3,7 +3,7 @@ title = "Consensys"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/ConsenSys"]
+github_organizations = ["https://github.com/Consensys", "https://github.com/ConsenSysMesh"]
 
 # Repositories
 [[repo]]
@@ -11,6 +11,7 @@ url = "https://github.com/ConsenSys-Palm/palm-gnosis-safe-ui"
 
 [[repo]]
 url = "https://github.com/ConsenSys/.github"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/0x-audit-report-2018-12"
@@ -34,7 +35,16 @@ url = "https://github.com/ConsenSys/0x-v3-mythx-report"
 url = "https://github.com/ConsenSys/0x_audit_report_2018-07-23"
 
 [[repo]]
+url = "https://github.com/Consensys/aave-governance-crosschain-bridges"
+
+[[repo]]
 url = "https://github.com/ConsenSys/aave-protocol"
+
+[[repo]]
+url = "https://github.com/Consensys/aave-v3-core"
+
+[[repo]]
+url = "https://github.com/Consensys/aave-v3-deploy"
 
 [[repo]]
 url = "https://github.com/ConsenSys/abi-decoder"
@@ -50,6 +60,9 @@ url = "https://github.com/ConsenSys/aiakos-contracts"
 
 [[repo]]
 url = "https://github.com/ConsenSys/aiakos-sdk-java"
+
+[[repo]]
+url = "https://github.com/Consensys/ajna-core"
 
 [[repo]]
 url = "https://github.com/ConsenSys/animals"
@@ -76,7 +89,16 @@ url = "https://github.com/ConsenSys/ansible-role-geth"
 url = "https://github.com/ConsenSys/ansible-role-goquorum"
 
 [[repo]]
+url = "https://github.com/Consensys/ansible-role-lighthouse"
+
+[[repo]]
+url = "https://github.com/Consensys/ansible-role-lodestar"
+
+[[repo]]
 url = "https://github.com/ConsenSys/ansible-role-nethermind"
+
+[[repo]]
+url = "https://github.com/Consensys/ansible-role-nimbus"
 
 [[repo]]
 url = "https://github.com/ConsenSys/ansible-role-openjdk11"
@@ -88,6 +110,9 @@ url = "https://github.com/ConsenSys/ansible-role-orion"
 url = "https://github.com/ConsenSys/ansible-role-pantheon"
 
 [[repo]]
+url = "https://github.com/Consensys/ansible-role-prysm"
+
+[[repo]]
 url = "https://github.com/ConsenSys/ansible-role-teku"
 
 [[repo]]
@@ -95,6 +120,15 @@ url = "https://github.com/ConsenSys/ansible-role-tessera"
 
 [[repo]]
 url = "https://github.com/ConsenSys/ansible-role-web3signer"
+
+[[repo]]
+url = "https://github.com/ConsenSys/ape-linea"
+
+[[repo]]
+url = "https://github.com/ConsenSys/apeworx-ape"
+
+[[repo]]
+url = "https://github.com/ConsenSys/apeworx-ape-infura"
 
 [[repo]]
 url = "https://github.com/ConsenSys/aragon-daotemplates-audit-report-2019-08"
@@ -137,63 +171,82 @@ url = "https://github.com/ConsenSys/azure-cli-extensions"
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-elasticsearch"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-jenkins"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-kibana"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-knginx"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-kong"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-kubernetes-master"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-kubernetes-node"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-mongodb"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-nodeapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-packetbeat"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-parity"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-postgres"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-docker-redis"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-flexvolume-ebs"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-fluentd-kubernetes"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-kubernetes-playbook"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-terraform-kubernetes"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/balanc3-unleash-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/bavard"
 
 [[repo]]
 url = "https://github.com/ConsenSys/beacon-lighthouse-k8s"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/bela"
@@ -211,7 +264,21 @@ url = "https://github.com/ConsenSys/besu-aws"
 url = "https://github.com/ConsenSys/besu-db-migration-test"
 
 [[repo]]
+url = "https://github.com/Consensys/besu-dns-discovery"
+
+[[repo]]
+url = "https://github.com/ConsenSys/besu-docs"
+
+[[repo]]
+url = "https://github.com/Consensys/besu-gha-development"
+missing = true
+
+[[repo]]
+url = "https://github.com/Consensys/besu-holesky"
+
+[[repo]]
 url = "https://github.com/ConsenSys/besu-native"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/besu-native-ec"
@@ -220,7 +287,19 @@ url = "https://github.com/ConsenSys/besu-native-ec"
 url = "https://github.com/ConsenSys/besu-plugins"
 
 [[repo]]
+url = "https://github.com/Consensys/besu-qbft-docker"
+
+[[repo]]
 url = "https://github.com/ConsenSys/besu-sample-networks"
+
+[[repo]]
+url = "https://github.com/Consensys/besu-sequencer-plugins"
+
+[[repo]]
+url = "https://github.com/ConsenSys/besu-shomei-plugin"
+
+[[repo]]
+url = "https://github.com/Consensys/besu-updated-docs"
 
 [[repo]]
 url = "https://github.com/ConsenSys/besucli"
@@ -257,6 +336,7 @@ url = "https://github.com/ConsenSys/bpaas-protocols-temp"
 
 [[repo]]
 url = "https://github.com/ConsenSys/BTC-Plus"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/btcrelay"
@@ -277,6 +357,9 @@ url = "https://github.com/ConsenSys/cakeshop-docs"
 url = "https://github.com/ConsenSys/cbm-test"
 
 [[repo]]
+url = "https://github.com/Consensys/ccip-read-workshop"
+
+[[repo]]
 url = "https://github.com/ConsenSys/chocolatey-pantheon"
 
 [[repo]]
@@ -295,7 +378,20 @@ url = "https://github.com/ConsenSys/codefi-hmlr-poc-contracts"
 url = "https://github.com/ConsenSys/codewitness"
 
 [[repo]]
+url = "https://github.com/Consensys/comet"
+
+[[repo]]
 url = "https://github.com/ConsenSys/community-made-dapps"
+
+[[repo]]
+url = "https://github.com/ConsenSys/compound-comet-linea"
+missing = true
+
+[[repo]]
+url = "https://github.com/Consensys/compress"
+
+[[repo]]
+url = "https://github.com/Consensys/connect-wallet-button"
 
 [[repo]]
 url = "https://github.com/ConsenSys/Consensys-Grants"
@@ -313,16 +409,41 @@ url = "https://github.com/ConsenSys/ConsenSysGrants-Challenges"
 url = "https://github.com/ConsenSys/constellation"
 
 [[repo]]
+url = "https://github.com/Consensys/contributor-hub"
+missing = true
+
+[[repo]]
 url = "https://github.com/ConsenSys/coreui-free-react-admin-template"
 
 [[repo]]
+url = "https://github.com/Consensys/corset"
+
+[[repo]]
 url = "https://github.com/ConsenSys/CosnenSys-Grants-"
+
+[[repo]]
+url = "https://github.com/Consensys/cowswap"
+
+[[repo]]
+url = "https://github.com/Consensys/create-web3-template"
+
+[[repo]]
+url = "https://github.com/Consensys/cs-typesense-kubernetes"
+
+[[repo]]
+url = "https://github.com/Consensys/curve-frontend"
+
+[[repo]]
+url = "https://github.com/ConsenSys/daedaluzz"
 
 [[repo]]
 url = "https://github.com/ConsenSys/dafny-sc-fmics"
 
 [[repo]]
 url = "https://github.com/ConsenSys/dafny-training"
+
+[[repo]]
+url = "https://github.com/Consensys/DafnyCrypto"
 
 [[repo]]
 url = "https://github.com/ConsenSys/daisy-audit-report-2019-03"
@@ -358,13 +479,28 @@ url = "https://github.com/ConsenSys/defi-score"
 url = "https://github.com/ConsenSys/deposit-sc-dafny"
 
 [[repo]]
+url = "https://github.com/Consensys/deus-core-vulnerable"
+
+[[repo]]
+url = "https://github.com/Consensys/developer-center"
+
+[[repo]]
+url = "https://github.com/ConsenSys/dili-dss-test"
+missing = true
+
+[[repo]]
 url = "https://github.com/ConsenSys/dili-faas-cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/Diligence-Compilation"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/diligence-fuzzing"
+
+[[repo]]
+url = "https://github.com/ConsenSys/diligence-fuzzing-github-action"
 
 [[repo]]
 url = "https://github.com/ConsenSys/diligence-hacking-workshop"
@@ -383,6 +519,7 @@ url = "https://github.com/ConsenSys/doc.common"
 
 [[repo]]
 url = "https://github.com/ConsenSys/doc.dummy"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/doc.ethsigner"
@@ -395,6 +532,9 @@ url = "https://github.com/ConsenSys/doc.goquorum"
 
 [[repo]]
 url = "https://github.com/ConsenSys/doc.katacoda"
+
+[[repo]]
+url = "https://github.com/Consensys/doc.linea"
 
 [[repo]]
 url = "https://github.com/ConsenSys/doc.orion"
@@ -421,10 +561,16 @@ url = "https://github.com/ConsenSys/doc.web3signer"
 url = "https://github.com/ConsenSys/doc.zk-evm"
 
 [[repo]]
+url = "https://github.com/ConsenSys/doc.zk-evm-internal"
+
+[[repo]]
 url = "https://github.com/ConsenSys/docbox"
 
 [[repo]]
 url = "https://github.com/ConsenSys/docs-gha"
+
+[[repo]]
+url = "https://github.com/Consensys/docs-gha-2023"
 
 [[repo]]
 url = "https://github.com/ConsenSys/docs-template"
@@ -436,7 +582,16 @@ url = "https://github.com/ConsenSys/doctools.action-builder"
 url = "https://github.com/ConsenSys/doctools.template-site"
 
 [[repo]]
+url = "https://github.com/Consensys/dogecoin-snap"
+
+[[repo]]
+url = "https://github.com/Consensys/drop-transactions-reporter-plugin"
+
+[[repo]]
 url = "https://github.com/ConsenSys/Ecies"
+
+[[repo]]
+url = "https://github.com/Consensys/education-dao"
 
 [[repo]]
 url = "https://github.com/ConsenSys/eip-testnet"
@@ -464,6 +619,7 @@ url = "https://github.com/ConsenSys/ens-audit-report-2019-02"
 
 [[repo]]
 url = "https://github.com/ConsenSys/ERC-Deprecated"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/ERC1820"
@@ -492,6 +648,7 @@ url = "https://github.com/ConsenSys/eth-netstats"
 
 [[repo]]
 url = "https://github.com/ConsenSys/eth-signer"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/eth2-reward-simulation"
@@ -522,10 +679,20 @@ tags = ["Documentation"]
 url = "https://github.com/ConsenSys/ethereum-dissectors"
 
 [[repo]]
+url = "https://github.com/Consensys/ethereum-helm-charts"
+
+[[repo]]
 url = "https://github.com/ConsenSys/ethereum-key-vault"
 
 [[repo]]
+url = "https://github.com/ConsenSys/ethereum-lists-chains"
+
+[[repo]]
+url = "https://github.com/Consensys/ethereum-multicall"
+
+[[repo]]
 url = "https://github.com/ConsenSys/Ethereum101"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/ethereum_formal_verification_overview"
@@ -538,6 +705,9 @@ url = "https://github.com/ConsenSys/ethereumjs-util"
 
 [[repo]]
 url = "https://github.com/ConsenSys/EthereumRegistrationAuthority"
+
+[[repo]]
+url = "https://github.com/ConsenSys/ethers.js"
 
 [[repo]]
 url = "https://github.com/ConsenSys/ethjsonrpc"
@@ -561,10 +731,20 @@ url = "https://github.com/ConsenSys/ethql"
 url = "https://github.com/ConsenSys/ethsigner"
 
 [[repo]]
+url = "https://github.com/Consensys/eventsea"
+
+[[repo]]
 url = "https://github.com/ConsenSys/evm-analyzer-benchmark-suite"
 
 [[repo]]
 url = "https://github.com/ConsenSys/evm-dafny"
+
+[[repo]]
+url = "https://github.com/ConsenSys/EvmIL"
+
+[[repo]]
+url = "https://github.com/Consensys/examples"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/FairswapTemp"
@@ -574,39 +754,71 @@ url = "https://github.com/ConsenSys/fc-latency-map"
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval-client-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval-common"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval-docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval-gateway"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval-gateway-admin"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval-itest"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval-provider"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval-provider-admin"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/fc-retrieval-register"
+missing = true
+
+[[repo]]
+url = "https://github.com/Consensys/finalization-updater-besu-plugin"
+
+[[repo]]
+url = "https://github.com/ConsenSys/Form-XChange"
+
+[[repo]]
+url = "https://github.com/Consensys/GasAPI-template"
+
+[[repo]]
+url = "https://github.com/Consensys/get-starknet"
+
+[[repo]]
+url = "https://github.com/Consensys/get-starknet-snap-wallet"
 
 [[repo]]
 url = "https://github.com/ConsenSys/geth-peer-sidecar"
+
+[[repo]]
+url = "https://github.com/Consensys/gha-sandbox"
+
+[[repo]]
+url = "https://github.com/Consensys/github-action-get-latest-release"
 
 [[repo]]
 url = "https://github.com/ConsenSys/gkr-mimc"
@@ -624,6 +836,12 @@ url = "https://github.com/ConsenSys/gnark-bench"
 url = "https://github.com/ConsenSys/gnark-crypto"
 
 [[repo]]
+url = "https://github.com/ConsenSys/gnark-ignition-verifier"
+
+[[repo]]
+url = "https://github.com/ConsenSys/gnark-solidity-checker"
+
+[[repo]]
 url = "https://github.com/ConsenSys/gnark-tests"
 
 [[repo]]
@@ -633,10 +851,14 @@ url = "https://github.com/ConsenSys/gnosis-docs"
 url = "https://github.com/ConsenSys/gnosis-twitter-bot"
 
 [[repo]]
+url = "https://github.com/Consensys/go-corset"
+
+[[repo]]
 url = "https://github.com/ConsenSys/go-ethereum"
 
 [[repo]]
 url = "https://github.com/ConsenSys/go-ethlibs"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/go-ethlibs-ARCHIVED"
@@ -654,6 +876,9 @@ url = "https://github.com/ConsenSys/goldin-tcr"
 url = "https://github.com/ConsenSys/goquorum-crypto-secp256k1"
 
 [[repo]]
+url = "https://github.com/Consensys/governance-crosschain-bridges"
+
+[[repo]]
 url = "https://github.com/ConsenSys/gpact"
 
 [[repo]]
@@ -667,6 +892,10 @@ url = "https://github.com/ConsenSys/handel"
 
 [[repo]]
 url = "https://github.com/ConsenSys/hardhat"
+missing = true
+
+[[repo]]
+url = "https://github.com/Consensys/hardhat-template"
 
 [[repo]]
 url = "https://github.com/ConsenSys/hashed-timelock-contract-ethereum"
@@ -700,12 +929,17 @@ url = "https://github.com/ConsenSys/hyperledger-besu-ethers"
 
 [[repo]]
 url = "https://github.com/ConsenSys/icebox"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/ifunded-audit-internal-2019-04"
 
 [[repo]]
 url = "https://github.com/ConsenSys/infura-binance"
+missing = true
+
+[[repo]]
+url = "https://github.com/ConsenSys/infura-onboarding"
 
 [[repo]]
 url = "https://github.com/ConsenSys/infura-proxy-service"
@@ -715,6 +949,9 @@ url = "https://github.com/ConsenSys/infura-sdk"
 
 [[repo]]
 url = "https://github.com/ConsenSys/inspect-data"
+
+[[repo]]
+url = "https://github.com/ConsenSys/instructions-update"
 
 [[repo]]
 url = "https://github.com/ConsenSys/Interactive-Crowdsale-Audit"
@@ -741,10 +978,6 @@ url = "https://github.com/ConsenSys/jc-kzg-4844"
 url = "https://github.com/ConsenSys/json_exporter"
 
 [[repo]]
-url = "https://github.com/ConsenSys/kauri-frontend"
-missing = true
-
-[[repo]]
 url = "https://github.com/ConsenSys/kube-devenv"
 
 [[repo]]
@@ -752,6 +985,10 @@ url = "https://github.com/ConsenSys/kubernetes-action"
 
 [[repo]]
 url = "https://github.com/ConsenSys/lambda-sensui"
+
+[[repo]]
+url = "https://github.com/Consensys/ledgerhq-metamask-keyring"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/Legions"
@@ -770,6 +1007,71 @@ url = "https://github.com/ConsenSys/license-reporter"
 
 [[repo]]
 url = "https://github.com/ConsenSys/lighthouse-k8s"
+missing = true
+
+[[repo]]
+url = "https://github.com/Consensys/linea-arithmetization"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-attestation-registry"
+
+[[repo]]
+url = "https://github.com/ConsenSys/linea-besu"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-besu-package"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-constraints"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-contracts"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-contracts-fix"
+
+[[repo]]
+url = "https://github.com/ConsenSys/linea-docs"
+missing = true
+
+[[repo]]
+url = "https://github.com/Consensys/linea-ens"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-ethstats-server"
+
+[[repo]]
+url = "https://github.com/ConsenSys/linea-lenster"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-lxp-liquidity-reward"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-monorepo"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-monorepo-network-oracle"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-sequencer"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-specification"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-token-list"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-tracer"
+
+[[repo]]
+url = "https://github.com/ConsenSys/linea-tutorials"
+
+[[repo]]
+url = "https://github.com/Consensys/linea-voyager-snap"
+
+[[repo]]
+url = "https://github.com/ConsenSys/lineaster"
 
 [[repo]]
 url = "https://github.com/ConsenSys/liquality-audit-report-2018-11"
@@ -778,25 +1080,57 @@ url = "https://github.com/ConsenSys/liquality-audit-report-2018-11"
 url = "https://github.com/ConsenSys/liszt"
 
 [[repo]]
+url = "https://github.com/Consensys/local-devnet"
+
+[[repo]]
+url = "https://github.com/Consensys/loyalty-frontend"
+
+[[repo]]
 url = "https://github.com/ConsenSys/LTACFC"
 
 [[repo]]
 url = "https://github.com/ConsenSys/LuxToken"
 
 [[repo]]
+url = "https://github.com/Consensys/lxp-snap"
+
+[[repo]]
 url = "https://github.com/ConsenSys/Mahuta"
+
+[[repo]]
+url = "https://github.com/ConsenSys/metamask-core-fork"
 
 [[repo]]
 url = "https://github.com/ConsenSys/metamask-extension"
 
 [[repo]]
+url = "https://github.com/ConsenSys/metamask-mobile-fork"
+
+[[repo]]
+url = "https://github.com/Consensys/metamask-staging"
+missing = true
+
+[[repo]]
+url = "https://github.com/Consensys/migrate-truffle-to-hardhat"
+
+[[repo]]
 url = "https://github.com/ConsenSys/mikuli"
 
 [[repo]]
+url = "https://github.com/Consensys/MM-Dev-Tools"
+
+[[repo]]
+url = "https://github.com/Consensys/mmi-defi-adapters"
+
+[[repo]]
 url = "https://github.com/ConsenSys/mmi-monorepo"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/mmi-staking-aggregator-boilerplate-nestjs"
+
+[[repo]]
+url = "https://github.com/ConsenSys/multicall"
 
 [[repo]]
 url = "https://github.com/ConsenSys/mythjs"
@@ -807,6 +1141,7 @@ tags = ["Developer Tool"]
 
 [[repo]]
 url = "https://github.com/ConsenSys/mythril-api-k8s-ci"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/mythril-ctf-public"
@@ -819,12 +1154,17 @@ url = "https://github.com/ConsenSys/mythril-ingress-custom-backend"
 
 [[repo]]
 url = "https://github.com/ConsenSys/mythril-mongo-express"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/mythril-trace-explorer"
 
 [[repo]]
+url = "https://github.com/Consensys/mythx-cli"
+
+[[repo]]
 url = "https://github.com/ConsenSys/mythx-create-accounts"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/mythx-developer-support"
@@ -861,9 +1201,22 @@ url = "https://github.com/ConsenSys/mythxjs"
 
 [[repo]]
 url = "https://github.com/ConsenSys/mythxnode"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/Nethereum.Templates.Pack"
+
+[[repo]]
+url = "https://github.com/Consensys/Next-MetaMask-Template"
+
+[[repo]]
+url = "https://github.com/Consensys/next-web3-starter"
+
+[[repo]]
+url = "https://github.com/Consensys/nft-resolver"
+
+[[repo]]
+url = "https://github.com/ConsenSys/nft-sdk-demo"
 
 [[repo]]
 url = "https://github.com/ConsenSys/nft-status"
@@ -879,6 +1232,9 @@ url = "https://github.com/ConsenSys/oath"
 
 [[repo]]
 url = "https://github.com/ConsenSys/oddity-bot"
+
+[[repo]]
+url = "https://github.com/Consensys/op-besu"
 
 [[repo]]
 url = "https://github.com/ConsenSys/orchestrate"
@@ -933,6 +1289,10 @@ url = "https://github.com/ConsenSys/pairing"
 
 [[repo]]
 url = "https://github.com/ConsenSys/palm-blockscout"
+missing = true
+
+[[repo]]
+url = "https://github.com/Consensys/pancake-frontend"
 
 [[repo]]
 url = "https://github.com/ConsenSys/pantheon-aztec-quickstart"
@@ -942,10 +1302,6 @@ url = "https://github.com/ConsenSys/pantheon-plugin-api"
 
 [[repo]]
 url = "https://github.com/ConsenSys/pantheon-support"
-
-[[repo]]
-url = "https://github.com/ConsenSys/panvala"
-missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/panvala-audit-report-2019-08"
@@ -960,10 +1316,29 @@ url = "https://github.com/ConsenSys/perf-utils"
 url = "https://github.com/ConsenSys/permissioning-smart-contracts"
 
 [[repo]]
+url = "https://github.com/Consensys/permissionless-snaps-directory"
+missing = true
+
+[[repo]]
+url = "https://github.com/Consensys/phosphor-frame-tutorial"
+
+[[repo]]
 url = "https://github.com/ConsenSys/PLCRVoting"
 
 [[repo]]
+url = "https://github.com/ConsenSys/plonk-solidity-audit"
+
+[[repo]]
+url = "https://github.com/Consensys/plugeth"
+
+[[repo]]
+url = "https://github.com/Consensys/plugeth-bor"
+
+[[repo]]
 url = "https://github.com/ConsenSys/PluginsAPIDemo"
+
+[[repo]]
+url = "https://github.com/ConsenSys/polis"
 
 [[repo]]
 url = "https://github.com/ConsenSys/polymath-audit-report-2019-04"
@@ -975,16 +1350,25 @@ url = "https://github.com/ConsenSys/PowerPlatformConnectors"
 url = "https://github.com/ConsenSys/private-networks-deployment-scripts"
 
 [[repo]]
+url = "https://github.com/Consensys/privote"
+
+[[repo]]
 url = "https://github.com/ConsenSys/Project-Alchemy"
 
 [[repo]]
 url = "https://github.com/ConsenSys/projects-using-dafny"
 
 [[repo]]
+url = "https://github.com/Consensys/proof-of-onchain"
+
+[[repo]]
 url = "https://github.com/ConsenSys/protobuf"
 
 [[repo]]
 url = "https://github.com/ConsenSys/protocol-BountiedWork"
+
+[[repo]]
+url = "https://github.com/Consensys/protocols-release-sandbox"
 
 [[repo]]
 url = "https://github.com/ConsenSys/pukara-lighthouse-docker"
@@ -1003,6 +1387,7 @@ url = "https://github.com/ConsenSys/pythx"
 
 [[repo]]
 url = "https://github.com/ConsenSys/qbc"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/qbft-formal-spec-and-verification"
@@ -1012,6 +1397,7 @@ url = "https://github.com/ConsenSys/qbft-tests"
 
 [[repo]]
 url = "https://github.com/ConsenSys/QualtricsListener"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/QualtricsSurveyListener"
@@ -1063,6 +1449,7 @@ url = "https://github.com/ConsenSys/quorum-explorer"
 
 [[repo]]
 url = "https://github.com/ConsenSys/quorum-genesis"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/quorum-genesis-tool"
@@ -1096,6 +1483,7 @@ url = "https://github.com/ConsenSys/quorum-kubernetes"
 
 [[repo]]
 url = "https://github.com/ConsenSys/quorum-mainnet-launcher"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/quorum-plugin-definitions"
@@ -1141,9 +1529,13 @@ url = "https://github.com/ConsenSys/quorum.js"
 
 [[repo]]
 url = "https://github.com/ConsenSys/QuorumNetworkManager"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/QuorumTraining"
+
+[[repo]]
+url = "https://github.com/Consensys/rad-cli"
 
 [[repo]]
 url = "https://github.com/ConsenSys/rainbow-token"
@@ -1161,6 +1553,12 @@ url = "https://github.com/ConsenSys/react-metamask"
 url = "https://github.com/ConsenSys/react-native-sssa"
 
 [[repo]]
+url = "https://github.com/Consensys/react-web3-starter"
+
+[[repo]]
+url = "https://github.com/Consensys/rejected-transactions-reporter-plugin"
+
+[[repo]]
 url = "https://github.com/ConsenSys/Relays"
 
 [[repo]]
@@ -1168,6 +1566,7 @@ url = "https://github.com/ConsenSys/Relays-Resources"
 
 [[repo]]
 url = "https://github.com/ConsenSys/research"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/rimble-app-demo"
@@ -1183,6 +1582,9 @@ url = "https://github.com/ConsenSys/rocksdb"
 
 [[repo]]
 url = "https://github.com/ConsenSys/rsaacc"
+
+[[repo]]
+url = "https://github.com/Consensys/safemoon_exploit_reproduce"
 
 [[repo]]
 url = "https://github.com/ConsenSys/sandcastle-tutorial"
@@ -1239,6 +1641,9 @@ url = "https://github.com/ConsenSys/semtag"
 url = "https://github.com/ConsenSys/sheth"
 
 [[repo]]
+url = "https://github.com/Consensys/shomei"
+
+[[repo]]
 url = "https://github.com/ConsenSys/SidechainAnonymousPinning"
 
 [[repo]]
@@ -1270,10 +1675,14 @@ url = "https://github.com/ConsenSys/smartlang"
 url = "https://github.com/ConsenSys/smashing-smart-contracts-workshop"
 
 [[repo]]
+url = "https://github.com/Consensys/snippets"
+
+[[repo]]
 url = "https://github.com/ConsenSys/so101_canon"
 
 [[repo]]
 url = "https://github.com/ConsenSys/sobol-theme"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/sol-dbg"
@@ -1297,6 +1706,15 @@ url = "https://github.com/ConsenSys/solidity-metrics"
 url = "https://github.com/ConsenSys/solidity-parser-antlr"
 
 [[repo]]
+url = "https://github.com/Consensys/souffle.ts"
+
+[[repo]]
+url = "https://github.com/Consensys/sourcify"
+
+[[repo]]
+url = "https://github.com/Consensys/staking-eigenlayer-meta"
+
+[[repo]]
 url = "https://github.com/ConsenSys/Stanislavski"
 
 [[repo]]
@@ -1306,16 +1724,26 @@ url = "https://github.com/ConsenSys/starkex-app"
 url = "https://github.com/ConsenSys/starknet-snap"
 
 [[repo]]
+url = "https://github.com/Consensys/starknetkit"
+
+[[repo]]
 url = "https://github.com/ConsenSys/stateless-ethereum-specs"
 
 [[repo]]
 url = "https://github.com/ConsenSys/stow-homepage"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/Style-Guide"
 
 [[repo]]
+url = "https://github.com/Consensys/support-metamask-io"
+
+[[repo]]
 url = "https://github.com/ConsenSys/surya"
+
+[[repo]]
+url = "https://github.com/ConsenSys/sushiswap"
 
 [[repo]]
 url = "https://github.com/ConsenSys/tcr-audit"
@@ -1328,9 +1756,11 @@ url = "https://github.com/ConsenSys/teku-kubernetes"
 
 [[repo]]
 url = "https://github.com/ConsenSys/teku-network"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/terraform-azurerm-init"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/terraform-kaleido-consortium"
@@ -1343,6 +1773,10 @@ url = "https://github.com/ConsenSys/terraform-provider-quorum"
 
 [[repo]]
 url = "https://github.com/ConsenSys/tessera"
+
+[[repo]]
+url = "https://github.com/Consensys/test-verax"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/tests"
@@ -1369,10 +1803,16 @@ url = "https://github.com/ConsenSys/truffle-solidity-loader"
 url = "https://github.com/ConsenSys/truffle-webpack-demo"
 
 [[repo]]
+url = "https://github.com/Consensys/tuweni"
+
+[[repo]]
 url = "https://github.com/ConsenSys/tx-api-gw"
 
 [[repo]]
 url = "https://github.com/ConsenSys/Uniswap-audit-report-2018-12"
+
+[[repo]]
+url = "https://github.com/Consensys/uniswap-web3-react"
 
 [[repo]]
 url = "https://github.com/ConsenSys/UniversalToken"
@@ -1384,7 +1824,28 @@ url = "https://github.com/ConsenSys/UniversalToken-extendable"
 url = "https://github.com/ConsenSys/uport-audit"
 
 [[repo]]
+url = "https://github.com/Consensys/validator-economics"
+
+[[repo]]
 url = "https://github.com/ConsenSys/validator-smart-contracts"
+
+[[repo]]
+url = "https://github.com/Consensys/vault-loader"
+
+[[repo]]
+url = "https://github.com/Consensys/verax-documentation"
+
+[[repo]]
+url = "https://github.com/Consensys/verax-documentation-chinese"
+
+[[repo]]
+url = "https://github.com/Consensys/viem"
+
+[[repo]]
+url = "https://github.com/Consensys/viem-"
+
+[[repo]]
+url = "https://github.com/Consensys/viem-linea"
 
 [[repo]]
 url = "https://github.com/ConsenSys/vox-viewer"
@@ -1405,7 +1866,22 @@ url = "https://github.com/ConsenSys/vscode-solidity-metrics"
 url = "https://github.com/ConsenSys/vscode-tarantula"
 
 [[repo]]
+url = "https://github.com/Consensys/w3f-craig"
+
+[[repo]]
+url = "https://github.com/ConsenSys/wagmi"
+
+[[repo]]
+url = "https://github.com/Consensys/wagmi-dev-references"
+
+[[repo]]
 url = "https://github.com/ConsenSys/wallet-api"
+
+[[repo]]
+url = "https://github.com/Consensys/WalletConnect-web3modal"
+
+[[repo]]
+url = "https://github.com/Consensys/web3-fullstack-starter"
 
 [[repo]]
 url = "https://github.com/ConsenSys/web3js-eea"
@@ -1418,27 +1894,43 @@ url = "https://github.com/ConsenSys/web3signer"
 
 [[repo]]
 url = "https://github.com/ConsenSys/web3studio-data"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/web3studio-soy"
+
+[[repo]]
+url = "https://github.com/Consensys/web3tickets-snap"
 
 [[repo]]
 url = "https://github.com/ConsenSys/wittgenstein"
 
 [[repo]]
 url = "https://github.com/ConsenSys/WorkerWellnessAPI"
+missing = true
+
+[[repo]]
+url = "https://github.com/ConsenSys/wrapdapp.github.io"
+
+[[repo]]
+url = "https://github.com/Consensys/WrappedEther.dfy"
 
 [[repo]]
 url = "https://github.com/ConsenSys/zero-knowledge-proofs"
+
+[[repo]]
+url = "https://github.com/Consensys/zk-compress"
 
 [[repo]]
 url = "https://github.com/ConsenSys/zk-genesis-tool"
 
 [[repo]]
 url = "https://github.com/ConsenSys/zkBesu"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/zkp-benchmarker"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSys/zsl-q"
@@ -1543,6 +2035,9 @@ url = "https://github.com/ConsenSysMesh/custom-github-hook"
 url = "https://github.com/ConsenSysMesh/dao-wars"
 
 [[repo]]
+url = "https://github.com/ConsenSysMesh/daorectory"
+
+[[repo]]
 url = "https://github.com/ConsenSysMesh/DaoWarsRevival"
 
 [[repo]]
@@ -1555,6 +2050,9 @@ url = "https://github.com/ConsenSysMesh/dapp-store-contracts"
 url = "https://github.com/ConsenSysMesh/darq-moqi"
 
 [[repo]]
+url = "https://github.com/ConsenSysMesh/datapult-demo"
+
+[[repo]]
 url = "https://github.com/ConsenSysMesh/design-system-website"
 
 [[repo]]
@@ -1565,6 +2063,9 @@ url = "https://github.com/ConsenSysMesh/emoji-mart-picker"
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/ens-namehash-py"
+
+[[repo]]
+url = "https://github.com/ConsenSysMesh/EnterpriseZK"
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/eslint-config-web3studio"
@@ -1615,6 +2116,9 @@ url = "https://github.com/ConsenSysMesh/fluidex-scripts"
 url = "https://github.com/ConsenSysMesh/flux-get-started"
 
 [[repo]]
+url = "https://github.com/ConsenSysMesh/geopass-site"
+
+[[repo]]
 url = "https://github.com/ConsenSysMesh/gozos"
 
 [[repo]]
@@ -1631,6 +2135,9 @@ url = "https://github.com/ConsenSysMesh/hellhound-vm"
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/hooked-web3-provider"
+
+[[repo]]
+url = "https://github.com/ConsenSysMesh/hub-monorepo"
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/identity-provider"
@@ -1676,6 +2183,7 @@ url = "https://github.com/ConsenSysMesh/kauri-blog-frontend-ethba"
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/kauri-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/keyserver"
@@ -1763,6 +2271,7 @@ url = "https://github.com/ConsenSysMesh/panda-tokens"
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/panvala"
+missing = true
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/panvala-docs"
@@ -1814,6 +2323,9 @@ url = "https://github.com/ConsenSysMesh/release-build"
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/repsys-contracts"
+
+[[repo]]
+url = "https://github.com/ConsenSysMesh/research"
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/rimble-icons"
@@ -1970,6 +2482,9 @@ url = "https://github.com/ConsenSysMesh/WebsiteV1BrandStyleGuide"
 
 [[repo]]
 url = "https://github.com/ConsenSysMesh/xhttp"
+
+[[repo]]
+url = "https://github.com/ConsenSysMesh/zk-locale"
 
 [[repo]]
 url = "https://github.com/eventeum/eventeum"

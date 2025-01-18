@@ -13,6 +13,17 @@ url = "https://github.com/parami-foundation/.github"
 url = "https://github.com/parami-foundation/ad3-staker"
 
 [[repo]]
+url = "https://github.com/parami-foundation/aime-app"
+missing = true
+
+[[repo]]
+url = "https://github.com/parami-foundation/aime-web"
+
+[[repo]]
+url = "https://github.com/parami-foundation/aime-web-tg"
+missing = true
+
+[[repo]]
 url = "https://github.com/parami-foundation/apps"
 
 [[repo]]
@@ -23,6 +34,12 @@ url = "https://github.com/parami-foundation/chainbridge-utils"
 
 [[repo]]
 url = "https://github.com/parami-foundation/EIPs"
+
+[[repo]]
+url = "https://github.com/parami-foundation/eliza"
+
+[[repo]]
+url = "https://github.com/parami-foundation/ERC-5489-SDK"
 
 [[repo]]
 url = "https://github.com/parami-foundation/ethabi"
@@ -37,6 +54,12 @@ url = "https://github.com/parami-foundation/fork-off-substrate"
 url = "https://github.com/parami-foundation/frontier"
 
 [[repo]]
+url = "https://github.com/parami-foundation/gptminer-web"
+
+[[repo]]
+url = "https://github.com/parami-foundation/gptscription-web"
+
+[[repo]]
 url = "https://github.com/parami-foundation/hnft"
 
 [[repo]]
@@ -46,10 +69,14 @@ url = "https://github.com/parami-foundation/influence-mining-web"
 url = "https://github.com/parami-foundation/nft-scan-poster"
 
 [[repo]]
+url = "https://github.com/parami-foundation/parami-ad-web"
+
+[[repo]]
 url = "https://github.com/parami-foundation/parami-blockchain"
 
 [[repo]]
 url = "https://github.com/parami-foundation/parami-erc721h"
+missing = true
 
 [[repo]]
 url = "https://github.com/parami-foundation/parami-extensions"
@@ -83,3 +110,6 @@ url = "https://github.com/parami-foundation/subexpo"
 
 [[repo]]
 url = "https://github.com/parami-foundation/sygma-solidity"
+
+[[repo]]
+url = "https://github.com/parami-foundation/zkfairy-website"

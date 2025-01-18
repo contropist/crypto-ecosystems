@@ -28,6 +28,9 @@ url = "https://github.com/bitshares/alt-utils"
 url = "https://github.com/bitshares/app-push-services"
 
 [[repo]]
+url = "https://github.com/bitshares/astro-ui"
+
+[[repo]]
 url = "https://github.com/bitshares/awesome-bitshares"
 
 [[repo]]
@@ -54,6 +57,9 @@ url = "https://github.com/bitshares/bitshares-fc"
 
 [[repo]]
 url = "https://github.com/bitshares/BitShares-Gateway"
+
+[[repo]]
+url = "https://github.com/bitshares/BitShares-Gateway-old"
 
 [[repo]]
 url = "https://github.com/bitshares/bitshares-gitian"
@@ -93,6 +99,7 @@ url = "https://github.com/bitshares/bitshares-ui-api"
 
 [[repo]]
 url = "https://github.com/bitshares/bitshares-ui-original"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitshares/bitshares-ui-staging"
@@ -176,7 +183,13 @@ url = "https://github.com/bitshares/devshares"
 url = "https://github.com/bitshares/DEXBot"
 
 [[repo]]
+url = "https://github.com/bitshares/docs"
+
+[[repo]]
 url = "https://github.com/bitshares/docs.bitshares.org"
+
+[[repo]]
+url = "https://github.com/bitshares/doxygen"
 
 [[repo]]
 url = "https://github.com/bitshares/doxygen.bitshares.org"
@@ -219,6 +232,7 @@ url = "https://github.com/bitshares/marketing"
 
 [[repo]]
 url = "https://github.com/bitshares/marketing-board"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitshares/nodejs-faucet"
@@ -291,3 +305,6 @@ url = "https://github.com/bitshares/witness-monitor"
 
 [[repo]]
 url = "https://github.com/bitshares/www.bitshares.org"
+
+[[repo]]
+url = "https://github.com/chronark/swapchain"

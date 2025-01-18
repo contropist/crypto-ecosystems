@@ -1,7 +1,35 @@
 # Ecosystem Level Information
 title = "Skale Network"
 
-sub_ecosystems = ["Razor Network"]
+sub_ecosystems = [
+  "3Air",
+  "Bit Hotel",
+  "BlockDaemon",
+  "Clet Name Service",
+  "CookBook",
+  "Crypto Colosseum",
+  "CryptoBlades",
+  "Curio",
+  "Dirac Finance",
+  "Dirt Road Development",
+  "Enkrypt",
+  "Europa Hub",
+  "Exorde",
+  "Fireside",
+  "Hatchy Pocket",
+  "Meson",
+  "NFTb",
+  "NFTrade",
+  "Owl Protocol",
+  "Pixudi",
+  "Portis",
+  "Razor Network",
+  "Ruby Exchange",
+  "Score Detect",
+  "StrayShot",
+  "Tank Wars Zone",
+  "XDAO",
+]
 
 github_organizations = ["https://github.com/skalenetwork"]
 
@@ -10,7 +38,34 @@ github_organizations = ["https://github.com/skalenetwork"]
 url = "https://github.com/Abbas-Khann/NFTicket"
 
 [[repo]]
+url = "https://github.com/blockbrawlers/erc20"
+
+[[repo]]
+url = "https://github.com/heroesbattlearena/smart_contracts"
+
+[[repo]]
 url = "https://github.com/Ministry-of-Decentralization/algernon_dapp"
+
+[[repo]]
+url = "https://github.com/nftpixels/Unity-Ethereum-Signer-Demo"
+
+[[repo]]
+url = "https://github.com/nftpixels/Untitled-Gas-API"
+
+[[repo]]
+url = "https://github.com/oleksiivinogradov/dexGOweb"
+
+[[repo]]
+url = "https://github.com/oleksiivinogradov/motodexTopos"
+
+[[repo]]
+url = "https://github.com/oleksiivinogradov/motoDEXweb"
+
+[[repo]]
+url = "https://github.com/PlanetMystrios/HackOnChain"
+
+[[repo]]
+url = "https://github.com/PlanetMystrios/smartcontracts"
 
 [[repo]]
 url = "https://github.com/skalenetwork/.github"
@@ -32,6 +87,9 @@ url = "https://github.com/skalenetwork/blockchain3d"
 
 [[repo]]
 url = "https://github.com/skalenetwork/blockscout"
+
+[[repo]]
+url = "https://github.com/skalenetwork/blockscout-frontend"
 
 [[repo]]
 url = "https://github.com/skalenetwork/bounty-agent"
@@ -58,10 +116,20 @@ url = "https://github.com/skalenetwork/consensusv"
 url = "https://github.com/skalenetwork/context-contract"
 
 [[repo]]
+url = "https://github.com/skalenetwork/darkforest-v0.6"
+
+[[repo]]
 url = "https://github.com/skalenetwork/default-token-list"
 
 [[repo]]
 url = "https://github.com/skalenetwork/deploy-automation"
+missing = true
+
+[[repo]]
+url = "https://github.com/skalenetwork/deployer-edge-api"
+
+[[repo]]
+url = "https://github.com/skalenetwork/dictionary"
 
 [[repo]]
 url = "https://github.com/skalenetwork/doc-ui"
@@ -79,6 +147,9 @@ url = "https://github.com/skalenetwork/docker-wordpress-nginx"
 url = "https://github.com/skalenetwork/docs.skale.network"
 
 [[repo]]
+url = "https://github.com/skalenetwork/docs.skale.space"
+
+[[repo]]
 url = "https://github.com/skalenetwork/documentation"
 
 [[repo]]
@@ -86,6 +157,9 @@ url = "https://github.com/skalenetwork/dynamic-svg-token"
 
 [[repo]]
 url = "https://github.com/skalenetwork/erc1820-predeployed"
+
+[[repo]]
+url = "https://github.com/skalenetwork/eth-jmeter-skale"
 
 [[repo]]
 url = "https://github.com/skalenetwork/etherbase"
@@ -110,6 +184,10 @@ url = "https://github.com/skalenetwork/hackathon"
 
 [[repo]]
 url = "https://github.com/skalenetwork/hardhat"
+missing = true
+
+[[repo]]
+url = "https://github.com/skalenetwork/hardhat-node"
 
 [[repo]]
 url = "https://github.com/skalenetwork/hardhat-skale"
@@ -122,6 +200,9 @@ url = "https://github.com/skalenetwork/hmt-escrow"
 
 [[repo]]
 url = "https://github.com/skalenetwork/IMA"
+
+[[repo]]
+url = "https://github.com/skalenetwork/ima-agent"
 
 [[repo]]
 url = "https://github.com/skalenetwork/ima-c4-audit"
@@ -142,10 +223,26 @@ url = "https://github.com/skalenetwork/ima-ui"
 url = "https://github.com/skalenetwork/json-rpc-proxy"
 
 [[repo]]
+url = "https://github.com/skalenetwork/leveldb"
+
+[[repo]]
+url = "https://github.com/skalenetwork/levitation_decentralized_zk_sequencer"
+
+[[repo]]
+url = "https://github.com/skalenetwork/levitation_module_e"
+
+[[repo]]
+url = "https://github.com/skalenetwork/levitation_module_p"
+
+[[repo]]
+url = "https://github.com/skalenetwork/levitation_module_polygon_hermez"
+
+[[repo]]
 url = "https://github.com/skalenetwork/libBLS"
 
 [[repo]]
 url = "https://github.com/skalenetwork/libff"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/libjson-rpc-cpp"
@@ -155,6 +252,9 @@ url = "https://github.com/skalenetwork/linux-sgx"
 
 [[repo]]
 url = "https://github.com/skalenetwork/marionette"
+
+[[repo]]
+url = "https://github.com/skalenetwork/marionette-interfaces"
 
 [[repo]]
 url = "https://github.com/skalenetwork/metaport"
@@ -187,16 +287,34 @@ url = "https://github.com/skalenetwork/oracle-contract"
 url = "https://github.com/skalenetwork/oracle-demo"
 
 [[repo]]
+url = "https://github.com/skalenetwork/oracle-sdk"
+
+[[repo]]
 url = "https://github.com/skalenetwork/oracle_tests"
 
 [[repo]]
 url = "https://github.com/skalenetwork/oss-fuzz"
 
 [[repo]]
+url = "https://github.com/skalenetwork/paymaster"
+
+[[repo]]
+url = "https://github.com/skalenetwork/paymaster-interfaces"
+
+[[repo]]
 url = "https://github.com/skalenetwork/pbc"
 
 [[repo]]
+url = "https://github.com/skalenetwork/portal"
+
+[[repo]]
+url = "https://github.com/skalenetwork/portal-server"
+
+[[repo]]
 url = "https://github.com/skalenetwork/pow-demo"
+
+[[repo]]
+url = "https://github.com/skalenetwork/pow-unity"
 
 [[repo]]
 url = "https://github.com/skalenetwork/predeployed"
@@ -221,9 +339,11 @@ url = "https://github.com/skalenetwork/se-integrations"
 
 [[repo]]
 url = "https://github.com/skalenetwork/sgx-docker"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/sgx-lkl"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/sgx.py"
@@ -250,6 +370,9 @@ url = "https://github.com/skalenetwork/skale-ci-integration_tests"
 url = "https://github.com/skalenetwork/skale-consensus"
 
 [[repo]]
+url = "https://github.com/skalenetwork/skale-contracts"
+
+[[repo]]
 url = "https://github.com/skalenetwork/skale-demo"
 
 [[repo]]
@@ -272,6 +395,7 @@ url = "https://github.com/skalenetwork/skale-manager-interfaces"
 
 [[repo]]
 url = "https://github.com/skalenetwork/skale-network"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/skalenetwork/skale-nms"
@@ -281,6 +405,7 @@ url = "https://github.com/skalenetwork/skale-node"
 
 [[repo]]
 url = "https://github.com/skalenetwork/skale-node-monitor"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/skale-node-monitor-jenkins"
@@ -293,6 +418,9 @@ url = "https://github.com/skalenetwork/skale-proxy"
 
 [[repo]]
 url = "https://github.com/skalenetwork/skale-sdk"
+
+[[repo]]
+url = "https://github.com/skalenetwork/skale-stats-collector"
 
 [[repo]]
 url = "https://github.com/skalenetwork/skale-test-abi"
@@ -322,6 +450,9 @@ url = "https://github.com/skalenetwork/skaled-stats-viewer"
 url = "https://github.com/skalenetwork/skaled-tests"
 
 [[repo]]
+url = "https://github.com/skalenetwork/skaled_tmp"
+
+[[repo]]
 url = "https://github.com/skalenetwork/sla-agent"
 
 [[repo]]
@@ -335,6 +466,7 @@ url = "https://github.com/skalenetwork/test-docs"
 
 [[repo]]
 url = "https://github.com/skalenetwork/test-pm"
+missing = true
 
 [[repo]]
 url = "https://github.com/skalenetwork/test-tokens"
@@ -359,3 +491,33 @@ url = "https://github.com/skalenetwork/web3-exercises"
 
 [[repo]]
 url = "https://github.com/skalenetwork/workflow_test"
+
+[[repo]]
+url = "https://github.com/TheGreatAxios/barebones-metaport"
+
+[[repo]]
+url = "https://github.com/TheGreatAxios/branch-rpg"
+
+[[repo]]
+url = "https://github.com/TheGreatAxios/hardhat-skale"
+
+[[repo]]
+url = "https://github.com/TheGreatAxios/multicall-example"
+
+[[repo]]
+url = "https://github.com/TheGreatAxios/skale-block-chain-id-test"
+
+[[repo]]
+url = "https://github.com/TheGreatAxios/skale-erc6551-example"
+
+[[repo]]
+url = "https://github.com/TheGreatAxios/skale-oracle-example-js"
+
+[[repo]]
+url = "https://github.com/TheGreatAxios/skale-platformer"
+
+[[repo]]
+url = "https://github.com/TheGreatAxios/skale-viem-test"
+
+[[repo]]
+url = "https://github.com/TheGreatAxios/user-action-contracts"

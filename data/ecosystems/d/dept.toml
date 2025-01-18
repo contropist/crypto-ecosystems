@@ -22,7 +22,28 @@ url = "https://github.com/deptagency/algorand-devcontainer"
 url = "https://github.com/deptagency/algorand-royalty-enforcer"
 
 [[repo]]
+url = "https://github.com/deptagency/AndroidStarterCode2024"
+
+[[repo]]
+url = "https://github.com/deptagency/animated-character-controller"
+
+[[repo]]
 url = "https://github.com/deptagency/ARCs"
+
+[[repo]]
+url = "https://github.com/deptagency/audi-vw-infra"
+missing = true
+
+[[repo]]
+url = "https://github.com/deptagency/audi-vw-survey-analytics"
+missing = true
+
+[[repo]]
+url = "https://github.com/deptagency/audi-vw-survey-app"
+missing = true
+
+[[repo]]
+url = "https://github.com/deptagency/blog-todoapp-example"
 
 [[repo]]
 url = "https://github.com/deptagency/c4-draw.io"
@@ -38,6 +59,9 @@ url = "https://github.com/deptagency/contentful-migrate"
 
 [[repo]]
 url = "https://github.com/deptagency/contentful-typescript-codegen"
+
+[[repo]]
+url = "https://github.com/deptagency/CustomShapeButton"
 
 [[repo]]
 url = "https://github.com/deptagency/dept-aspnetcore-environments-extensions"
@@ -64,6 +88,9 @@ url = "https://github.com/deptagency/discord-token-gating"
 url = "https://github.com/deptagency/dw2d-public"
 
 [[repo]]
+url = "https://github.com/deptagency/engineering-blog-github-actions"
+
+[[repo]]
 url = "https://github.com/deptagency/engineering-blog-terraform-default-tags"
 
 [[repo]]
@@ -76,6 +103,10 @@ url = "https://github.com/deptagency/engineering-soapboxes"
 url = "https://github.com/deptagency/express"
 
 [[repo]]
+url = "https://github.com/deptagency/JetpackComposeParallax"
+missing = true
+
+[[repo]]
 url = "https://github.com/deptagency/ktraceroute"
 
 [[repo]]
@@ -86,6 +117,12 @@ url = "https://github.com/deptagency/octopus"
 
 [[repo]]
 url = "https://github.com/deptagency/oppy"
+
+[[repo]]
+url = "https://github.com/deptagency/sanity.io"
+
+[[repo]]
+url = "https://github.com/deptagency/SimpleRecipes"
 
 [[repo]]
 url = "https://github.com/deptagency/snakes-on-a-chain"

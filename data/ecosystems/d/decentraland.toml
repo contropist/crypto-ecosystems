@@ -37,16 +37,31 @@ url = "https://github.com/decentraland/aragonswap"
 url = "https://github.com/decentraland/archipelago"
 
 [[repo]]
+url = "https://github.com/decentraland/archipelago-nats"
+
+[[repo]]
+url = "https://github.com/decentraland/archipelago-prometheus-nats-exporter"
+
+[[repo]]
 url = "https://github.com/decentraland/archipelago-service"
 
 [[repo]]
 url = "https://github.com/decentraland/archipelago-service-world"
 
 [[repo]]
+url = "https://github.com/decentraland/archipelago-workers"
+
+[[repo]]
 url = "https://github.com/decentraland/architecture"
 
 [[repo]]
+url = "https://github.com/decentraland/artweek"
+
+[[repo]]
 url = "https://github.com/decentraland/asset-bundle-converter"
+
+[[repo]]
+url = "https://github.com/decentraland/asset-packs"
 
 [[repo]]
 url = "https://github.com/decentraland/atlas-server"
@@ -55,7 +70,13 @@ url = "https://github.com/decentraland/atlas-server"
 url = "https://github.com/decentraland/auction"
 
 [[repo]]
+url = "https://github.com/decentraland/auth"
+
+[[repo]]
 url = "https://github.com/decentraland/auth-go"
+
+[[repo]]
+url = "https://github.com/decentraland/auth-server"
 
 [[repo]]
 url = "https://github.com/decentraland/automated-webgl-test"
@@ -76,13 +97,22 @@ url = "https://github.com/decentraland/avatars-contract"
 url = "https://github.com/decentraland/babylon-reference-implementation"
 
 [[repo]]
+url = "https://github.com/decentraland/badges"
+
+[[repo]]
 url = "https://github.com/decentraland/base-ts-project"
+
+[[repo]]
+url = "https://github.com/decentraland/bevy-explorer"
 
 [[repo]]
 url = "https://github.com/decentraland/bid-contract"
 
 [[repo]]
 url = "https://github.com/decentraland/block-indexer"
+
+[[repo]]
+url = "https://github.com/decentraland/blockchain-event-notifier"
 
 [[repo]]
 url = "https://github.com/decentraland/bounties"
@@ -106,10 +136,22 @@ url = "https://github.com/decentraland/builder-client"
 url = "https://github.com/decentraland/builder-server"
 
 [[repo]]
+url = "https://github.com/decentraland/builder-templates"
+
+[[repo]]
 url = "https://github.com/decentraland/calculate-populated-land"
 
 [[repo]]
+url = "https://github.com/decentraland/camera-reel-service"
+
+[[repo]]
 url = "https://github.com/decentraland/canilla"
+
+[[repo]]
+url = "https://github.com/decentraland/casi-hackers-hackaton"
+
+[[repo]]
+url = "https://github.com/decentraland/cast"
 
 [[repo]]
 url = "https://github.com/decentraland/catalyst"
@@ -119,6 +161,9 @@ url = "https://github.com/decentraland/catalyst-api-specs"
 
 [[repo]]
 url = "https://github.com/decentraland/catalyst-client"
+
+[[repo]]
+url = "https://github.com/decentraland/catalyst-client-examples"
 
 [[repo]]
 url = "https://github.com/decentraland/catalyst-commons"
@@ -139,6 +184,9 @@ url = "https://github.com/decentraland/catalyst-node-commons"
 url = "https://github.com/decentraland/catalyst-owner"
 
 [[repo]]
+url = "https://github.com/decentraland/catalyst-run"
+
+[[repo]]
 url = "https://github.com/decentraland/catalyst-scripts"
 
 [[repo]]
@@ -154,6 +202,9 @@ url = "https://github.com/decentraland/catalyst-storage"
 url = "https://github.com/decentraland/checker-contract"
 
 [[repo]]
+url = "https://github.com/decentraland/ClearScript"
+
+[[repo]]
 url = "https://github.com/decentraland/cli"
 
 [[repo]]
@@ -161,6 +212,12 @@ url = "https://github.com/decentraland/cli-e2e"
 
 [[repo]]
 url = "https://github.com/decentraland/cli-preview-in-server"
+
+[[repo]]
+url = "https://github.com/decentraland/client-sdk-unity"
+
+[[repo]]
+url = "https://github.com/decentraland/collaborative-editor-server"
 
 [[repo]]
 url = "https://github.com/decentraland/collection-proxy-verifier"
@@ -178,7 +235,17 @@ url = "https://github.com/decentraland/com.decentraland.unity-renderer-test"
 url = "https://github.com/decentraland/common-contracts"
 
 [[repo]]
+url = "https://github.com/decentraland/comms-gatekeeper"
+
+[[repo]]
 url = "https://github.com/decentraland/comms-library"
+
+[[repo]]
+url = "https://github.com/decentraland/comms-scraper"
+missing = true
+
+[[repo]]
+url = "https://github.com/decentraland/comms-station"
 
 [[repo]]
 url = "https://github.com/decentraland/comms-v3"
@@ -220,13 +287,28 @@ url = "https://github.com/decentraland/crdt"
 url = "https://github.com/decentraland/crdt-scene"
 
 [[repo]]
+url = "https://github.com/decentraland/creator-hub"
+
+[[repo]]
+url = "https://github.com/decentraland/creators-hub"
+
+[[repo]]
 url = "https://github.com/decentraland/crunch"
+
+[[repo]]
+url = "https://github.com/decentraland/dae-unit-tests"
 
 [[repo]]
 url = "https://github.com/decentraland/dao-apps"
 
 [[repo]]
 url = "https://github.com/decentraland/dao-curations-calc"
+
+[[repo]]
+url = "https://github.com/decentraland/dao-scenes-ranking"
+
+[[repo]]
+url = "https://github.com/decentraland/dao_scenes_ranking"
 
 [[repo]]
 url = "https://github.com/decentraland/dapp-boilerplate"
@@ -239,12 +321,25 @@ url = "https://github.com/decentraland/dapps-issues"
 
 [[repo]]
 url = "https://github.com/decentraland/dapps-notification-server"
+missing = true
+
+[[repo]]
+url = "https://github.com/decentraland/dapps-substreams-server"
 
 [[repo]]
 url = "https://github.com/decentraland/dcl-access-area"
 
 [[repo]]
+url = "https://github.com/decentraland/dcl-auth-websocket-rs"
+
+[[repo]]
 url = "https://github.com/decentraland/dcl-builder-hud"
+
+[[repo]]
+url = "https://github.com/decentraland/dcl-crypto-middleware-rs"
+
+[[repo]]
+url = "https://github.com/decentraland/dcl-crypto-toolkit"
 
 [[repo]]
 url = "https://github.com/decentraland/dcl-deploy-action"
@@ -254,6 +349,15 @@ url = "https://github.com/decentraland/dcl-ecs-quests"
 
 [[repo]]
 url = "https://github.com/decentraland/dcl-gin"
+
+[[repo]]
+url = "https://github.com/decentraland/dcl-godot-cli"
+
+[[repo]]
+url = "https://github.com/decentraland/dcl-http-prom-metrics"
+
+[[repo]]
+url = "https://github.com/decentraland/dcl-onboarding"
 
 [[repo]]
 url = "https://github.com/decentraland/dcl-quests-api-spec"
@@ -313,6 +417,9 @@ url = "https://github.com/decentraland/decentraland-crypto-fetch"
 url = "https://github.com/decentraland/decentraland-crypto-middleware"
 
 [[repo]]
+url = "https://github.com/decentraland/decentraland-crypto-rust"
+
+[[repo]]
 url = "https://github.com/decentraland/decentraland-crypto-utils"
 
 [[repo]]
@@ -348,12 +455,16 @@ url = "https://github.com/decentraland/decentraland-npc-utils"
 
 [[repo]]
 url = "https://github.com/decentraland/decentraland-pulumi"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/decentraland-rpc"
 
 [[repo]]
 url = "https://github.com/decentraland/decentraland-server"
+
+[[repo]]
+url = "https://github.com/decentraland/decentraland-substreams"
 
 [[repo]]
 url = "https://github.com/decentraland/decentraland-transactions"
@@ -371,19 +482,28 @@ url = "https://github.com/decentraland/deeplink-landing"
 url = "https://github.com/decentraland/deployment-map"
 
 [[repo]]
+url = "https://github.com/decentraland/deployments-sse"
+
+[[repo]]
 url = "https://github.com/decentraland/deployments-to-sqs"
+
+[[repo]]
+url = "https://github.com/decentraland/discoverability"
 
 [[repo]]
 url = "https://github.com/decentraland/districts"
 
 [[repo]]
 url = "https://github.com/decentraland/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/docs-legacy"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/docs-legacy-cn"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/documentation"
@@ -408,6 +528,13 @@ url = "https://github.com/decentraland/dummy-token"
 
 [[repo]]
 url = "https://github.com/decentraland/dummy-token-ui"
+missing = true
+
+[[repo]]
+url = "https://github.com/decentraland/dynamic-ui"
+
+[[repo]]
+url = "https://github.com/decentraland/ea-bff"
 
 [[repo]]
 url = "https://github.com/decentraland/ecs"
@@ -422,6 +549,9 @@ url = "https://github.com/decentraland/ecs-reference"
 url = "https://github.com/decentraland/ecs-types"
 
 [[repo]]
+url = "https://github.com/decentraland/editor-electron"
+
+[[repo]]
 url = "https://github.com/decentraland/editor-legacy"
 
 [[repo]]
@@ -429,6 +559,9 @@ url = "https://github.com/decentraland/editor-sdk6"
 
 [[repo]]
 url = "https://github.com/decentraland/editor-sdk7"
+
+[[repo]]
+url = "https://github.com/decentraland/editor-sdk7-scene-template"
 
 [[repo]]
 url = "https://github.com/decentraland/ephemeralkey"
@@ -467,6 +600,9 @@ url = "https://github.com/decentraland/ethereumjs-util"
 url = "https://github.com/decentraland/events"
 
 [[repo]]
+url = "https://github.com/decentraland/events-notifier"
+
+[[repo]]
 url = "https://github.com/decentraland/explorer"
 
 [[repo]]
@@ -477,6 +613,9 @@ url = "https://github.com/decentraland/explorer-desktop"
 
 [[repo]]
 url = "https://github.com/decentraland/explorer-desktop-launcher"
+
+[[repo]]
+url = "https://github.com/decentraland/explorer-skyboxes"
 
 [[repo]]
 url = "https://github.com/decentraland/explorer-technical-backlog"
@@ -492,6 +631,7 @@ url = "https://github.com/decentraland/favorites-server"
 
 [[repo]]
 url = "https://github.com/decentraland/feedback"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/ffmpeg-static"
@@ -501,6 +641,9 @@ url = "https://github.com/decentraland/FFMPEGMediaDecoder"
 
 [[repo]]
 url = "https://github.com/decentraland/frontend-starter"
+
+[[repo]]
+url = "https://github.com/decentraland/game-expo"
 
 [[repo]]
 url = "https://github.com/decentraland/gate"
@@ -515,7 +658,22 @@ url = "https://github.com/decentraland/gltf-pipeline"
 url = "https://github.com/decentraland/glTFast"
 
 [[repo]]
+url = "https://github.com/decentraland/godot-docker-builder"
+
+[[repo]]
+url = "https://github.com/decentraland/godot-explorer"
+
+[[repo]]
+url = "https://github.com/decentraland/godot-explorer-android-template"
+
+[[repo]]
+url = "https://github.com/decentraland/godotengine"
+
+[[repo]]
 url = "https://github.com/decentraland/governance"
+
+[[repo]]
+url = "https://github.com/decentraland/governance-ui"
 
 [[repo]]
 url = "https://github.com/decentraland/graph-node"
@@ -531,6 +689,9 @@ url = "https://github.com/decentraland/hexutil"
 
 [[repo]]
 url = "https://github.com/decentraland/holodeck"
+
+[[repo]]
+url = "https://github.com/decentraland/intercom-chat-page"
 
 [[repo]]
 url = "https://github.com/decentraland/ion-sdk-js"
@@ -587,6 +748,9 @@ url = "https://github.com/decentraland/LAND-permissions-graph"
 url = "https://github.com/decentraland/landing-festival"
 
 [[repo]]
+url = "https://github.com/decentraland/launcher"
+
+[[repo]]
 url = "https://github.com/decentraland/ledger-wallet-provider"
 
 [[repo]]
@@ -608,6 +772,15 @@ url = "https://github.com/decentraland/linker-server-authorizations"
 url = "https://github.com/decentraland/livekit-adapter"
 
 [[repo]]
+url = "https://github.com/decentraland/livekit-components-js"
+
+[[repo]]
+url = "https://github.com/decentraland/livekit-rust-sdks"
+
+[[repo]]
+url = "https://github.com/decentraland/lods-generator"
+
+[[repo]]
 url = "https://github.com/decentraland/mana"
 
 [[repo]]
@@ -618,6 +791,7 @@ url = "https://github.com/decentraland/mana-graph"
 
 [[repo]]
 url = "https://github.com/decentraland/manaboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/marketplace"
@@ -635,6 +809,21 @@ url = "https://github.com/decentraland/marketplace-favorites-server"
 url = "https://github.com/decentraland/marketplace-legacy"
 
 [[repo]]
+url = "https://github.com/decentraland/marketplace-server"
+
+[[repo]]
+url = "https://github.com/decentraland/marketplace-squid"
+
+[[repo]]
+url = "https://github.com/decentraland/marketplace-squid-core"
+
+[[repo]]
+url = "https://github.com/decentraland/markteplace-squid"
+
+[[repo]]
+url = "https://github.com/decentraland/matchmaking-server"
+
+[[repo]]
 url = "https://github.com/decentraland/matrix-client"
 
 [[repo]]
@@ -644,8 +833,7 @@ url = "https://github.com/decentraland/matrix-playbook"
 url = "https://github.com/decentraland/matrix-reloaded"
 
 [[repo]]
-url = "https://github.com/decentraland/merkle-distributor"
-missing = true
+url = "https://github.com/decentraland/meet"
 
 [[repo]]
 url = "https://github.com/decentraland/messaging-service"
@@ -654,10 +842,16 @@ url = "https://github.com/decentraland/messaging-service"
 url = "https://github.com/decentraland/mini-comms"
 
 [[repo]]
+url = "https://github.com/decentraland/mini-rpc"
+
+[[repo]]
 url = "https://github.com/decentraland/monaco-typescript"
 
 [[repo]]
 url = "https://github.com/decentraland/MultiSigWallet"
+
+[[repo]]
+url = "https://github.com/decentraland/musicfestival"
 
 [[repo]]
 url = "https://github.com/decentraland/nats-test"
@@ -682,9 +876,19 @@ url = "https://github.com/decentraland/nifty-gg"
 
 [[repo]]
 url = "https://github.com/decentraland/nifty-prize"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/node-runtime"
+
+[[repo]]
+url = "https://github.com/decentraland/notifications-workers"
+
+[[repo]]
+url = "https://github.com/decentraland/notificator"
+
+[[repo]]
+url = "https://github.com/decentraland/offchain-marketplace-contract"
 
 [[repo]]
 url = "https://github.com/decentraland/old-documentation"
@@ -693,16 +897,40 @@ url = "https://github.com/decentraland/old-documentation"
 url = "https://github.com/decentraland/opscli"
 
 [[repo]]
+url = "https://github.com/decentraland/ownership-server"
+
+[[repo]]
+url = "https://github.com/decentraland/ownership-server-owner"
+
+[[repo]]
 url = "https://github.com/decentraland/pass-through"
 
 [[repo]]
 url = "https://github.com/decentraland/peerjs-server"
 
 [[repo]]
+url = "https://github.com/decentraland/pickup-quest-scene"
+
+[[repo]]
 url = "https://github.com/decentraland/pixel-chain-mural-scene"
 
 [[repo]]
 url = "https://github.com/decentraland/places"
+
+[[repo]]
+url = "https://github.com/decentraland/platform-actions"
+
+[[repo]]
+url = "https://github.com/decentraland/platform-crypto-middleware"
+
+[[repo]]
+url = "https://github.com/decentraland/platform-server-commons"
+
+[[repo]]
+url = "https://github.com/decentraland/platform-substreams-indexer"
+
+[[repo]]
+url = "https://github.com/decentraland/platform-test-helpers"
 
 [[repo]]
 url = "https://github.com/decentraland/player-documentation"
@@ -726,6 +954,15 @@ url = "https://github.com/decentraland/posix"
 url = "https://github.com/decentraland/pow-authorization-server"
 
 [[repo]]
+url = "https://github.com/decentraland/profile"
+
+[[repo]]
+url = "https://github.com/decentraland/profile-images"
+
+[[repo]]
+url = "https://github.com/decentraland/profile-images-playground"
+
+[[repo]]
 url = "https://github.com/decentraland/proposals"
 
 [[repo]]
@@ -741,7 +978,25 @@ url = "https://github.com/decentraland/protoc-gen-rust"
 url = "https://github.com/decentraland/protocol"
 
 [[repo]]
+url = "https://github.com/decentraland/protocol-squad"
+
+[[repo]]
+url = "https://github.com/decentraland/protocol-squad-unity-explorer"
+
+[[repo]]
 url = "https://github.com/decentraland/provider-engine"
+
+[[repo]]
+url = "https://github.com/decentraland/quests"
+
+[[repo]]
+url = "https://github.com/decentraland/quests-client"
+
+[[repo]]
+url = "https://github.com/decentraland/quests-designer"
+
+[[repo]]
+url = "https://github.com/decentraland/quests-manager"
 
 [[repo]]
 url = "https://github.com/decentraland/quickjs-emscripten"
@@ -750,10 +1005,19 @@ url = "https://github.com/decentraland/quickjs-emscripten"
 url = "https://github.com/decentraland/rca"
 
 [[repo]]
+url = "https://github.com/decentraland/realm-provider"
+
+[[repo]]
 url = "https://github.com/decentraland/redux-persistence"
 
 [[repo]]
 url = "https://github.com/decentraland/redux-persistence-engine-localstorage"
+
+[[repo]]
+url = "https://github.com/decentraland/reels"
+
+[[repo]]
+url = "https://github.com/decentraland/renderer-bff"
 
 [[repo]]
 url = "https://github.com/decentraland/renderer-protocol"
@@ -789,19 +1053,36 @@ url = "https://github.com/decentraland/rpc-server-benchmarker"
 url = "https://github.com/decentraland/rpc-unity-example"
 
 [[repo]]
+url = "https://github.com/decentraland/rust-ffmpeg"
+
+[[repo]]
+url = "https://github.com/decentraland/rust-ffmpeg-sys"
+
+[[repo]]
 url = "https://github.com/decentraland/sample-scene-dog-cat-mouse-cheese"
 
 [[repo]]
 url = "https://github.com/decentraland/sample-scene-script"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/sample-scene-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/sample-scenes"
 
 [[repo]]
+url = "https://github.com/decentraland/scene-explorer-tests"
+
+[[repo]]
+url = "https://github.com/decentraland/scene-lod-entities-manifest-builder"
+
+[[repo]]
 url = "https://github.com/decentraland/scene-runtime"
+
+[[repo]]
+url = "https://github.com/decentraland/scene-state-server"
 
 [[repo]]
 url = "https://github.com/decentraland/schemas"
@@ -813,10 +1094,22 @@ url = "https://github.com/decentraland/sdk"
 url = "https://github.com/decentraland/sdk-content-server"
 
 [[repo]]
+url = "https://github.com/decentraland/sdk-dcl-cast-scene"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk-empty-scene-template"
+
+[[repo]]
 url = "https://github.com/decentraland/sdk-issues"
 
 [[repo]]
 url = "https://github.com/decentraland/sdk-library"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk-mini-games"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk-players-queue"
 
 [[repo]]
 url = "https://github.com/decentraland/sdk-playground"
@@ -828,7 +1121,34 @@ url = "https://github.com/decentraland/sdk-test-scenes"
 url = "https://github.com/decentraland/sdk-ws"
 
 [[repo]]
+url = "https://github.com/decentraland/sdk6-adaption-layer"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk7-adaption-layer"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk7-goerli-plaza"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk7-library-template"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk7-npc-utils"
+
+[[repo]]
 url = "https://github.com/decentraland/sdk7-scene-template"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk7-streaming-world"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk7-test-scenes"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk7-ui-utils"
+
+[[repo]]
+url = "https://github.com/decentraland/sdk7-utils"
 
 [[repo]]
 url = "https://github.com/decentraland/serverless-snapshots"
@@ -846,6 +1166,15 @@ url = "https://github.com/decentraland/show-management"
 url = "https://github.com/decentraland/signatures-server"
 
 [[repo]]
+url = "https://github.com/decentraland/single-sign-on"
+
+[[repo]]
+url = "https://github.com/decentraland/single-sign-on-client"
+
+[[repo]]
+url = "https://github.com/decentraland/single-sign-on-react-client"
+
+[[repo]]
 url = "https://github.com/decentraland/smart-contract-audits"
 
 [[repo]]
@@ -853,6 +1182,9 @@ url = "https://github.com/decentraland/smart-item-sample"
 
 [[repo]]
 url = "https://github.com/decentraland/smart-items"
+
+[[repo]]
+url = "https://github.com/decentraland/smart-wearable-sample"
 
 [[repo]]
 url = "https://github.com/decentraland/snapshot-server"
@@ -870,13 +1202,31 @@ url = "https://github.com/decentraland/snapshot.js"
 url = "https://github.com/decentraland/snapshots-fetcher"
 
 [[repo]]
+url = "https://github.com/decentraland/social-client"
+
+[[repo]]
+url = "https://github.com/decentraland/social-rpc-client-js"
+
+[[repo]]
 url = "https://github.com/decentraland/social-service"
 
 [[repo]]
 url = "https://github.com/decentraland/social-service-api-specs"
 
 [[repo]]
+url = "https://github.com/decentraland/social-service-ea"
+
+[[repo]]
 url = "https://github.com/decentraland/socket-pool"
+
+[[repo]]
+url = "https://github.com/decentraland/squid-management-server"
+
+[[repo]]
+url = "https://github.com/decentraland/squid-management-ui"
+
+[[repo]]
+url = "https://github.com/decentraland/standalone-editor"
 
 [[repo]]
 url = "https://github.com/decentraland/standards"
@@ -894,13 +1244,31 @@ url = "https://github.com/decentraland/stoneage-node"
 url = "https://github.com/decentraland/studios"
 
 [[repo]]
+url = "https://github.com/decentraland/substreams-reorg-handler"
+
+[[repo]]
+url = "https://github.com/decentraland/substreams-server"
+
+[[repo]]
+url = "https://github.com/decentraland/substreams-sink-postgres"
+
+[[repo]]
+url = "https://github.com/decentraland/substreams-sink-postgres-fork"
+
+[[repo]]
 url = "https://github.com/decentraland/subtitle.js"
+
+[[repo]]
+url = "https://github.com/decentraland/summit-24"
 
 [[repo]]
 url = "https://github.com/decentraland/synapse-identity-server"
 
 [[repo]]
 url = "https://github.com/decentraland/talent-hub"
+
+[[repo]]
+url = "https://github.com/decentraland/tap-coingecko"
 
 [[repo]]
 url = "https://github.com/decentraland/tap-decentraland-api"
@@ -928,6 +1296,7 @@ url = "https://github.com/decentraland/technical-documentation"
 
 [[repo]]
 url = "https://github.com/decentraland/technical-roadmap"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/technical-tutorials"
@@ -936,10 +1305,16 @@ url = "https://github.com/decentraland/technical-tutorials"
 url = "https://github.com/decentraland/test-new-ecs-scene"
 
 [[repo]]
+url = "https://github.com/decentraland/test-reporting"
+
+[[repo]]
 url = "https://github.com/decentraland/test-scene-integration"
 
 [[repo]]
 url = "https://github.com/decentraland/test-sdk-playground"
+
+[[repo]]
+url = "https://github.com/decentraland/testnet-contract-migrations"
 
 [[repo]]
 url = "https://github.com/decentraland/textures-helper"
@@ -954,16 +1329,26 @@ url = "https://github.com/decentraland/third-party-aggregator"
 url = "https://github.com/decentraland/third-party-api-resolver-example"
 
 [[repo]]
+url = "https://github.com/decentraland/third-party-providers-resolver"
+
+[[repo]]
 url = "https://github.com/decentraland/tile-map"
 
 [[repo]]
 url = "https://github.com/decentraland/tpr-graph"
 
 [[repo]]
+url = "https://github.com/decentraland/trades-squid"
+
+[[repo]]
+url = "https://github.com/decentraland/trades-squid-core"
+
+[[repo]]
 url = "https://github.com/decentraland/transactions-server"
 
 [[repo]]
 url = "https://github.com/decentraland/transparency"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentraland/treasure-hunt"
@@ -978,13 +1363,37 @@ url = "https://github.com/decentraland/ui"
 url = "https://github.com/decentraland/ui-env"
 
 [[repo]]
+url = "https://github.com/decentraland/ui2"
+
+[[repo]]
+url = "https://github.com/decentraland/unity-builder"
+
+[[repo]]
 url = "https://github.com/decentraland/unity-exercise-battle"
 
 [[repo]]
 url = "https://github.com/decentraland/unity-exercise-effects"
 
 [[repo]]
+url = "https://github.com/decentraland/unity-explorer"
+
+[[repo]]
+url = "https://github.com/decentraland/unity-explorer-plugin-system"
+
+[[repo]]
+url = "https://github.com/decentraland/Unity-GifDecoder"
+
+[[repo]]
+url = "https://github.com/decentraland/unity-gltf"
+
+[[repo]]
+url = "https://github.com/decentraland/unity-jsb"
+
+[[repo]]
 url = "https://github.com/decentraland/unity-renderer"
+
+[[repo]]
+url = "https://github.com/decentraland/unity-return-license"
 
 [[repo]]
 url = "https://github.com/decentraland/unity-shared-dependencies"
@@ -999,10 +1408,16 @@ url = "https://github.com/decentraland/Unity3D-NSubstitute"
 url = "https://github.com/decentraland/UnityGLTF"
 
 [[repo]]
+url = "https://github.com/decentraland/UniVRM"
+
+[[repo]]
 url = "https://github.com/decentraland/urn-namespaces"
 
 [[repo]]
 url = "https://github.com/decentraland/urn-resolver"
+
+[[repo]]
+url = "https://github.com/decentraland/uws-test"
 
 [[repo]]
 url = "https://github.com/decentraland/vesting-dashboard"
@@ -1023,7 +1438,16 @@ url = "https://github.com/decentraland/voting"
 url = "https://github.com/decentraland/vr-client"
 
 [[repo]]
+url = "https://github.com/decentraland/Vtubing"
+
+[[repo]]
+url = "https://github.com/decentraland/warp-server-with-rpc-server"
+
+[[repo]]
 url = "https://github.com/decentraland/wasm-quickjs-loader"
+
+[[repo]]
+url = "https://github.com/decentraland/watermelon"
 
 [[repo]]
 url = "https://github.com/decentraland/wearable-preview"
@@ -1068,4 +1492,8 @@ url = "https://github.com/nova-apps/dcl-novaworks-snake"
 url = "https://github.com/supercrytoking/marketplace"
 
 [[repo]]
+url = "https://github.com/thehubdao/dcl-edit"
+
+[[repo]]
 url = "https://github.com/WhiteDragon001227/land-marketplace-erc1155"
+missing = true

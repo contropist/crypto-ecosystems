@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/polynetwork"]
 url = "https://github.com/polynetwork/aptos-contracts"
 
 [[repo]]
+url = "https://github.com/polynetwork/aptos-go-sdk"
+
+[[repo]]
 url = "https://github.com/polynetwork/arbitrum-relayer"
 
 [[repo]]
@@ -55,16 +58,24 @@ url = "https://github.com/polynetwork/cosmos-relayer"
 url = "https://github.com/polynetwork/curve"
 
 [[repo]]
+url = "https://github.com/polynetwork/defillama"
+
+[[repo]]
 url = "https://github.com/polynetwork/dev-docs"
 
 [[repo]]
 url = "https://github.com/polynetwork/docs"
+missing = true
 
 [[repo]]
 url = "https://github.com/polynetwork/emergency-button"
+missing = true
 
 [[repo]]
 url = "https://github.com/polynetwork/eth-contracts"
+
+[[repo]]
+url = "https://github.com/polynetwork/eth-faucet"
 
 [[repo]]
 url = "https://github.com/polynetwork/eth-relayer"
@@ -121,6 +132,9 @@ url = "https://github.com/polynetwork/heco-relayer"
 url = "https://github.com/polynetwork/kai-relayer"
 
 [[repo]]
+url = "https://github.com/polynetwork/lockproxy"
+
+[[repo]]
 url = "https://github.com/polynetwork/mxc-relayer"
 
 [[repo]]
@@ -154,6 +168,9 @@ url = "https://github.com/polynetwork/ont-eth-ft-tool"
 url = "https://github.com/polynetwork/ont-relayer"
 
 [[repo]]
+url = "https://github.com/polynetwork/ont-voter"
+
+[[repo]]
 url = "https://github.com/polynetwork/palette-network-example"
 
 [[repo]]
@@ -172,10 +189,14 @@ url = "https://github.com/polynetwork/pixie-chain-relayer"
 url = "https://github.com/polynetwork/poly"
 
 [[repo]]
+url = "https://github.com/polynetwork/poly-assets"
+
+[[repo]]
 url = "https://github.com/polynetwork/poly-bridge"
 
 [[repo]]
 url = "https://github.com/polynetwork/poly-bridge-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/polynetwork/poly-go-sdk"
@@ -191,6 +212,7 @@ url = "https://github.com/polynetwork/poly-swap-bridge"
 
 [[repo]]
 url = "https://github.com/polynetwork/poly-validator"
+missing = true
 
 [[repo]]
 url = "https://github.com/polynetwork/poly_deployer"
@@ -208,10 +230,16 @@ url = "https://github.com/polynetwork/quorum-relayer"
 url = "https://github.com/polynetwork/relayer-patch"
 
 [[repo]]
+url = "https://github.com/polynetwork/ripple"
+
+[[repo]]
 url = "https://github.com/polynetwork/ripple-sdk"
 
 [[repo]]
 url = "https://github.com/polynetwork/tss-lib"
+
+[[repo]]
+url = "https://github.com/polynetwork/website"
 
 [[repo]]
 url = "https://github.com/polynetwork/wrapper"
@@ -227,3 +255,9 @@ url = "https://github.com/polynetwork/Zion"
 
 [[repo]]
 url = "https://github.com/polynetwork/zion-setup"
+
+[[repo]]
+url = "https://github.com/polynetwork/zion-stake-web"
+
+[[repo]]
+url = "https://github.com/polynetwork/zion-test"

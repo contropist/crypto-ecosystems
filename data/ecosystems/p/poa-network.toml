@@ -11,9 +11,6 @@ url = "https://github.com/AffogatoNetwork/ristretto"
 tags = ["Dapp"]
 
 [[repo]]
-url = "https://github.com/blockscout/blockscout"
-
-[[repo]]
 url = "https://github.com/gnosischain/posdao-test-setup"
 
 [[repo]]
@@ -90,6 +87,7 @@ url = "https://github.com/oraclesorg/metamask-plugin"
 
 [[repo]]
 url = "https://github.com/oraclesorg/multisender"
+missing = true
 
 [[repo]]
 url = "https://github.com/oraclesorg/oracles-dapps-proof-of-phone"
@@ -123,6 +121,7 @@ url = "https://github.com/poanetwork/chain-explorer"
 
 [[repo]]
 url = "https://github.com/poanetwork/circleci-playground"
+missing = true
 
 [[repo]]
 url = "https://github.com/poanetwork/classic-local-testnet"
@@ -138,6 +137,7 @@ url = "https://github.com/poanetwork/deployment-azure"
 
 [[repo]]
 url = "https://github.com/poanetwork/deployment-bridge"
+missing = true
 
 [[repo]]
 url = "https://github.com/poanetwork/deployment-playbooks"
@@ -183,6 +183,7 @@ url = "https://github.com/poanetwork/ex_abi"
 
 [[repo]]
 url = "https://github.com/poanetwork/ex_rlp"
+missing = true
 
 [[repo]]
 url = "https://github.com/poanetwork/gasprice"
@@ -253,6 +254,7 @@ url = "https://github.com/poanetwork/parity-ethereum"
 
 [[repo]]
 url = "https://github.com/poanetwork/parity-orchestrator"
+missing = true
 
 [[repo]]
 url = "https://github.com/poanetwork/parity-tokio-ipc"
@@ -289,6 +291,7 @@ url = "https://github.com/poanetwork/poa-governance-notifications"
 
 [[repo]]
 url = "https://github.com/poanetwork/poa-mania-telegram-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/poanetwork/poa-netstats-agent"
@@ -323,18 +326,21 @@ url = "https://github.com/poanetwork/poamania-contracts"
 
 [[repo]]
 url = "https://github.com/poanetwork/poamania-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/poanetwork/poamania-subgraph"
 
 [[repo]]
 url = "https://github.com/poanetwork/poamania-telegram-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/poanetwork/poatogether-contracts"
 
 [[repo]]
 url = "https://github.com/poanetwork/poatogether-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/poanetwork/pods-frontend"
@@ -368,6 +374,7 @@ url = "https://github.com/poanetwork/rox"
 
 [[repo]]
 url = "https://github.com/poanetwork/rust-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/poanetwork/rust-gmp"
@@ -380,6 +387,7 @@ url = "https://github.com/poanetwork/solidity-flattener"
 
 [[repo]]
 url = "https://github.com/poanetwork/stake-token-withdrawal-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/poanetwork/threshold_crypto"

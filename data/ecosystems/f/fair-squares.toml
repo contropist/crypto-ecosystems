@@ -19,6 +19,9 @@ url = "https://github.com/Fair-Squares/fair-squares"
 url = "https://github.com/Fair-Squares/fair-squares-parachain"
 
 [[repo]]
+url = "https://github.com/Fair-Squares/Fair-Squares-V2.0"
+
+[[repo]]
 url = "https://github.com/Fair-Squares/fs-dapp"
 
 [[repo]]
@@ -38,6 +41,7 @@ url = "https://github.com/Fair-Squares/litentry-pallets"
 
 [[repo]]
 url = "https://github.com/Fair-Squares/Optimized_Fair-squares"
+missing = true
 
 [[repo]]
 url = "https://github.com/Fair-Squares/website"

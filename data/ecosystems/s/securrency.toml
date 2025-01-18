@@ -10,6 +10,10 @@ github_organizations = ["https://github.com/Securrency"]
 url = "https://github.com/Securrency/.github"
 
 [[repo]]
+url = "https://github.com/Securrency/app-uninstallation-scripts"
+missing = true
+
+[[repo]]
 url = "https://github.com/Securrency/mark"
 
 [[repo]]

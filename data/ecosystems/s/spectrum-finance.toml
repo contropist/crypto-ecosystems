@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/ergolabs", "https://github.com/spect
 
 # Repositories
 [[repo]]
+url = "https://github.com/code-for-uss/ergo-dex-backend"
+
+[[repo]]
+url = "https://github.com/spectrum-finance/.github"
+
+[[repo]]
 url = "https://github.com/spectrum-finance/analytics"
 
 [[repo]]
@@ -46,7 +52,18 @@ url = "https://github.com/spectrum-finance/cardano-markets-tracker"
 url = "https://github.com/spectrum-finance/cardano-meta-simple"
 
 [[repo]]
+url = "https://github.com/spectrum-finance/cardano-token-handler"
+
+[[repo]]
+url = "https://github.com/spectrum-finance/cardano-token-list"
+
+[[repo]]
+url = "https://github.com/spectrum-finance/cardano-tokens"
+missing = true
+
+[[repo]]
 url = "https://github.com/spectrum-finance/default-token-list"
+missing = true
 
 [[repo]]
 url = "https://github.com/spectrum-finance/dex-sdk"
@@ -76,6 +93,9 @@ url = "https://github.com/spectrum-finance/ergo-dex-sdk-js"
 url = "https://github.com/spectrum-finance/ergo-sdk-js"
 
 [[repo]]
+url = "https://github.com/spectrum-finance/ergo-token-list"
+
+[[repo]]
 url = "https://github.com/spectrum-finance/ergo_dex_aiobot"
 
 [[repo]]
@@ -88,10 +108,16 @@ url = "https://github.com/spectrum-finance/ergoscript-simulator"
 url = "https://github.com/spectrum-finance/hlog"
 
 [[repo]]
+url = "https://github.com/spectrum-finance/hummingbot"
+
+[[repo]]
 url = "https://github.com/spectrum-finance/interface"
 
 [[repo]]
 url = "https://github.com/spectrum-finance/metadata-hooks"
+
+[[repo]]
+url = "https://github.com/spectrum-finance/plutus-guidelines"
 
 [[repo]]
 url = "https://github.com/spectrum-finance/sips"
@@ -100,7 +126,13 @@ url = "https://github.com/spectrum-finance/sips"
 url = "https://github.com/spectrum-finance/spectrum"
 
 [[repo]]
+url = "https://github.com/spectrum-finance/spectrum-bloom"
+
+[[repo]]
 url = "https://github.com/spectrum-finance/spectrum-offchain-ergo"
+
+[[repo]]
+url = "https://github.com/spectrum-finance/spectrum-offchain-lib"
 
 [[repo]]
 url = "https://github.com/spectrum-finance/token-logos"

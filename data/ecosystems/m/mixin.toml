@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/MixinMessenger", "https://github.com
 # Repositories
 [[repo]]
 url = "https://github.com/MixinMessenger/curve"
+missing = true
 
 [[repo]]
 url = "https://github.com/MixinNetwork/android-app"
@@ -88,6 +89,9 @@ url = "https://github.com/MixinNetwork/go-number"
 url = "https://github.com/MixinNetwork/go-safe-sdk"
 
 [[repo]]
+url = "https://github.com/MixinNetwork/governance"
+
+[[repo]]
 url = "https://github.com/MixinNetwork/handsaw"
 
 [[repo]]
@@ -95,6 +99,7 @@ url = "https://github.com/MixinNetwork/help.mvm.app"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/homebrew-tap"
+missing = true
 
 [[repo]]
 url = "https://github.com/MixinNetwork/ios-app"
@@ -104,6 +109,7 @@ url = "https://github.com/MixinNetwork/jjwt"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/jsonwebtoken"
+missing = true
 
 [[repo]]
 url = "https://github.com/MixinNetwork/jubjub"
@@ -137,13 +143,22 @@ url = "https://github.com/MixinNetwork/mixin"
 tags = ["Protocol"]
 
 [[repo]]
+url = "https://github.com/MixinNetwork/mixin-kernel-sdk-go"
+
+[[repo]]
 url = "https://github.com/MixinNetwork/mixin-rust-sdk"
+
+[[repo]]
+url = "https://github.com/MixinNetwork/mixin-sdk-go"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/mixin-testnet-setup"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/mixin-wallet"
+
+[[repo]]
+url = "https://github.com/MixinNetwork/mixin-web3-provider"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/mixin.network"
@@ -156,6 +171,9 @@ url = "https://github.com/MixinNetwork/mixin_bot_sdk_dart"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/mixswap_sdk_dart"
+
+[[repo]]
+url = "https://github.com/MixinNetwork/mobile"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/mobilecoin"
@@ -206,22 +224,39 @@ url = "https://github.com/MixinNetwork/PhoneNumberKit"
 url = "https://github.com/MixinNetwork/pion"
 
 [[repo]]
+url = "https://github.com/MixinNetwork/safe"
+
+[[repo]]
+url = "https://github.com/MixinNetwork/safe-contracts"
+
+[[repo]]
+url = "https://github.com/MixinNetwork/safe-go-sdk"
+
+[[repo]]
+url = "https://github.com/MixinNetwork/safe-singleton-factory"
+
+[[repo]]
 url = "https://github.com/MixinNetwork/shop"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/SignalProtocolC"
 
 [[repo]]
+url = "https://github.com/MixinNetwork/solana-go"
+
+[[repo]]
 url = "https://github.com/MixinNetwork/styles"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/supergroup-bot"
+missing = true
 
 [[repo]]
 url = "https://github.com/MixinNetwork/supergroup.mixin.one"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/surfing"
+missing = true
 
 [[repo]]
 url = "https://github.com/MixinNetwork/tink-eddsa"
@@ -237,6 +272,9 @@ url = "https://github.com/MixinNetwork/vuepress-theme-cosmos"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/wcdb"
+
+[[repo]]
+url = "https://github.com/MixinNetwork/web3.swift"
 
 [[repo]]
 url = "https://github.com/MixinNetwork/web3dart"

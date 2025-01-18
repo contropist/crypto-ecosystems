@@ -7,10 +7,16 @@ github_organizations = ["https://github.com/synonymdev"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/synonymdev/atomicity"
+
+[[repo]]
 url = "https://github.com/synonymdev/backpack-client-old"
 
 [[repo]]
 url = "https://github.com/synonymdev/backpack-host-old"
+
+[[repo]]
+url = "https://github.com/synonymdev/beignet"
 
 [[repo]]
 url = "https://github.com/synonymdev/bip32"
@@ -35,6 +41,7 @@ url = "https://github.com/synonymdev/blocktank-routing-manager"
 
 [[repo]]
 url = "https://github.com/synonymdev/blocktank-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/synonymdev/blocktank-tightrope"
@@ -53,6 +60,7 @@ url = "https://github.com/synonymdev/blocktank-worker-ln"
 
 [[repo]]
 url = "https://github.com/synonymdev/corestore-networker"
+missing = true
 
 [[repo]]
 url = "https://github.com/synonymdev/dht"
@@ -68,9 +76,11 @@ url = "https://github.com/synonymdev/docker-electrs"
 
 [[repo]]
 url = "https://github.com/synonymdev/docker-lnd"
+missing = true
 
 [[repo]]
 url = "https://github.com/synonymdev/docker-obd"
+missing = true
 
 [[repo]]
 url = "https://github.com/synonymdev/docker-omnicore"
@@ -88,16 +98,54 @@ url = "https://github.com/synonymdev/ldk-garbagecollected-docker"
 url = "https://github.com/synonymdev/ldk-node-js"
 
 [[repo]]
+url = "https://github.com/synonymdev/ledger"
+
+[[repo]]
 url = "https://github.com/synonymdev/lightning-channel-id-js"
 
 [[repo]]
+url = "https://github.com/synonymdev/ln-constr-parser"
+
+[[repo]]
 url = "https://github.com/synonymdev/lnd"
+missing = true
+
+[[repo]]
+url = "https://github.com/synonymdev/lsp-client"
+
+[[repo]]
+url = "https://github.com/synonymdev/lsp-exchange-rate"
+
+[[repo]]
+url = "https://github.com/synonymdev/lsp-monitor"
+
+[[repo]]
+url = "https://github.com/synonymdev/lsp-routing-manager"
+
+[[repo]]
+url = "https://github.com/synonymdev/lsp-server-old"
 
 [[repo]]
 url = "https://github.com/synonymdev/lsp-spec"
 
 [[repo]]
+url = "https://github.com/synonymdev/lsp-tightrope"
+
+[[repo]]
+url = "https://github.com/synonymdev/lsp-ui"
+
+[[repo]]
+url = "https://github.com/synonymdev/lsp-worker"
+
+[[repo]]
+url = "https://github.com/synonymdev/lsp-worker-btc"
+
+[[repo]]
+url = "https://github.com/synonymdev/lsp-worker-ln"
+
+[[repo]]
 url = "https://github.com/synonymdev/lspd"
+missing = true
 
 [[repo]]
 url = "https://github.com/synonymdev/nigiri"
@@ -118,13 +166,28 @@ url = "https://github.com/synonymdev/omni-tracker-api"
 url = "https://github.com/synonymdev/omnibolt-js"
 
 [[repo]]
+url = "https://github.com/synonymdev/pm2-slack-killswitch"
+
+[[repo]]
+url = "https://github.com/synonymdev/raw-transaction-decoder"
+
+[[repo]]
+url = "https://github.com/synonymdev/react-native-address-generator"
+
+[[repo]]
 url = "https://github.com/synonymdev/react-native-electrum-client"
 
 [[repo]]
 url = "https://github.com/synonymdev/react-native-fs"
 
 [[repo]]
+url = "https://github.com/synonymdev/react-native-keychain"
+
+[[repo]]
 url = "https://github.com/synonymdev/react-native-ldk"
+
+[[repo]]
+url = "https://github.com/synonymdev/react-native-ldk-api-plugin"
 
 [[repo]]
 url = "https://github.com/synonymdev/react-native-lightning"
@@ -134,6 +197,12 @@ url = "https://github.com/synonymdev/react-native-lnurl"
 
 [[repo]]
 url = "https://github.com/synonymdev/react-native-slashtags"
+
+[[repo]]
+url = "https://github.com/synonymdev/result"
+
+[[repo]]
+url = "https://github.com/synonymdev/selfie-records"
 
 [[repo]]
 url = "https://github.com/synonymdev/slash-pay-demo-server"
@@ -172,6 +241,9 @@ url = "https://github.com/synonymdev/slashtags-exchange-account-daemon"
 url = "https://github.com/synonymdev/slashtags-feeds"
 
 [[repo]]
+url = "https://github.com/synonymdev/slashtags-profile"
+
+[[repo]]
 url = "https://github.com/synonymdev/slashtags-rn-example"
 
 [[repo]]
@@ -185,3 +257,6 @@ url = "https://github.com/synonymdev/slashtags-widget-news-feed"
 
 [[repo]]
 url = "https://github.com/synonymdev/slashtags-widget-price-feed"
+
+[[repo]]
+url = "https://github.com/synonymdev/sodium-react-native"

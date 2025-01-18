@@ -127,10 +127,16 @@ url = "https://github.com/1Hive/conviction-voting-discord-bot"
 url = "https://github.com/1Hive/conviction-voting-interface"
 
 [[repo]]
+url = "https://github.com/1Hive/cors-service"
+
+[[repo]]
 url = "https://github.com/1Hive/create-vote-script"
 
 [[repo]]
 url = "https://github.com/1Hive/credao"
+
+[[repo]]
+url = "https://github.com/1Hive/cron"
 
 [[repo]]
 url = "https://github.com/1Hive/dandelion-template"
@@ -220,6 +226,9 @@ url = "https://github.com/1Hive/flora"
 url = "https://github.com/1Hive/flora-discount-validator"
 
 [[repo]]
+url = "https://github.com/1Hive/fluid-proposals"
+
+[[repo]]
 url = "https://github.com/1Hive/fluid-proposals-service"
 
 [[repo]]
@@ -248,6 +257,9 @@ url = "https://github.com/1Hive/gardens-template"
 
 [[repo]]
 url = "https://github.com/1Hive/gardens-ui"
+
+[[repo]]
+url = "https://github.com/1Hive/gardens-v2"
 
 [[repo]]
 url = "https://github.com/1Hive/gitcoin-appeals"
@@ -401,6 +413,7 @@ url = "https://github.com/1Hive/sourcecred-airdrop"
 
 [[repo]]
 url = "https://github.com/1Hive/staking"
+missing = true
 
 [[repo]]
 url = "https://github.com/1Hive/standards"

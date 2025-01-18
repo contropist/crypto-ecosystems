@@ -7,13 +7,21 @@ github_organizations = ["https://github.com/peeranha"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/peeranha/bloxroute-widget-demo"
+
+[[repo]]
 url = "https://github.com/peeranha/peeranha"
 
 [[repo]]
 url = "https://github.com/peeranha/peeranha-move"
+missing = true
 
 [[repo]]
 url = "https://github.com/peeranha/peeranha-query-index"
+
+[[repo]]
+url = "https://github.com/peeranha/peeranha-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/peeranha/peeranha-web"
@@ -25,4 +33,10 @@ url = "https://github.com/peeranha/suiql-ui"
 url = "https://github.com/peeranha/super-rotary-phone"
 
 [[repo]]
+url = "https://github.com/peeranha/testRepo"
+
+[[repo]]
 url = "https://github.com/peeranha/web3-onboard"
+
+[[repo]]
+url = "https://github.com/peeranha/web3-onboardV2"

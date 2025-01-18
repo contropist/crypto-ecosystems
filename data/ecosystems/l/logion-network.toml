@@ -13,6 +13,9 @@ url = "https://github.com/logion-network/.github"
 url = "https://github.com/logion-network/apps"
 
 [[repo]]
+url = "https://github.com/logion-network/astar.js"
+
+[[repo]]
 url = "https://github.com/logion-network/brand-assets"
 
 [[repo]]
@@ -28,6 +31,9 @@ url = "https://github.com/logion-network/dist-exiftool"
 url = "https://github.com/logion-network/exiftool-context"
 
 [[repo]]
+url = "https://github.com/logion-network/expo-poc"
+
+[[repo]]
 url = "https://github.com/logion-network/extension"
 
 [[repo]]
@@ -35,6 +41,10 @@ url = "https://github.com/logion-network/Grant-Milestone-Delivery"
 
 [[repo]]
 url = "https://github.com/logion-network/jsonrpc-proxy"
+missing = true
+
+[[repo]]
+url = "https://github.com/logion-network/laurenttrk-extension"
 
 [[repo]]
 url = "https://github.com/logion-network/logion-api"
@@ -52,7 +62,13 @@ url = "https://github.com/logion-network/logion-backend-ts"
 url = "https://github.com/logion-network/logion-collator"
 
 [[repo]]
+url = "https://github.com/logion-network/logion-collator-prototype"
+
+[[repo]]
 url = "https://github.com/logion-network/logion-collection-item-submitter"
+
+[[repo]]
+url = "https://github.com/logion-network/logion-crowdloan-reward"
 
 [[repo]]
 url = "https://github.com/logion-network/logion-directory"
@@ -64,10 +80,25 @@ url = "https://github.com/logion-network/logion-gateway"
 url = "https://github.com/logion-network/logion-idloc-gateway"
 
 [[repo]]
+url = "https://github.com/logion-network/logion-ink"
+
+[[repo]]
+url = "https://github.com/logion-network/logion-ink-test"
+
+[[repo]]
+url = "https://github.com/logion-network/logion-nfts"
+
+[[repo]]
 url = "https://github.com/logion-network/logion-node"
 
 [[repo]]
+url = "https://github.com/logion-network/logion-offchain-client-template"
+
+[[repo]]
 url = "https://github.com/logion-network/logion-pallets"
+
+[[repo]]
+url = "https://github.com/logion-network/logion-paris-dot-comm"
 
 [[repo]]
 url = "https://github.com/logion-network/logion-pg-backup-manager"
@@ -85,6 +116,9 @@ url = "https://github.com/logion-network/logion-solidity"
 url = "https://github.com/logion-network/logion-test"
 
 [[repo]]
+url = "https://github.com/logion-network/logion-tools"
+
+[[repo]]
 url = "https://github.com/logion-network/logion-wallet"
 
 [[repo]]
@@ -100,6 +134,9 @@ url = "https://github.com/logion-network/node-exiftool.exe"
 url = "https://github.com/logion-network/node-exiftool.pl"
 
 [[repo]]
+url = "https://github.com/logion-network/openbrush-contracts"
+
+[[repo]]
 url = "https://github.com/logion-network/pallet-lo-authority-list"
 
 [[repo]]
@@ -110,6 +147,9 @@ url = "https://github.com/logion-network/pallet-logion-vault"
 
 [[repo]]
 url = "https://github.com/logion-network/pallet-verified-recovery"
+
+[[repo]]
+url = "https://github.com/logion-network/ReactNativePoc"
 
 [[repo]]
 url = "https://github.com/logion-network/ss58-registry"

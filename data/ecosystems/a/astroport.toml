@@ -11,6 +11,16 @@ url = "https://github.com/astroport-fi/aips"
 
 [[repo]]
 url = "https://github.com/astroport-fi/anchor-bAsset-contracts"
+missing = true
+
+[[repo]]
+url = "https://github.com/astroport-fi/asteroid-local"
+
+[[repo]]
+url = "https://github.com/astroport-fi/asteroid-protocol"
+
+[[repo]]
+url = "https://github.com/astroport-fi/asteroid-sdk-cca-example"
 
 [[repo]]
 url = "https://github.com/astroport-fi/astro-generator-proxy-contracts"
@@ -34,6 +44,15 @@ url = "https://github.com/astroport-fi/astroport-bootstrapping"
 url = "https://github.com/astroport-fi/astroport-changelog"
 
 [[repo]]
+url = "https://github.com/astroport-fi/astroport-classic-api"
+
+[[repo]]
+url = "https://github.com/astroport-fi/astroport-classic-frontend"
+
+[[repo]]
+url = "https://github.com/astroport-fi/astroport-classic-recovery"
+
+[[repo]]
 url = "https://github.com/astroport-fi/astroport-core"
 
 [[repo]]
@@ -44,6 +63,7 @@ url = "https://github.com/astroport-fi/astroport-governance"
 
 [[repo]]
 url = "https://github.com/astroport-fi/astroport-landing-page"
+missing = true
 
 [[repo]]
 url = "https://github.com/astroport-fi/astroport-lbp-frontend"
@@ -53,6 +73,12 @@ url = "https://github.com/astroport-fi/astroport-lbport"
 
 [[repo]]
 url = "https://github.com/astroport-fi/astroport-legal-docs"
+
+[[repo]]
+url = "https://github.com/astroport-fi/astroport-math"
+
+[[repo]]
+url = "https://github.com/astroport-fi/astroport-on-osmosis"
 
 [[repo]]
 url = "https://github.com/astroport-fi/astroport-sims"
@@ -73,10 +99,19 @@ url = "https://github.com/astroport-fi/blog"
 url = "https://github.com/astroport-fi/cw-bigint"
 
 [[repo]]
+url = "https://github.com/astroport-fi/cw-multi-test"
+
+[[repo]]
+url = "https://github.com/astroport-fi/DefiLlama-Adapters"
+
+[[repo]]
 url = "https://github.com/astroport-fi/dfunk_contracts"
 
 [[repo]]
 url = "https://github.com/astroport-fi/docs"
+
+[[repo]]
+url = "https://github.com/astroport-fi/fe-content"
 
 [[repo]]
 url = "https://github.com/astroport-fi/lockdrop-frontend"
@@ -95,6 +130,10 @@ url = "https://github.com/astroport-fi/terraswap"
 
 [[repo]]
 url = "https://github.com/astroport-fi/token-lists"
+missing = true
 
 [[repo]]
 url = "https://github.com/astroport-fi/valkyrieprotocol"
+
+[[repo]]
+url = "https://github.com/astroport-fi/yield-server"

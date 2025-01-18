@@ -19,6 +19,9 @@ url = "https://github.com/liquity/assets"
 url = "https://github.com/liquity/beta"
 
 [[repo]]
+url = "https://github.com/liquity/bold"
+
+[[repo]]
 url = "https://github.com/liquity/ChickenBond"
 
 [[repo]]
@@ -82,6 +85,12 @@ url = "https://github.com/liquity/liquity"
 url = "https://github.com/liquity/mev-job-board"
 
 [[repo]]
+url = "https://github.com/liquity/nft_gas_comparison"
+
+[[repo]]
+url = "https://github.com/liquity/nohost"
+
+[[repo]]
 url = "https://github.com/liquity/peggedassets-server"
 
 [[repo]]
@@ -92,3 +101,6 @@ url = "https://github.com/liquity/protocol-v2"
 
 [[repo]]
 url = "https://github.com/liquity/uniswapv2-solc0.8"
+
+[[repo]]
+url = "https://github.com/liquity/V2-gov"

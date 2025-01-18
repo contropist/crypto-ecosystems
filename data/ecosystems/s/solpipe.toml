@@ -8,9 +8,11 @@ github_organizations = ["https://github.com/solpipe"]
 # Repositories
 [[repo]]
 url = "https://github.com/solpipe/cba"
+missing = true
 
 [[repo]]
 url = "https://github.com/solpipe/go-solana-firehose"
+missing = true
 
 [[repo]]
 url = "https://github.com/solpipe/kisskit"
@@ -23,6 +25,8 @@ url = "https://github.com/solpipe/solana-firehose"
 
 [[repo]]
 url = "https://github.com/solpipe/solpipe-tool"
+missing = true
 
 [[repo]]
 url = "https://github.com/solpipe/solpipe-util"
+missing = true

@@ -13,6 +13,12 @@ url = "https://github.com/Quillhash/abci"
 url = "https://github.com/Quillhash/aeternity_supply_chain_tokenisation"
 
 [[repo]]
+url = "https://github.com/Quillhash/avs-backend"
+
+[[repo]]
+url = "https://github.com/Quillhash/avs-frontend"
+
+[[repo]]
 url = "https://github.com/Quillhash/awesome-crypto-trackers"
 
 [[repo]]
@@ -62,6 +68,9 @@ url = "https://github.com/Quillhash/eosio-token"
 
 [[repo]]
 url = "https://github.com/Quillhash/ethereum-developer-tools-list"
+
+[[repo]]
+url = "https://github.com/Quillhash/EVM-Mastery"
 
 [[repo]]
 url = "https://github.com/Quillhash/FarmToFork"
@@ -124,6 +133,9 @@ url = "https://github.com/Quillhash/Project-40"
 url = "https://github.com/Quillhash/Project2"
 
 [[repo]]
+url = "https://github.com/Quillhash/Proxies-Security"
+
+[[repo]]
 url = "https://github.com/Quillhash/Quill-CTFs"
 
 [[repo]]
@@ -145,10 +157,16 @@ url = "https://github.com/Quillhash/quillhash-xebia-meetup"
 url = "https://github.com/Quillhash/quillTrace"
 
 [[repo]]
+url = "https://github.com/Quillhash/Real-World-Assets"
+
+[[repo]]
 url = "https://github.com/Quillhash/sample-blockchain-vehicle-lifecycle"
 
 [[repo]]
 url = "https://github.com/Quillhash/Smart-contract-Auditing-Methodology-mindmap"
+
+[[repo]]
+url = "https://github.com/Quillhash/Smart-Contract-Developer-Roadmap"
 
 [[repo]]
 url = "https://github.com/Quillhash/Solidity-Attack-Vectors"
@@ -179,3 +197,6 @@ url = "https://github.com/Quillhash/Web3-Security-Tools"
 
 [[repo]]
 url = "https://github.com/Quillhash/worker-proposals"
+
+[[repo]]
+url = "https://github.com/Quillhash/Zero-Knowledge-Mastery"

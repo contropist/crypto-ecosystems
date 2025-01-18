@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/RageTrade"]
 url = "https://github.com/RageTrade/80-20-risk-analysis"
 
 [[repo]]
+url = "https://github.com/RageTrade/Aggregator-SDK-Integration"
+
+[[repo]]
 url = "https://github.com/RageTrade/apis"
 
 [[repo]]
@@ -40,7 +43,19 @@ url = "https://github.com/RageTrade/gmx-analysis"
 url = "https://github.com/RageTrade/gmx-vault"
 
 [[repo]]
+url = "https://github.com/RageTrade/multichain-hash"
+
+[[repo]]
+url = "https://github.com/RageTrade/Perp-Aggregator-SDK"
+
+[[repo]]
+url = "https://github.com/RageTrade/rage-utils"
+
+[[repo]]
 url = "https://github.com/RageTrade/safe-react"
+
+[[repo]]
+url = "https://github.com/RageTrade/scw-contracts"
 
 [[repo]]
 url = "https://github.com/RageTrade/sdk"

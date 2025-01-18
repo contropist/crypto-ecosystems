@@ -3,7 +3,7 @@ title = "InstaDApp"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/InstaDApp"]
+github_organizations = ["https://github.com/Instadapp"]
 
 # Repositories
 [[repo]]
@@ -25,6 +25,15 @@ url = "https://github.com/Instadapp/assembly"
 url = "https://github.com/Instadapp/assets"
 
 [[repo]]
+url = "https://github.com/Instadapp/avocado-audits"
+
+[[repo]]
+url = "https://github.com/Instadapp/avocado-contracts-public"
+
+[[repo]]
+url = "https://github.com/Instadapp/avocado-integration"
+
+[[repo]]
 url = "https://github.com/Instadapp/avocado-sdk"
 
 [[repo]]
@@ -37,10 +46,17 @@ url = "https://github.com/Instadapp/boardroom-inc-protocol-Info"
 url = "https://github.com/InstaDApp/brand"
 
 [[repo]]
+url = "https://github.com/Instadapp/chainlist"
+
+[[repo]]
+url = "https://github.com/Instadapp/chains"
+
+[[repo]]
 url = "https://github.com/Instadapp/compound-dsa-managers"
 
 [[repo]]
 url = "https://github.com/InstaDApp/defibot"
+missing = true
 
 [[repo]]
 url = "https://github.com/InstaDApp/docs"
@@ -55,6 +71,9 @@ url = "https://github.com/Instadapp/dsa-connect-data"
 url = "https://github.com/InstaDApp/dsa-connectors"
 
 [[repo]]
+url = "https://github.com/Instadapp/dsa-connectors-2.0"
+
+[[repo]]
 url = "https://github.com/InstaDApp/dsa-connectors-old"
 
 [[repo]]
@@ -65,6 +84,7 @@ url = "https://github.com/InstaDApp/dsa-developers"
 
 [[repo]]
 url = "https://github.com/InstaDApp/dsa-ecosystem"
+missing = true
 
 [[repo]]
 url = "https://github.com/InstaDApp/dsa-flashloan"
@@ -97,7 +117,14 @@ url = "https://github.com/Instadapp/fla-fees-subgraph"
 url = "https://github.com/Instadapp/flashloan-aggregator"
 
 [[repo]]
+url = "https://github.com/Instadapp/fluid-brand"
+
+[[repo]]
+url = "https://github.com/Instadapp/fluid-contracts-public"
+
+[[repo]]
 url = "https://github.com/InstaDApp/flusher-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/Instadapp/Forta-Agents"
@@ -110,6 +137,9 @@ url = "https://github.com/Instadapp/gov-proposals"
 
 [[repo]]
 url = "https://github.com/Instadapp/infinite-proxy"
+
+[[repo]]
+url = "https://github.com/Instadapp/inst-governance"
 
 [[repo]]
 url = "https://github.com/Instadapp/insta-graphs"
@@ -131,9 +161,11 @@ url = "https://github.com/Instadapp/Paraswap-subgraph"
 
 [[repo]]
 url = "https://github.com/InstaDApp/reserve"
+missing = true
 
 [[repo]]
 url = "https://github.com/InstaDApp/SaiPool"
+missing = true
 
 [[repo]]
 url = "https://github.com/InstaDApp/smart-contract"
@@ -143,12 +175,14 @@ url = "https://github.com/Instadapp/smart-lookup"
 
 [[repo]]
 url = "https://github.com/InstaDApp/spells"
+missing = true
 
 [[repo]]
 url = "https://github.com/Instadapp/Swap-Aggregator-Subgraph"
 
 [[repo]]
 url = "https://github.com/Instadapp/token-vesting"
+missing = true
 
 [[repo]]
 url = "https://github.com/Instadapp/trustwallet-assets"
@@ -161,6 +195,9 @@ url = "https://github.com/Instadapp/utils"
 
 [[repo]]
 url = "https://github.com/Instadapp/vue-web3"
+
+[[repo]]
+url = "https://github.com/Instadapp/web3modal-ethers5"
 
 [[repo]]
 url = "https://github.com/InstaDApp/yield-contract"

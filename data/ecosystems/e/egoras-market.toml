@@ -7,7 +7,40 @@ github_organizations = ["https://github.com/EgorasMarket"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/EgorasMarket/Chain-Egoras-Org"
+
+[[repo]]
 url = "https://github.com/EgorasMarket/code"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/CubeFrontend"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Dex-Egoras-Org"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/EGCCode"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/egochain"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Egochain-Blockchain"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Egochain-bridge"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/egochain-dex-swap"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Egomart-Egoras-Org"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Egomart-Frontend-Mainnet"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/EgomartLandingPage"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/Egoras-Landing-Page"
@@ -23,6 +56,9 @@ url = "https://github.com/EgorasMarket/Egoras-Savings-App"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/EGORAS-V3-smart"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Egoras.com"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/EgorasAMM"
@@ -50,9 +86,13 @@ url = "https://github.com/EgorasMarket/EgorasSmartContractV2"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/EgorasV2"
+missing = true
 
 [[repo]]
 url = "https://github.com/EgorasMarket/EgorasWeb"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Egoscan-multi-chain-node"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/EGR-REFERRAL"
@@ -61,7 +101,32 @@ url = "https://github.com/EgorasMarket/EGR-REFERRAL"
 url = "https://github.com/EgorasMarket/Ella.ng"
 
 [[repo]]
+url = "https://github.com/EgorasMarket/Fort-Admin"
+missing = true
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Humming-Bot-Main"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/HummingBot-Backend"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Kuraa-Frontend"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Market-Making-Bot"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Marketplace-Block-Reward"
+
+[[repo]]
 url = "https://github.com/EgorasMarket/Marketplace-web-app"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/Marketplacefrontend"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/MartgptNgDeployer"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/Media-Kit"
@@ -74,6 +139,14 @@ url = "https://github.com/EgorasMarket/Microfinance-Smartcontract"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/NGNC-Stability-Mechanism"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/pluto-swap"
+missing = true
+
+[[repo]]
+url = "https://github.com/EgorasMarket/PlutoEarnFontEnd"
+missing = true
 
 [[repo]]
 url = "https://github.com/EgorasMarket/Stagging-Egoras-Nft-Farming-UI-Public"
@@ -92,6 +165,9 @@ url = "https://github.com/EgorasMarket/Swap-CryptoLoans"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/SwapCryptoLoanUpdate"
+
+[[repo]]
+url = "https://github.com/EgorasMarket/tokens.egoras.com"
 
 [[repo]]
 url = "https://github.com/EgorasMarket/Vault-Smartcontract"

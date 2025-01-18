@@ -3,9 +3,13 @@ title = "Prism Finance"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/prism-finance"]
+github_organizations = ["https://github.com/Prism-Finance"]
 
 # Repositories
+[[repo]]
+url = "https://github.com/prism-finance/alliance"
+missing = true
+
 [[repo]]
 url = "https://github.com/prism-finance/classic-core"
 
@@ -19,16 +23,26 @@ url = "https://github.com/prism-finance/lido-terra-contracts"
 url = "https://github.com/prism-finance/LocalTerra"
 
 [[repo]]
+url = "https://github.com/prism-finance/osmosis"
+missing = true
+
+[[repo]]
 url = "https://github.com/prism-finance/prism-auto-compounding-casset"
 
 [[repo]]
 url = "https://github.com/prism-finance/prism-contracts"
+missing = true
+
+[[repo]]
+url = "https://github.com/Prism-Finance/Prism-Finance"
 
 [[repo]]
 url = "https://github.com/prism-finance/prism-forge-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/prism-finance/prismswap-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/prism-finance/terraswap"

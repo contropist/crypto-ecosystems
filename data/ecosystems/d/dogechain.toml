@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Dogechain"
 
-sub_ecosystems = []
+sub_ecosystems = ["Bridge Network", "Floki", "Frax", "Multichain (Anyswap)", "RadioShack Swap"]
 
 github_organizations = ["https://github.com/dogechain-lab"]
 
@@ -37,7 +37,13 @@ url = "https://github.com/dogechain-lab/fastrlp"
 url = "https://github.com/dogechain-lab/go-ethereum"
 
 [[repo]]
+url = "https://github.com/dogechain-lab/graph-node"
+
+[[repo]]
 url = "https://github.com/dogechain-lab/leveldb-tools"
 
 [[repo]]
 url = "https://github.com/dogechain-lab/remix-project"
+
+[[repo]]
+url = "https://github.com/dogechain-lab/safe-deployments"

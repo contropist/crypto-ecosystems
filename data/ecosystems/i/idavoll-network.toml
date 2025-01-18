@@ -11,6 +11,10 @@ url = "https://github.com/idavollnetwork/alpen"
 
 [[repo]]
 url = "https://github.com/idavollnetwork/Alpen-contract"
+missing = true
+
+[[repo]]
+url = "https://github.com/idavollnetwork/alpen-frontend"
 
 [[repo]]
 url = "https://github.com/idavollnetwork/contracts"

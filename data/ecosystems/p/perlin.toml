@@ -10,6 +10,21 @@ github_organizations = ["https://github.com/perlin-network"]
 url = "https://github.com/perlin-network/badger"
 
 [[repo]]
+url = "https://github.com/perlin-network/bs-bioassets-registry"
+
+[[repo]]
+url = "https://github.com/perlin-network/bs-carbon-registry"
+
+[[repo]]
+url = "https://github.com/perlin-network/bs-national-reporting"
+
+[[repo]]
+url = "https://github.com/perlin-network/carbon-registry"
+
+[[repo]]
+url = "https://github.com/perlin-network/carbon-registry-ledger"
+
+[[repo]]
 url = "https://github.com/perlin-network/decentralized-chat"
 
 [[repo]]

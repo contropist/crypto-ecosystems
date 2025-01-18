@@ -22,6 +22,9 @@ url = "https://github.com/hifi-finance/hifi-amm"
 url = "https://github.com/hifi-finance/hifi-branding"
 
 [[repo]]
+url = "https://github.com/hifi-finance/hifi-content"
+
+[[repo]]
 url = "https://github.com/hifi-finance/hifi-deployers"
 
 [[repo]]
@@ -46,6 +49,9 @@ url = "https://github.com/hifi-finance/hifi-proxy-target"
 url = "https://github.com/hifi-finance/hifi-subgraph"
 
 [[repo]]
+url = "https://github.com/hifi-finance/legal-docs"
+
+[[repo]]
 url = "https://github.com/hifi-finance/pawn-bots"
 
 [[repo]]
@@ -64,7 +70,13 @@ url = "https://github.com/hifi-finance/pooled-nft"
 url = "https://github.com/hifi-finance/pooled-nft-token-list"
 
 [[repo]]
+url = "https://github.com/hifi-finance/sheety-discord-functions"
+
+[[repo]]
 url = "https://github.com/hifi-finance/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/hifi-finance/spreadsheet"
 
 [[repo]]
 url = "https://github.com/paulrberg/prb-math"

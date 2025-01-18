@@ -19,6 +19,9 @@ url = "https://github.com/aergoio/aergo-ci-shared-library"
 url = "https://github.com/aergoio/aergo-connect"
 
 [[repo]]
+url = "https://github.com/aergoio/aergo-connect-3.0"
+
+[[repo]]
 url = "https://github.com/aergoio/aergo-contract-ex"
 
 [[repo]]
@@ -43,10 +46,17 @@ url = "https://github.com/aergoio/aergo-lib"
 url = "https://github.com/aergoio/aergo-multicall"
 
 [[repo]]
+url = "https://github.com/aergoio/aergo-multiquery"
+
+[[repo]]
 url = "https://github.com/aergoio/aergo-paper"
 
 [[repo]]
 url = "https://github.com/aergoio/aergo-protobuf"
+
+[[repo]]
+url = "https://github.com/aergoio/aergo-snap"
+missing = true
 
 [[repo]]
 url = "https://github.com/aergoio/aergo-swap-frontend"
@@ -80,6 +90,21 @@ url = "https://github.com/aergoio/AergoLite.swift"
 
 [[repo]]
 url = "https://github.com/aergoio/aergoscan"
+
+[[repo]]
+url = "https://github.com/aergoio/aergoscan-api-kube"
+
+[[repo]]
+url = "https://github.com/aergoio/aergoscan-elasticsearch-kube"
+
+[[repo]]
+url = "https://github.com/aergoio/aergoscan-front-kube"
+
+[[repo]]
+url = "https://github.com/aergoio/aergoscan-indexer-kube"
+
+[[repo]]
+url = "https://github.com/aergoio/aergoscan-kube"
 
 [[repo]]
 url = "https://github.com/aergoio/aergoscan_v2"
@@ -145,6 +170,9 @@ url = "https://github.com/aergoio/better-sqlite3-aergolite"
 url = "https://github.com/aergoio/binaryen"
 
 [[repo]]
+url = "https://github.com/aergoio/bug-bounty-program"
+
+[[repo]]
 url = "https://github.com/aergoio/ecosystem"
 
 [[repo]]
@@ -170,6 +198,7 @@ url = "https://github.com/aergoio/guide"
 
 [[repo]]
 url = "https://github.com/aergoio/hc"
+missing = true
 
 [[repo]]
 url = "https://github.com/aergoio/hdkey"
@@ -212,9 +241,11 @@ url = "https://github.com/aergoio/hsc"
 
 [[repo]]
 url = "https://github.com/aergoio/hub-cli"
+missing = true
 
 [[repo]]
 url = "https://github.com/aergoio/hub-doc"
+missing = true
 
 [[repo]]
 url = "https://github.com/aergoio/hub-issue"
@@ -248,6 +279,9 @@ url = "https://github.com/aergoio/litetree"
 
 [[repo]]
 url = "https://github.com/aergoio/luajit"
+
+[[repo]]
+url = "https://github.com/aergoio/luajit-decompiler-v2"
 
 [[repo]]
 url = "https://github.com/aergoio/luaparse"
@@ -284,6 +318,7 @@ url = "https://github.com/aergoio/sqlite-stored-procedures"
 
 [[repo]]
 url = "https://github.com/aergoio/state-tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/aergoio/System.Data.AergoLite"

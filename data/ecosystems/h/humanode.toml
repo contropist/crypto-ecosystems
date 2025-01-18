@@ -10,6 +10,15 @@ github_organizations = ["https://github.com/humanode-network"]
 url = "https://github.com/humanode-network/AMDSEV"
 
 [[repo]]
+url = "https://github.com/humanode-network/amdsev-linux"
+
+[[repo]]
+url = "https://github.com/humanode-network/amdsev-ovmf"
+
+[[repo]]
+url = "https://github.com/humanode-network/amdsev-qemu"
+
+[[repo]]
 url = "https://github.com/humanode-network/aragon-client"
 
 [[repo]]
@@ -19,7 +28,22 @@ url = "https://github.com/humanode-network/aragon-id"
 url = "https://github.com/humanode-network/aragonOS"
 
 [[repo]]
+url = "https://github.com/humanode-network/async-session"
+
+[[repo]]
+url = "https://github.com/humanode-network/bidix"
+
+[[repo]]
+url = "https://github.com/humanode-network/biomapper-docs"
+
+[[repo]]
+url = "https://github.com/humanode-network/biomapper-sdk"
+
+[[repo]]
 url = "https://github.com/humanode-network/block-explorer-web"
+
+[[repo]]
+url = "https://github.com/humanode-network/chainlist"
 
 [[repo]]
 url = "https://github.com/humanode-network/chains"
@@ -28,7 +52,16 @@ url = "https://github.com/humanode-network/chains"
 url = "https://github.com/humanode-network/dao-templates"
 
 [[repo]]
+url = "https://github.com/humanode-network/discord-users-list"
+
+[[repo]]
 url = "https://github.com/humanode-network/distribution"
+
+[[repo]]
+url = "https://github.com/humanode-network/distribution-action"
+
+[[repo]]
+url = "https://github.com/humanode-network/ethereum-lists-chains"
 
 [[repo]]
 url = "https://github.com/humanode-network/evm"
@@ -38,6 +71,9 @@ url = "https://github.com/humanode-network/exponential-backoff"
 
 [[repo]]
 url = "https://github.com/humanode-network/frontier"
+
+[[repo]]
+url = "https://github.com/humanode-network/galxe-role-workaround"
 
 [[repo]]
 url = "https://github.com/humanode-network/gitcoin-passport"
@@ -62,6 +98,12 @@ url = "https://github.com/humanode-network/humanode-truffle-box"
 
 [[repo]]
 url = "https://github.com/humanode-network/metamask-extension"
+
+[[repo]]
+url = "https://github.com/humanode-network/multicall"
+
+[[repo]]
+url = "https://github.com/humanode-network/nixpkgs"
 
 [[repo]]
 url = "https://github.com/humanode-network/nodejs-template"
@@ -91,13 +133,22 @@ url = "https://github.com/humanode-network/polkadot-js-common"
 url = "https://github.com/humanode-network/polkadot-js-ui"
 
 [[repo]]
+url = "https://github.com/humanode-network/polkadot-sdk"
+
+[[repo]]
 url = "https://github.com/humanode-network/polynomial_nets"
 
 [[repo]]
 url = "https://github.com/humanode-network/rust-cache"
 
 [[repo]]
+url = "https://github.com/humanode-network/rust-libp2p"
+
+[[repo]]
 url = "https://github.com/humanode-network/Secure-Face-Recognition-System-based-on-Fully-Homomorphic-Encryption"
+
+[[repo]]
+url = "https://github.com/humanode-network/sev-guest"
 
 [[repo]]
 url = "https://github.com/humanode-network/sev-workspace"
@@ -124,10 +175,40 @@ url = "https://github.com/humanode-network/substrate-telemetry"
 url = "https://github.com/humanode-network/subxt"
 
 [[repo]]
+url = "https://github.com/humanode-network/telegram-participants-export"
+
+[[repo]]
 url = "https://github.com/humanode-network/terraform-provider-discord"
+
+[[repo]]
+url = "https://github.com/humanode-network/test-erc20"
 
 [[repo]]
 url = "https://github.com/humanode-network/twilight"
 
 [[repo]]
+url = "https://github.com/humanode-network/uniswap-deploy-v3"
+
+[[repo]]
+url = "https://github.com/humanode-network/uniswap-interface"
+
+[[repo]]
+url = "https://github.com/humanode-network/uniswap-universal-router"
+
+[[repo]]
+url = "https://github.com/humanode-network/uniswap-v3-core"
+
+[[repo]]
+url = "https://github.com/humanode-network/uniswap-v3-periphery"
+
+[[repo]]
+url = "https://github.com/humanode-network/uniswap-v3-staker"
+
+[[repo]]
+url = "https://github.com/humanode-network/viem"
+
+[[repo]]
 url = "https://github.com/humanode-network/wasmtime"
+
+[[repo]]
+url = "https://github.com/humanode-network/zombienet"

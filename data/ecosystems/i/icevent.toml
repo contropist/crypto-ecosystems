@@ -13,13 +13,31 @@ url = "https://github.com/ICEvent/AttendNFT"
 url = "https://github.com/ICEvent/Calendar"
 
 [[repo]]
+url = "https://github.com/ICEvent/Defund"
+
+[[repo]]
+url = "https://github.com/ICEvent/Defunds"
+
+[[repo]]
 url = "https://github.com/ICEvent/Demo"
+
+[[repo]]
+url = "https://github.com/ICEvent/DYOR"
 
 [[repo]]
 url = "https://github.com/ICEvent/Escrow"
 
 [[repo]]
 url = "https://github.com/ICEvent/EventBot"
+
+[[repo]]
+url = "https://github.com/ICEvent/gix-components"
+
+[[repo]]
+url = "https://github.com/ICEvent/ICdeeP"
+
+[[repo]]
+url = "https://github.com/ICEvent/ICEscrow"
 
 [[repo]]
 url = "https://github.com/ICEvent/ICET"
@@ -47,6 +65,10 @@ url = "https://github.com/ICEvent/Treasury"
 
 [[repo]]
 url = "https://github.com/ICEvent/UserDepot"
+missing = true
+
+[[repo]]
+url = "https://github.com/ICEvent/whitepapers"
 
 [[repo]]
 url = "https://github.com/ICEvent/Widgets"

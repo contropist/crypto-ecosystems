@@ -16,10 +16,16 @@ url = "https://github.com/CaskProtocol/cask-contracts"
 url = "https://github.com/CaskProtocol/cask-js-sdk"
 
 [[repo]]
+url = "https://github.com/CaskProtocol/cask-lightpaper"
+
+[[repo]]
 url = "https://github.com/CaskProtocol/cask-protocol-subgraph"
 
 [[repo]]
 url = "https://github.com/CaskProtocol/cask-webhook-bridge"
+
+[[repo]]
+url = "https://github.com/CaskProtocol/cask-widgets"
 
 [[repo]]
 url = "https://github.com/CaskProtocol/lit-cask-example"

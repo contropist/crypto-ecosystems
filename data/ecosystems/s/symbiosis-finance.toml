@@ -8,6 +8,11 @@ github_organizations = ["https://github.com/symbiosis-finance"]
 # Repositories
 [[repo]]
 url = "https://github.com/symbiosis-finance/alice"
+missing = true
+
+[[repo]]
+url = "https://github.com/symbiosis-finance/alicev2"
+missing = true
 
 [[repo]]
 url = "https://github.com/symbiosis-finance/assets"
@@ -19,10 +24,28 @@ url = "https://github.com/symbiosis-finance/audits"
 url = "https://github.com/symbiosis-finance/boba"
 
 [[repo]]
+url = "https://github.com/symbiosis-finance/BounceBit-App-Store"
+
+[[repo]]
+url = "https://github.com/symbiosis-finance/bridges-server"
+
+[[repo]]
+url = "https://github.com/symbiosis-finance/canvas-contracts"
+
+[[repo]]
+url = "https://github.com/symbiosis-finance/contracts"
+
+[[repo]]
 url = "https://github.com/symbiosis-finance/core-contracts"
 
 [[repo]]
+url = "https://github.com/symbiosis-finance/crypto-ecosystems"
+
+[[repo]]
 url = "https://github.com/symbiosis-finance/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/symbiosis-finance/defillama-config-generator"
 
 [[repo]]
 url = "https://github.com/symbiosis-finance/defillama-sdk"
@@ -34,10 +57,19 @@ url = "https://github.com/symbiosis-finance/defiyield-self-integrations"
 url = "https://github.com/symbiosis-finance/go-ethereum"
 
 [[repo]]
+url = "https://github.com/symbiosis-finance/hcloud-cloud-controller-manager"
+
+[[repo]]
 url = "https://github.com/symbiosis-finance/js-sdk"
 
 [[repo]]
 url = "https://github.com/symbiosis-finance/l2beat"
+
+[[repo]]
+url = "https://github.com/symbiosis-finance/lifi-integration"
+
+[[repo]]
+url = "https://github.com/symbiosis-finance/linea-tvl-track"
 
 [[repo]]
 url = "https://github.com/symbiosis-finance/maven"
@@ -49,10 +81,20 @@ url = "https://github.com/symbiosis-finance/mobile-sdk"
 url = "https://github.com/symbiosis-finance/moko-web3"
 
 [[repo]]
+url = "https://github.com/symbiosis-finance/scroll-badge"
+
+[[repo]]
+url = "https://github.com/symbiosis-finance/scroll-token-list"
+
+[[repo]]
 url = "https://github.com/symbiosis-finance/ssl-watch"
 
 [[repo]]
 url = "https://github.com/symbiosis-finance/testcontainers-go"
+missing = true
+
+[[repo]]
+url = "https://github.com/symbiosis-finance/token-list"
 
 [[repo]]
 url = "https://github.com/symbiosis-finance/uniswap-assets"

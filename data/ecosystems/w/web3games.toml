@@ -11,12 +11,25 @@ url = "https://github.com/web3gamesofficial/apps"
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/awesome-web3games"
+missing = true
+
+[[repo]]
+url = "https://github.com/web3gamesofficial/blockscout"
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/chains"
 
 [[repo]]
+url = "https://github.com/web3gamesofficial/frontend"
+
+[[repo]]
+url = "https://github.com/web3gamesofficial/frontend-configs"
+
+[[repo]]
 url = "https://github.com/web3gamesofficial/frontier"
+
+[[repo]]
+url = "https://github.com/web3gamesofficial/icons"
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/ink-extension-contracts"
@@ -26,6 +39,7 @@ url = "https://github.com/web3gamesofficial/near-sdk-rs"
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/near-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/networklist-org"
@@ -40,6 +54,9 @@ url = "https://github.com/web3gamesofficial/Open-Grants-Program"
 url = "https://github.com/web3gamesofficial/open-runtime-module-library"
 
 [[repo]]
+url = "https://github.com/web3gamesofficial/optimism"
+
+[[repo]]
 url = "https://github.com/web3gamesofficial/pokavz-provable-fairness"
 
 [[repo]]
@@ -49,7 +66,12 @@ url = "https://github.com/web3gamesofficial/substrate"
 url = "https://github.com/web3gamesofficial/substrate-matrix-faucet"
 
 [[repo]]
+url = "https://github.com/web3gamesofficial/w3gamez-network-token"
+missing = true
+
+[[repo]]
 url = "https://github.com/web3gamesofficial/w3gscan-bankend"
+missing = true
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/w3gswap-contracts"
@@ -59,6 +81,7 @@ url = "https://github.com/web3gamesofficial/w3gswap-sdk"
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/web3game-explorer-api"
+missing = true
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/web3games-api-js"
@@ -77,12 +100,14 @@ url = "https://github.com/web3gamesofficial/web3games-chain-explorer-back-end"
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/web3games-chain-js"
+missing = true
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/web3games-cli"
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/web3games-community-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/web3games-contract-ink"
@@ -118,6 +143,9 @@ url = "https://github.com/web3gamesofficial/web3games-game-pocket"
 url = "https://github.com/web3gamesofficial/web3games-game-sever-template"
 
 [[repo]]
+url = "https://github.com/web3gamesofficial/web3games-gaming-token-staking"
+
+[[repo]]
 url = "https://github.com/web3gamesofficial/web3games-meta-back-end"
 
 [[repo]]
@@ -137,6 +165,10 @@ url = "https://github.com/web3gamesofficial/web3games-near-scripts"
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/web3games-onchain-dapp"
+
+[[repo]]
+url = "https://github.com/web3gamesofficial/web3games-token"
+missing = true
 
 [[repo]]
 url = "https://github.com/web3gamesofficial/web3games-web-server-template-go"

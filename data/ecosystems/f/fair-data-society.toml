@@ -31,6 +31,12 @@ url = "https://github.com/fairDataSociety/beeson-orm"
 url = "https://github.com/fairDataSociety/beezk"
 
 [[repo]]
+url = "https://github.com/fairDataSociety/bigbang-api"
+
+[[repo]]
+url = "https://github.com/fairDataSociety/bigbang-landing"
+
+[[repo]]
 url = "https://github.com/fairDataSociety/blossom"
 
 [[repo]]
@@ -41,6 +47,9 @@ url = "https://github.com/fairDataSociety/bounties"
 
 [[repo]]
 url = "https://github.com/fairDataSociety/carpenter"
+
+[[repo]]
+url = "https://github.com/fairDataSociety/ci_utils"
 
 [[repo]]
 url = "https://github.com/fairDataSociety/conv-repo"
@@ -67,6 +76,9 @@ url = "https://github.com/fairDataSociety/fairdrive-apps-markdown"
 url = "https://github.com/fairDataSociety/fairdrive-apps-photoalbum"
 
 [[repo]]
+url = "https://github.com/fairDataSociety/Fairdrive-DAO"
+
+[[repo]]
 url = "https://github.com/fairDataSociety/fairdrive-desktop-app"
 
 [[repo]]
@@ -88,6 +100,9 @@ url = "https://github.com/fairDataSociety/Fairdrop"
 url = "https://github.com/fairDataSociety/fairOS"
 
 [[repo]]
+url = "https://github.com/fairDataSociety/fairos-access-token-display"
+
+[[repo]]
 url = "https://github.com/fairDataSociety/fairos-client-examples"
 
 [[repo]]
@@ -98,6 +113,9 @@ url = "https://github.com/fairDataSociety/fairOS-dfs"
 
 [[repo]]
 url = "https://github.com/fairDataSociety/fairOS-dfs-android-demo"
+
+[[repo]]
+url = "https://github.com/fairDataSociety/fairOS-dfs-clients"
 
 [[repo]]
 url = "https://github.com/fairDataSociety/fairOS-dfs-gomobile"
@@ -122,6 +140,15 @@ url = "https://github.com/fairDataSociety/FairOsUI"
 
 [[repo]]
 url = "https://github.com/fairDataSociety/FairPass"
+
+[[repo]]
+url = "https://github.com/fairDataSociety/FaVe"
+
+[[repo]]
+url = "https://github.com/fairDataSociety/fave-client"
+
+[[repo]]
+url = "https://github.com/fairDataSociety/fave-pdf-reader"
 
 [[repo]]
 url = "https://github.com/fairDataSociety/fd_apps_slidezz"
@@ -199,6 +226,15 @@ url = "https://github.com/fairDataSociety/galileo"
 url = "https://github.com/fairDataSociety/gateway"
 
 [[repo]]
+url = "https://github.com/fairDataSociety/getThingsDone"
+
+[[repo]]
+url = "https://github.com/fairDataSociety/Governance"
+
+[[repo]]
+url = "https://github.com/fairDataSociety/huggingface-vectorizer"
+
+[[repo]]
 url = "https://github.com/fairDataSociety/multibox"
 
 [[repo]]
@@ -244,6 +280,9 @@ url = "https://github.com/fairDataSociety/talks-and-slides"
 url = "https://github.com/fairDataSociety/todomvc-react"
 
 [[repo]]
+url = "https://github.com/fairDataSociety/tutorials-fairdrive"
+
+[[repo]]
 url = "https://github.com/fairDataSociety/vulnerability-disclosure-policy"
 
 [[repo]]
@@ -263,3 +302,6 @@ url = "https://github.com/fairDataSociety/zk-wallet-key-management"
 
 [[repo]]
 url = "https://github.com/fairDataSociety/zkdocs"
+
+[[repo]]
+url = "https://github.com/fairDataSociety/zwi-fave"

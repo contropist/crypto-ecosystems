@@ -10,6 +10,10 @@ github_organizations = ["https://github.com/monetha"]
 url = "https://github.com/monetha/actions"
 
 [[repo]]
+url = "https://github.com/monetha/arbitration"
+missing = true
+
+[[repo]]
 url = "https://github.com/monetha/bug-bounty"
 
 [[repo]]
@@ -47,6 +51,9 @@ url = "https://github.com/monetha/go-distributed"
 
 [[repo]]
 url = "https://github.com/monetha/go-ethereum"
+
+[[repo]]
+url = "https://github.com/monetha/go-klaviyo"
 
 [[repo]]
 url = "https://github.com/monetha/go-verifiable-data"
@@ -104,6 +111,7 @@ url = "https://github.com/monetha/payment-plugin-php-sdk"
 
 [[repo]]
 url = "https://github.com/monetha/philips-labs-terraform-aws-github-runner"
+missing = true
 
 [[repo]]
 url = "https://github.com/monetha/platform"
@@ -137,9 +145,11 @@ url = "https://github.com/monetha/react-checkbox-tree"
 
 [[repo]]
 url = "https://github.com/monetha/react-native"
+missing = true
 
 [[repo]]
 url = "https://github.com/monetha/recommendation-system"
+missing = true
 
 [[repo]]
 url = "https://github.com/monetha/reputation-passport-example"

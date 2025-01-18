@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/Proof-Of-Humanity"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Proof-Of-Humanity/group-currency"
+
+[[repo]]
 url = "https://github.com/Proof-Of-Humanity/landing"
 
 [[repo]]
@@ -32,6 +35,15 @@ url = "https://github.com/Proof-Of-Humanity/proof-of-humanity-pools-web"
 
 [[repo]]
 url = "https://github.com/Proof-Of-Humanity/proof-of-humanity-subgraph"
+
+[[repo]]
+url = "https://github.com/Proof-Of-Humanity/proof-of-humanity-v2-contracts"
+
+[[repo]]
+url = "https://github.com/Proof-Of-Humanity/proof-of-humanity-v2-subgraph"
+
+[[repo]]
+url = "https://github.com/Proof-Of-Humanity/proof-of-humanity-v2-web"
 
 [[repo]]
 url = "https://github.com/Proof-Of-Humanity/proof-of-humanity-web"

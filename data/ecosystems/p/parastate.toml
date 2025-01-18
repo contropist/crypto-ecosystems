@@ -11,6 +11,19 @@ url = "https://github.com/ParaState/apps"
 
 [[repo]]
 url = "https://github.com/ParaState/bulk-token-transfer"
+missing = true
+
+[[repo]]
+url = "https://github.com/ParaState/claim-parastate-erc20-token_locking-180_cliff-na_vesting-na"
+
+[[repo]]
+url = "https://github.com/ParaState/claim-parastate-erc20-token_locking-30_cliff-na_vesting-na"
+
+[[repo]]
+url = "https://github.com/ParaState/claim-parastate-erc20-token_locking-90_cliff-na_vesting-na"
+
+[[repo]]
+url = "https://github.com/ParaState/claim-parastate-erc20-token_locking-na_cliff-na_vesting-na"
 
 [[repo]]
 url = "https://github.com/ParaState/claim-portal"
@@ -31,6 +44,9 @@ url = "https://github.com/ParaState/git_resources"
 url = "https://github.com/ParaState/Grants-Program"
 
 [[repo]]
+url = "https://github.com/ParaState/lighthouse"
+
+[[repo]]
 url = "https://github.com/ParaState/pallet-ssvm"
 
 [[repo]]
@@ -38,18 +54,26 @@ url = "https://github.com/ParaState/parachain-projects-info"
 
 [[repo]]
 url = "https://github.com/ParaState/SafeStake"
+missing = true
+
+[[repo]]
+url = "https://github.com/ParaState/SafeStake-audit-test-env"
+missing = true
 
 [[repo]]
 url = "https://github.com/ParaState/SafeStake-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/ParaState/SafeStake-Discord-faucet"
 
 [[repo]]
 url = "https://github.com/ParaState/SafeStake-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/ParaState/SafeStake-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/ParaState/SafeStake-Mev-Boost-sidecar"
@@ -59,12 +83,19 @@ url = "https://github.com/ParaState/SafeStake-Testnet-Alerts"
 
 [[repo]]
 url = "https://github.com/ParaState/SafeStake-testnet-debug"
+missing = true
 
 [[repo]]
 url = "https://github.com/ParaState/SafeStake-Twitter-Faucet"
 
 [[repo]]
 url = "https://github.com/ParaState/SafeStakeOperator"
+
+[[repo]]
+url = "https://github.com/ParaState/simple-staking-smart-contract"
+
+[[repo]]
+url = "https://github.com/ParaState/simple-staking-user-interface"
 
 [[repo]]
 url = "https://github.com/ParaState/Snapshot-Governance"
@@ -80,6 +111,7 @@ url = "https://github.com/ParaState/substrate-ssvm-node"
 
 [[repo]]
 url = "https://github.com/ParaState/universal-blockchain-faucet"
+missing = true
 
 [[repo]]
 url = "https://github.com/ParaState/wiki"

@@ -7,10 +7,28 @@ github_organizations = ["https://github.com/sector-fi"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/nayms/contracts-v3"
+
+[[repo]]
+url = "https://github.com/sector-fi/barter-mono"
+
+[[repo]]
+url = "https://github.com/sector-fi/camelot-substream"
+
+[[repo]]
 url = "https://github.com/sector-fi/contracts"
 
 [[repo]]
 url = "https://github.com/sector-fi/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/sector-fi/ethers-rs"
+
+[[repo]]
+url = "https://github.com/sector-fi/InfluxDB"
+
+[[repo]]
+url = "https://github.com/sector-fi/market-maker"
 
 [[repo]]
 url = "https://github.com/sector-fi/rari-vaults"
@@ -23,3 +41,6 @@ url = "https://github.com/sector-fi/sector-token"
 
 [[repo]]
 url = "https://github.com/sector-fi/vested-erc20"
+
+[[repo]]
+url = "https://github.com/sector-fi/web3-backtest"

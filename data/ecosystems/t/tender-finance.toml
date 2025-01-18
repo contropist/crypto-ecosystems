@@ -26,12 +26,19 @@ url = "https://github.com/tender-finance/tender-fi-contracts"
 
 [[repo]]
 url = "https://github.com/tender-finance/tender-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/tender-finance/tender-lib"
+
+[[repo]]
+url = "https://github.com/tender-finance/tender-lib-core"
 
 [[repo]]
 url = "https://github.com/tender-finance/tender-subgraph-wrapper"
 
 [[repo]]
 url = "https://github.com/tender-finance/TND-Contracts"
+
+[[repo]]
+url = "https://github.com/tender-finance/yield-server"

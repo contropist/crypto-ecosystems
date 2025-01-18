@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/sqwid-app"]
 url = "https://github.com/sqwid-app/.github"
 
 [[repo]]
+url = "https://github.com/sqwid-app/marketplace-indexer"
+
+[[repo]]
 url = "https://github.com/sqwid-app/mint-collection-script"
 
 [[repo]]
@@ -17,6 +20,7 @@ url = "https://github.com/sqwid-app/rekognition-wrapper"
 
 [[repo]]
 url = "https://github.com/sqwid-app/sqwid-automod"
+missing = true
 
 [[repo]]
 url = "https://github.com/sqwid-app/sqwid-backend"
@@ -29,6 +33,7 @@ url = "https://github.com/sqwid-app/sqwid-core"
 
 [[repo]]
 url = "https://github.com/sqwid-app/sqwid-core-old"
+missing = true
 
 [[repo]]
 url = "https://github.com/sqwid-app/sqwid-docs"

@@ -7,6 +7,12 @@ github_organizations = ["https://github.com/ashswap"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/ashswap/ash-aggregator-sc"
+
+[[repo]]
+url = "https://github.com/ashswap/ash-aggregator-service"
+
+[[repo]]
 url = "https://github.com/ashswap/ash-interface"
 
 [[repo]]
@@ -32,6 +38,7 @@ url = "https://github.com/ashswap/dimension-adapters"
 
 [[repo]]
 url = "https://github.com/ashswap/elrond-go-scripts"
+missing = true
 
 [[repo]]
 url = "https://github.com/ashswap/elrond-sdk-erdjs"
@@ -40,13 +47,18 @@ url = "https://github.com/ashswap/elrond-sdk-erdjs"
 url = "https://github.com/ashswap/mx-assets"
 
 [[repo]]
+url = "https://github.com/ashswap/mx-sdk-dapp"
+
+[[repo]]
 url = "https://github.com/ashswap/mx-sdk-transaction-processor"
 
 [[repo]]
 url = "https://github.com/ashswap/notifier-go"
+missing = true
 
 [[repo]]
 url = "https://github.com/ashswap/observing-squad"
+missing = true
 
 [[repo]]
 url = "https://github.com/ashswap/yield-server"

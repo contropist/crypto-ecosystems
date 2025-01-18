@@ -7,6 +7,18 @@ github_organizations = ["https://github.com/RevokeCash"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/RevokeCash/allowance-exploit-list"
+
+[[repo]]
+url = "https://github.com/RevokeCash/allowance-exploits-list"
+
+[[repo]]
+url = "https://github.com/RevokeCash/approval-exploit-list"
+
+[[repo]]
+url = "https://github.com/RevokeCash/brand-assets"
+
+[[repo]]
 url = "https://github.com/RevokeCash/browser-extension"
 
 [[repo]]
@@ -16,4 +28,16 @@ url = "https://github.com/RevokeCash/browser-extension-kitchen-sink"
 url = "https://github.com/RevokeCash/chains"
 
 [[repo]]
+url = "https://github.com/RevokeCash/demo-scam-website"
+
+[[repo]]
 url = "https://github.com/RevokeCash/revoke.cash"
+
+[[repo]]
+url = "https://github.com/RevokeCash/safe-demo-scam-website"
+
+[[repo]]
+url = "https://github.com/RevokeCash/vercel-reproduction"
+
+[[repo]]
+url = "https://github.com/RevokeCash/whois"

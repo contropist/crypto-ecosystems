@@ -25,6 +25,9 @@ url = "https://github.com/commercionetwork/borsellino"
 url = "https://github.com/commercionetwork/chain-installer"
 
 [[repo]]
+url = "https://github.com/commercionetwork/chain-installer-deprecated"
+
+[[repo]]
 url = "https://github.com/commercionetwork/chain-registry"
 
 [[repo]]
@@ -67,6 +70,9 @@ url = "https://github.com/commercionetwork/commercionetwork"
 url = "https://github.com/commercionetwork/CommercioUI"
 
 [[repo]]
+url = "https://github.com/commercionetwork/cosmos-wallets-exporter"
+
+[[repo]]
 url = "https://github.com/commercionetwork/did-method-registry"
 
 [[repo]]
@@ -80,6 +86,9 @@ url = "https://github.com/commercionetwork/dsb"
 
 [[repo]]
 url = "https://github.com/commercionetwork/Dynamic-Incentives"
+
+[[repo]]
+url = "https://github.com/commercionetwork/explorer-ping-pub"
 
 [[repo]]
 url = "https://github.com/commercionetwork/faucet"
@@ -110,6 +119,9 @@ url = "https://github.com/commercionetwork/odyssey_challenge_vc_server"
 
 [[repo]]
 url = "https://github.com/commercionetwork/ping-pub-explorer"
+
+[[repo]]
+url = "https://github.com/commercionetwork/ping.pub"
 
 [[repo]]
 url = "https://github.com/commercionetwork/relayer"
@@ -146,3 +158,6 @@ url = "https://github.com/commercionetwork/universal-resolver"
 
 [[repo]]
 url = "https://github.com/commercionetwork/vue-commercio-ui"
+
+[[repo]]
+url = "https://github.com/commercionetwork/wasmd"

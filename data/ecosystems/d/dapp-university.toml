@@ -16,6 +16,9 @@ url = "https://github.com/dappuniversity/advanced-dapp-ui"
 url = "https://github.com/dappuniversity/AI-Generated-NFT-Collection"
 
 [[repo]]
+url = "https://github.com/dappuniversity/ai_frontend"
+
+[[repo]]
 url = "https://github.com/dappuniversity/ai_nft"
 
 [[repo]]
@@ -23,6 +26,7 @@ url = "https://github.com/dappuniversity/ai_nft_generator"
 
 [[repo]]
 url = "https://github.com/dappuniversity/airdrop_hunter"
+missing = true
 
 [[repo]]
 url = "https://github.com/dappuniversity/Auditing-with-security-tools-slither-and-echinda"
@@ -100,6 +104,9 @@ url = "https://github.com/dappuniversity/dvideo"
 url = "https://github.com/dappuniversity/ecrecover"
 
 [[repo]]
+url = "https://github.com/dappuniversity/eip_2981_example"
+
+[[repo]]
 url = "https://github.com/dappuniversity/election"
 
 [[repo]]
@@ -136,7 +143,20 @@ url = "https://github.com/dappuniversity/eth_wallet"
 url = "https://github.com/dappuniversity/ethers_examples"
 
 [[repo]]
+url = "https://github.com/dappuniversity/Foundry-Tutorial"
+
+[[repo]]
 url = "https://github.com/dappuniversity/freelance-project-template"
+
+[[repo]]
+url = "https://github.com/dappuniversity/frontrunning"
+missing = true
+
+[[repo]]
+url = "https://github.com/dappuniversity/Frontrunning-attack-tutorial"
+
+[[repo]]
+url = "https://github.com/dappuniversity/fun-pump"
 
 [[repo]]
 url = "https://github.com/dappuniversity/governance"
@@ -266,6 +286,9 @@ url = "https://github.com/dappuniversity/token_sale"
 
 [[repo]]
 url = "https://github.com/dappuniversity/token_sniping_bot"
+
+[[repo]]
+url = "https://github.com/dappuniversity/tokenmaster"
 
 [[repo]]
 url = "https://github.com/dappuniversity/trading-bot"

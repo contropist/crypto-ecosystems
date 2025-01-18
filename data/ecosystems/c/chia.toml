@@ -1,13 +1,19 @@
 # Ecosystem Level Information
 title = "Chia"
 
-sub_ecosystems = ["Flexpool", "HDDcoin Network"]
+sub_ecosystems = ["Flexpool", "Flora Network", "Hashgreen", "HDDcoin Network"]
 
 github_organizations = ["https://github.com/Chia-Network"]
 
 # Repositories
 [[repo]]
 url = "https://github.com/0xChunk/chiaNFTScripts"
+
+[[repo]]
+url = "https://github.com/0xgorro/chia-token-gated-access"
+
+[[repo]]
+url = "https://github.com/0xgorro/chitter"
 
 [[repo]]
 url = "https://github.com/100lv/teddyinstall"
@@ -17,15 +23,20 @@ url = "https://github.com/13thProgression/capital-blockchain"
 
 [[repo]]
 url = "https://github.com/19860207/Chia-blockchain-discord-supermine.io-pool"
+missing = true
 
 [[repo]]
 url = "https://github.com/7AC/chia-dashboard"
+
+[[repo]]
+url = "https://github.com/88plug/chia-farming"
 
 [[repo]]
 url = "https://github.com/aaronscientiae/GreenhouseWallet"
 
 [[repo]]
 url = "https://github.com/AbandonedLand/PSChiaRPC"
+missing = true
 
 [[repo]]
 url = "https://github.com/abueide/harry-plotter"
@@ -44,24 +55,40 @@ url = "https://github.com/advanderveer/pos"
 
 [[repo]]
 url = "https://github.com/AedgeCoin/aedge-blockchain-old"
+missing = true
 
 [[repo]]
 url = "https://github.com/aelfakih/Manage-Chia-Farm"
 
 [[repo]]
+url = "https://github.com/ageorge95/flora-blockchain"
+missing = true
+
+[[repo]]
 url = "https://github.com/ageorge95/LEAF-chia-plot-check-organiser"
 
 [[repo]]
+url = "https://github.com/ageorge95/lotus-blockchain_BAREBONE_v1.5.0"
+missing = true
+
+[[repo]]
 url = "https://github.com/ageorge95/lucky-blockchain_BAREBONE_v1.4.0"
+missing = true
 
 [[repo]]
 url = "https://github.com/ageorge95/seno-blockchain_BAREBONE_v1.4.0"
+missing = true
 
 [[repo]]
 url = "https://github.com/ageorge95/SERPENT-chia-offline-transaction-sign-and-send"
 
 [[repo]]
 url = "https://github.com/ageorge95/slingSHOT-ChiaPlotTransfer"
+missing = true
+
+[[repo]]
+url = "https://github.com/ageorge95/spare-blockchain"
+missing = true
 
 [[repo]]
 url = "https://github.com/ageorge95/TOMATO-simple-chia-forks-NFT-recovery"
@@ -74,6 +101,7 @@ url = "https://github.com/alexander-e-andrews/ChiaPlotManager"
 
 [[repo]]
 url = "https://github.com/AlgoNetwork/Free-Remote-Desktop-Manager-RDP"
+missing = true
 
 [[repo]]
 url = "https://github.com/amccarthy9904/chia_script"
@@ -94,7 +122,23 @@ url = "https://github.com/ant013/crypto-bls-ios"
 url = "https://github.com/anyplots/cloud-chia-plotter"
 
 [[repo]]
+url = "https://github.com/Apetree100122/Chia-Network-chia-blockchain.g"
+missing = true
+
+[[repo]]
 url = "https://github.com/Apool-us/Chia-Client"
+
+[[repo]]
+url = "https://github.com/AppleOfEnlightenment/api"
+
+[[repo]]
+url = "https://github.com/AppleOfEnlightenment/core"
+
+[[repo]]
+url = "https://github.com/AppleOfEnlightenment/gui"
+
+[[repo]]
+url = "https://github.com/AppleOfEnlightenment/wallets"
 
 [[repo]]
 url = "https://github.com/arborwallet/arbor-wallet"
@@ -112,6 +156,13 @@ url = "https://github.com/areliszxz/Bash_madMAx43v3r_chia"
 url = "https://github.com/aryonp/xch"
 
 [[repo]]
+url = "https://github.com/asicminer8/plotctl"
+missing = true
+
+[[repo]]
+url = "https://github.com/Awooiel/unRAID-Machinaris-Utilities"
+
+[[repo]]
 url = "https://github.com/Axili39/docker-chia-blockchain"
 
 [[repo]]
@@ -127,13 +178,18 @@ url = "https://github.com/bitruss/chia-db"
 url = "https://github.com/Bluebrain2000/Chia-Plot-Manager"
 
 [[repo]]
+url = "https://github.com/bramcohen/chia-gaming"
+
+[[repo]]
 url = "https://github.com/BrandtH22/Rhizosphere"
 
 [[repo]]
 url = "https://github.com/bretmlw/chiainfo.live"
+missing = true
 
 [[repo]]
 url = "https://github.com/bringyour/go-xch"
+missing = true
 
 [[repo]]
 url = "https://github.com/BrooksYang/chia-api"
@@ -221,9 +277,11 @@ url = "https://github.com/Chia-Network/actions"
 
 [[repo]]
 url = "https://github.com/Chia-Network/actions-runner-controller"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/actions-sandbox"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/aiter"
@@ -233,6 +291,9 @@ url = "https://github.com/Chia-Network/ansible-roles"
 
 [[repo]]
 url = "https://github.com/Chia-Network/argon2-cffi"
+
+[[repo]]
+url = "https://github.com/Chia-Network/Audit-Reports"
 
 [[repo]]
 url = "https://github.com/Chia-Network/bladebit"
@@ -247,13 +308,23 @@ url = "https://github.com/Chia-Network/bls-signatures"
 url = "https://github.com/Chia-Network/bls12_381"
 
 [[repo]]
+url = "https://github.com/Chia-Network/blst"
+
+[[repo]]
 url = "https://github.com/Chia-Network/build-images"
+
+[[repo]]
+url = "https://github.com/Chia-Network/build-wheels"
 
 [[repo]]
 url = "https://github.com/Chia-Network/cadt"
 
 [[repo]]
+url = "https://github.com/Chia-Network/cadt-ui"
+
+[[repo]]
 url = "https://github.com/Chia-Network/carbon-asset-token"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/CAT-addresses"
@@ -269,6 +340,7 @@ url = "https://github.com/Chia-Network/cbor2"
 
 [[repo]]
 url = "https://github.com/Chia-Network/chia-blockchain"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/Chia-Network/chia-blockchain-gui"
@@ -292,6 +364,9 @@ url = "https://github.com/Chia-Network/chia-docs"
 url = "https://github.com/Chia-Network/chia-exporter"
 
 [[repo]]
+url = "https://github.com/Chia-Network/chia-gaming"
+
+[[repo]]
 url = "https://github.com/Chia-Network/chia-healthcheck"
 
 [[repo]]
@@ -299,6 +374,9 @@ url = "https://github.com/Chia-Network/chia-network.github.io"
 
 [[repo]]
 url = "https://github.com/Chia-Network/chia-nft-minting-tool"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chia-operator"
 
 [[repo]]
 url = "https://github.com/Chia-Network/chia-plotter-madmax"
@@ -310,7 +388,20 @@ url = "https://github.com/Chia-Network/chia-simulator-docker"
 url = "https://github.com/Chia-Network/chia-toolbox"
 
 [[repo]]
+url = "https://github.com/Chia-Network/chia-tools"
+
+[[repo]]
 url = "https://github.com/Chia-Network/chia-wallet-connect-dapp-test"
+missing = true
+
+[[repo]]
+url = "https://github.com/Chia-Network/chia-wallet-sdk"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chia-workadventure"
+
+[[repo]]
+url = "https://github.com/Chia-Network/chia_puzzles"
 
 [[repo]]
 url = "https://github.com/Chia-Network/chia_rs"
@@ -341,6 +432,22 @@ url = "https://github.com/Chia-Network/cibuildwheel"
 
 [[repo]]
 url = "https://github.com/Chia-Network/click"
+missing = true
+
+[[repo]]
+url = "https://github.com/Chia-Network/climate-explorer-ui"
+
+[[repo]]
+url = "https://github.com/Chia-Network/climate-token-driver"
+
+[[repo]]
+url = "https://github.com/Chia-Network/Climate-Tokenization-Engine"
+
+[[repo]]
+url = "https://github.com/Chia-Network/Climate-Tokenization-Engine-UI"
+
+[[repo]]
+url = "https://github.com/Chia-Network/Climate-Wallet"
 
 [[repo]]
 url = "https://github.com/Chia-Network/climate-warehouse"
@@ -361,7 +468,43 @@ url = "https://github.com/Chia-Network/clvm_tools"
 url = "https://github.com/Chia-Network/clvm_tools_rs"
 
 [[repo]]
+url = "https://github.com/Chia-Network/clvm_tools_rs_fork"
+
+[[repo]]
+url = "https://github.com/Chia-Network/cni-wallet-sdk"
+
+[[repo]]
 url = "https://github.com/Chia-Network/coin-tracing-scripts"
+
+[[repo]]
+url = "https://github.com/Chia-Network/core-registry-api"
+
+[[repo]]
+url = "https://github.com/Chia-Network/core-registry-api-client"
+
+[[repo]]
+url = "https://github.com/Chia-Network/Core-Registry-CADT"
+
+[[repo]]
+url = "https://github.com/Chia-Network/core-registry-cadt-ui"
+
+[[repo]]
+url = "https://github.com/Chia-Network/core-registry-config"
+
+[[repo]]
+url = "https://github.com/Chia-Network/core-registry-config-python"
+
+[[repo]]
+url = "https://github.com/Chia-Network/core-registry-dashboard-ui"
+
+[[repo]]
+url = "https://github.com/Chia-Network/core-registry-logger"
+
+[[repo]]
+url = "https://github.com/Chia-Network/core-registry-ui"
+
+[[repo]]
+url = "https://github.com/Chia-Network/database-manager"
 
 [[repo]]
 url = "https://github.com/Chia-Network/delocate"
@@ -371,12 +514,25 @@ url = "https://github.com/Chia-Network/dev-community-meetings"
 
 [[repo]]
 url = "https://github.com/Chia-Network/discourse-mint-theme"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/dns-introducer-healthcheck"
 
 [[repo]]
 url = "https://github.com/Chia-Network/dnspython"
+
+[[repo]]
+url = "https://github.com/Chia-Network/drplotter"
+
+[[repo]]
+url = "https://github.com/Chia-Network/ecosystem-activity"
+
+[[repo]]
+url = "https://github.com/Chia-Network/github-bot"
+
+[[repo]]
+url = "https://github.com/Chia-Network/go-chia-crawler"
 
 [[repo]]
 url = "https://github.com/Chia-Network/go-chia-libs"
@@ -398,6 +554,7 @@ url = "https://github.com/Chia-Network/internal-custody"
 
 [[repo]]
 url = "https://github.com/Chia-Network/keybase-bots"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/keybase-live-feed"
@@ -410,12 +567,17 @@ url = "https://github.com/Chia-Network/ledger_sim"
 
 [[repo]]
 url = "https://github.com/Chia-Network/manaul-plotting-workspace"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/maturin"
 
 [[repo]]
 url = "https://github.com/Chia-Network/miniupnp"
+
+[[repo]]
+url = "https://github.com/Chia-Network/MonsterSprouts"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/mozilla-ca"
@@ -428,6 +590,13 @@ url = "https://github.com/Chia-Network/mpir_gc_x64"
 
 [[repo]]
 url = "https://github.com/Chia-Network/mysql-operator"
+missing = true
+
+[[repo]]
+url = "https://github.com/Chia-Network/mysqlpunch"
+
+[[repo]]
+url = "https://github.com/Chia-Network/namespaces"
 
 [[repo]]
 url = "https://github.com/Chia-Network/node-chia-bls"
@@ -473,6 +642,7 @@ url = "https://github.com/Chia-Network/pub-metrics-grafana"
 
 [[repo]]
 url = "https://github.com/Chia-Network/public-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/public_bluebox_image"
@@ -485,9 +655,11 @@ url = "https://github.com/Chia-Network/python-zstd"
 
 [[repo]]
 url = "https://github.com/Chia-Network/release-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/release-test-chia-blockchain"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/relic"
@@ -500,12 +672,19 @@ url = "https://github.com/Chia-Network/relic_ietf_64"
 
 [[repo]]
 url = "https://github.com/Chia-Network/relic_x64"
+missing = true
+
+[[repo]]
+url = "https://github.com/Chia-Network/repo-content-updater"
 
 [[repo]]
 url = "https://github.com/Chia-Network/runner"
 
 [[repo]]
 url = "https://github.com/Chia-Network/setuptools_scm"
+
+[[repo]]
+url = "https://github.com/Chia-Network/simple-icons"
 
 [[repo]]
 url = "https://github.com/Chia-Network/stale"
@@ -532,7 +711,11 @@ url = "https://github.com/Chia-Network/vdftrack2results"
 url = "https://github.com/Chia-Network/vscode-chialisp-lsp"
 
 [[repo]]
+url = "https://github.com/Chia-Network/walletconnect-rpcs-dapp"
+
+[[repo]]
 url = "https://github.com/Chia-Network/wallets"
+missing = true
 
 [[repo]]
 url = "https://github.com/Chia-Network/website"
@@ -578,6 +761,9 @@ url = "https://github.com/ChiaMonster/awesome-chia"
 
 [[repo]]
 url = "https://github.com/chianetspace/chianetspace"
+
+[[repo]]
+url = "https://github.com/chiatcg/chiatcg-server"
 
 [[repo]]
 url = "https://github.com/chiatk/ozone_wallet_app"
@@ -658,6 +844,9 @@ url = "https://github.com/cripsisxyz/chia-wallet-rpc-xch-dealer"
 url = "https://github.com/cristianL0pez/cristiancoin"
 
 [[repo]]
+url = "https://github.com/CryptoLFDM/ChiaRPCWrapper"
+
+[[repo]]
 url = "https://github.com/cthiel42/chia-exporter"
 
 [[repo]]
@@ -670,10 +859,16 @@ url = "https://github.com/danbembower/ChiaPlottingGroupStarter"
 url = "https://github.com/danieljperry/LeaveALegacy"
 
 [[repo]]
+url = "https://github.com/danielringch/xiamon"
+
+[[repo]]
 url = "https://github.com/DaOneLuna/auto-chia-wallet"
 
 [[repo]]
 url = "https://github.com/Dartellum/chia-madmax-plot_loop"
+
+[[repo]]
+url = "https://github.com/davewolf678/snapshot"
 
 [[repo]]
 url = "https://github.com/dazeb/The-Chia-Farmer"
@@ -701,6 +896,7 @@ url = "https://github.com/distoration/chia-network-MY-WEBSITE"
 
 [[repo]]
 url = "https://github.com/djdd87/ChiaTransit"
+missing = true
 
 [[repo]]
 url = "https://github.com/dkackman/chia-api"
@@ -745,7 +941,14 @@ url = "https://github.com/ecochia/ecochia-wiki"
 url = "https://github.com/Eelviny/chia-docker"
 
 [[repo]]
+url = "https://github.com/efnats/chiagarden"
+
+[[repo]]
 url = "https://github.com/efnats/chiamerge"
+missing = true
+
+[[repo]]
+url = "https://github.com/egoncris/wallet-asyncio-ERROR-Task-exception-was-never-retrievedwallet-asyncio-"
 
 [[repo]]
 url = "https://github.com/EmergentCoin/NucleWallet"
@@ -773,6 +976,12 @@ url = "https://github.com/ethanblagg/chia-analytics"
 
 [[repo]]
 url = "https://github.com/Ev4Nou4/MINTFILES-Chialisp-"
+
+[[repo]]
+url = "https://github.com/F00b4rf00/leafblower"
+
+[[repo]]
+url = "https://github.com/F00b4rf00/rake"
 
 [[repo]]
 url = "https://github.com/FabioRM/ChiaOptimizedPlotter"
@@ -841,16 +1050,28 @@ url = "https://github.com/FireAcademy/leaflet"
 url = "https://github.com/FireAcademy/leaflet-docker"
 
 [[repo]]
+url = "https://github.com/FireAcademy/prices"
+
+[[repo]]
+url = "https://github.com/FireAcademy/telemetry"
+
+[[repo]]
 url = "https://github.com/FiveFarm/FiveFarmChiaClient"
 
 [[repo]]
 url = "https://github.com/FiveFootSeventeen/plot_archiver"
 
 [[repo]]
+url = "https://github.com/Flax-Network/flax-blockchain-gui"
+
+[[repo]]
 url = "https://github.com/Flofie/chia-desktop"
 
 [[repo]]
 url = "https://github.com/flovearth/17_ChiaNetwork-"
+
+[[repo]]
+url = "https://github.com/Fluffy9/Instaplot"
 
 [[repo]]
 url = "https://github.com/Fmstrat/chia-docker"
@@ -863,6 +1084,9 @@ url = "https://github.com/ForestCrazy/chia-node-append"
 
 [[repo]]
 url = "https://github.com/ForestCrazy/chia-node-list-api"
+
+[[repo]]
+url = "https://github.com/foxypool/foxy-farmer"
 
 [[repo]]
 url = "https://github.com/freddiecoleman/chia-client"
@@ -878,6 +1102,9 @@ url = "https://github.com/freddiecoleman/marmotcore-client"
 
 [[repo]]
 url = "https://github.com/freddiecoleman/marmotcore-terraform-provider"
+
+[[repo]]
+url = "https://github.com/gabyvespasiano/chia-coin-plot-copy"
 
 [[repo]]
 url = "https://github.com/GalactechsLLC/DruidGardenBase"
@@ -908,6 +1135,10 @@ url = "https://github.com/gaukas/Chia-On-S3"
 
 [[repo]]
 url = "https://github.com/gdias1992/plotManager"
+missing = true
+
+[[repo]]
+url = "https://github.com/geoffwalmsley/agg_sig_me"
 
 [[repo]]
 url = "https://github.com/geoffwalmsley/clsp-template"
@@ -917,6 +1148,7 @@ url = "https://github.com/geraldneale/blink_mojo"
 
 [[repo]]
 url = "https://github.com/geraldneale/chia-nft-add_uris"
+missing = true
 
 [[repo]]
 url = "https://github.com/geraldneale/py-blink_mojo-secure"
@@ -940,19 +1172,36 @@ url = "https://github.com/golevi/chia-blockchain"
 url = "https://github.com/goplot/goplot"
 
 [[repo]]
+url = "https://github.com/gowke/lotus-blockchain"
+
+[[repo]]
+url = "https://github.com/graemes/chiamon"
+
+[[repo]]
+url = "https://github.com/graemes/mownplow"
+
+[[repo]]
 url = "https://github.com/grayfallstown/Chia-Plot-Status"
 
 [[repo]]
+url = "https://github.com/Green-App-Development/green-wallet-android-source"
+
+[[repo]]
 url = "https://github.com/GreenDoge-Network/greendoge-blockchain"
+missing = true
 
 [[repo]]
 url = "https://github.com/greimela/chialisp-playground"
+
+[[repo]]
+url = "https://github.com/greimela/nostr-dex"
 
 [[repo]]
 url = "https://github.com/grintor/plot_fill"
 
 [[repo]]
 url = "https://github.com/gromran/Chia_PlotChecker"
+missing = true
 
 [[repo]]
 url = "https://github.com/gtmtechltd/chiafactory-simple-download"
@@ -965,6 +1214,7 @@ url = "https://github.com/gustrix/ChiaHarvesterImage"
 
 [[repo]]
 url = "https://github.com/guydavis/insidias"
+missing = true
 
 [[repo]]
 url = "https://github.com/guydavis/machinaris"
@@ -977,6 +1227,13 @@ url = "https://github.com/haoran1062/smart_plot_manager"
 
 [[repo]]
 url = "https://github.com/hasDID-io/chia-nft"
+
+[[repo]]
+url = "https://github.com/hashgreen/cypher-chialisp"
+missing = true
+
+[[repo]]
+url = "https://github.com/hashgreen/docs.hashgreen.github.io"
 
 [[repo]]
 url = "https://github.com/hashgreen/helm-charts"
@@ -1033,6 +1290,9 @@ url = "https://github.com/icc0301/chia-plotter-inits"
 url = "https://github.com/icc0301/chia-plotter-zip"
 
 [[repo]]
+url = "https://github.com/iced-caffeine/py_dexie_tools"
+
+[[repo]]
 url = "https://github.com/Ichbinjoe/plotreader"
 
 [[repo]]
@@ -1046,6 +1306,9 @@ url = "https://github.com/imagenaria/nftutil"
 
 [[repo]]
 url = "https://github.com/imminer668/Chia"
+
+[[repo]]
+url = "https://github.com/inan0812/goji-blockchain"
 
 [[repo]]
 url = "https://github.com/intruder04/chia_buffer_to_hdd"
@@ -1075,6 +1338,9 @@ url = "https://github.com/jack60612/chia-pool"
 url = "https://github.com/jackhair/ChiaPlotMover"
 
 [[repo]]
+url = "https://github.com/jackygu2006/chialisp-doc"
+
+[[repo]]
 url = "https://github.com/Jahorse/chiabook"
 
 [[repo]]
@@ -1097,6 +1363,7 @@ url = "https://github.com/jfhenriques/sensormqtt"
 
 [[repo]]
 url = "https://github.com/jfikar/chia_scripts"
+missing = true
 
 [[repo]]
 url = "https://github.com/jimkoen/chialisp_playground"
@@ -1111,6 +1378,9 @@ url = "https://github.com/johodh/chia-plot-utils"
 url = "https://github.com/johodh/microdot-farmsplay"
 
 [[repo]]
+url = "https://github.com/JonathanLangton1/chia-explorer"
+
+[[repo]]
 url = "https://github.com/joshpainter/budibase-datasource-chia-full-node-rpc"
 
 [[repo]]
@@ -1121,6 +1391,7 @@ url = "https://github.com/JoshuaBiLink/EasyPlotter"
 
 [[repo]]
 url = "https://github.com/jouir/flexassistant"
+missing = true
 
 [[repo]]
 url = "https://github.com/Jsewill/go-chia"
@@ -1130,6 +1401,7 @@ url = "https://github.com/JuanThang/ChiaToolbox"
 
 [[repo]]
 url = "https://github.com/justas145/justas1456.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/JustMeROMs/MadMaxie_GUI"
@@ -1139,6 +1411,30 @@ url = "https://github.com/Kayuii/chia-plotter"
 
 [[repo]]
 url = "https://github.com/Kayuii/hpool-miner"
+
+[[repo]]
+url = "https://github.com/KevinOnFrontEnd/SwapHunter"
+
+[[repo]]
+url = "https://github.com/KevinOnFrontEnd/Tibby"
+
+[[repo]]
+url = "https://github.com/keyspaceapp/swift-bip158"
+
+[[repo]]
+url = "https://github.com/keyspaceapp/swift-bls-signatures"
+
+[[repo]]
+url = "https://github.com/keyspaceapp/swift-clvm"
+
+[[repo]]
+url = "https://github.com/keyspaceapp/swift-clvm-tools"
+
+[[repo]]
+url = "https://github.com/keyspaceapp/swift-pos"
+
+[[repo]]
+url = "https://github.com/keyspaceapp/swift-vdf"
 
 [[repo]]
 url = "https://github.com/kikolouro/Chia-plotting"
@@ -1180,7 +1476,16 @@ url = "https://github.com/koreyGambill/chia-plotter-scripts"
 url = "https://github.com/KryptomineCH/Chia-Client-API"
 
 [[repo]]
+url = "https://github.com/KryptomineCH/Chia-NFT-Minter"
+
+[[repo]]
+url = "https://github.com/KryptomineCH/CHIA-RPC"
+
+[[repo]]
 url = "https://github.com/KryptomineCH/Chialisp-environment-preset-Windows"
+
+[[repo]]
+url = "https://github.com/KryptomineCH/Dexie.Space.Net"
 
 [[repo]]
 url = "https://github.com/kubec/chia-log-analyzer"
@@ -1196,6 +1501,12 @@ url = "https://github.com/L4bb3rs/Chia-CAT-Breakdown"
 
 [[repo]]
 url = "https://github.com/L4bb3rs/Chia-CAT-Send-to-List"
+
+[[repo]]
+url = "https://github.com/L4bb3rs/Chia-CATS-Sent-to-Bags"
+
+[[repo]]
+url = "https://github.com/L4bb3rs/Chia-Py-RPC"
 
 [[repo]]
 url = "https://github.com/Laisho-N/CHIA"
@@ -1223,6 +1534,21 @@ url = "https://github.com/lishuailibertine/BLS12-381"
 
 [[repo]]
 url = "https://github.com/littlechare/keepool-chia-blockchain"
+
+[[repo]]
+url = "https://github.com/liuyuansharp/hpool2nossd"
+
+[[repo]]
+url = "https://github.com/lmacken/plow"
+
+[[repo]]
+url = "https://github.com/lmtlss/chia_reference_wallet_ios"
+
+[[repo]]
+url = "https://github.com/lmtlss/clvm_tools_rs"
+
+[[repo]]
+url = "https://github.com/lmtlss/Pay_to_DiD"
 
 [[repo]]
 url = "https://github.com/loguntsov/echiapos"
@@ -1258,13 +1584,23 @@ url = "https://github.com/maded2/go-chia"
 url = "https://github.com/maded2/plotng"
 
 [[repo]]
+url = "https://github.com/madMAx43v3r/chia-gigahorse"
+
+[[repo]]
 url = "https://github.com/madMAx43v3r/chia-plotter"
+
+[[repo]]
+url = "https://github.com/madMAx43v3r/mmx-node"
 
 [[repo]]
 url = "https://github.com/manprinsen/chia-plotting-on-ubuntu-server"
 
 [[repo]]
 url = "https://github.com/marclar/chia-report-scripts"
+
+[[repo]]
+url = "https://github.com/marcweigand/chia-plot-mover"
+missing = true
 
 [[repo]]
 url = "https://github.com/Mark-Callan/ezplot"
@@ -1301,6 +1637,7 @@ url = "https://github.com/MattN-HB/chiaexperiment"
 
 [[repo]]
 url = "https://github.com/mattsahr/chiasoup"
+missing = true
 
 [[repo]]
 url = "https://github.com/maveno-de/forks-collection"
@@ -1330,6 +1667,12 @@ url = "https://github.com/metalfacesec/chia-javascript"
 url = "https://github.com/Miahelloworld/chia-blockchain-discord-server"
 
 [[repo]]
+url = "https://github.com/mikehw/chia-signing-tools"
+
+[[repo]]
+url = "https://github.com/mindspice/JChia-RPC-Library"
+
+[[repo]]
 url = "https://github.com/mintgarden-io/mintgarden-studio"
 
 [[repo]]
@@ -1349,6 +1692,7 @@ url = "https://github.com/mjsr/chia-monitoring"
 
 [[repo]]
 url = "https://github.com/mobalazs/infinite-plotting"
+missing = true
 
 [[repo]]
 url = "https://github.com/monkeyzoo-metaverse/token-gifting-system"
@@ -1358,6 +1702,12 @@ url = "https://github.com/morph3us1984/forkfarmdeployer"
 
 [[repo]]
 url = "https://github.com/morph3us1984/simple-chia-cold-wallet-creator"
+
+[[repo]]
+url = "https://github.com/mpwsh/chia-models-rs"
+
+[[repo]]
+url = "https://github.com/mpwsh/chia-node-rs"
 
 [[repo]]
 url = "https://github.com/MrPet/ChiaAddressMonitor"
@@ -1373,6 +1723,9 @@ url = "https://github.com/mspicer/chia-mining-is-pointless"
 
 [[repo]]
 url = "https://github.com/Muslix/MadMaxGui_byMuslix"
+
+[[repo]]
+url = "https://github.com/mx-pool/super-farmer"
 
 [[repo]]
 url = "https://github.com/Mywifi/plot-monitor"
@@ -1403,6 +1756,7 @@ url = "https://github.com/neurosis69/chia_rpc_scripts"
 
 [[repo]]
 url = "https://github.com/NFTr/mintr-local"
+missing = true
 
 [[repo]]
 url = "https://github.com/NFTr/mintr-web"
@@ -1417,6 +1771,9 @@ url = "https://github.com/ngyygm/chia-plot-copy"
 url = "https://github.com/nmarley/js-bls-signatures-playground"
 
 [[repo]]
+url = "https://github.com/nongyehezuoshe/bech32m-chia"
+
+[[repo]]
 url = "https://github.com/nongyen/Chia-Smart-Duo-Node"
 
 [[repo]]
@@ -1427,6 +1784,7 @@ url = "https://github.com/offerpool/offerpool"
 
 [[repo]]
 url = "https://github.com/olafkotur/chia-rig-cluster"
+missing = true
 
 [[repo]]
 url = "https://github.com/OLED1/chia-manager-client"
@@ -1436,6 +1794,30 @@ url = "https://github.com/onemorebsmith/chia-monitor"
 
 [[repo]]
 url = "https://github.com/OnLyTNT/Chia-Plotter-GUI"
+
+[[repo]]
+url = "https://github.com/Open-Market-Dev-Club/chia-walletconnect"
+
+[[repo]]
+url = "https://github.com/Open-Market-Dev-Club/spriggan-client"
+
+[[repo]]
+url = "https://github.com/Open-Market-Dev-Club/spriggan-client-gui"
+
+[[repo]]
+url = "https://github.com/Open-Market-Dev-Club/spriggan-library-dapp"
+
+[[repo]]
+url = "https://github.com/Open-Market-Dev-Club/spriggan-marketplace-backend"
+
+[[repo]]
+url = "https://github.com/Open-Market-Dev-Club/spriggan-marketplace-dapp"
+
+[[repo]]
+url = "https://github.com/Open-Market-Dev-Club/spriggan-marketplace-publishing-dapp"
+
+[[repo]]
+url = "https://github.com/Open-Market-Dev-Club/spriggan-shared"
 
 [[repo]]
 url = "https://github.com/openchia/mobile"
@@ -1457,6 +1839,7 @@ url = "https://github.com/philippnormann/chia-monitor"
 
 [[repo]]
 url = "https://github.com/pieterhelsen/chia-pchecker"
+missing = true
 
 [[repo]]
 url = "https://github.com/PKGzGMTH/chia-auto-plot"
@@ -1532,6 +1915,7 @@ url = "https://github.com/rahimkhoja/chia-plotter-deployment"
 
 [[repo]]
 url = "https://github.com/RalfEs73/create_chia_plots"
+missing = true
 
 [[repo]]
 url = "https://github.com/rammicz/ChiaMiniPlotter"
@@ -1562,6 +1946,9 @@ url = "https://github.com/rHilkner/chia"
 
 [[repo]]
 url = "https://github.com/richardkiss/chiaswap"
+
+[[repo]]
+url = "https://github.com/richardkiss/clvm_rs"
 
 [[repo]]
 url = "https://github.com/ricky/chia-overlay"
@@ -1600,6 +1987,9 @@ url = "https://github.com/RudolfAchter/ChiaShell"
 url = "https://github.com/sande182/chiaplotmover"
 
 [[repo]]
+url = "https://github.com/SarahSzabo/Spacecraft"
+
+[[repo]]
 url = "https://github.com/sbsos/hotplotterclient"
 
 [[repo]]
@@ -1624,7 +2014,11 @@ url = "https://github.com/scrutinously/chia-scripts"
 url = "https://github.com/scrutinously/smart-farm"
 
 [[repo]]
+url = "https://github.com/SDLarmo/chiaTelegramBot"
+
+[[repo]]
 url = "https://github.com/sengexyz/EzPlotter"
+missing = true
 
 [[repo]]
 url = "https://github.com/serpent213/fsum"
@@ -1637,6 +2031,9 @@ url = "https://github.com/setar/chia_plots_mover"
 
 [[repo]]
 url = "https://github.com/setavenger/chiarpc"
+
+[[repo]]
+url = "https://github.com/shlokc9/Plot-Generation-in-Chia"
 
 [[repo]]
 url = "https://github.com/SigKillRoot/Ultionis-Plot-Manager"
@@ -1654,6 +2051,13 @@ url = "https://github.com/SKlayer/chia_automated_parallel_plotter"
 url = "https://github.com/skwakl/chia-plotman"
 
 [[repo]]
+url = "https://github.com/SlowestTimelord/nftsonchia"
+missing = true
+
+[[repo]]
+url = "https://github.com/SlowestTimelord/slowesttimelord.github.io"
+
+[[repo]]
 url = "https://github.com/smerchkz/chia-fast-deploy-tools"
 
 [[repo]]
@@ -1664,6 +2068,9 @@ url = "https://github.com/snight1983/chia-rosechain"
 
 [[repo]]
 url = "https://github.com/somanysteves/power-chia"
+
+[[repo]]
+url = "https://github.com/somediego/kissmp"
 
 [[repo]]
 url = "https://github.com/sometwit/kissmp"
@@ -1703,6 +2110,9 @@ url = "https://github.com/stefan-lange/chia-price-exporter"
 
 [[repo]]
 url = "https://github.com/steppsr/brighttree"
+
+[[repo]]
+url = "https://github.com/steppsr/discord-faucet-bot"
 
 [[repo]]
 url = "https://github.com/steppsr/droid_name_generator"
@@ -1757,6 +2167,7 @@ url = "https://github.com/strategist922/PlotMonster"
 
 [[repo]]
 url = "https://github.com/su77ungr/easy_mint"
+missing = true
 
 [[repo]]
 url = "https://github.com/SugarBooty/chia_benchmark_graph"
@@ -1771,13 +2182,22 @@ url = "https://github.com/Sukhavati-Labs/sukhavati-blockchain"
 url = "https://github.com/superbot-coder/chia_plotting_tools"
 
 [[repo]]
+url = "https://github.com/SutuLabs/ChiaNameServiceRegistrar"
+
+[[repo]]
 url = "https://github.com/SutuLabs/Dashboard"
 
 [[repo]]
 url = "https://github.com/SutuLabs/Pawket"
 
 [[repo]]
+url = "https://github.com/SutuLabs/pawket-js-sdk"
+
+[[repo]]
 url = "https://github.com/swar/Swar-Chia-Plot-Manager"
+
+[[repo]]
+url = "https://github.com/SynthwaveAndy/DID-PIX"
 
 [[repo]]
 url = "https://github.com/szatmary/PlotFS"
@@ -1822,6 +2242,9 @@ url = "https://github.com/Tea-n-Tech/chia-tea"
 url = "https://github.com/technickal1/madmax-prompts"
 
 [[repo]]
+url = "https://github.com/tedd/Tedd.ChiaPlotter"
+
+[[repo]]
 url = "https://github.com/thauch/chia-logger"
 
 [[repo]]
@@ -1837,10 +2260,14 @@ url = "https://github.com/thothloki/Chia-Plot-Transfer"
 url = "https://github.com/timephy/madmax-chia-plotter-manager"
 
 [[repo]]
+url = "https://github.com/tjallingk/ChiaSyncBench"
+
+[[repo]]
 url = "https://github.com/tobernguyen/madmax-manager"
 
 [[repo]]
 url = "https://github.com/tomachalek/chinspector"
+missing = true
 
 [[repo]]
 url = "https://github.com/tomand285/chiaMover"
@@ -1868,6 +2295,7 @@ url = "https://github.com/twosson/chia-plotter-CUDA-OpenCl"
 
 [[repo]]
 url = "https://github.com/tyc4d/chia-version-update-notification"
+missing = true
 
 [[repo]]
 url = "https://github.com/tydeno/Ploto"
@@ -1915,6 +2343,15 @@ url = "https://github.com/VoidXH/ChiaPerformanceCheck"
 url = "https://github.com/vol24pl/Autoplot"
 
 [[repo]]
+url = "https://github.com/wallentx/chia-extension"
+
+[[repo]]
+url = "https://github.com/warpdotgreen/bridge-ui"
+
+[[repo]]
+url = "https://github.com/warpdotgreen/cli"
+
+[[repo]]
 url = "https://github.com/WarutaShinken/flora-barebone"
 
 [[repo]]
@@ -1948,6 +2385,9 @@ url = "https://github.com/wolfrage76/windows-plotman"
 url = "https://github.com/Wujiao233/Scriptable-HPool-Chia-widget"
 
 [[repo]]
+url = "https://github.com/wzy1985/chia-plot-mover"
+
+[[repo]]
 url = "https://github.com/xchgarden/Chia-Plot-Checker"
 
 [[repo]]
@@ -1957,6 +2397,9 @@ url = "https://github.com/xelzin/ubuntu-vnc-desktop"
 url = "https://github.com/xiaoliwe/xchrobot"
 
 [[repo]]
+url = "https://github.com/xorde-labs/docker-chia-node"
+
+[[repo]]
 url = "https://github.com/xorde-nodes/chia-node"
 
 [[repo]]
@@ -1964,6 +2407,7 @@ url = "https://github.com/xorinox/chia-utils"
 
 [[repo]]
 url = "https://github.com/xPatrikTwitch/PatrikPlotter"
+missing = true
 
 [[repo]]
 url = "https://github.com/xplicit/chiapos-dotnet"
@@ -1984,6 +2428,18 @@ url = "https://github.com/Yakuhito/ChiaFarms"
 url = "https://github.com/Yakuhito/GreenWeb.js"
 
 [[repo]]
+url = "https://github.com/Yakuhito/tibet"
+
+[[repo]]
+url = "https://github.com/Yakuhito/tibet-analytics"
+
+[[repo]]
+url = "https://github.com/Yakuhito/tibet-analytics-api"
+
+[[repo]]
+url = "https://github.com/Yakuhito/tibet-ui"
+
+[[repo]]
 url = "https://github.com/Yakuhito/yakuSwap"
 
 [[repo]]
@@ -1997,6 +2453,9 @@ url = "https://github.com/yan74/chiahub-monitor"
 
 [[repo]]
 url = "https://github.com/ychang-cn/ChiaPlotter"
+
+[[repo]]
+url = "https://github.com/ydipeepo/chia-k8s"
 
 [[repo]]
 url = "https://github.com/ydipeepo/nvme-mate"
@@ -2021,6 +2480,9 @@ url = "https://github.com/ytx1991/ChiaMegaMillions"
 
 [[repo]]
 url = "https://github.com/ytx1991/ChiaMonitor"
+
+[[repo]]
+url = "https://github.com/ytx1991/ChiaSimplePlotter"
 
 [[repo]]
 url = "https://github.com/yyolk/dexie.py"

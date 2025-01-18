@@ -8,6 +8,10 @@ github_organizations = ["https://github.com/CryptonStudio"]
 # Repositories
 [[repo]]
 url = "https://github.com/CryptonStudio/amino-js"
+missing = true
+
+[[repo]]
+url = "https://github.com/CryptonStudio/Audits"
 
 [[repo]]
 url = "https://github.com/CryptonStudio/cryptokeeper-admin"
@@ -32,6 +36,15 @@ url = "https://github.com/CryptonStudio/cryptokeeper-notifier"
 
 [[repo]]
 url = "https://github.com/CryptonStudio/cryptokeeper-observer"
+
+[[repo]]
+url = "https://github.com/CryptonStudio/crypton-matching-engine"
+
+[[repo]]
+url = "https://github.com/CryptonStudio/crypton-smart-contracts"
+
+[[repo]]
+url = "https://github.com/CryptonStudio/Interview"
 
 [[repo]]
 url = "https://github.com/CryptonStudio/ledger-decimal"

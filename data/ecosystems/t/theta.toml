@@ -10,10 +10,25 @@ github_organizations = ["https://github.com/thetatoken"]
 url = "https://github.com/blockchain-etl/theta-etl"
 
 [[repo]]
+url = "https://github.com/meterio/passport-service"
+
+[[repo]]
+url = "https://github.com/meterio/Passportv2Contracts"
+
+[[repo]]
 url = "https://github.com/thetatoken/app-ethereum"
 
 [[repo]]
+url = "https://github.com/thetatoken/aws-blockchain-node-runners"
+
+[[repo]]
 url = "https://github.com/thetatoken/chains"
+
+[[repo]]
+url = "https://github.com/thetatoken/cloud-gpus.github.io"
+
+[[repo]]
+url = "https://github.com/thetatoken/dapp-nft-staking-demo"
 
 [[repo]]
 url = "https://github.com/thetatoken/guardian-mainnet-guide"
@@ -25,13 +40,20 @@ url = "https://github.com/thetatoken/guardian-testnet-guide"
 url = "https://github.com/thetatoken/node-ffmpeg-installer"
 
 [[repo]]
+url = "https://github.com/thetatoken/sketch-to-3d-demo"
+
+[[repo]]
 url = "https://github.com/thetatoken/sliver-integration-transaction-service"
+
+[[repo]]
+url = "https://github.com/thetatoken/sliver-integration-transaction-service-deprecated"
 
 [[repo]]
 url = "https://github.com/thetatoken/sliver-integration-transaction-signer"
 
 [[repo]]
 url = "https://github.com/thetatoken/sliver-integration-web-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/thetatoken/sushiswap"
@@ -52,6 +74,15 @@ url = "https://github.com/thetatoken/theta-drop-connect-example"
 url = "https://github.com/thetatoken/theta-edge-store-demos"
 
 [[repo]]
+url = "https://github.com/thetatoken/theta-edgecloud-chatbot-example"
+
+[[repo]]
+url = "https://github.com/thetatoken/theta-edgecloud-sketch-to-3d-example"
+
+[[repo]]
+url = "https://github.com/thetatoken/theta-edgecloud-virtual-try-on-example"
+
+[[repo]]
 url = "https://github.com/thetatoken/theta-erc20-token-sale"
 
 [[repo]]
@@ -68,6 +99,7 @@ url = "https://github.com/thetatoken/theta-infrastructure-ledger-explorer"
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-infrastructure-vault"
+missing = true
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-launcher"
@@ -108,6 +140,9 @@ url = "https://github.com/thetatoken/theta-rosetta-rpc-adaptor"
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-tool-ethereum-erc20-snapshot"
+
+[[repo]]
+url = "https://github.com/thetatoken/theta-video-api-demo"
 
 [[repo]]
 url = "https://github.com/thetatoken/theta-wallet-web"

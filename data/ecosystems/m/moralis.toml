@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/MoralisWeb3"]
 url = "https://github.com/MoralisWeb3/angular-moralis"
 
 [[repo]]
+url = "https://github.com/MoralisWeb3/be-onboarding"
+
+[[repo]]
 url = "https://github.com/MoralisWeb3/bsc-node-setup"
 
 [[repo]]
@@ -20,6 +23,9 @@ url = "https://github.com/MoralisWeb3/course-resources"
 
 [[repo]]
 url = "https://github.com/MoralisWeb3/create-moralis-dapp"
+
+[[repo]]
+url = "https://github.com/MoralisWeb3/demo-app"
 
 [[repo]]
 url = "https://github.com/MoralisWeb3/demo-apps"
@@ -71,6 +77,7 @@ url = "https://github.com/MoralisWeb3/moralis-blueprints"
 
 [[repo]]
 url = "https://github.com/MoralisWeb3/moralis-cra-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/MoralisWeb3/moralis-dot-net"
@@ -92,6 +99,7 @@ url = "https://github.com/MoralisWeb3/MoralisAPIReference"
 
 [[repo]]
 url = "https://github.com/MoralisWeb3/MoralisCSharp"
+missing = true
 
 [[repo]]
 url = "https://github.com/MoralisWeb3/MoralisDocumentation"

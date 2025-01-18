@@ -13,6 +13,9 @@ url = "https://github.com/bugduino/idle-contracts"
 url = "https://github.com/Idle-Labs/alpha-wallet-android"
 
 [[repo]]
+url = "https://github.com/Idle-Labs/amphor-fee-rebate"
+
+[[repo]]
 url = "https://github.com/Idle-Labs/DeFi-Pulse-Adapters"
 
 [[repo]]
@@ -35,6 +38,10 @@ url = "https://github.com/Idle-Labs/idle-contracts"
 
 [[repo]]
 url = "https://github.com/Idle-Labs/idle-dashboard-app"
+missing = true
+
+[[repo]]
+url = "https://github.com/Idle-Labs/idle-dashboard-credit"
 
 [[repo]]
 url = "https://github.com/Idle-Labs/idle-dashboard-legacy"
@@ -55,7 +62,16 @@ url = "https://github.com/Idle-Labs/idle-gov-distribution"
 url = "https://github.com/Idle-Labs/idle-governance"
 
 [[repo]]
+url = "https://github.com/Idle-Labs/idle-institutional-landing"
+
+[[repo]]
 url = "https://github.com/Idle-Labs/idle-landing"
+
+[[repo]]
+url = "https://github.com/Idle-Labs/idle-op-distribution"
+
+[[repo]]
+url = "https://github.com/Idle-Labs/idle-pareto-landing"
 
 [[repo]]
 url = "https://github.com/Idle-Labs/idle-tranches"
@@ -65,6 +81,9 @@ url = "https://github.com/Idle-Labs/idle-tranches-subgraph"
 
 [[repo]]
 url = "https://github.com/Idle-Labs/idle-TVL"
+
+[[repo]]
+url = "https://github.com/Idle-Labs/paraswap-dex-lib"
 
 [[repo]]
 url = "https://github.com/Idle-Labs/snapshot-spaces"

@@ -13,7 +13,13 @@ url = "https://github.com/0xMacro/array_sorting_example_hardhat"
 url = "https://github.com/0xMacro/Autograph"
 
 [[repo]]
+url = "https://github.com/0xMacro/awesome-solana-security"
+
+[[repo]]
 url = "https://github.com/0xMacro/calling-variations"
+
+[[repo]]
+url = "https://github.com/0xMacro/cannon-router"
 
 [[repo]]
 url = "https://github.com/0xMacro/compound_short_example"
@@ -53,6 +59,24 @@ url = "https://github.com/0xMacro/erc20_lecture"
 
 [[repo]]
 url = "https://github.com/0xMacro/exam_processor"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-and-npm-with-remappings"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-no-remappings-and-npm"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-with-oz-no-npm"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-with-oz-no-npm-no-toml-libs"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-with-remappings"
+
+[[repo]]
+url = "https://github.com/0xMacro/forge-with-remappings-and-npm"
 
 [[repo]]
 url = "https://github.com/0xMacro/gas-numbers-every-solidity-dev-should-know"
@@ -103,6 +127,15 @@ url = "https://github.com/0xMacro/micro_audits_lecture"
 url = "https://github.com/0xMacro/onchain_signatures_lecture"
 
 [[repo]]
+url = "https://github.com/0xMacro/oz_library_18"
+
+[[repo]]
+url = "https://github.com/0xMacro/oz_library_19"
+
+[[repo]]
+url = "https://github.com/0xMacro/oz_library_20"
+
+[[repo]]
 url = "https://github.com/0xMacro/parity-hack"
 
 [[repo]]
@@ -116,6 +149,9 @@ url = "https://github.com/0xMacro/prevent_withdraw"
 
 [[repo]]
 url = "https://github.com/0xMacro/ricmoo_underhand_solidity"
+
+[[repo]]
+url = "https://github.com/0xMacro/solana-security-note"
 
 [[repo]]
 url = "https://github.com/0xMacro/solidity-parser"

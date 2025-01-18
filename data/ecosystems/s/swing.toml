@@ -20,12 +20,18 @@ url = "https://github.com/polkaswitch/chains"
 
 [[repo]]
 url = "https://github.com/polkaswitch/demo-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkaswitch/demo-sdk-ts"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkaswitch/demo-transaction"
+missing = true
+
+[[repo]]
+url = "https://github.com/polkaswitch/evm-cosmos-crosschain-swap"
 
 [[repo]]
 url = "https://github.com/polkaswitch/examples"
@@ -40,10 +46,14 @@ url = "https://github.com/polkaswitch/junoswap-asset-list"
 url = "https://github.com/polkaswitch/moonbeam-project-directory"
 
 [[repo]]
+url = "https://github.com/polkaswitch/osmosis-asset-lists"
+
+[[repo]]
 url = "https://github.com/polkaswitch/polkadot-ethereum"
 
 [[repo]]
 url = "https://github.com/polkaswitch/polkaswitch-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/polkaswitch/sgn-v2-networks"
@@ -56,6 +66,9 @@ url = "https://github.com/polkaswitch/synapse-sdk"
 
 [[repo]]
 url = "https://github.com/polkaswitch/token-list"
+
+[[repo]]
+url = "https://github.com/polkaswitch/tokenlists"
 
 [[repo]]
 url = "https://github.com/polkaswitch/trade-volumn-test"

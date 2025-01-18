@@ -90,9 +90,11 @@ url = "https://github.com/Bytom/bytom.js"
 
 [[repo]]
 url = "https://github.com/Bytom/bytom2-gm"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/community"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/Contracts"
@@ -110,14 +112,16 @@ url = "https://github.com/Bytom/equity-console"
 url = "https://github.com/Bytom/faucet"
 
 [[repo]]
-url = "https://github.com/Bytom/gin-tools"
-missing = true
-
-[[repo]]
 url = "https://github.com/Bytom/homebrew-bytom"
 
 [[repo]]
 url = "https://github.com/Bytom/maze-bot"
+
+[[repo]]
+url = "https://github.com/Bytom/maze-digital-android"
+
+[[repo]]
+url = "https://github.com/Bytom/MazeGuruOnePrompt"
 
 [[repo]]
 url = "https://github.com/Bytom/MazeSupport"
@@ -136,6 +140,7 @@ url = "https://github.com/Bytom/shuttle"
 
 [[repo]]
 url = "https://github.com/Bytom/slips"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/spanner"
@@ -154,18 +159,23 @@ url = "https://github.com/Bytom/SuperTx-periphery"
 
 [[repo]]
 url = "https://github.com/Bytom/sushiswap"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/sushiswap-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/tss-lib"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/uniswap-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/uniswap-org"
+missing = true
 
 [[repo]]
 url = "https://github.com/Bytom/vapor"

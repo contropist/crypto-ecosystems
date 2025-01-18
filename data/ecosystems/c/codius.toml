@@ -34,6 +34,9 @@ url = "https://github.com/codius/codius-web"
 url = "https://github.com/codius/codius-wiki"
 
 [[repo]]
+url = "https://github.com/codius/codius-workers"
+
+[[repo]]
 url = "https://github.com/codius/codius.github.io"
 
 [[repo]]
@@ -58,7 +61,11 @@ url = "https://github.com/codius/manifest"
 url = "https://github.com/codius/official-images"
 
 [[repo]]
+url = "https://github.com/codius/old-codius-cli"
+
+[[repo]]
 url = "https://github.com/codius/openfaas-cloud"
 
 [[repo]]
 url = "https://github.com/codius/validating-admission-webhook"
+missing = true

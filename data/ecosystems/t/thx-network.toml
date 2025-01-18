@@ -43,10 +43,29 @@ url = "https://github.com/thxprotocol/deploy-scripts"
 url = "https://github.com/thxprotocol/discord-bot"
 
 [[repo]]
+url = "https://github.com/thxprotocol/discovery"
+
+[[repo]]
 url = "https://github.com/thxprotocol/docs"
 
 [[repo]]
+url = "https://github.com/thxprotocol/ethereum-optimism.github.io"
+
+[[repo]]
+url = "https://github.com/thxprotocol/example-id-event"
+
+[[repo]]
+url = "https://github.com/thxprotocol/examples"
+
+[[repo]]
 url = "https://github.com/thxprotocol/fee-swap"
+missing = true
+
+[[repo]]
+url = "https://github.com/thxprotocol/galachain"
+
+[[repo]]
+url = "https://github.com/thxprotocol/lhd-config"
 
 [[repo]]
 url = "https://github.com/thxprotocol/modules"
@@ -56,6 +75,9 @@ url = "https://github.com/thxprotocol/modules-solidity"
 
 [[repo]]
 url = "https://github.com/thxprotocol/monorepo"
+
+[[repo]]
+url = "https://github.com/thxprotocol/monorepo-legacy"
 
 [[repo]]
 url = "https://github.com/thxprotocol/open-social-integration"
@@ -82,10 +104,16 @@ url = "https://github.com/thxprotocol/subgraph"
 url = "https://github.com/thxprotocol/telegram-bot"
 
 [[repo]]
+url = "https://github.com/thxprotocol/unwinding"
+
+[[repo]]
 url = "https://github.com/thxprotocol/vue-3-monorepo"
 
 [[repo]]
 url = "https://github.com/thxprotocol/wallet"
+
+[[repo]]
+url = "https://github.com/thxprotocol/webhook-examples"
 
 [[repo]]
 url = "https://github.com/thxprotocol/widgets"

@@ -82,10 +82,14 @@ url = "https://github.com/bitweb-project/bted"
 url = "https://github.com/bitweb-project/CalinsQRReader"
 
 [[repo]]
+url = "https://github.com/bitweb-project/coins"
+
+[[repo]]
 url = "https://github.com/bitweb-project/cosignerpool"
 
 [[repo]]
 url = "https://github.com/bitweb-project/cpuminer-opt-rplant"
+missing = true
 
 [[repo]]
 url = "https://github.com/bitweb-project/crc32c-subtree"
@@ -184,6 +188,9 @@ url = "https://github.com/bitweb-project/secp256k1"
 url = "https://github.com/bitweb-project/siphash"
 
 [[repo]]
+url = "https://github.com/bitweb-project/slips"
+
+[[repo]]
 url = "https://github.com/bitweb-project/snappy"
 
 [[repo]]
@@ -218,3 +225,6 @@ url = "https://github.com/bitweb-project/yespower_go"
 
 [[repo]]
 url = "https://github.com/bitweb-project/yiimp"
+
+[[repo]]
+url = "https://github.com/bitweb-project/yiimp_install_script"

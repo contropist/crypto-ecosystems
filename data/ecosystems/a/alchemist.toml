@@ -29,6 +29,7 @@ url = "https://github.com/alchemistcoin/build-frontend"
 
 [[repo]]
 url = "https://github.com/alchemistcoin/copper-curators"
+missing = true
 
 [[repo]]
 url = "https://github.com/alchemistcoin/crucible-documentation"
@@ -46,13 +47,25 @@ url = "https://github.com/alchemistcoin/ethers-provider-flashbots-bundle"
 url = "https://github.com/alchemistcoin/knowledge-base"
 
 [[repo]]
+url = "https://github.com/alchemistcoin/langflowRenarsTest"
+
+[[repo]]
 url = "https://github.com/alchemistcoin/mistx-frontend"
 
 [[repo]]
 url = "https://github.com/alchemistcoin/mistx-website"
 
 [[repo]]
+url = "https://github.com/alchemistcoin/openai-assistant-m"
+
+[[repo]]
 url = "https://github.com/alchemistcoin/room33"
+
+[[repo]]
+url = "https://github.com/alchemistcoin/room33-auction"
+
+[[repo]]
+url = "https://github.com/alchemistcoin/room33_splash"
 
 [[repo]]
 url = "https://github.com/alchemistcoin/sandwiched-backend"

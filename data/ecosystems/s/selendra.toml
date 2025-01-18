@@ -23,9 +23,16 @@ url = "https://github.com/LayNath242/indracore_api"
 
 [[repo]]
 url = "https://github.com/selendra/.github"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/222-airdrop"
+
+[[repo]]
+url = "https://github.com/selendra/abstract-account-wallet"
+
+[[repo]]
+url = "https://github.com/selendra/account-abstraction-contract"
 
 [[repo]]
 url = "https://github.com/selendra/airdrop-v2-site"
@@ -35,6 +42,7 @@ url = "https://github.com/selendra/albazaar-apps"
 
 [[repo]]
 url = "https://github.com/selendra/apps"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/apps-ui-archived"
@@ -65,6 +73,7 @@ url = "https://github.com/selendra/bridge-api"
 
 [[repo]]
 url = "https://github.com/selendra/bridge-transfer"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/browser-extension"
@@ -73,10 +82,22 @@ url = "https://github.com/selendra/browser-extension"
 url = "https://github.com/selendra/CATEd"
 
 [[repo]]
+url = "https://github.com/selendra/chains"
+
+[[repo]]
 url = "https://github.com/selendra/contract-registry"
 
 [[repo]]
+url = "https://github.com/selendra/contracts-ui"
+
+[[repo]]
 url = "https://github.com/selendra/create-selendra-app"
+
+[[repo]]
+url = "https://github.com/selendra/csx-blockchain-concept"
+
+[[repo]]
+url = "https://github.com/selendra/csx-blockchain-powered-concept"
 
 [[repo]]
 url = "https://github.com/selendra/customer-loyalty"
@@ -103,7 +124,18 @@ url = "https://github.com/selendra/digital-id-mobile"
 url = "https://github.com/selendra/digital-id-web"
 
 [[repo]]
+url = "https://github.com/selendra/doc"
+missing = true
+
+[[repo]]
+url = "https://github.com/selendra/dsc_wallet"
+missing = true
+
+[[repo]]
 url = "https://github.com/selendra/event_crew_package"
+
+[[repo]]
+url = "https://github.com/selendra/evm-api"
 
 [[repo]]
 url = "https://github.com/selendra/explorer"
@@ -151,6 +183,12 @@ url = "https://github.com/selendra/koompi-wallet"
 url = "https://github.com/selendra/legacy-stellar-federation-docker"
 
 [[repo]]
+url = "https://github.com/selendra/lightpaper"
+
+[[repo]]
+url = "https://github.com/selendra/madara-bootstrapper"
+
+[[repo]]
 url = "https://github.com/selendra/mobile"
 
 [[repo]]
@@ -164,9 +202,13 @@ url = "https://github.com/selendra/offchain-attestation"
 
 [[repo]]
 url = "https://github.com/selendra/parachain-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/payment-dashboard"
+
+[[repo]]
+url = "https://github.com/selendra/polkadot-sdk"
 
 [[repo]]
 url = "https://github.com/selendra/polkassembly"
@@ -184,10 +226,18 @@ url = "https://github.com/selendra/referral-program-backend"
 url = "https://github.com/selendra/referral-program-dashboard"
 
 [[repo]]
+url = "https://github.com/selendra/remix-ide"
+
+[[repo]]
+url = "https://github.com/selendra/rundler"
+
+[[repo]]
 url = "https://github.com/selendra/seagame_crew"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/sel-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/sel-on-evm"
@@ -209,9 +259,13 @@ url = "https://github.com/selendra/selendra-bridge"
 
 [[repo]]
 url = "https://github.com/selendra/selendra-bridge-site"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/selendra-client"
+
+[[repo]]
+url = "https://github.com/selendra/selendra-dapp"
 
 [[repo]]
 url = "https://github.com/selendra/selendra-did-package"
@@ -220,22 +274,39 @@ url = "https://github.com/selendra/selendra-did-package"
 url = "https://github.com/selendra/selendra-docs"
 
 [[repo]]
+url = "https://github.com/selendra/selendra-docs-old"
+
+[[repo]]
+url = "https://github.com/selendra/selendra-docs-v2"
+
+[[repo]]
 url = "https://github.com/selendra/selendra-explorer"
 
 [[repo]]
+url = "https://github.com/selendra/selendra-explorer-nextjs"
+
+[[repo]]
 url = "https://github.com/selendra/selendra-faucet"
+
+[[repo]]
+url = "https://github.com/selendra/selendra-kit"
+
+[[repo]]
+url = "https://github.com/selendra/selendra-mini"
 
 [[repo]]
 url = "https://github.com/selendra/selendra-mininode-electron"
 
 [[repo]]
 url = "https://github.com/selendra/selendra-mkplace-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/selendra-mobile-wallet"
 
 [[repo]]
 url = "https://github.com/selendra/selendra-parachain"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/selendra-parachain-template"
@@ -248,6 +319,15 @@ url = "https://github.com/selendra/selendra-portal"
 
 [[repo]]
 url = "https://github.com/selendra/selendra-scan"
+
+[[repo]]
+url = "https://github.com/selendra/selendra-sdk"
+
+[[repo]]
+url = "https://github.com/selendra/selendra-signer"
+
+[[repo]]
+url = "https://github.com/selendra/selendra-staking-dashboard"
 
 [[repo]]
 url = "https://github.com/selendra/selendra-subquery"
@@ -266,15 +346,20 @@ url = "https://github.com/selendra/selendra-wiki"
 
 [[repo]]
 url = "https://github.com/selendra/selendra.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/selendra.js"
+
+[[repo]]
+url = "https://github.com/selendra/selendra.js.bk"
 
 [[repo]]
 url = "https://github.com/selendra/selendra.org"
 
 [[repo]]
 url = "https://github.com/selendra/selendra_marketplace_web"
+missing = true
 
 [[repo]]
 url = "https://github.com/selendra/selendrachain"
@@ -287,6 +372,9 @@ url = "https://github.com/selendra/smart-contracts"
 
 [[repo]]
 url = "https://github.com/selendra/ss58-registry"
+
+[[repo]]
+url = "https://github.com/selendra/staking-dashboard"
 
 [[repo]]
 url = "https://github.com/selendra/stellarexplorer"
@@ -305,6 +393,19 @@ url = "https://github.com/selendra/studentid-substrate"
 
 [[repo]]
 url = "https://github.com/selendra/substrate"
+
+[[repo]]
+url = "https://github.com/selendra/substrate-api-client"
+
+[[repo]]
+url = "https://github.com/selendra/superdapp"
+
+[[repo]]
+url = "https://github.com/selendra/swap"
+missing = true
+
+[[repo]]
+url = "https://github.com/selendra/terminal"
 
 [[repo]]
 url = "https://github.com/selendra/testfaucet"

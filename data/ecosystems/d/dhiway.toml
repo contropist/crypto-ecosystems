@@ -7,7 +7,14 @@ github_organizations = ["https://github.com/dhiway"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/dhiway/.github"
+
+[[repo]]
 url = "https://github.com/dhiway/.github-skill-a-thon"
+
+[[repo]]
+url = "https://github.com/dhiway/analytics_service"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhiway/apps"
@@ -19,10 +26,17 @@ url = "https://github.com/dhiway/aries-cloudagent-python"
 url = "https://github.com/dhiway/aries-framework-go"
 
 [[repo]]
+url = "https://github.com/dhiway/confidex"
+
+[[repo]]
 url = "https://github.com/dhiway/cord"
 
 [[repo]]
 url = "https://github.com/dhiway/cord-agent-app-v1"
+
+[[repo]]
+url = "https://github.com/dhiway/cord-api-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhiway/cord-concept"
@@ -31,7 +45,22 @@ url = "https://github.com/dhiway/cord-concept"
 url = "https://github.com/dhiway/cord-demo-scripts"
 
 [[repo]]
+url = "https://github.com/dhiway/cord-indexer"
+missing = true
+
+[[repo]]
+url = "https://github.com/dhiway/cord-js"
+missing = true
+
+[[repo]]
 url = "https://github.com/dhiway/cord-relay"
+
+[[repo]]
+url = "https://github.com/dhiway/cord-roy"
+missing = true
+
+[[repo]]
+url = "https://github.com/dhiway/cord-session-setkey"
 
 [[repo]]
 url = "https://github.com/dhiway/cord-subql"
@@ -40,13 +69,21 @@ url = "https://github.com/dhiway/cord-subql"
 url = "https://github.com/dhiway/cord-typegen"
 
 [[repo]]
+url = "https://github.com/dhiway/cord.go"
+
+[[repo]]
 url = "https://github.com/dhiway/cord.js"
 
 [[repo]]
 url = "https://github.com/dhiway/cord.js-1"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhiway/cord.js-2"
+missing = true
+
+[[repo]]
+url = "https://github.com/dhiway/cord.py"
 
 [[repo]]
 url = "https://github.com/dhiway/cumulus"
@@ -64,6 +101,12 @@ url = "https://github.com/dhiway/didcomm-messaging"
 url = "https://github.com/dhiway/digital-resume"
 
 [[repo]]
+url = "https://github.com/dhiway/DMP-Inauguration"
+
+[[repo]]
+url = "https://github.com/dhiway/frontier"
+
+[[repo]]
 url = "https://github.com/dhiway/indy-sdk"
 
 [[repo]]
@@ -76,7 +119,13 @@ url = "https://github.com/dhiway/issuer-agent"
 url = "https://github.com/dhiway/polkadot"
 
 [[repo]]
+url = "https://github.com/dhiway/polkadot-sdk"
+
+[[repo]]
 url = "https://github.com/dhiway/react-native-camera"
+
+[[repo]]
+url = "https://github.com/dhiway/react-native-webview"
 
 [[repo]]
 url = "https://github.com/dhiway/sample-qr-app"
@@ -91,10 +140,25 @@ url = "https://github.com/dhiway/ss58-registry"
 url = "https://github.com/dhiway/substrate"
 
 [[repo]]
+url = "https://github.com/dhiway/substrate-0.9.x"
+
+[[repo]]
 url = "https://github.com/dhiway/substrate-archive"
 
 [[repo]]
+url = "https://github.com/dhiway/substrate-sdk"
+
+[[repo]]
+url = "https://github.com/dhiway/subxt"
+
+[[repo]]
+url = "https://github.com/dhiway/sunbird-rc-core"
+
+[[repo]]
 url = "https://github.com/dhiway/type-definitions"
+
+[[repo]]
+url = "https://github.com/dhiway/vc-export"
 
 [[repo]]
 url = "https://github.com/dhiway/von-network"

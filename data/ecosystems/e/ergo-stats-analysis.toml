@@ -1,5 +1,5 @@
 # Ecosystem Level Information
-title = "Ergo Stats and Analysis"
+title = "Ergo Stats & Analysis"
 
 sub_ecosystems = []
 
@@ -8,6 +8,10 @@ github_organizations = []
 # Repositories
 [[repo]]
 url = "https://github.com/abchrisxyz/ergowatch"
+
+[[repo]]
+url = "https://github.com/abchrisxyz/ergowatch-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/ach2swift/ErgoStats"
@@ -32,15 +36,7 @@ url = "https://github.com/Eeysirhc/tidyergo"
 
 [[repo]]
 url = "https://github.com/gsblabsio/ergo-analytics"
+missing = true
 
 [[repo]]
 url = "https://github.com/SabaunT/ergo-monitoring"
-[[repo]]
-url = "https://github.com/bdkent/ergo-status"
-
-[[repo]]
-url = "https://github.com/cafebedouin/sigmanauts"
-
-[[repo]]
-url = "https://github.com/sachindayl/ErgoStatsAndroid"
-

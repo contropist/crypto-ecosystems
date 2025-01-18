@@ -14,9 +14,11 @@ url = "https://github.com/Solar-network/client"
 
 [[repo]]
 url = "https://github.com/Solar-network/core"
+tags = ["Protocol"]
 
 [[repo]]
 url = "https://github.com/Solar-network/crypto-networks"
+missing = true
 
 [[repo]]
 url = "https://github.com/Solar-network/desktop-wallet"
@@ -29,6 +31,9 @@ url = "https://github.com/Solar-network/docs"
 
 [[repo]]
 url = "https://github.com/Solar-network/ledger-app-solar"
+
+[[repo]]
+url = "https://github.com/Solar-network/media"
 
 [[repo]]
 url = "https://github.com/Solar-network/peers"
@@ -59,3 +64,4 @@ url = "https://github.com/Solar-network/translations"
 
 [[repo]]
 url = "https://github.com/Solar-network/website"
+missing = true

@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/Unipilot"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/Unipilot/A51-token"
+
+[[repo]]
 url = "https://github.com/Unipilot/assets"
 
 [[repo]]
@@ -17,6 +20,7 @@ url = "https://github.com/Unipilot/DefiLlama-Adapters"
 
 [[repo]]
 url = "https://github.com/Unipilot/snapshot-strategies"
+missing = true
 
 [[repo]]
 url = "https://github.com/Unipilot/snapshot.js"
@@ -41,6 +45,9 @@ url = "https://github.com/Unipilot/unipilot-token-contract"
 
 [[repo]]
 url = "https://github.com/Unipilot/unipilot-v2"
+
+[[repo]]
+url = "https://github.com/Unipilot/yield-server"
 
 [[repo]]
 url = "https://github.com/Unipilot/zapper-studio"

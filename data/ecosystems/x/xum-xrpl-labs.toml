@@ -34,6 +34,9 @@ url = "https://github.com/XRPL-Labs/Developer-Help-Center"
 url = "https://github.com/XRPL-Labs/DEX-Book-Changes-DB"
 
 [[repo]]
+url = "https://github.com/XRPL-Labs/DEX-Trade-Issue-Tracker"
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/dotnet-container-scripts"
 
 [[repo]]
@@ -55,10 +58,22 @@ url = "https://github.com/XRPL-Labs/Icons-Images-Buttons-Banners"
 url = "https://github.com/XRPL-Labs/js-condition-parser"
 
 [[repo]]
+url = "https://github.com/XRPL-Labs/jshooks-esbuild"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/jshooks-quickjs-runtime"
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/katacoda-scenarios"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/ledger-live-common"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Misc-Translations"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/multi-signature-issue-tracker"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/net-worth-xapp"
@@ -74,6 +89,9 @@ url = "https://github.com/XRPL-Labs/oauth-demo"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/order-id-codec"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Parallel-Payment-Service"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/path-find-xapp"
@@ -100,6 +118,30 @@ url = "https://github.com/XRPL-Labs/TxMutationParser"
 url = "https://github.com/XRPL-Labs/verify-xrpl-signature"
 
 [[repo]]
+url = "https://github.com/XRPL-Labs/xActivate"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/XAH-Price-Aggregator"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Xahau-Dev-Contest"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Xahau-Persist-Price-Oracle"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Xaman-App"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Xaman-Branding"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/Xaman-Issue-Tracker"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/xapp-builder"
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/xapp-proxy-for-xumm-api"
 
 [[repo]]
@@ -124,6 +166,9 @@ url = "https://github.com/XRPL-Labs/XRPayments-App"
 url = "https://github.com/XRPL-Labs/xrpl-client"
 
 [[repo]]
+url = "https://github.com/XRPL-Labs/xrpl-dev-portal"
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/XRPL-HookScript-Ideas"
 
 [[repo]]
@@ -133,6 +178,13 @@ url = "https://github.com/XRPL-Labs/XRPL-Orderbook-Reader"
 url = "https://github.com/XRPL-Labs/XRPL-Persist-Price-Oracle"
 
 [[repo]]
+url = "https://github.com/XRPL-Labs/XRPL-Protocol-Network-Hooks-Docs"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/XRPL-Protocol-Proxy"
+missing = true
+
+[[repo]]
 url = "https://github.com/XRPL-Labs/xrpl-sign-keypairs"
 
 [[repo]]
@@ -140,6 +192,7 @@ url = "https://github.com/XRPL-Labs/XRPL-Webhooks"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/xrpl.js"
+missing = true
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/xrpld-hooks"
@@ -200,3 +253,6 @@ url = "https://github.com/XRPL-Labs/XummPkce"
 
 [[repo]]
 url = "https://github.com/XRPL-Labs/XummSDK-React-Demo"
+
+[[repo]]
+url = "https://github.com/XRPL-Labs/xummStylesPlugin"

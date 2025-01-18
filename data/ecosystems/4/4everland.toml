@@ -37,6 +37,9 @@ url = "https://github.com/4everland/4everland-contracts"
 url = "https://github.com/4everland/4everland-node-docs"
 
 [[repo]]
+url = "https://github.com/4everland/4everland-sdk"
+
+[[repo]]
 url = "https://github.com/4everland/4everland-subgraph"
 
 [[repo]]
@@ -49,7 +52,13 @@ url = "https://github.com/4everland/airdrop"
 url = "https://github.com/4everland/arweave-docker"
 
 [[repo]]
+url = "https://github.com/4everland/arweave-sdk-rs"
+
+[[repo]]
 url = "https://github.com/4everland/awesome-ipfs"
+
+[[repo]]
+url = "https://github.com/4everland/blob-archiver"
 
 [[repo]]
 url = "https://github.com/4everland/bucket-AR"
@@ -59,6 +68,9 @@ url = "https://github.com/4everland/bucket-sdk-example"
 
 [[repo]]
 url = "https://github.com/4everland/bucket-website"
+
+[[repo]]
+url = "https://github.com/4everland/chat-ai"
 
 [[repo]]
 url = "https://github.com/4everland/CIDTrackingSubgraph"
@@ -82,7 +94,14 @@ url = "https://github.com/4everland/email-contacts"
 url = "https://github.com/4everland/fasthttp"
 
 [[repo]]
+url = "https://github.com/4everland/FirstSowing"
+
+[[repo]]
+url = "https://github.com/4everland/frontend"
+
+[[repo]]
 url = "https://github.com/4everland/go-ipfs"
+missing = true
 
 [[repo]]
 url = "https://github.com/4everland/go-mfs"
@@ -94,6 +113,9 @@ url = "https://github.com/4everland/go-uptimesdk"
 url = "https://github.com/4everland/golog"
 
 [[repo]]
+url = "https://github.com/4everland/greenfield-storage-provider"
+
+[[repo]]
 url = "https://github.com/4everland/hosting-website"
 
 [[repo]]
@@ -103,6 +125,9 @@ url = "https://github.com/4everland/ipfs-ks-postgres"
 url = "https://github.com/4everland/ipfs-servers"
 
 [[repo]]
+url = "https://github.com/4everland/ipfs-top"
+
+[[repo]]
 url = "https://github.com/4everland/ipfs-website"
 
 [[repo]]
@@ -110,6 +135,12 @@ url = "https://github.com/4everland/ipfs-webui"
 
 [[repo]]
 url = "https://github.com/4everland/kubo"
+
+[[repo]]
+url = "https://github.com/4everland/kurtosis-cdk"
+
+[[repo]]
+url = "https://github.com/4everland/land"
 
 [[repo]]
 url = "https://github.com/4everland/madmin-go"
@@ -124,37 +155,49 @@ url = "https://github.com/4everland/minio-js"
 url = "https://github.com/4everland/official-website"
 
 [[repo]]
+url = "https://github.com/4everland/opplasmairys"
+
+[[repo]]
 url = "https://github.com/4everland/pancake-frontend"
 
 [[repo]]
 url = "https://github.com/4everland/perp-v2-referral-dashboard"
+missing = true
 
 [[repo]]
 url = "https://github.com/4everland/pin-action"
 
 [[repo]]
 url = "https://github.com/4everland/pin-bucket-action"
+missing = true
 
 [[repo]]
 url = "https://github.com/4everland/pin-mango-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/4everland/pin-rei-official-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/4everland/pin-theta-wallet-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/4everland/pin-uniswap-v3-simulator"
+missing = true
 
 [[repo]]
 url = "https://github.com/4everland/pin-v1.cosmos.network"
+missing = true
 
 [[repo]]
 url = "https://github.com/4everland/pin-yam-www"
+missing = true
 
 [[repo]]
 url = "https://github.com/4everland/pin4everland-action"
+missing = true
 
 [[repo]]
 url = "https://github.com/4everland/pineapple"
@@ -169,7 +212,13 @@ url = "https://github.com/4everland/POSCRewards"
 url = "https://github.com/4everland/POSCRewardSubgraph"
 
 [[repo]]
+url = "https://github.com/4everland/preview"
+
+[[repo]]
 url = "https://github.com/4everland/project-templates"
+
+[[repo]]
+url = "https://github.com/4everland/public-gateway-checker"
 
 [[repo]]
 url = "https://github.com/4everland/ResourceManager"
@@ -184,10 +233,16 @@ url = "https://github.com/4everland/solana-name-resolver"
 url = "https://github.com/4everland/sushiswap-vision"
 
 [[repo]]
+url = "https://github.com/4everland/template-a-thon"
+
+[[repo]]
 url = "https://github.com/4everland/Templates"
 
 [[repo]]
 url = "https://github.com/4everland/testgoar"
+
+[[repo]]
+url = "https://github.com/4everland/umi-uploader-4everland"
 
 [[repo]]
 url = "https://github.com/4everland/uniswap-interface"

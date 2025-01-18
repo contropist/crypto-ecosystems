@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/vitelabs"]
 # Repositories
 [[repo]]
 url = "https://github.com/vitelabs/birfrost"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/bounties"
@@ -20,6 +21,7 @@ url = "https://github.com/vitelabs/country_pickers"
 
 [[repo]]
 url = "https://github.com/vitelabs/croaring-rs"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/crypto-info"
@@ -32,9 +34,11 @@ url = "https://github.com/vitelabs/dapp-buymeacoffee"
 
 [[repo]]
 url = "https://github.com/vitelabs/dms"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/document"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/go-vite"
@@ -44,9 +48,11 @@ url = "https://github.com/vitelabs/go-vite-nightly"
 
 [[repo]]
 url = "https://github.com/vitelabs/grin"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/gvite-tools"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/HDWallet"
@@ -62,6 +68,7 @@ url = "https://github.com/vitelabs/hummingbot"
 
 [[repo]]
 url = "https://github.com/vitelabs/jvite-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/ledger-app-vite"
@@ -71,15 +78,18 @@ url = "https://github.com/vitelabs/ledgerjs-hw-app-vite"
 
 [[repo]]
 url = "https://github.com/vitelabs/net-notice"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/node-walletconnect-bridge"
 
 [[repo]]
 url = "https://github.com/vitelabs/OIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/open-gateway"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/parse-asn1"
@@ -104,6 +114,7 @@ url = "https://github.com/vitelabs/soliditypp-bin"
 
 [[repo]]
 url = "https://github.com/vitelabs/soliditypp-devtools"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/soliditypp-examples"
@@ -116,6 +127,7 @@ url = "https://github.com/vitelabs/solppc-js"
 
 [[repo]]
 url = "https://github.com/vitelabs/staticPagesH5"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/swap-contract"
@@ -125,12 +137,15 @@ url = "https://github.com/vitelabs/SwiftBinanceChain"
 
 [[repo]]
 url = "https://github.com/vitelabs/token-profile"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/typedoc-default-themes"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vcc"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/VEP"
@@ -155,6 +170,7 @@ url = "https://github.com/vitelabs/vite-connect-client"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-connect-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-contracts"
@@ -167,12 +183,15 @@ url = "https://github.com/vitelabs/vite-docs"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-ethereum-ios"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-explorer"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-explorer-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-express"
@@ -188,9 +207,14 @@ url = "https://github.com/vitelabs/vite-hd-wallet-kit-ios"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-java-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-javasdk"
+missing = true
+
+[[repo]]
+url = "https://github.com/vitelabs/vite-org-new"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-passport"
@@ -200,6 +224,7 @@ url = "https://github.com/vitelabs/vite-portal"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-swift-kit"
@@ -209,6 +234,7 @@ url = "https://github.com/vitelabs/vite-utils"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-utils-ios"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-wallet"
@@ -221,9 +247,11 @@ url = "https://github.com/vitelabs/vite-web-wallet"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite-wiki"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vite.blog"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vite.js"
@@ -233,6 +261,7 @@ url = "https://github.com/vitelabs/vite.net"
 
 [[repo]]
 url = "https://github.com/vitelabs/vite.org"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vitebridge-frontend"
@@ -260,6 +289,7 @@ url = "https://github.com/vitelabs/vitex-prime"
 
 [[repo]]
 url = "https://github.com/vitelabs/vitex.net"
+missing = true
 
 [[repo]]
 url = "https://github.com/vitelabs/vuepress-plugin-mathjax"

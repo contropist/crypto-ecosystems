@@ -17,6 +17,7 @@ url = "https://github.com/confio/burner-chains"
 
 [[repo]]
 url = "https://github.com/confio/chain-registry"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/chat.tgrade.finance"
@@ -29,6 +30,12 @@ url = "https://github.com/confio/cosmonaut"
 
 [[repo]]
 url = "https://github.com/confio/cosmos-hd-key-derivation-spec"
+
+[[repo]]
+url = "https://github.com/confio/cosmwasm-tracing-api"
+
+[[repo]]
+url = "https://github.com/confio/cosmwasm-tracing-ui"
 
 [[repo]]
 url = "https://github.com/confio/credible-chain"
@@ -65,6 +72,7 @@ url = "https://github.com/confio/go-wasm"
 
 [[repo]]
 url = "https://github.com/confio/iavl"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/ibc"
@@ -98,6 +106,7 @@ url = "https://github.com/confio/mask"
 
 [[repo]]
 url = "https://github.com/confio/matadores-backlog-collection"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/nym"
@@ -145,6 +154,9 @@ url = "https://github.com/confio/tgrade"
 url = "https://github.com/confio/tgrade-app"
 
 [[repo]]
+url = "https://github.com/confio/tgrade-contracts"
+
+[[repo]]
 url = "https://github.com/confio/tgrade-docs"
 
 [[repo]]
@@ -167,6 +179,7 @@ url = "https://github.com/confio/wasm-opt"
 
 [[repo]]
 url = "https://github.com/confio/wasmer"
+missing = true
 
 [[repo]]
 url = "https://github.com/confio/weave-js"

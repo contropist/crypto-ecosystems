@@ -10,7 +10,21 @@ github_organizations = ["https://github.com/orochi-network"]
 url = "https://github.com/orochi-network/.github"
 
 [[repo]]
+url = "https://github.com/orochi-network/cairo-vm"
+missing = true
+
+[[repo]]
 url = "https://github.com/orochi-network/cookbook"
+
+[[repo]]
+url = "https://github.com/orochi-network/Core-Grants"
+
+[[repo]]
+url = "https://github.com/orochi-network/DefiLlama-Adapters"
+missing = true
+
+[[repo]]
+url = "https://github.com/orochi-network/defillama-sdk"
 
 [[repo]]
 url = "https://github.com/orochi-network/EIP-6366"
@@ -19,19 +33,38 @@ url = "https://github.com/orochi-network/EIP-6366"
 url = "https://github.com/orochi-network/EIPs"
 
 [[repo]]
+url = "https://github.com/orochi-network/framework"
+
+[[repo]]
+url = "https://github.com/orochi-network/Grant-Milestone-Delivery"
+
+[[repo]]
 url = "https://github.com/orochi-network/Grants-Program"
+missing = true
 
 [[repo]]
 url = "https://github.com/orochi-network/halo2"
 
 [[repo]]
+url = "https://github.com/orochi-network/Lasso"
+
+[[repo]]
 url = "https://github.com/orochi-network/libsecp256k1"
+
+[[repo]]
+url = "https://github.com/orochi-network/naruto"
 
 [[repo]]
 url = "https://github.com/orochi-network/Nova"
 
 [[repo]]
 url = "https://github.com/orochi-network/Nova-Scotia"
+
+[[repo]]
+url = "https://github.com/orochi-network/o1js"
+
+[[repo]]
+url = "https://github.com/orochi-network/openfhe-development"
 
 [[repo]]
 url = "https://github.com/orochi-network/orochi-api"
@@ -47,12 +80,14 @@ url = "https://github.com/orochi-network/orochi-multicast.ts"
 
 [[repo]]
 url = "https://github.com/orochi-network/orochi-network.github.io"
+missing = true
 
 [[repo]]
 url = "https://github.com/orochi-network/orochi-observer"
 
 [[repo]]
 url = "https://github.com/orochi-network/orochi-oracle"
+missing = true
 
 [[repo]]
 url = "https://github.com/orochi-network/orochi-proto"
@@ -76,7 +111,28 @@ url = "https://github.com/orochi-network/orosign-contracts"
 url = "https://github.com/orochi-network/playground"
 
 [[repo]]
+url = "https://github.com/orochi-network/polkadot-sdk"
+
+[[repo]]
+url = "https://github.com/orochi-network/proof-systems"
+
+[[repo]]
+url = "https://github.com/orochi-network/remix"
+
+[[repo]]
+url = "https://github.com/orochi-network/rz-vrf"
+
+[[repo]]
 url = "https://github.com/orochi-network/sdk"
+
+[[repo]]
+url = "https://github.com/orochi-network/smart-contracts"
+
+[[repo]]
+url = "https://github.com/orochi-network/snarkyjs"
+
+[[repo]]
+url = "https://github.com/orochi-network/tiny-ec"
 
 [[repo]]
 url = "https://github.com/orochi-network/wasmi"
@@ -86,6 +142,13 @@ url = "https://github.com/orochi-network/zator"
 
 [[repo]]
 url = "https://github.com/orochi-network/zkDatabase"
+
+[[repo]]
+url = "https://github.com/orochi-network/zkdatabase-doc"
+
+[[repo]]
+url = "https://github.com/orochi-network/zkDatabase-Website"
+missing = true
 
 [[repo]]
 url = "https://github.com/orochi-network/zkevm-circuits"

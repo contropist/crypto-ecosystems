@@ -67,6 +67,12 @@ url = "https://github.com/LayerXcom/fc-web"
 url = "https://github.com/LayerXcom/freee-go"
 
 [[repo]]
+url = "https://github.com/LayerXcom/go-mysql"
+
+[[repo]]
+url = "https://github.com/LayerXcom/gorm"
+
+[[repo]]
 url = "https://github.com/LayerXcom/gram"
 
 [[repo]]
@@ -103,6 +109,9 @@ url = "https://github.com/LayerXcom/load-balancing"
 url = "https://github.com/LayerXcom/lx-sonic"
 
 [[repo]]
+url = "https://github.com/LayerXcom/next-navigation-guard"
+
+[[repo]]
 url = "https://github.com/LayerXcom/oo7"
 
 [[repo]]
@@ -115,6 +124,9 @@ url = "https://github.com/LayerXcom/plasma-mvp-vyper"
 url = "https://github.com/LayerXcom/polkadot.rs"
 
 [[repo]]
+url = "https://github.com/LayerXcom/pr-agent"
+
+[[repo]]
 url = "https://github.com/LayerXcom/prysm"
 
 [[repo]]
@@ -125,6 +137,9 @@ url = "https://github.com/LayerXcom/research-hunt-contract"
 
 [[repo]]
 url = "https://github.com/LayerXcom/safety-oracle"
+
+[[repo]]
+url = "https://github.com/LayerXcom/scim-examples"
 
 [[repo]]
 url = "https://github.com/LayerXcom/snarks-voting"

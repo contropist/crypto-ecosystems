@@ -25,10 +25,15 @@ url = "https://github.com/TribeOneDefi/flash-lending"
 url = "https://github.com/TribeOneDefi/graph-node"
 
 [[repo]]
+url = "https://github.com/TribeOneDefi/rwaone-contracts"
+missing = true
+
+[[repo]]
 url = "https://github.com/TribeOneDefi/Substrate-Template-TribeOne"
 
 [[repo]]
 url = "https://github.com/TribeOneDefi/t1-perp-trading-dapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/TribeOneDefi/TribeOne-dApp-template"
@@ -38,3 +43,7 @@ url = "https://github.com/TribeOneDefi/TribeOne-DataStore-template"
 
 [[repo]]
 url = "https://github.com/TribeOneDefi/TribeOne-Oracle-Template"
+
+[[repo]]
+url = "https://github.com/TribeOneDefi/tribeone-v3-contracts"
+missing = true

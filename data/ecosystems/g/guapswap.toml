@@ -7,16 +7,41 @@ github_organizations = ["https://github.com/GuapSwap"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/GuapSwap/crossterm"
+
+[[repo]]
+url = "https://github.com/GuapSwap/ergo-dex"
+
+[[repo]]
+url = "https://github.com/GuapSwap/ergo-dex-backend"
+
+[[repo]]
 url = "https://github.com/GuapSwap/guapswap"
 
 [[repo]]
+url = "https://github.com/GuapSwap/guapswap-backend"
+
+[[repo]]
+url = "https://github.com/GuapSwap/guapswap-ergo-node"
+
+[[repo]]
+url = "https://github.com/GuapSwap/guapswap-node"
+
+[[repo]]
 url = "https://github.com/GuapSwap/guapswap-pay"
+missing = true
 
 [[repo]]
 url = "https://github.com/GuapSwap/guapswap-ronin"
 
 [[repo]]
+url = "https://github.com/GuapSwap/guapswap-tui"
+
+[[repo]]
 url = "https://github.com/GuapSwap/guapswap.github.io"
+
+[[repo]]
+url = "https://github.com/GuapSwap/guapswaplib"
 
 [[repo]]
 url = "https://github.com/GuapSwap/guapswaplib-scala"
@@ -28,7 +53,13 @@ url = "https://github.com/GuapSwap/guapswaplib-ts"
 url = "https://github.com/GuapSwap/payday"
 
 [[repo]]
+url = "https://github.com/GuapSwap/sigma-builders"
+
+[[repo]]
 url = "https://github.com/GuapSwap/sigmaverse"
+
+[[repo]]
+url = "https://github.com/GuapSwap/tui-scala"
 
 [[repo]]
 url = "https://github.com/GuapSwap/vscode-ergoscript-language-support"

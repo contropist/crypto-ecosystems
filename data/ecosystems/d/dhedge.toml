@@ -11,6 +11,11 @@ url = "https://github.com/dhedge/assets"
 
 [[repo]]
 url = "https://github.com/dhedge/balancer-forked-frontend"
+missing = true
+
+[[repo]]
+url = "https://github.com/dhedge/buyback-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhedge/contract-metadata"
@@ -82,13 +87,29 @@ url = "https://github.com/dhedge/dhedge-v2-subgraphs"
 url = "https://github.com/dhedge/dht-staking-subgraph"
 
 [[repo]]
+url = "https://github.com/dhedge/dimension-adapters"
+
+[[repo]]
 url = "https://github.com/dhedge/ethereum-optimism.github.io"
+
+[[repo]]
+url = "https://github.com/dhedge/flatcoin-limit-order-keeper"
+
+[[repo]]
+url = "https://github.com/dhedge/flatcoin-liquidation-keeper"
+
+[[repo]]
+url = "https://github.com/dhedge/flatcoin-order-keeper"
+
+[[repo]]
+url = "https://github.com/dhedge/frontend-test-assignment"
 
 [[repo]]
 url = "https://github.com/dhedge/frontend-widget"
 
 [[repo]]
 url = "https://github.com/dhedge/kwenta-forked-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhedge/kwenta-subgraph"
@@ -98,12 +119,14 @@ url = "https://github.com/dhedge/list"
 
 [[repo]]
 url = "https://github.com/dhedge/lyra-interface"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhedge/merkle-drop"
 
 [[repo]]
 url = "https://github.com/dhedge/og-image"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhedge/snapshot-spaces"
@@ -124,10 +147,18 @@ url = "https://github.com/dhedge/synthetix"
 url = "https://github.com/dhedge/tokenlists-org"
 
 [[repo]]
+url = "https://github.com/dhedge/ui-kit"
+
+[[repo]]
+url = "https://github.com/dhedge/uniswap-interface"
+
+[[repo]]
 url = "https://github.com/dhedge/useDApp"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhedge/useDApp-fork"
+missing = true
 
 [[repo]]
 url = "https://github.com/dhedge/V2-Public"

@@ -43,10 +43,16 @@ url = "https://github.com/XDagger/win-wallet"
 url = "https://github.com/XDagger/xdag"
 
 [[repo]]
+url = "https://github.com/XDagger/XDAG-Hub"
+
+[[repo]]
 url = "https://github.com/XDagger/xdag-ios"
 
 [[repo]]
 url = "https://github.com/XDagger/XDAG-news"
+
+[[repo]]
+url = "https://github.com/XDagger/xdag-pool"
 
 [[repo]]
 url = "https://github.com/XDagger/XDAG-Pro"

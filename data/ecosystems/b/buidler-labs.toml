@@ -7,10 +7,22 @@ github_organizations = ["https://github.com/buidler-labs"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/buidler-labs/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/buidler-labs/dimension-adapters"
+
+[[repo]]
 url = "https://github.com/buidler-labs/dockerized-hedera-services"
 
 [[repo]]
 url = "https://github.com/buidler-labs/github-cache-server"
+
+[[repo]]
+url = "https://github.com/buidler-labs/hashgraph-defi-alliance"
+
+[[repo]]
+url = "https://github.com/buidler-labs/hashgraph-react-wallets"
 
 [[repo]]
 url = "https://github.com/buidler-labs/hashgraph-venin-demo"
@@ -50,6 +62,13 @@ url = "https://github.com/buidler-labs/jenkins-with-docker"
 
 [[repo]]
 url = "https://github.com/buidler-labs/js-waku"
+
+[[repo]]
+url = "https://github.com/buidler-labs/ledger-live"
+missing = true
+
+[[repo]]
+url = "https://github.com/buidler-labs/memejob-landing-teaser"
 
 [[repo]]
 url = "https://github.com/buidler-labs/sdk-mcuboot"

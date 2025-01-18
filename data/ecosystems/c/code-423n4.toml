@@ -56,6 +56,7 @@ url = "https://github.com/code-423n4/2021-05-88mph-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2021-05-fairside"
+missing = true
 
 [[repo]]
 url = "https://github.com/code-423n4/2021-05-fairside-findings"
@@ -290,6 +291,7 @@ url = "https://github.com/code-423n4/2021-11-bootfinance-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2021-11-fairside"
+missing = true
 
 [[repo]]
 url = "https://github.com/code-423n4/2021-11-fairside-findings"
@@ -410,6 +412,7 @@ url = "https://github.com/code-423n4/2022-01-behodler-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2022-01-dev-test-repo"
+missing = true
 
 [[repo]]
 url = "https://github.com/code-423n4/2022-01-dev-test-repo-findings"
@@ -952,6 +955,9 @@ url = "https://github.com/code-423n4/2022-09-party-findings"
 url = "https://github.com/code-423n4/2022-09-quickswap"
 
 [[repo]]
+url = "https://github.com/code-423n4/2022-09-quickswap-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2022-09-tribe"
 
 [[repo]]
@@ -1033,6 +1039,12 @@ url = "https://github.com/code-423n4/2022-11-debtdao"
 url = "https://github.com/code-423n4/2022-11-debtdao-findings"
 
 [[repo]]
+url = "https://github.com/code-423n4/2022-11-ens"
+
+[[repo]]
+url = "https://github.com/code-423n4/2022-11-ens-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2022-11-foundation-findings"
 
 [[repo]]
@@ -1084,6 +1096,12 @@ url = "https://github.com/code-423n4/2022-12-caviar"
 url = "https://github.com/code-423n4/2022-12-caviar-findings"
 
 [[repo]]
+url = "https://github.com/code-423n4/2022-12-ens-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2022-12-ens-mitigation-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2022-12-escher"
 
 [[repo]]
@@ -1094,6 +1112,9 @@ url = "https://github.com/code-423n4/2022-12-forgeries"
 
 [[repo]]
 url = "https://github.com/code-423n4/2022-12-forgeries-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2022-12-forgotten-runiverse-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2022-12-gogopool"
@@ -1130,6 +1151,9 @@ url = "https://github.com/code-423n4/2022-12-tigris-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-01-astaria"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-01-astaria-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-01-biconomy"
@@ -1174,6 +1198,9 @@ url = "https://github.com/code-423n4/2023-01-opensea-findings"
 url = "https://github.com/code-423n4/2023-01-popcorn"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-01-popcorn-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-01-rabbithole"
 
 [[repo]]
@@ -1210,6 +1237,12 @@ url = "https://github.com/code-423n4/2023-02-gogopool-mitigation-contest"
 url = "https://github.com/code-423n4/2023-02-gogopool-mitigation-contest-findings"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-02-kuma"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-02-kuma-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-02-malt"
 
 [[repo]]
@@ -1225,10 +1258,25 @@ url = "https://github.com/code-423n4/2023-02-reserve-mitigation-contest-findings
 url = "https://github.com/code-423n4/2023-03-aragon"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-03-aragon-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-03-asymmetry"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-03-asymmetry-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-03-canto-identity"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-03-canto-identity-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-03-kuma-mitigation-contest"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-03-kuma-mitigation-contest-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-03-mute"
@@ -1243,6 +1291,9 @@ url = "https://github.com/code-423n4/2023-03-neotokyo"
 url = "https://github.com/code-423n4/2023-03-neotokyo-findings"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-03-polynomial-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-03-wenwin"
 
 [[repo]]
@@ -1252,16 +1303,37 @@ url = "https://github.com/code-423n4/2023-03-wenwin-findings"
 url = "https://github.com/code-423n4/2023-03-zksync"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-03-zksync-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-04-caviar"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-caviar-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-04-eigenlayer"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-04-eigenlayer-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-04-ens"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-04-ens-findings"
+
+[[repo]]
 url = "https://github.com/code-423n4/2023-04-frankencoin"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-frankencoin-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-party"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-04-party-findings"
 
 [[repo]]
 url = "https://github.com/code-423n4/2023-04-rubicon"
@@ -1270,7 +1342,1044 @@ url = "https://github.com/code-423n4/2023-04-rubicon"
 url = "https://github.com/code-423n4/2023-05-ajna"
 
 [[repo]]
+url = "https://github.com/code-423n4/2023-05-ajna-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-ambire"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-ambire-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-asymmetry-mitigation-contest"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-asymmetry-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-base"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-base-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-caviar-mitigation-contest"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-caviar-mitigation-contest-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-chainlink"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-juicebox"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-juicebox-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-maia"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-maia-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-particle-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-party"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-party-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-venus"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-venus-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-xeth"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-05-xeth-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-ambire-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-ambire-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-angle"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-angle-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-canto"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-canto-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-llama"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-llama-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-lukso"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-lukso-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-lybra"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-lybra-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-reserve"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-reserve-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-stader"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-stader-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-xeth-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-06-xeth-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-amphora"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-amphora-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-angle-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-angle-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-arcade"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-arcade-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-axelar"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-axelar-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-basin"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-basin-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-chainlink"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-lens"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-lens-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-moonwell"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-moonwell-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-nounsdao"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-nounsdao-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-pooltogether"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-pooltogether-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-reserve"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-reserve-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-tapioca"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-07-tapioca-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-arbitrum"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-arbitrum-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-chainlink"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-dopex"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-dopex-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-gmx-fv"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-goodentry"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-goodentry-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-livepeer"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-livepeer-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-pooltogether"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-pooltogether-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-pooltogether-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-pooltogether-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-reserve-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-reserve-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-shell"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-shell-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-tangible"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-verwa"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-08-verwa-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-asymmetry"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-asymmetry-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-centrifuge"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-centrifuge-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-delegate"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-delegate-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-goodentry-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-goodentry-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-maia"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-maia-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-ondo"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-ondo-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-reserve-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-reserve-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-venus"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-09-venus-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-asymmetry-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-asymmetry-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-badger"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-badger-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-brahma"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-brahma-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-canto"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-canto-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-ens"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-ens-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-ethena"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-ethena-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-nextgen"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-nextgen-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-opendollar"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-opendollar-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-party"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-party-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-wildcat"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-wildcat-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-zksync"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-10-zksync-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-betafinance-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-canto"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-canto-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-kelp"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-kelp-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-panoptic"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-panoptic-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-shellprotocol"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-shellprotocol-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-zetachain"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-11-zetachain-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-"
+missing = true
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-autonolas"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-autonolas-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-ethereumcreditguild"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-ethereumcreditguild-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-initcapital"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-initcapital-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-particle"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-particle-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-revolutionprotocol"
+
+[[repo]]
+url = "https://github.com/code-423n4/2023-12-revolutionprotocol-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-canto"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-canto-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-curves"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-curves-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-decent"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-decent-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-init-capital-invitational"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-init-capital-invitational-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-opus"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-opus-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-renft"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-renft-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-salty"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-01-salty-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-ai-arena"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-ai-arena-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-althea-liquid-infrastructure"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-althea-liquid-infrastructure-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-hydradx"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-hydradx-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-renft-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-renft-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-spectra"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-spectra-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-tapioca"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-tapioca-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-thruster"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-thruster-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-uniswap-foundation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-uniswap-foundation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-wise-lending"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-02-wise-lending-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-abracadabra-money"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-abracadabra-money-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-acala"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-acala-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-canto"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-canto-findings"
+missing = true
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-coinbase"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-coinbase-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-dittoeth"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-dittoeth-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-gitcoin"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-gitcoin-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-gitcoin-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-gitcoin-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-neobase"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-neobase-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-ondo-finance"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-ondo-finance-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-phala-network"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-phala-network-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-pooltogether"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-pooltogether-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-revert-lend"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-revert-lend-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-saltyio-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-saltyio-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-taiko"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-taiko-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-zksync"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-03-zksync-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-ai-arena-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-ai-arena-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-coinbase-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-coinbase-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-dyad"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-dyad-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-gondi"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-gondi-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-lavarage-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-noya"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-panoptic"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-panoptic-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-renzo"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-renzo-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-renzo-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-revert-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-04-revert-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-arbitrum-foundation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-arbitrum-foundation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-arbitrum-foundation-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-bakerfi"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-bakerfi-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-canto"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-canto-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-canto-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-gondi-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-gondi-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-loop"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-loop-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-loop-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-munchables"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-munchables-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-munchables-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-olas"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-olas-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-olas-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-predy"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-predy-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-05-predy-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-badger"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-badger-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-badger-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-gondi"
+missing = true
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-gondi-findings"
+missing = true
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-krystal-defi"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-krystal-defi-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-panoptic"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-panoptic-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-panoptic-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-renzo-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-renzo-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-size"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-size-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-size-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-thorchain"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-thorchain-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-thorchain-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-vultisig"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-vultisig-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-06-vultisig-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-basin"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-basin-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-basin-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-benddao"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-benddao-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-dittoeth"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-dittoeth-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-karak"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-karak-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-karak-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-loopfi"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-munchables"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-munchables-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-munchables-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-optimism"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-optimism-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-optimism-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-reserve"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-reserve-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-reserve-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-traitforge"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-traitforge-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-07-traitforge-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-axelar-network"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-basin"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-basin-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-chakra"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-phi"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-phi-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-phi-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-superposition"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-superposition-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-superposition-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-wildcat"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-wildcat-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-08-wildcat-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-fenix-finance"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-fenix-finance-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-kakarot"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-kakarot-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-kakarot-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-karak-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-karak-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-panoptic"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-panoptic-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-reserve-mitigation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-09-reserve-mitigation-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-coded-estate"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-coded-estate-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-kleidi"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-kleidi-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-kleidi-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-loopfi"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-ramses-exchange"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-ramses-exchange-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-ramses-exchange-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-ronin"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-ronin-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-ronin-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-superposition"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-superposition-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-10-superposition-validation"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-11-chainlink"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-11-concrete"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-11-ethena-labs"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-11-ethena-labs-findings"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-11-mantra"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-11-mantra-dex"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-11-nibiru"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-12-chainlink"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-12-flex-perpetuals"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-12-lambowin"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-12-secondswap"
+
+[[repo]]
+url = "https://github.com/code-423n4/2024-ETHDenver-LMeow-Live-Audit"
+
+[[repo]]
+url = "https://github.com/code-423n4/2025-01-initia-modules"
+
+[[repo]]
+url = "https://github.com/code-423n4/2025-01-initia-move"
+
+[[repo]]
+url = "https://github.com/code-423n4/alpha-zetachain"
+
+[[repo]]
 url = "https://github.com/code-423n4/awardcalc"
+
+[[repo]]
+url = "https://github.com/code-423n4/Blast-Exchange-Hats"
+missing = true
+
+[[repo]]
+url = "https://github.com/code-423n4/Bot-Race-JSON-Schema"
 
 [[repo]]
 url = "https://github.com/code-423n4/code-contests"
@@ -1286,9 +2395,20 @@ url = "https://github.com/code-423n4/docs"
 
 [[repo]]
 url = "https://github.com/code-423n4/ethernaut-x-foundry"
+missing = true
 
 [[repo]]
 url = "https://github.com/code-423n4/governance"
+
+[[repo]]
+url = "https://github.com/code-423n4/jay-bug-bounty"
+
+[[repo]]
+url = "https://github.com/code-423n4/limbo"
+missing = true
+
+[[repo]]
+url = "https://github.com/code-423n4/loopfi-bug-bounty"
 
 [[repo]]
 url = "https://github.com/code-423n4/media-kit"
@@ -1297,16 +2417,36 @@ url = "https://github.com/code-423n4/media-kit"
 url = "https://github.com/code-423n4/org"
 
 [[repo]]
+url = "https://github.com/code-423n4/redacted-bug-bounty"
+
+[[repo]]
+url = "https://github.com/code-423n4/renegade-bug-bounty"
+
+[[repo]]
+url = "https://github.com/code-423n4/repo-moderator"
+missing = true
+
+[[repo]]
 url = "https://github.com/code-423n4/seaport"
+missing = true
 
 [[repo]]
 url = "https://github.com/code-423n4/st4ndard"
 
 [[repo]]
+url = "https://github.com/code-423n4/TripleStar"
+missing = true
+
+[[repo]]
 url = "https://github.com/code-423n4/weird-erc20"
+missing = true
 
 [[repo]]
 url = "https://github.com/code-423n4/yield-contracts"
+missing = true
+
+[[repo]]
+url = "https://github.com/code-423n4/zenith-portfolio"
 
 [[repo]]
 url = "https://github.com/sockdrawermoney/reporter"

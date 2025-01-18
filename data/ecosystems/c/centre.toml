@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/centrehq"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/centrehq/.github"
+
+[[repo]]
 url = "https://github.com/centrehq/centre-ecosystem"
 
 [[repo]]
@@ -26,6 +29,7 @@ url = "https://github.com/centrehq/presentation-exchange"
 
 [[repo]]
 url = "https://github.com/centrehq/usdc-subgraph"
+missing = true
 
 [[repo]]
 url = "https://github.com/centrehq/verite"

@@ -86,12 +86,15 @@ url = "https://github.com/graft-project/libgraft"
 
 [[repo]]
 url = "https://github.com/graft-project/LYRA"
+missing = true
 
 [[repo]]
 url = "https://github.com/graft-project/Lyra-Clients-Apps"
+missing = true
 
 [[repo]]
 url = "https://github.com/graft-project/LyraNetwork"
+missing = true
 
 [[repo]]
 url = "https://github.com/graft-project/mongoose"
@@ -107,6 +110,9 @@ url = "https://github.com/graft-project/QZXingBinaries"
 
 [[repo]]
 url = "https://github.com/graft-project/r3"
+
+[[repo]]
+url = "https://github.com/graft-project/SNwatchdog"
 
 [[repo]]
 url = "https://github.com/graft-project/WooCommercePlugin"

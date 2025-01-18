@@ -22,6 +22,9 @@ url = "https://github.com/verynifty/bounties"
 url = "https://github.com/verynifty/cl-opensea-adapter"
 
 [[repo]]
+url = "https://github.com/verynifty/cool-castor"
+
+[[repo]]
 url = "https://github.com/verynifty/cudl-backend"
 
 [[repo]]
@@ -49,7 +52,19 @@ url = "https://github.com/verynifty/ethcmd"
 url = "https://github.com/verynifty/ethereum-proxy-multi-rpc"
 
 [[repo]]
+url = "https://github.com/verynifty/etherpage"
+
+[[repo]]
 url = "https://github.com/verynifty/ethworld-game-solidity"
+
+[[repo]]
+url = "https://github.com/verynifty/fastdapp"
+
+[[repo]]
+url = "https://github.com/verynifty/fastdapp-standalone"
+
+[[repo]]
+url = "https://github.com/verynifty/fastdapp-test"
 
 [[repo]]
 url = "https://github.com/verynifty/flashloan-demo"
@@ -62,6 +77,9 @@ url = "https://github.com/verynifty/headhunter"
 
 [[repo]]
 url = "https://github.com/verynifty/home"
+
+[[repo]]
+url = "https://github.com/verynifty/hot-chain-maps"
 
 [[repo]]
 url = "https://github.com/verynifty/hot-chain-svg"
@@ -88,7 +106,11 @@ url = "https://github.com/verynifty/memes"
 url = "https://github.com/verynifty/musedao-contribution"
 
 [[repo]]
+url = "https://github.com/verynifty/mytest"
+
+[[repo]]
 url = "https://github.com/verynifty/nft-data"
+missing = true
 
 [[repo]]
 url = "https://github.com/verynifty/nft-data-backend"
@@ -124,6 +146,13 @@ url = "https://github.com/verynifty/ordinals-collections"
 url = "https://github.com/verynifty/ordinals-js"
 
 [[repo]]
+url = "https://github.com/verynifty/pixield"
+missing = true
+
+[[repo]]
+url = "https://github.com/verynifty/portfolio"
+
+[[repo]]
 url = "https://github.com/verynifty/punkfomo.com"
 
 [[repo]]
@@ -131,6 +160,9 @@ url = "https://github.com/verynifty/RolodETH"
 
 [[repo]]
 url = "https://github.com/verynifty/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/verynifty/streamtide-minting"
 
 [[repo]]
 url = "https://github.com/verynifty/sudoswap.js"
@@ -152,6 +184,9 @@ url = "https://github.com/verynifty/vnftx"
 
 [[repo]]
 url = "https://github.com/verynifty/wraplp"
+
+[[repo]]
+url = "https://github.com/verynifty/y"
 
 [[repo]]
 url = "https://github.com/verynifty/yearn-issues"

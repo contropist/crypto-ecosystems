@@ -29,6 +29,7 @@ url = "https://github.com/vntchain/elect"
 
 [[repo]]
 url = "https://github.com/vntchain/GGNNSmartVulDetector"
+missing = true
 
 [[repo]]
 url = "https://github.com/vntchain/GNNSCVulDetector"
@@ -38,6 +39,9 @@ url = "https://github.com/vntchain/go-vnt"
 
 [[repo]]
 url = "https://github.com/vntchain/kepler"
+
+[[repo]]
+url = "https://github.com/vntchain/linkis"
 
 [[repo]]
 url = "https://github.com/vntchain/SM2-encrypt-and-decrypt"

@@ -73,6 +73,12 @@ url = "https://github.com/questbook/graph-node"
 url = "https://github.com/questbook/graph-node-deployment"
 
 [[repo]]
+url = "https://github.com/questbook/ipfs-node"
+
+[[repo]]
+url = "https://github.com/questbook/ipfs-proxy-server"
+
+[[repo]]
 url = "https://github.com/questbook/metaTX-lib"
 
 [[repo]]
@@ -80,9 +86,11 @@ url = "https://github.com/questbook/metier-protocol"
 
 [[repo]]
 url = "https://github.com/questbook/orangedao-gem"
+missing = true
 
 [[repo]]
 url = "https://github.com/questbook/orangedao-gem-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/questbook/permissionless-work-improvement-proposals"
@@ -92,6 +100,9 @@ url = "https://github.com/questbook/plaid-balance-fetcher"
 
 [[repo]]
 url = "https://github.com/questbook/playground-gnosis-safe-integration"
+
+[[repo]]
+url = "https://github.com/questbook/polygon-grants"
 
 [[repo]]
 url = "https://github.com/questbook/proxy-model.py"
@@ -122,6 +133,7 @@ url = "https://github.com/questbook/reclaim-blog"
 
 [[repo]]
 url = "https://github.com/questbook/reclaim-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/questbook/safe-core-sdk-modified"
@@ -142,6 +154,9 @@ url = "https://github.com/questbook/service-validator"
 url = "https://github.com/questbook/service-validator-typescript-client"
 
 [[repo]]
+url = "https://github.com/questbook/smart-contract-linea"
+
+[[repo]]
 url = "https://github.com/questbook/subgraph"
 
 [[repo]]
@@ -149,6 +164,7 @@ url = "https://github.com/questbook/supported-safes"
 
 [[repo]]
 url = "https://github.com/questbook/swag-for-devs"
+missing = true
 
 [[repo]]
 url = "https://github.com/questbook/trxn-status-service"

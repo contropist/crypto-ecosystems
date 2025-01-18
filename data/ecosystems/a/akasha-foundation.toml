@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/AKASHAorg"]
 url = "https://github.com/AKASHAorg/.github"
 
 [[repo]]
+url = "https://github.com/AKASHAorg/akasha-core"
+
+[[repo]]
 url = "https://github.com/AKASHAorg/akasha-docs"
 
 [[repo]]
@@ -37,6 +40,9 @@ url = "https://github.com/AKASHAorg/akasha.beta.deprecated"
 url = "https://github.com/AKASHAorg/Alpha"
 
 [[repo]]
+url = "https://github.com/AKASHAorg/api"
+
+[[repo]]
 url = "https://github.com/AKASHAorg/beta-web-app"
 
 [[repo]]
@@ -62,6 +68,9 @@ url = "https://github.com/AKASHAorg/converser"
 
 [[repo]]
 url = "https://github.com/AKASHAorg/easy-web-crypto"
+
+[[repo]]
+url = "https://github.com/AKASHAorg/eth-bucharest"
 
 [[repo]]
 url = "https://github.com/AKASHAorg/geth-connector"
@@ -128,6 +137,9 @@ url = "https://github.com/AKASHAorg/orbit-server"
 
 [[repo]]
 url = "https://github.com/AKASHAorg/secure-webstore"
+
+[[repo]]
+url = "https://github.com/AKASHAorg/stickerpicker"
 
 [[repo]]
 url = "https://github.com/AKASHAorg/Translations"

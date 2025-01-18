@@ -16,16 +16,32 @@ url = "https://github.com/BeanstalkFarms/Agronomics-Handbook"
 url = "https://github.com/BeanstalkFarms/Basin"
 
 [[repo]]
+url = "https://github.com/BeanstalkFarms/Basin-BeaNFTs"
+
+[[repo]]
+url = "https://github.com/BeanstalkFarms/Basin-Docs"
+
+[[repo]]
+url = "https://github.com/BeanstalkFarms/Basin-Well-Deployer"
+
+[[repo]]
+url = "https://github.com/BeanstalkFarms/Basin-Whitepaper"
+
+[[repo]]
 url = "https://github.com/BeanstalkFarms/Bean-Subgraph"
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/BeaNFTs"
+missing = true
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/Beanstalk"
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/Beanstalk-Analytics"
+
+[[repo]]
+url = "https://github.com/BeanstalkFarms/Beanstalk-API"
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/Beanstalk-Audits"
@@ -35,6 +51,9 @@ url = "https://github.com/BeanstalkFarms/Beanstalk-Brand-Assets"
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/Beanstalk-Budget-Q4-2021"
+
+[[repo]]
+url = "https://github.com/BeanstalkFarms/Beanstalk-Dune"
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/Beanstalk-Farms-Operations"
@@ -52,7 +71,13 @@ url = "https://github.com/BeanstalkFarms/Beanstalk-Py"
 url = "https://github.com/BeanstalkFarms/Beanstalk-SDK"
 
 [[repo]]
+url = "https://github.com/BeanstalkFarms/Beanstalk-SiloV3-Stalk-Seed-Discrepancy-Calculation"
+
+[[repo]]
 url = "https://github.com/BeanstalkFarms/Beanstalk-Subgraph"
+
+[[repo]]
+url = "https://github.com/BeanstalkFarms/Beanstalk-Subgraphs"
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/Beanstalk-UI"
@@ -64,6 +89,13 @@ url = "https://github.com/BeanstalkFarms/Beanstalk-Whitepaper"
 url = "https://github.com/BeanstalkFarms/BIP-24-Event-Emissions"
 
 [[repo]]
+url = "https://github.com/BeanstalkFarms/Dashboard"
+
+[[repo]]
+url = "https://github.com/BeanstalkFarms/DefiLlama-Adapters"
+missing = true
+
+[[repo]]
 url = "https://github.com/BeanstalkFarms/Farmers-Almanac"
 
 [[repo]]
@@ -71,6 +103,12 @@ url = "https://github.com/BeanstalkFarms/Fertilizer-Metadata"
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/log-transaction-events"
+
+[[repo]]
+url = "https://github.com/BeanstalkFarms/Multi-Flow-Pump-Whitepaper"
+
+[[repo]]
+url = "https://github.com/BeanstalkFarms/MultiFlowAnalysis"
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/Pipeline"
@@ -82,7 +120,13 @@ url = "https://github.com/BeanstalkFarms/Pipeline-Landing"
 url = "https://github.com/BeanstalkFarms/Pipeline-Whitepaper"
 
 [[repo]]
+url = "https://github.com/BeanstalkFarms/Reseed"
+
+[[repo]]
 url = "https://github.com/BeanstalkFarms/Rooster"
+
+[[repo]]
+url = "https://github.com/BeanstalkFarms/Subgraph-Proxy"
 
 [[repo]]
 url = "https://github.com/BeanstalkFarms/Trust-Wallet-Assets"

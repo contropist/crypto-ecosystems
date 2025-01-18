@@ -7,6 +7,9 @@ github_organizations = ["https://github.com/tellor-io"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/tellor-io/.github"
+
+[[repo]]
 url = "https://github.com/tellor-io/aave-polygon-subgraph-part1"
 
 [[repo]]
@@ -28,13 +31,34 @@ url = "https://github.com/tellor-io/algorandTellor"
 url = "https://github.com/tellor-io/algorandTellorV2"
 
 [[repo]]
+url = "https://github.com/tellor-io/AMPLTellorProvider"
+
+[[repo]]
 url = "https://github.com/tellor-io/api"
 
 [[repo]]
 url = "https://github.com/tellor-io/auto-tipper-bot"
 
 [[repo]]
+url = "https://github.com/tellor-io/auto-tipper-bot-liquity"
+
+[[repo]]
 url = "https://github.com/tellor-io/autoPay"
+
+[[repo]]
+url = "https://github.com/tellor-io/autopay-feed-checker"
+
+[[repo]]
+url = "https://github.com/tellor-io/autoTasks"
+
+[[repo]]
+url = "https://github.com/tellor-io/basemain-oracle-subgraph"
+
+[[repo]]
+url = "https://github.com/tellor-io/best-practices-user"
+
+[[repo]]
+url = "https://github.com/tellor-io/block-height-monitor"
 
 [[repo]]
 url = "https://github.com/tellor-io/bounties"
@@ -52,13 +76,22 @@ url = "https://github.com/tellor-io/chorus-web"
 url = "https://github.com/tellor-io/comparisons"
 
 [[repo]]
+url = "https://github.com/tellor-io/cosmonova"
+
+[[repo]]
 url = "https://github.com/tellor-io/crosschainBalances"
+
+[[repo]]
+url = "https://github.com/tellor-io/custom-security-oracle"
 
 [[repo]]
 url = "https://github.com/tellor-io/dataFeed"
 
 [[repo]]
 url = "https://github.com/tellor-io/dataSpecs"
+
+[[repo]]
+url = "https://github.com/tellor-io/dataspecs-registry-frontend"
 
 [[repo]]
 url = "https://github.com/tellor-io/dataSpecsRegistry"
@@ -71,6 +104,7 @@ url = "https://github.com/tellor-io/disputable-values-monitor"
 
 [[repo]]
 url = "https://github.com/tellor-io/disputeCenter"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/diva-integration"
@@ -89,6 +123,7 @@ url = "https://github.com/tellor-io/EIP-2362"
 
 [[repo]]
 url = "https://github.com/tellor-io/EIPs"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/eth-node"
@@ -98,6 +133,7 @@ url = "https://github.com/tellor-io/ethereum-optimism.github.io"
 
 [[repo]]
 url = "https://github.com/tellor-io/ethhub"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/feeds-api"
@@ -112,6 +148,9 @@ url = "https://github.com/tellor-io/fellowshipscan"
 url = "https://github.com/tellor-io/filecoin-query-insurance-impl"
 
 [[repo]]
+url = "https://github.com/tellor-io/frontend-layerbridgebutton"
+
+[[repo]]
 url = "https://github.com/tellor-io/frontendBoilerplate"
 
 [[repo]]
@@ -121,16 +160,46 @@ url = "https://github.com/tellor-io/fundAFeed"
 url = "https://github.com/tellor-io/governance"
 
 [[repo]]
+url = "https://github.com/tellor-io/Grant-Milestone-Delivery"
+
+[[repo]]
 url = "https://github.com/tellor-io/Grants-Program"
+
+[[repo]]
+url = "https://github.com/tellor-io/hashi"
 
 [[repo]]
 url = "https://github.com/tellor-io/justbrenda"
 
 [[repo]]
+url = "https://github.com/tellor-io/layer"
+
+[[repo]]
+url = "https://github.com/tellor-io/layer-load-test"
+
+[[repo]]
+url = "https://github.com/tellor-io/layer-monitor"
+
+[[repo]]
+url = "https://github.com/tellor-io/layer_block_explorer"
+
+[[repo]]
+url = "https://github.com/tellor-io/layerdocs"
+
+[[repo]]
+url = "https://github.com/tellor-io/LayerLightClientBridge"
+
+[[repo]]
 url = "https://github.com/tellor-io/lens"
 
 [[repo]]
+url = "https://github.com/tellor-io/luqchain"
+
+[[repo]]
 url = "https://github.com/tellor-io/migrator"
+
+[[repo]]
+url = "https://github.com/tellor-io/minaTellor"
 
 [[repo]]
 url = "https://github.com/tellor-io/monitor"
@@ -140,6 +209,7 @@ url = "https://github.com/tellor-io/open-oracle"
 
 [[repo]]
 url = "https://github.com/tellor-io/openOracle"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/OperatingGrant"
@@ -149,9 +219,11 @@ url = "https://github.com/tellor-io/oracle-diffs"
 
 [[repo]]
 url = "https://github.com/tellor-io/oracles.club"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/oracles.club.server"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/parachute"
@@ -161,6 +233,7 @@ url = "https://github.com/tellor-io/parity-tellor-contracts"
 
 [[repo]]
 url = "https://github.com/tellor-io/pm-contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/PolkaTellor"
@@ -170,9 +243,14 @@ url = "https://github.com/tellor-io/priceView"
 
 [[repo]]
 url = "https://github.com/tellor-io/projects"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/protocol"
+missing = true
+
+[[repo]]
+url = "https://github.com/tellor-io/py-relayer"
 
 [[repo]]
 url = "https://github.com/tellor-io/PySigner"
@@ -190,6 +268,9 @@ url = "https://github.com/tellor-io/rick-and-morty-demo"
 url = "https://github.com/tellor-io/saleContract"
 
 [[repo]]
+url = "https://github.com/tellor-io/SampleLayerUser"
+
+[[repo]]
 url = "https://github.com/tellor-io/sampleReporterFailContract"
 
 [[repo]]
@@ -202,10 +283,16 @@ url = "https://github.com/tellor-io/sampleUsingAlgorandTellor"
 url = "https://github.com/tellor-io/sampleUsingTellor"
 
 [[repo]]
+url = "https://github.com/tellor-io/scroll-oracle-subgraph"
+
+[[repo]]
 url = "https://github.com/tellor-io/serviceContract"
 
 [[repo]]
 url = "https://github.com/tellor-io/simplefunding-script"
+
+[[repo]]
+url = "https://github.com/tellor-io/snapshot"
 
 [[repo]]
 url = "https://github.com/tellor-io/snapshot-zodiac-module"
@@ -215,9 +302,11 @@ url = "https://github.com/tellor-io/snapshotVoting"
 
 [[repo]]
 url = "https://github.com/tellor-io/Solidity201"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/SpaceLotto"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/subgraph"
@@ -250,6 +339,9 @@ url = "https://github.com/tellor-io/telliot-feeds"
 url = "https://github.com/tellor-io/telliot-kadena"
 
 [[repo]]
+url = "https://github.com/tellor-io/tellor-auto-tipper-bot"
+
+[[repo]]
 url = "https://github.com/tellor-io/tellor-autopay-ethereum-graph"
 
 [[repo]]
@@ -262,7 +354,26 @@ url = "https://github.com/tellor-io/tellor-autopay-matich-graph"
 url = "https://github.com/tellor-io/tellor-autopay-mumbaih-graph"
 
 [[repo]]
+url = "https://github.com/tellor-io/tellor-autopay-optimism-main-graph"
+
+[[repo]]
+url = "https://github.com/tellor-io/tellor-autopay-sepolia-graph"
+
+[[repo]]
+url = "https://github.com/tellor-io/tellor-caller-liquity"
+
+[[repo]]
 url = "https://github.com/tellor-io/tellor-data-api"
+missing = true
+
+[[repo]]
+url = "https://github.com/tellor-io/tellor-dataspecs-registry-graph"
+
+[[repo]]
+url = "https://github.com/tellor-io/tellor-dataspecs-sepolia-graph"
+
+[[repo]]
+url = "https://github.com/tellor-io/tellor-diva-adaptor-subgraph-polygon-mainnet"
 
 [[repo]]
 url = "https://github.com/tellor-io/tellor-flex-arbitrummain-graph"
@@ -286,13 +397,31 @@ url = "https://github.com/tellor-io/tellor-multis-mumbaih-graph"
 url = "https://github.com/tellor-io/tellor-multis-rinkh-graph"
 
 [[repo]]
+url = "https://github.com/tellor-io/tellor-oracle-amoy-test-subgr"
+
+[[repo]]
 url = "https://github.com/tellor-io/tellor-oracle-arbitrum-test-subgraph"
 
 [[repo]]
 url = "https://github.com/tellor-io/tellor-oracle-gnosis-main-subgraph"
 
 [[repo]]
+url = "https://github.com/tellor-io/tellor-oracle-linea-main-subgraph"
+
+[[repo]]
 url = "https://github.com/tellor-io/tellor-oracle-optimism-main-subgraph"
+
+[[repo]]
+url = "https://github.com/tellor-io/tellor-oracle-polygonzk-main-subgraph"
+
+[[repo]]
+url = "https://github.com/tellor-io/tellor-oracle-sepolia-graph"
+
+[[repo]]
+url = "https://github.com/tellor-io/tellor-oracle-zksync-main-subg"
+
+[[repo]]
+url = "https://github.com/tellor-io/tellor-oracle-zksync-test-subg"
 
 [[repo]]
 url = "https://github.com/tellor-io/tellor-pallet"
@@ -317,6 +446,9 @@ url = "https://github.com/tellor-io/tellor-treasuries-rinkh-graph"
 
 [[repo]]
 url = "https://github.com/tellor-io/tellor-treasuries-roph-graph"
+
+[[repo]]
+url = "https://github.com/tellor-io/tellor-zodiac-deploy"
 
 [[repo]]
 url = "https://github.com/tellor-io/tellor.fund"
@@ -344,6 +476,7 @@ url = "https://github.com/tellor-io/TellorACS"
 
 [[repo]]
 url = "https://github.com/tellor-io/tellorAirflow"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/TellorBrandMaterials"
@@ -353,9 +486,6 @@ url = "https://github.com/tellor-io/TellorCore"
 
 [[repo]]
 url = "https://github.com/tellor-io/TellorDatabase"
-
-[[repo]]
-url = "https://github.com/tellor-io/tellorDisputeCenter"
 missing = true
 
 [[repo]]
@@ -363,6 +493,7 @@ url = "https://github.com/tellor-io/TellorDocs"
 
 [[repo]]
 url = "https://github.com/tellor-io/TellorDocumentation"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/tellorFlex"
@@ -438,6 +569,7 @@ url = "https://github.com/tellor-io/treasuries"
 
 [[repo]]
 url = "https://github.com/tellor-io/treasuryFrontEnd"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/uniswapFallbackOracle"
@@ -452,7 +584,11 @@ url = "https://github.com/tellor-io/usingtellor"
 url = "https://github.com/tellor-io/UsingTellorDemo"
 
 [[repo]]
+url = "https://github.com/tellor-io/usingTellorExamples"
+
+[[repo]]
 url = "https://github.com/tellor-io/utils"
+missing = true
 
 [[repo]]
 url = "https://github.com/tellor-io/votingModule"

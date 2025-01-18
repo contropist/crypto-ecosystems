@@ -101,6 +101,7 @@ url = "https://github.com/tornadocash/tornado-initiation-ui"
 
 [[repo]]
 url = "https://github.com/tornadocash/tornado-instances-UI"
+missing = true
 
 [[repo]]
 url = "https://github.com/tornadocash/tornado-nova"
@@ -149,3 +150,6 @@ url = "https://github.com/tornadocash/ui-minified"
 
 [[repo]]
 url = "https://github.com/tornadocash/websnark"
+
+[[repo]]
+url = "https://github.com/tornadocashcommunity/tornadocash.cash-classic-ui"

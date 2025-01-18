@@ -14,6 +14,7 @@ url = "https://github.com/argentlabs/application"
 
 [[repo]]
 url = "https://github.com/argentlabs/argent-connect"
+missing = true
 
 [[repo]]
 url = "https://github.com/argentlabs/argent-contracts"
@@ -25,10 +26,17 @@ url = "https://github.com/argentlabs/argent-contracts-l2"
 url = "https://github.com/argentlabs/argent-contracts-starknet"
 
 [[repo]]
+url = "https://github.com/argentlabs/argent-contracts-zksync"
+
+[[repo]]
+url = "https://github.com/argentlabs/argent-gifting-contracts"
+
+[[repo]]
 url = "https://github.com/argentlabs/argent-js"
 
 [[repo]]
 url = "https://github.com/argentlabs/argent-mask"
+missing = true
 
 [[repo]]
 url = "https://github.com/argentlabs/argent-starknet-recover"
@@ -58,7 +66,13 @@ url = "https://github.com/argentlabs/dappland"
 url = "https://github.com/argentlabs/defi-school"
 
 [[repo]]
+url = "https://github.com/argentlabs/demo-dapp-starknet"
+
+[[repo]]
 url = "https://github.com/argentlabs/deposit-forwarder"
+
+[[repo]]
+url = "https://github.com/argentlabs/EasyTipView"
 
 [[repo]]
 url = "https://github.com/argentlabs/emoji-hash"
@@ -77,9 +91,11 @@ url = "https://github.com/argentlabs/hardhat-kms-signer"
 
 [[repo]]
 url = "https://github.com/argentlabs/hopper"
+missing = true
 
 [[repo]]
 url = "https://github.com/argentlabs/hopper-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/argentlabs/hunt"
@@ -95,6 +111,9 @@ url = "https://github.com/argentlabs/l2-bridge-swapper"
 
 [[repo]]
 url = "https://github.com/argentlabs/l2-forwarder"
+
+[[repo]]
+url = "https://github.com/argentlabs/min-starknet"
 
 [[repo]]
 url = "https://github.com/argentlabs/mips"
@@ -115,19 +134,37 @@ url = "https://github.com/argentlabs/resolver_delegation"
 url = "https://github.com/argentlabs/ScrollableGraphView"
 
 [[repo]]
+url = "https://github.com/argentlabs/session-keys-example-dapp"
+
+[[repo]]
 url = "https://github.com/argentlabs/starknet-build"
+
+[[repo]]
+url = "https://github.com/argentlabs/starknet-off-chain-signature"
 
 [[repo]]
 url = "https://github.com/argentlabs/starknet-plugin-account"
 
 [[repo]]
+url = "https://github.com/argentlabs/Starknet-Scaffold"
+
+[[repo]]
 url = "https://github.com/argentlabs/starknet-status-lambda"
+
+[[repo]]
+url = "https://github.com/argentlabs/starknet-stress-test"
 
 [[repo]]
 url = "https://github.com/argentlabs/starknet.js"
 
 [[repo]]
 url = "https://github.com/argentlabs/starknet.swift"
+
+[[repo]]
+url = "https://github.com/argentlabs/starknetkit"
+
+[[repo]]
+url = "https://github.com/argentlabs/starknetkit-example-dapp"
 
 [[repo]]
 url = "https://github.com/argentlabs/starkware-demo"
@@ -139,7 +176,16 @@ url = "https://github.com/argentlabs/SwiftDomainParser"
 url = "https://github.com/argentlabs/SwiftKeccak"
 
 [[repo]]
+url = "https://github.com/argentlabs/trpc"
+
+[[repo]]
 url = "https://github.com/argentlabs/try-ethereum"
+
+[[repo]]
+url = "https://github.com/argentlabs/upgrade-account-v0.2.3"
+
+[[repo]]
+url = "https://github.com/argentlabs/upgrade-v0-account"
 
 [[repo]]
 url = "https://github.com/argentlabs/use-dai"
@@ -172,7 +218,20 @@ url = "https://github.com/argentlabs/web3j"
 url = "https://github.com/argentlabs/web3modal"
 
 [[repo]]
+url = "https://github.com/argentlabs/webwallet-demo"
+
+[[repo]]
+url = "https://github.com/argentlabs/x-airgap"
+
+[[repo]]
+url = "https://github.com/argentlabs/x-multicall"
+
+[[repo]]
+url = "https://github.com/argentlabs/x-sessions"
+
+[[repo]]
 url = "https://github.com/argentlabs/zk2-poc"
+missing = true
 
 [[repo]]
 url = "https://github.com/argentlabs/zksync-swift"

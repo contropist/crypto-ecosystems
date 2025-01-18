@@ -16,6 +16,9 @@ url = "https://github.com/bitauth/bitauth-cli"
 url = "https://github.com/bitauth/bitauth-ide"
 
 [[repo]]
+url = "https://github.com/bitauth/bitauth-ide-dependencies"
+
+[[repo]]
 url = "https://github.com/bitauth/bitauth2017"
 
 [[repo]]
@@ -44,3 +47,6 @@ url = "https://github.com/bitauth/libauth-secp256k1"
 
 [[repo]]
 url = "https://github.com/bitauth/try.chaingraph.cash"
+
+[[repo]]
+url = "https://github.com/bitauth/vmb_tests"

@@ -115,6 +115,9 @@ url = "https://github.com/Groestlcoin/bip39"
 url = "https://github.com/Groestlcoin/Bip39-diceware"
 
 [[repo]]
+url = "https://github.com/Groestlcoin/bip47"
+
+[[repo]]
 url = "https://github.com/Groestlcoin/BIP47_RPC"
 
 [[repo]]
@@ -188,9 +191,11 @@ url = "https://github.com/Groestlcoin/bootstrap"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/breez"
+missing = true
 
 [[repo]]
 url = "https://github.com/Groestlcoin/breezmobile"
+missing = true
 
 [[repo]]
 url = "https://github.com/Groestlcoin/bs58grscheck"
@@ -332,6 +337,9 @@ url = "https://github.com/Groestlcoin/docker-electrumx"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/docker-groestlcoin"
+
+[[repo]]
+url = "https://github.com/Groestlcoin/docker-groestlcoin-core"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/docker-groestlcoind"
@@ -661,6 +669,9 @@ url = "https://github.com/Groestlcoin/groestlcoin_install-scripts"
 url = "https://github.com/Groestlcoin/groestlcoin_ndk"
 
 [[repo]]
+url = "https://github.com/Groestlcoin/groestlcoin_slices"
+
+[[repo]]
 url = "https://github.com/Groestlcoin/GroestlcoinArmory"
 
 [[repo]]
@@ -853,6 +864,9 @@ url = "https://github.com/Groestlcoin/gvanity"
 url = "https://github.com/Groestlcoin/hashes"
 
 [[repo]]
+url = "https://github.com/Groestlcoin/hashes-node"
+
+[[repo]]
 url = "https://github.com/Groestlcoin/HashLib"
 
 [[repo]]
@@ -1010,6 +1024,7 @@ url = "https://github.com/Groestlcoin/nanotip"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/NayutaWalletKit"
+missing = true
 
 [[repo]]
 url = "https://github.com/Groestlcoin/NBitcoin"
@@ -1025,6 +1040,12 @@ url = "https://github.com/Groestlcoin/neutrino"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/nixpkgs"
+
+[[repo]]
+url = "https://github.com/Groestlcoin/noble-hashes"
+
+[[repo]]
+url = "https://github.com/Groestlcoin/noble-hashes-grs"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/node-electrum-client"
@@ -1078,6 +1099,9 @@ url = "https://github.com/Groestlcoin/opencart-plugin"
 url = "https://github.com/Groestlcoin/ord"
 
 [[repo]]
+url = "https://github.com/Groestlcoin/ord-groestlcoin"
+
+[[repo]]
 url = "https://github.com/Groestlcoin/org.groestlcoin.electrum-grs"
 
 [[repo]]
@@ -1100,6 +1124,7 @@ url = "https://github.com/Groestlcoin/packaging"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/PaymentFont"
+missing = true
 
 [[repo]]
 url = "https://github.com/Groestlcoin/peach-wallet-desktop"
@@ -1165,6 +1190,9 @@ url = "https://github.com/Groestlcoin/RESTful-API-client"
 url = "https://github.com/Groestlcoin/RunTheNumbers"
 
 [[repo]]
+url = "https://github.com/Groestlcoin/rust-bech32"
+
+[[repo]]
 url = "https://github.com/Groestlcoin/rust-bech32-bitcoin"
 
 [[repo]]
@@ -1190,6 +1218,7 @@ url = "https://github.com/Groestlcoin/rust-vanitygen"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/rusty-paper-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/Groestlcoin/SecuXMCU"
@@ -1202,12 +1231,14 @@ url = "https://github.com/Groestlcoin/seedsplit"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/segvan"
+missing = true
 
 [[repo]]
 url = "https://github.com/Groestlcoin/segwitaddress"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/sendmany"
+missing = true
 
 [[repo]]
 url = "https://github.com/Groestlcoin/server"
@@ -1285,6 +1316,12 @@ url = "https://github.com/Groestlcoin/unchained-groestlcoin"
 url = "https://github.com/Groestlcoin/unified-node-open-mining-portal"
 
 [[repo]]
+url = "https://github.com/Groestlcoin/unraid-docker-groestlcoind"
+
+[[repo]]
+url = "https://github.com/Groestlcoin/unraid-templates"
+
+[[repo]]
 url = "https://github.com/Groestlcoin/unspendable"
 
 [[repo]]
@@ -1304,6 +1341,7 @@ url = "https://github.com/Groestlcoin/VerifySignature"
 
 [[repo]]
 url = "https://github.com/Groestlcoin/void-packages"
+missing = true
 
 [[repo]]
 url = "https://github.com/Groestlcoin/vortex"

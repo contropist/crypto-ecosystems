@@ -3,7 +3,7 @@ title = "CoMakery"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/comakery", "https://github.com/CoMakery"]
+github_organizations = ["https://github.com/CoMakery"]
 
 # Repositories
 [[repo]]
@@ -52,7 +52,11 @@ url = "https://github.com/CoMakery/dynamic-royalty-license"
 url = "https://github.com/CoMakery/eslint-config-comakery"
 
 [[repo]]
+url = "https://github.com/CoMakery/ethereum-optimism.github.io"
+
+[[repo]]
 url = "https://github.com/CoMakery/ethereum.rb"
+missing = true
 
 [[repo]]
 url = "https://github.com/CoMakery/fission-codes"
@@ -79,6 +83,12 @@ url = "https://github.com/CoMakery/ld-signature-demo"
 url = "https://github.com/CoMakery/loomio"
 
 [[repo]]
+url = "https://github.com/CoMakery/mantle-token-lists"
+
+[[repo]]
+url = "https://github.com/CoMakery/mantle-token-lists-818"
+
+[[repo]]
 url = "https://github.com/CoMakery/omniauth-discord"
 
 [[repo]]
@@ -95,6 +105,9 @@ url = "https://github.com/CoMakery/safe-airdrop"
 
 [[repo]]
 url = "https://github.com/CoMakery/self-organization-constitution"
+
+[[repo]]
+url = "https://github.com/CoMakery/solana-security-token"
 
 [[repo]]
 url = "https://github.com/CoMakery/steal"

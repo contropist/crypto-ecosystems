@@ -19,6 +19,9 @@ url = "https://github.com/curvegrid/argent-contracts"
 url = "https://github.com/curvegrid/auction-house"
 
 [[repo]]
+url = "https://github.com/curvegrid/auth0-account-link-extension"
+
+[[repo]]
 url = "https://github.com/curvegrid/avalanche-wallet"
 
 [[repo]]
@@ -58,10 +61,19 @@ url = "https://github.com/curvegrid/ethereum-client-go"
 url = "https://github.com/curvegrid/ethereum-cold-wallet"
 
 [[repo]]
+url = "https://github.com/curvegrid/ethereum-org-website"
+
+[[repo]]
 url = "https://github.com/curvegrid/ethglobal-tokyo-hackathon-contracts"
 
 [[repo]]
 url = "https://github.com/curvegrid/evmdis-with-diff"
+
+[[repo]]
+url = "https://github.com/curvegrid/faxcaster-external"
+
+[[repo]]
+url = "https://github.com/curvegrid/forge-multibaas"
 
 [[repo]]
 url = "https://github.com/curvegrid/gnosis-safe-contracts"
@@ -94,6 +106,9 @@ url = "https://github.com/curvegrid/hackathon-WANT-nintendo-switch"
 url = "https://github.com/curvegrid/hardhat-multibaas-plugin"
 
 [[repo]]
+url = "https://github.com/curvegrid/headless-web3-provider"
+
+[[repo]]
 url = "https://github.com/curvegrid/list"
 
 [[repo]]
@@ -113,6 +128,12 @@ url = "https://github.com/curvegrid/mock3"
 
 [[repo]]
 url = "https://github.com/curvegrid/multibaas-for-google-sheets"
+
+[[repo]]
+url = "https://github.com/curvegrid/multibaas-sample-app"
+
+[[repo]]
+url = "https://github.com/curvegrid/multibaas-sdk-dart"
 
 [[repo]]
 url = "https://github.com/curvegrid/multibaas-sdk-go"
@@ -149,6 +170,9 @@ url = "https://github.com/curvegrid/royalty-registry-client"
 
 [[repo]]
 url = "https://github.com/curvegrid/shopify-node-api"
+
+[[repo]]
+url = "https://github.com/curvegrid/solidity"
 
 [[repo]]
 url = "https://github.com/curvegrid/sprite-write-sample-dapp"

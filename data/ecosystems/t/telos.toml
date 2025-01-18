@@ -1,19 +1,52 @@
 # Ecosystem Level Information
 title = "Telos"
 
-sub_ecosystems = ["OmniDex", "Zappy Finance"]
+sub_ecosystems = ["EOS Authority", "OmniDex", "Swapsicle", "Zappy Finance"]
 
-github_organizations = ["https://github.com/Telos-Foundation", "https://github.com/telosnetwork"]
+github_organizations = [
+  "https://github.com/Telos-Foundation",
+  "https://github.com/telosnetwork",
+  "https://github.com/VeriFund",
+]
 
 # Repositories
+[[repo]]
+url = "https://github.com/chulahn/ShareTree"
+
+[[repo]]
+url = "https://github.com/cryptolice/dapp"
+
+[[repo]]
+url = "https://github.com/edenia/antelope-tools"
+
+[[repo]]
+url = "https://github.com/edenia/telos-local"
+
+[[repo]]
+url = "https://github.com/hautcacoa/lEarn"
+
+[[repo]]
+url = "https://github.com/hw03hw03/OneWorld"
+
+[[repo]]
+url = "https://github.com/mk314k/medicQueue"
+
+[[repo]]
+url = "https://github.com/omkarubale/hack_boston_frens_team"
+
+[[repo]]
+url = "https://github.com/shinfxh/hackboston2022"
+
 [[repo]]
 url = "https://github.com/Telos-Foundation/docs"
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/eosio.contracts"
+missing = true
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/fc"
+missing = true
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/grow"
@@ -26,9 +59,11 @@ url = "https://github.com/Telos-Foundation/images"
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/new-accounts"
+missing = true
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/rewards-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/Sqrl"
@@ -38,39 +73,58 @@ url = "https://github.com/Telos-Foundation/Sqrl-JS-Example-Project"
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/telos"
+missing = true
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/telos-amend"
+missing = true
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/telos-monitor-Deprecated"
+missing = true
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/telos-styles"
+missing = true
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/telosfoundation-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/telospy"
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/TelosWEB"
+missing = true
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/tipfs"
 
 [[repo]]
 url = "https://github.com/Telos-Foundation/trail-service"
+missing = true
 
 [[repo]]
 url = "https://github.com/telosnetwork/.github"
 
 [[repo]]
+url = "https://github.com/telosnetwork/4bytes"
+
+[[repo]]
+url = "https://github.com/telosnetwork/alloy-chains"
+
+[[repo]]
 url = "https://github.com/telosnetwork/amm-evm-example"
 
 [[repo]]
+url = "https://github.com/telosnetwork/antelope-rs"
+
+[[repo]]
 url = "https://github.com/telosnetwork/api-p2p-nodes"
+
+[[repo]]
+url = "https://github.com/telosnetwork/api-telos-net"
 
 [[repo]]
 url = "https://github.com/telosnetwork/app-telos-native"
@@ -80,6 +134,12 @@ url = "https://github.com/telosnetwork/app-telos-net"
 
 [[repo]]
 url = "https://github.com/telosnetwork/arbitration-portal"
+
+[[repo]]
+url = "https://github.com/telosnetwork/arrowbatch-nodejs"
+
+[[repo]]
+url = "https://github.com/telosnetwork/arrowbatch-rs"
 
 [[repo]]
 url = "https://github.com/telosnetwork/audits"
@@ -92,6 +152,15 @@ url = "https://github.com/telosnetwork/awesome-telos-hub"
 
 [[repo]]
 url = "https://github.com/telosnetwork/bp-auditor"
+
+[[repo]]
+url = "https://github.com/telosnetwork/bundlewharf"
+
+[[repo]]
+url = "https://github.com/telosnetwork/chains"
+
+[[repo]]
+url = "https://github.com/telosnetwork/chains-add-telos-zkevm-testnet"
 
 [[repo]]
 url = "https://github.com/telosnetwork/compromised-accounts"
@@ -116,6 +185,7 @@ url = "https://github.com/telosnetwork/docs"
 
 [[repo]]
 url = "https://github.com/telosnetwork/Documentation-Tasks-Organizer"
+missing = true
 
 [[repo]]
 url = "https://github.com/telosnetwork/erc20-bridgeable"
@@ -127,10 +197,20 @@ url = "https://github.com/telosnetwork/erc20-mintable-example"
 url = "https://github.com/telosnetwork/erc20-template"
 
 [[repo]]
+url = "https://github.com/telosnetwork/evm-airdrop"
+
+[[repo]]
+url = "https://github.com/telosnetwork/evm-diff-tests"
+missing = true
+
+[[repo]]
 url = "https://github.com/telosnetwork/evm-rpc-list"
 
 [[repo]]
 url = "https://github.com/telosnetwork/evm-simple-storage-demo"
+
+[[repo]]
+url = "https://github.com/telosnetwork/evm-tests"
 
 [[repo]]
 url = "https://github.com/telosnetwork/evm-ui-template"
@@ -178,7 +258,13 @@ url = "https://github.com/telosnetwork/landdao-contracts"
 url = "https://github.com/telosnetwork/leap"
 
 [[repo]]
+url = "https://github.com/telosnetwork/leap-mock"
+
+[[repo]]
 url = "https://github.com/telosnetwork/ledger-app-telos"
+
+[[repo]]
+url = "https://github.com/telosnetwork/lighthouse"
 
 [[repo]]
 url = "https://github.com/telosnetwork/msig-maker"
@@ -202,10 +288,22 @@ url = "https://github.com/telosnetwork/Nginx-Fancyindex-Theme"
 url = "https://github.com/telosnetwork/node-template"
 
 [[repo]]
+url = "https://github.com/telosnetwork/nums"
+
+[[repo]]
 url = "https://github.com/telosnetwork/obe-indexer"
 
 [[repo]]
 url = "https://github.com/telosnetwork/open-block-explorer"
+
+[[repo]]
+url = "https://github.com/telosnetwork/optracer-tools"
+
+[[repo]]
+url = "https://github.com/telosnetwork/Plonky3"
+
+[[repo]]
+url = "https://github.com/telosnetwork/ptokens-swap"
 
 [[repo]]
 url = "https://github.com/telosnetwork/Qtest"
@@ -214,7 +312,18 @@ url = "https://github.com/telosnetwork/Qtest"
 url = "https://github.com/telosnetwork/references"
 
 [[repo]]
+url = "https://github.com/telosnetwork/reth"
+
+[[repo]]
 url = "https://github.com/telosnetwork/revoke.cash"
+missing = true
+
+[[repo]]
+url = "https://github.com/telosnetwork/revoke.telos.net"
+
+[[repo]]
+url = "https://github.com/telosnetwork/risc0"
+missing = true
 
 [[repo]]
 url = "https://github.com/telosnetwork/rng-consumer"
@@ -223,7 +332,19 @@ url = "https://github.com/telosnetwork/rng-consumer"
 url = "https://github.com/telosnetwork/rng-oracle-bridge"
 
 [[repo]]
+url = "https://github.com/telosnetwork/rscdk"
+
+[[repo]]
+url = "https://github.com/telosnetwork/rust-cdk"
+
+[[repo]]
+url = "https://github.com/telosnetwork/rust-contracts-builder"
+
+[[repo]]
 url = "https://github.com/telosnetwork/safe-client-gateway"
+
+[[repo]]
+url = "https://github.com/telosnetwork/safe-client-gateway-rust"
 
 [[repo]]
 url = "https://github.com/telosnetwork/safe-config-service"
@@ -244,7 +365,16 @@ url = "https://github.com/telosnetwork/safe-transaction-service"
 url = "https://github.com/telosnetwork/sentiment-tokens"
 
 [[repo]]
+url = "https://github.com/telosnetwork/signatures"
+
+[[repo]]
 url = "https://github.com/telosnetwork/snapshots"
+
+[[repo]]
+url = "https://github.com/telosnetwork/snarktor-dashboard"
+
+[[repo]]
+url = "https://github.com/telosnetwork/solidity-examples"
 
 [[repo]]
 url = "https://github.com/telosnetwork/sourcify"
@@ -257,6 +387,9 @@ url = "https://github.com/telosnetwork/stlos"
 
 [[repo]]
 url = "https://github.com/telosnetwork/tbond-images"
+
+[[repo]]
+url = "https://github.com/telosnetwork/TCD-Portal"
 
 [[repo]]
 url = "https://github.com/telosnetwork/telos-accounts"
@@ -274,6 +407,15 @@ url = "https://github.com/telosnetwork/telos-awesome"
 url = "https://github.com/telosnetwork/telos-board"
 
 [[repo]]
+url = "https://github.com/telosnetwork/telos-bp-kickbot"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-bridge"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-consensus-client"
+
+[[repo]]
 url = "https://github.com/telosnetwork/TELOS-crypto-ecosystems"
 
 [[repo]]
@@ -289,7 +431,25 @@ url = "https://github.com/telosnetwork/telos-docs"
 url = "https://github.com/telosnetwork/telos-escrow"
 
 [[repo]]
+url = "https://github.com/telosnetwork/telos-evm-custom-ds"
+
+[[repo]]
 url = "https://github.com/telosnetwork/telos-evm-docker"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-evm-inspectors"
+
+[[repo]]
+url = "https://github.com/telosnetwork/Telos-EVM-Installer"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-evm-proxy"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-evm-rpc"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-governance-ipfs"
 
 [[repo]]
 url = "https://github.com/telosnetwork/telos-graphql"
@@ -310,6 +470,9 @@ url = "https://github.com/telosnetwork/telos-monitor"
 url = "https://github.com/telosnetwork/telos-monitor-dashboard"
 
 [[repo]]
+url = "https://github.com/telosnetwork/telos-native-docker"
+
+[[repo]]
 url = "https://github.com/telosnetwork/telos-oracle"
 
 [[repo]]
@@ -323,6 +486,12 @@ url = "https://github.com/telosnetwork/telos-oracle-scripts"
 
 [[repo]]
 url = "https://github.com/telosnetwork/telos-profiles"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-reth"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos-revm"
 
 [[repo]]
 url = "https://github.com/telosnetwork/telos-rfp"
@@ -343,6 +512,9 @@ url = "https://github.com/telosnetwork/telos-tedp"
 url = "https://github.com/telosnetwork/telos-token-bridge"
 
 [[repo]]
+url = "https://github.com/telosnetwork/telos-translator-rs"
+
+[[repo]]
 url = "https://github.com/telosnetwork/telos-wallet"
 
 [[repo]]
@@ -352,7 +524,14 @@ url = "https://github.com/telosnetwork/telos-web3"
 url = "https://github.com/telosnetwork/telos-works"
 
 [[repo]]
+url = "https://github.com/telosnetwork/telos-zk-demo"
+missing = true
+
+[[repo]]
 url = "https://github.com/telosnetwork/telos.contracts"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telos.net"
 
 [[repo]]
 url = "https://github.com/telosnetwork/teloscan"
@@ -361,7 +540,20 @@ url = "https://github.com/telosnetwork/teloscan"
 url = "https://github.com/telosnetwork/telosevm-es-indexer"
 
 [[repo]]
+url = "https://github.com/telosnetwork/telosevm-exex-example"
+
+[[repo]]
 url = "https://github.com/telosnetwork/telosevm-js"
+
+[[repo]]
+url = "https://github.com/telosnetwork/telosevm-translator"
+
+[[repo]]
+url = "https://github.com/telosnetwork/TelosOFT"
+missing = true
+
+[[repo]]
+url = "https://github.com/telosnetwork/testcontainer-nodeos-evm"
 
 [[repo]]
 url = "https://github.com/telosnetwork/tips"
@@ -404,3 +596,9 @@ url = "https://github.com/telosnetwork/WTLOS"
 
 [[repo]]
 url = "https://github.com/telosnetwork/yield-server"
+
+[[repo]]
+url = "https://github.com/VeriFund/verifund-contracts"
+
+[[repo]]
+url = "https://github.com/VeriFund/verifund-subgraph"

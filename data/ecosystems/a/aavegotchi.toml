@@ -25,16 +25,25 @@ url = "https://github.com/aavegotchi/aavegotchi-baazaar-subgraph"
 url = "https://github.com/aavegotchi/aavegotchi-contracts"
 
 [[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-core-subgraph"
+
+[[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-data-api"
 
 [[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-eth-subgraph"
 
 [[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-font"
+
+[[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-gbm"
 
 [[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-gbm-baazaar"
+
+[[repo]]
+url = "https://github.com/aavegotchi/aavegotchi-geist"
 
 [[repo]]
 url = "https://github.com/aavegotchi/aavegotchi-gltr-staking-subgraph"
@@ -112,10 +121,20 @@ url = "https://github.com/aavegotchi/dapp-marketing-images"
 url = "https://github.com/aavegotchi/deployed-contract-addresses"
 
 [[repo]]
+url = "https://github.com/aavegotchi/ethereum-optimism.github.io"
+
+[[repo]]
 url = "https://github.com/aavegotchi/fake-gotchis"
 
 [[repo]]
 url = "https://github.com/aavegotchi/fundraising-subgraph"
+
+[[repo]]
+url = "https://github.com/aavegotchi/geist-subgraph"
+missing = true
+
+[[repo]]
+url = "https://github.com/aavegotchi/ghst-oft"
 
 [[repo]]
 url = "https://github.com/aavegotchi/ghst-price"
@@ -125,6 +144,9 @@ url = "https://github.com/aavegotchi/ghst-staking"
 
 [[repo]]
 url = "https://github.com/aavegotchi/ghst-upgrade"
+
+[[repo]]
+url = "https://github.com/aavegotchi/GotchiGuardiansInverse"
 
 [[repo]]
 url = "https://github.com/aavegotchi/gotchiverse-analytics"
@@ -146,6 +168,9 @@ url = "https://github.com/aavegotchi/graph-node-dev"
 
 [[repo]]
 url = "https://github.com/aavegotchi/graph-polygon-docker"
+
+[[repo]]
+url = "https://github.com/aavegotchi/gv-camera-nft"
 
 [[repo]]
 url = "https://github.com/aavegotchi/LiquidityHelper"
@@ -182,6 +207,12 @@ url = "https://github.com/aavegotchi/sideview-testing"
 
 [[repo]]
 url = "https://github.com/aavegotchi/snapshot-spaces"
+
+[[repo]]
+url = "https://github.com/aavegotchi/socket-bridge-subgraph"
+
+[[repo]]
+url = "https://github.com/aavegotchi/socket-plugs"
 
 [[repo]]
 url = "https://github.com/aavegotchi/unicly-utoken-info"

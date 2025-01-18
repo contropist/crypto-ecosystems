@@ -22,6 +22,9 @@ url = "https://github.com/kreskohq/kresko-foundry-helpers"
 url = "https://github.com/kreskohq/kresko-gateway"
 
 [[repo]]
+url = "https://github.com/kreskohq/kresko-lib"
+
+[[repo]]
 url = "https://github.com/kreskohq/kresko-protocol"
 
 [[repo]]
@@ -32,6 +35,16 @@ url = "https://github.com/kreskohq/oracle-provider-node"
 
 [[repo]]
 url = "https://github.com/kreskohq/sol-template"
+missing = true
 
 [[repo]]
 url = "https://github.com/kreskohq/synthetics-simulations"
+
+[[repo]]
+url = "https://github.com/kreskohq/tippyjs"
+
+[[repo]]
+url = "https://github.com/kreskohq/tippyjs-react"
+
+[[repo]]
+url = "https://github.com/kreskohq/viem-redstone-connector"

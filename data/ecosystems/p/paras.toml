@@ -32,6 +32,7 @@ url = "https://github.com/ParasHQ/paras-claim-rewards-contract"
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-comic-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-comic-contract"
@@ -41,9 +42,25 @@ url = "https://github.com/ParasHQ/paras-comic-frontend"
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-comic-indexer-worker"
+missing = true
+
+[[repo]]
+url = "https://github.com/ParasHQ/paras-ink-marketplace"
+
+[[repo]]
+url = "https://github.com/ParasHQ/paras-ink-nft-freemint-contract"
+
+[[repo]]
+url = "https://github.com/ParasHQ/paras-ink-nft-launchpad-contract"
+
+[[repo]]
+url = "https://github.com/ParasHQ/paras-ink-nft-refundable-contract"
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-landing"
+
+[[repo]]
+url = "https://github.com/ParasHQ/paras-launchpad-locales"
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-marketplace-contract"
@@ -65,6 +82,9 @@ url = "https://github.com/ParasHQ/paras-stats"
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-token-contract"
+
+[[repo]]
+url = "https://github.com/ParasHQ/paras-vesting-app"
 
 [[repo]]
 url = "https://github.com/ParasHQ/paras-vesting-contract"

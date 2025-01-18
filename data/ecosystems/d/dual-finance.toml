@@ -17,12 +17,16 @@ url = "https://github.com/Dual-Finance/DefiLlama-Adapters-Dual"
 
 [[repo]]
 url = "https://github.com/Dual-Finance/defillama-server"
+missing = true
 
 [[repo]]
 url = "https://github.com/Dual-Finance/docs"
 
 [[repo]]
 url = "https://github.com/Dual-Finance/dual-xnft"
+
+[[repo]]
+url = "https://github.com/Dual-Finance/explorer"
 
 [[repo]]
 url = "https://github.com/Dual-Finance/governance-ui"

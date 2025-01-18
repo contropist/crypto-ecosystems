@@ -31,7 +31,16 @@ url = "https://github.com/IndigoProtocol/cardano-transaction-lib"
 url = "https://github.com/IndigoProtocol/CIPs"
 
 [[repo]]
+url = "https://github.com/IndigoProtocol/crfa-offchain-data-registry"
+
+[[repo]]
 url = "https://github.com/IndigoProtocol/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/dexter"
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/discord-bots"
 
 [[repo]]
 url = "https://github.com/IndigoProtocol/indigo-dao"
@@ -40,13 +49,32 @@ url = "https://github.com/IndigoProtocol/indigo-dao"
 url = "https://github.com/IndigoProtocol/indigo-smart-contracts"
 
 [[repo]]
+url = "https://github.com/IndigoProtocol/indigo-upgrade-details"
+missing = true
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/indigo-upgrade-details-v2"
+
+[[repo]]
 url = "https://github.com/IndigoProtocol/indigo-website"
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/indy-rewards"
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/iris"
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/iris-sdk"
 
 [[repo]]
 url = "https://github.com/IndigoProtocol/kupo-nixos"
 
 [[repo]]
 url = "https://github.com/IndigoProtocol/market-cap"
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/neil"
 
 [[repo]]
 url = "https://github.com/IndigoProtocol/paper"
@@ -59,6 +87,18 @@ url = "https://github.com/IndigoProtocol/plutus"
 
 [[repo]]
 url = "https://github.com/IndigoProtocol/plutus-pab-sdk"
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/purescript-cardano-plutus-data-schema"
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/purescript-cardano-types"
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/round-table"
+
+[[repo]]
+url = "https://github.com/IndigoProtocol/stdlib"
 
 [[repo]]
 url = "https://github.com/IndigoProtocol/tokenomics"

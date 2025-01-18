@@ -10,6 +10,9 @@ github_organizations = ["https://github.com/superpowerlabs"]
 url = "https://github.com/superpowerlabs/allow-list-raffle"
 
 [[repo]]
+url = "https://github.com/superpowerlabs/ape-market-core"
+
+[[repo]]
 url = "https://github.com/superpowerlabs/arg-3-app"
 
 [[repo]]
@@ -17,15 +20,22 @@ url = "https://github.com/superpowerlabs/bc-genesis"
 
 [[repo]]
 url = "https://github.com/superpowerlabs/bc-genesis-raffle-reveal"
+missing = true
 
 [[repo]]
 url = "https://github.com/superpowerlabs/bcsample"
+
+[[repo]]
+url = "https://github.com/superpowerlabs/bl-website"
 
 [[repo]]
 url = "https://github.com/superpowerlabs/blueprints"
 
 [[repo]]
 url = "https://github.com/superpowerlabs/bytecity"
+
+[[repo]]
+url = "https://github.com/superpowerlabs/bytecity-nft-view"
 
 [[repo]]
 url = "https://github.com/superpowerlabs/copper-leaderboard"
@@ -40,7 +50,13 @@ url = "https://github.com/superpowerlabs/eve-id-app"
 url = "https://github.com/superpowerlabs/eve-id-nfts"
 
 [[repo]]
+url = "https://github.com/superpowerlabs/event-scraper"
+
+[[repo]]
 url = "https://github.com/superpowerlabs/genesis-blueprints-reveal-app"
+
+[[repo]]
+url = "https://github.com/superpowerlabs/genesis-reveal"
 
 [[repo]]
 url = "https://github.com/superpowerlabs/in-game-assets"
@@ -68,6 +84,10 @@ url = "https://github.com/superpowerlabs/synr-seed"
 
 [[repo]]
 url = "https://github.com/superpowerlabs/turf-farm-reveal"
+
+[[repo]]
+url = "https://github.com/superpowerlabs/upnetwork-web"
+missing = true
 
 [[repo]]
 url = "https://github.com/superpowerlabs/wormhole"

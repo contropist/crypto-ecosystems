@@ -3,7 +3,7 @@ title = "Blocknet"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/BlocknetDX"]
+github_organizations = ["https://github.com/blocknetdx"]
 
 # Repositories
 [[repo]]
@@ -40,6 +40,12 @@ url = "https://github.com/BlocknetDX/blocknet"
 url = "https://github.com/BlocknetDX/blocknet-blockchain-bootstrap"
 
 [[repo]]
+url = "https://github.com/blocknetdx/blocknet-build"
+
+[[repo]]
+url = "https://github.com/blocknetdx/blocknet-detached-sigs"
+
+[[repo]]
 url = "https://github.com/blocknetdx/blocknet-docs"
 
 [[repo]]
@@ -50,6 +56,7 @@ url = "https://github.com/blocknetdx/blocknet-web"
 
 [[repo]]
 url = "https://github.com/blocknetdx/blocknet.co"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocknetdx/blocknetdx"
@@ -91,6 +98,9 @@ url = "https://github.com/BlocknetDX/dxregress"
 url = "https://github.com/BlocknetDX/dxstats"
 
 [[repo]]
+url = "https://github.com/blocknetdx/electrumx"
+
+[[repo]]
 url = "https://github.com/blocknetdx/eth-payment-processor"
 
 [[repo]]
@@ -109,10 +119,14 @@ url = "https://github.com/blocknetdx/exrproxy-env-scripts"
 url = "https://github.com/blocknetdx/gitbook-docs"
 
 [[repo]]
+url = "https://github.com/blocknetdx/gitian.sigs"
+
+[[repo]]
 url = "https://github.com/blocknetdx/go-xrouter"
 
 [[repo]]
 url = "https://github.com/blocknetdx/indexer"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocknetdx/libxrouter-sampleproj-cpp"
@@ -145,7 +159,11 @@ url = "https://github.com/blocknetdx/utxo-plugin"
 url = "https://github.com/blocknetdx/xlite"
 
 [[repo]]
+url = "https://github.com/blocknetdx/xlite-daemon"
+
+[[repo]]
 url = "https://github.com/blocknetdx/xlitewallet.com"
+missing = true
 
 [[repo]]
 url = "https://github.com/blocknetdx/XQuery"
@@ -179,3 +197,4 @@ url = "https://github.com/blocknetdx/xrouterjs"
 
 [[repo]]
 url = "https://github.com/blocknetdx/zenhub-testing"
+missing = true

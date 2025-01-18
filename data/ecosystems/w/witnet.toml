@@ -52,6 +52,12 @@ url = "https://github.com/witnet/http-post-adapter"
 url = "https://github.com/witnet/marketplace-api"
 
 [[repo]]
+url = "https://github.com/witnet/my-wit-wallet"
+
+[[repo]]
+url = "https://github.com/witnet/my-wit-wallet-website"
+
+[[repo]]
 url = "https://github.com/witnet/ntp"
 
 [[repo]]
@@ -94,7 +100,13 @@ url = "https://github.com/witnet/website"
 url = "https://github.com/witnet/WIPs"
 
 [[repo]]
+url = "https://github.com/witnet/wit-vue-ui"
+
+[[repo]]
 url = "https://github.com/witnet/witnet-bounties"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-design-system"
 
 [[repo]]
 url = "https://github.com/witnet/witnet-ethereum-block-relay"
@@ -118,6 +130,9 @@ url = "https://github.com/witnet/witnet-price-feeds"
 url = "https://github.com/witnet/witnet-price-feeds-poller"
 
 [[repo]]
+url = "https://github.com/witnet/witnet-price-router"
+
+[[repo]]
 url = "https://github.com/witnet/witnet-pricefeed-tutorial"
 
 [[repo]]
@@ -136,13 +151,25 @@ url = "https://github.com/witnet/witnet-solidity"
 url = "https://github.com/witnet/witnet-solidity-bridge"
 
 [[repo]]
+url = "https://github.com/witnet/witnet-toolkit"
+
+[[repo]]
+url = "https://github.com/witnet/witnet-utils"
+
+[[repo]]
 url = "https://github.com/witnet/witnet.dart"
+
+[[repo]]
+url = "https://github.com/witnet/witnet.dart-1"
 
 [[repo]]
 url = "https://github.com/witnet/witnet_wallet"
 
 [[repo]]
 url = "https://github.com/witnet/witty-creatures"
+
+[[repo]]
+url = "https://github.com/witnet/witty-jsonrpc"
 
 [[repo]]
 url = "https://github.com/witnet/xmpp-rs"

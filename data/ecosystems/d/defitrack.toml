@@ -3,7 +3,7 @@ title = "Defitrack"
 
 sub_ecosystems = []
 
-github_organizations = ["https://github.com/defitrack"]
+github_organizations = ["https://github.com/DefiTrack"]
 
 # Repositories
 [[repo]]
@@ -41,6 +41,7 @@ url = "https://github.com/decentri-fi/hop-airdrop"
 
 [[repo]]
 url = "https://github.com/decentri-fi/mev-infrastructure"
+missing = true
 
 [[repo]]
 url = "https://github.com/decentri-fi/requests"
@@ -53,7 +54,3 @@ url = "https://github.com/decentri-fi/subgraphs"
 
 [[repo]]
 url = "https://github.com/decentri-fi/valve"
-
-[[repo]]
-url = "https://github.com/defitrack/mev-infrastructure"
-missing = true

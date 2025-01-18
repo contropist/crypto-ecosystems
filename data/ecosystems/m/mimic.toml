@@ -7,7 +7,14 @@ github_organizations = ["https://github.com/mimic-fi"]
 
 # Repositories
 [[repo]]
+url = "https://github.com/mimic-fi/erc4626-adapter"
+missing = true
+
+[[repo]]
 url = "https://github.com/mimic-fi/eslint-mimic-config"
+
+[[repo]]
+url = "https://github.com/mimic-fi/helpers"
 
 [[repo]]
 url = "https://github.com/mimic-fi/mimic-fi.github.io"
@@ -44,9 +51,11 @@ url = "https://github.com/mimic-fi/v2-core"
 
 [[repo]]
 url = "https://github.com/mimic-fi/v2-deployments"
+missing = true
 
 [[repo]]
 url = "https://github.com/mimic-fi/v2-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/mimic-fi/v2-metadata"
@@ -56,3 +65,17 @@ url = "https://github.com/mimic-fi/v2-smart-vaults"
 
 [[repo]]
 url = "https://github.com/mimic-fi/v2-subgraph"
+
+[[repo]]
+url = "https://github.com/mimic-fi/v3-backend-app"
+missing = true
+
+[[repo]]
+url = "https://github.com/mimic-fi/v3-core"
+
+[[repo]]
+url = "https://github.com/mimic-fi/v3-deployments"
+missing = true
+
+[[repo]]
+url = "https://github.com/mimic-fi/v3-subgraph"

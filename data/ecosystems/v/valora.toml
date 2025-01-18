@@ -35,12 +35,17 @@ url = "https://github.com/valora-inc/animated-to-reanimated"
 
 [[repo]]
 url = "https://github.com/valora-inc/blockchain-api"
+missing = true
+
+[[repo]]
+url = "https://github.com/valora-inc/blockscout-status"
 
 [[repo]]
 url = "https://github.com/valora-inc/bnc-onboard-hooks"
 
 [[repo]]
 url = "https://github.com/valora-inc/celo-tracker"
+missing = true
 
 [[repo]]
 url = "https://github.com/valora-inc/clipboard"
@@ -53,6 +58,9 @@ url = "https://github.com/valora-inc/docs"
 
 [[repo]]
 url = "https://github.com/valora-inc/eslint-config-typescript"
+
+[[repo]]
+url = "https://github.com/valora-inc/hooks"
 
 [[repo]]
 url = "https://github.com/valora-inc/indexer"
@@ -157,4 +165,10 @@ url = "https://github.com/valora-inc/typescript-app-starter"
 url = "https://github.com/valora-inc/valora-helper"
 
 [[repo]]
+url = "https://github.com/valora-inc/viem-account-hsm-gcp"
+
+[[repo]]
 url = "https://github.com/valora-inc/wallet"
+
+[[repo]]
+url = "https://github.com/valora-inc/web"

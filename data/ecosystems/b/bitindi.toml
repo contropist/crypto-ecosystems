@@ -58,6 +58,9 @@ url = "https://github.com/bitindi/chainlist"
 url = "https://github.com/bitindi/chains"
 
 [[repo]]
+url = "https://github.com/bitindi/Core-Blockchain-ToAuditFix"
+
+[[repo]]
 url = "https://github.com/bitindi/cosmos-sdk"
 
 [[repo]]
@@ -82,6 +85,9 @@ url = "https://github.com/bitindi/docs"
 url = "https://github.com/bitindi/docusaurus"
 
 [[repo]]
+url = "https://github.com/bitindi/dshackle"
+
+[[repo]]
 url = "https://github.com/bitindi/ethereum-kit-android"
 
 [[repo]]
@@ -98,6 +104,9 @@ url = "https://github.com/bitindi/hardhat-tutorials"
 
 [[repo]]
 url = "https://github.com/bitindi/marketplace"
+
+[[repo]]
+url = "https://github.com/bitindi/op-bitindi"
 
 [[repo]]
 url = "https://github.com/bitindi/resources"

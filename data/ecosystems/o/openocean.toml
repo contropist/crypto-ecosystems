@@ -25,13 +25,20 @@ url = "https://github.com/openocean-finance/DefiLlama-Adapters"
 url = "https://github.com/openocean-finance/dimension-adapters"
 
 [[repo]]
+url = "https://github.com/openocean-finance/doc.zk-evm"
+
+[[repo]]
 url = "https://github.com/openocean-finance/ecosystem-projects"
 
 [[repo]]
 url = "https://github.com/openocean-finance/farming"
+missing = true
 
 [[repo]]
 url = "https://github.com/openocean-finance/hummingbot"
+
+[[repo]]
+url = "https://github.com/openocean-finance/ledger"
 
 [[repo]]
 url = "https://github.com/openocean-finance/limit-order-protocol-v2"
@@ -41,12 +48,14 @@ url = "https://github.com/openocean-finance/OepnOcean-swap-periphery"
 
 [[repo]]
 url = "https://github.com/openocean-finance/ooe-polygon"
+missing = true
 
 [[repo]]
 url = "https://github.com/openocean-finance/openocean-api"
 
 [[repo]]
 url = "https://github.com/openocean-finance/openocean-api-sdk"
+missing = true
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOcean-DAO-treasury-for-Arbitrum"
@@ -64,10 +73,17 @@ url = "https://github.com/openocean-finance/OpenOcean-SDK-API"
 url = "https://github.com/openocean-finance/OpenOcean-swap-core"
 
 [[repo]]
+url = "https://github.com/openocean-finance/OpenOcean-swap-sdk"
+
+[[repo]]
+url = "https://github.com/openocean-finance/OpenOcean-Wallet-SDK"
+
+[[repo]]
 url = "https://github.com/openocean-finance/OpenOcean_Cross_Chain_Contract"
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOceanAPI"
+missing = true
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOceanExchange"
@@ -77,6 +93,7 @@ url = "https://github.com/openocean-finance/OpenOceanExchangeV2"
 
 [[repo]]
 url = "https://github.com/openocean-finance/OpenOceanFed"
+missing = true
 
 [[repo]]
 url = "https://github.com/openocean-finance/Security-Audit-Report"

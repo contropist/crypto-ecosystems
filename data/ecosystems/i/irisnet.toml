@@ -13,10 +13,19 @@ url = "https://github.com/dreamer-zq/coinswap"
 url = "https://github.com/irisnet/amino-js"
 
 [[repo]]
+url = "https://github.com/irisnet/awesome"
+
+[[repo]]
 url = "https://github.com/irisnet/blockchain-rpc"
 
 [[repo]]
 url = "https://github.com/irisnet/bn.js"
+
+[[repo]]
+url = "https://github.com/irisnet/coinswap-server"
+
+[[repo]]
+url = "https://github.com/irisnet/coinswap-ui"
 
 [[repo]]
 url = "https://github.com/irisnet/core-sdk-go"
@@ -110,12 +119,15 @@ url = "https://github.com/irisnet/irisnet-rpc"
 
 [[repo]]
 url = "https://github.com/irisnet/irisnet-web3"
+missing = true
 
 [[repo]]
 url = "https://github.com/irisnet/iservice-sdk-golang"
+missing = true
 
 [[repo]]
 url = "https://github.com/irisnet/iservice-sdk-java"
+missing = true
 
 [[repo]]
 url = "https://github.com/irisnet/kms"
@@ -128,6 +140,10 @@ url = "https://github.com/irisnet/mainnet"
 
 [[repo]]
 url = "https://github.com/irisnet/rainbow-sync"
+missing = true
+
+[[repo]]
+url = "https://github.com/irisnet/rainbow-sync-old"
 
 [[repo]]
 url = "https://github.com/irisnet/sdk-go"
@@ -158,6 +174,7 @@ url = "https://github.com/irisnet/thrift"
 
 [[repo]]
 url = "https://github.com/irisnet/tibc"
+missing = true
 
 [[repo]]
 url = "https://github.com/irisnet/translation"
@@ -167,3 +184,4 @@ url = "https://github.com/irisnet/vscode-ext-irishub-wasm"
 
 [[repo]]
 url = "https://github.com/irisnet/www.irisnet.org"
+missing = true

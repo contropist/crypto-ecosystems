@@ -8,6 +8,7 @@ github_organizations = ["https://github.com/alto-io"]
 # Repositories
 [[repo]]
 url = "https://github.com/alto-io/arcadeum-arena-dev-build"
+missing = true
 
 [[repo]]
 url = "https://github.com/alto-io/arcadians-animation"
@@ -31,10 +32,14 @@ url = "https://github.com/alto-io/avatar-minter"
 url = "https://github.com/alto-io/blacksmith"
 
 [[repo]]
+url = "https://github.com/alto-io/colyseus-examples"
+
+[[repo]]
 url = "https://github.com/alto-io/contractor"
 
 [[repo]]
 url = "https://github.com/alto-io/cross-game-items"
+missing = true
 
 [[repo]]
 url = "https://github.com/alto-io/cross-game-nft-renderer"
@@ -53,6 +58,10 @@ url = "https://github.com/alto-io/decentralized-game-template"
 
 [[repo]]
 url = "https://github.com/alto-io/drone-colyseus"
+missing = true
+
+[[repo]]
+url = "https://github.com/alto-io/ffc-backend-renderer"
 
 [[repo]]
 url = "https://github.com/alto-io/flip-flop"
@@ -62,6 +71,9 @@ url = "https://github.com/alto-io/forge"
 
 [[repo]]
 url = "https://github.com/alto-io/funding-the-future"
+
+[[repo]]
+url = "https://github.com/alto-io/Game-Build-Upload-Testing-Repo"
 
 [[repo]]
 url = "https://github.com/alto-io/game-legos"
@@ -98,6 +110,7 @@ url = "https://github.com/alto-io/op-games-nft-manager-api"
 
 [[repo]]
 url = "https://github.com/alto-io/oparcade-contract"
+missing = true
 
 [[repo]]
 url = "https://github.com/alto-io/opg-nft-manager-frontend-sample"
@@ -127,6 +140,13 @@ url = "https://github.com/alto-io/snake-game"
 url = "https://github.com/alto-io/snake-game-colyseus"
 
 [[repo]]
+url = "https://github.com/alto-io/spark-fe"
+
+[[repo]]
+url = "https://github.com/alto-io/spark-frontend"
+missing = true
+
+[[repo]]
 url = "https://github.com/alto-io/terraform-aws-s3-website"
 
 [[repo]]
@@ -140,6 +160,9 @@ url = "https://github.com/alto-io/unity-webgl-share-lego"
 
 [[repo]]
 url = "https://github.com/alto-io/unity3d-blockchain-wallet"
+
+[[repo]]
+url = "https://github.com/alto-io/Wallet-Connect-Poc"
 
 [[repo]]
 url = "https://github.com/alto-io/xgr-arcadians"

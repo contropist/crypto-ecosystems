@@ -19,10 +19,17 @@ url = "https://github.com/chain4travel/camino-block-explorer"
 url = "https://github.com/chain4travel/camino-block-explorer-old"
 
 [[repo]]
+url = "https://github.com/chain4travel/camino-builder"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-conduit"
+
+[[repo]]
 url = "https://github.com/chain4travel/camino-docs"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-genesis-generation"
+missing = true
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-k8s-testnet-creator"
@@ -31,10 +38,31 @@ url = "https://github.com/chain4travel/camino-k8s-testnet-creator"
 url = "https://github.com/chain4travel/camino-ledger-go"
 
 [[repo]]
+url = "https://github.com/chain4travel/camino-license"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-matrix-go"
+
+[[repo]]
 url = "https://github.com/chain4travel/camino-media-kit"
 
 [[repo]]
+url = "https://github.com/chain4travel/camino-messenger-bot"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-messenger-contracts"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-messenger-plugin-example-spring-boot"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-messenger-protocol"
+
+[[repo]]
 url = "https://github.com/chain4travel/camino-monitoring"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-network-foundation-website"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-network-runner"
@@ -55,13 +83,23 @@ url = "https://github.com/chain4travel/camino-performance-test"
 url = "https://github.com/chain4travel/camino-postman-collection"
 
 [[repo]]
+url = "https://github.com/chain4travel/camino-public-issues"
+
+[[repo]]
 url = "https://github.com/chain4travel/camino-rosetta"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-ruma"
+
+[[repo]]
+url = "https://github.com/chain4travel/camino-rust"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-signavault"
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-simple-wallet"
+missing = true
 
 [[repo]]
 url = "https://github.com/chain4travel/camino-strapi"
@@ -112,6 +150,10 @@ url = "https://github.com/chain4travel/caminojs"
 url = "https://github.com/chain4travel/caminojs-docs"
 
 [[repo]]
+url = "https://github.com/chain4travel/caminotravelvm"
+missing = true
+
+[[repo]]
 url = "https://github.com/chain4travel/chain4travel-website"
 
 [[repo]]
@@ -119,6 +161,9 @@ url = "https://github.com/chain4travel/chains"
 
 [[repo]]
 url = "https://github.com/chain4travel/controllers"
+
+[[repo]]
+url = "https://github.com/chain4travel/decode-travel-website"
 
 [[repo]]
 url = "https://github.com/chain4travel/Fantom-PWA-Explorer"
@@ -130,7 +175,16 @@ url = "https://github.com/chain4travel/go-ethereum"
 url = "https://github.com/chain4travel/go-opera"
 
 [[repo]]
+url = "https://github.com/chain4travel/hypersdk"
+
+[[repo]]
+url = "https://github.com/chain4travel/kopswap-v2-interface"
+
+[[repo]]
 url = "https://github.com/chain4travel/magellan"
+
+[[repo]]
+url = "https://github.com/chain4travel/matrix-ping-bot"
 
 [[repo]]
 url = "https://github.com/chain4travel/react-camino-block-explorer"

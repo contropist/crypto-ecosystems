@@ -1,7 +1,7 @@
 # Ecosystem Level Information
 title = "Kava.io"
 
-sub_ecosystems = ["Elk Finance"]
+sub_ecosystems = ["Abracadabra", "Elk Finance", "MoonFarm", "Team Finance", "WBTC"]
 
 github_organizations = ["https://github.com/Kava-Labs"]
 
@@ -11,6 +11,9 @@ url = "https://github.com/Kava-Labs/AIPs"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/assets"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/axelar-configs"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/bep3-deputy"
@@ -47,6 +50,9 @@ url = "https://github.com/Kava-Labs/connector-config"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/cosmos-ledger"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/cosmos-omnibus"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/cosmos-paychan"
@@ -94,6 +100,9 @@ url = "https://github.com/Kava-Labs/external-adapters-js"
 url = "https://github.com/Kava-Labs/go-amino"
 
 [[repo]]
+url = "https://github.com/Kava-Labs/go-ethereum"
+
+[[repo]]
 url = "https://github.com/Kava-Labs/go-sdk"
 
 [[repo]]
@@ -136,19 +145,30 @@ url = "https://github.com/Kava-Labs/ilp-sdk"
 url = "https://github.com/Kava-Labs/ilp-store-redis"
 
 [[repo]]
+url = "https://github.com/Kava-Labs/interchaintest"
+
+[[repo]]
 url = "https://github.com/Kava-Labs/javascript-sdk"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/kava"
+tags = ["Protocol"]
+
+[[repo]]
+url = "https://github.com/Kava-Labs/kava-blockscout-build"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/kava-bridge"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/kava-deputy"
+missing = true
 
 [[repo]]
 url = "https://github.com/Kava-Labs/kava-devnet"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/kava-governance-public"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/kava-patches"
@@ -190,6 +210,9 @@ url = "https://github.com/Kava-Labs/net"
 url = "https://github.com/Kava-Labs/OIPs"
 
 [[repo]]
+url = "https://github.com/Kava-Labs/opendb"
+
+[[repo]]
 url = "https://github.com/Kava-Labs/p2p-wallets-demo"
 
 [[repo]]
@@ -218,6 +241,9 @@ url = "https://github.com/Kava-Labs/sig"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/slips"
+
+[[repo]]
+url = "https://github.com/Kava-Labs/smart-order-router"
 
 [[repo]]
 url = "https://github.com/Kava-Labs/switch"

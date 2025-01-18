@@ -17,12 +17,19 @@ url = "https://github.com/Cryptorubic/contract-metadata"
 
 [[repo]]
 url = "https://github.com/Cryptorubic/CrossChainTokenSwapNear"
+missing = true
+
+[[repo]]
+url = "https://github.com/Cryptorubic/default-token-list"
 
 [[repo]]
 url = "https://github.com/Cryptorubic/DeFi-Pulse-Adapters"
 
 [[repo]]
 url = "https://github.com/Cryptorubic/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/Cryptorubic/DefiLlama-Dimension-Adapters"
 
 [[repo]]
 url = "https://github.com/Cryptorubic/instant-trades-proxy"
@@ -40,6 +47,9 @@ url = "https://github.com/Cryptorubic/multi-proxy-rubic"
 url = "https://github.com/Cryptorubic/Multichain-proxy"
 
 [[repo]]
+url = "https://github.com/Cryptorubic/NFT-metadata"
+
+[[repo]]
 url = "https://github.com/Cryptorubic/only-source-cross-chain-proxy"
 
 [[repo]]
@@ -47,6 +57,14 @@ url = "https://github.com/Cryptorubic/proxy-instant-trades"
 
 [[repo]]
 url = "https://github.com/Cryptorubic/rubic-app"
+
+[[repo]]
+url = "https://github.com/Cryptorubic/rubic-config"
+missing = true
+
+[[repo]]
+url = "https://github.com/Cryptorubic/rubic-integrators"
+missing = true
 
 [[repo]]
 url = "https://github.com/Cryptorubic/Rubic-Inter-chain-Message"
@@ -70,6 +88,9 @@ url = "https://github.com/Cryptorubic/rubic-sdk-tools"
 url = "https://github.com/Cryptorubic/rubic-sdk-usage"
 
 [[repo]]
+url = "https://github.com/Cryptorubic/rubic-snap-frontend"
+
+[[repo]]
 url = "https://github.com/Cryptorubic/rubic-tasks"
 
 [[repo]]
@@ -83,6 +104,9 @@ url = "https://github.com/Cryptorubic/rubic-widget"
 
 [[repo]]
 url = "https://github.com/Cryptorubic/rubic_test_staking_script"
+
+[[repo]]
+url = "https://github.com/Cryptorubic/staking"
 
 [[repo]]
 url = "https://github.com/Cryptorubic/treasury-in-arbitrum"

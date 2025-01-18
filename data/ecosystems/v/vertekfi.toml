@@ -13,6 +13,9 @@ url = "https://github.com/vertekfi/aalto-wrapper"
 url = "https://github.com/vertekfi/balancer-gauges-subgraph"
 
 [[repo]]
+url = "https://github.com/vertekfi/balancer-sdk"
+
+[[repo]]
 url = "https://github.com/vertekfi/balancer-sor"
 
 [[repo]]
@@ -26,18 +29,22 @@ url = "https://github.com/vertekfi/beefy-contracts"
 
 [[repo]]
 url = "https://github.com/vertekfi/bribes"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/bsc-blocks"
 
 [[repo]]
 url = "https://github.com/vertekfi/dex-backend"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/dex-backend-v2"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/dex-frontend"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/hardhat-template"
@@ -55,7 +62,13 @@ url = "https://github.com/vertekfi/pool-data-config"
 url = "https://github.com/vertekfi/pool-stable-v1"
 
 [[repo]]
+url = "https://github.com/vertekfi/rate-providers"
+
+[[repo]]
 url = "https://github.com/vertekfi/Reliquary"
+
+[[repo]]
+url = "https://github.com/vertekfi/reliquary-subgraph"
 
 [[repo]]
 url = "https://github.com/vertekfi/stable-phantom"
@@ -68,9 +81,11 @@ url = "https://github.com/vertekfi/token-list"
 
 [[repo]]
 url = "https://github.com/vertekfi/vaults"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/vertek-lib"
+missing = true
 
 [[repo]]
 url = "https://github.com/vertekfi/vertek-nft"

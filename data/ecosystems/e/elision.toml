@@ -7,10 +7,6 @@ github_organizations = ["https://github.com/elision-io"]
 
 # Repositories
 [[repo]]
-url = "https://github.com/elision-io/elision-ui"
-missing = true
-
-[[repo]]
 url = "https://github.com/elision-labs/bridge-protocol"
 
 [[repo]]
@@ -24,6 +20,7 @@ url = "https://github.com/elision-labs/docs"
 
 [[repo]]
 url = "https://github.com/elision-labs/elision-ui"
+missing = true
 
 [[repo]]
 url = "https://github.com/elision-labs/nearcore"

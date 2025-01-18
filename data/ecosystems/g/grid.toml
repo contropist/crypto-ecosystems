@@ -61,6 +61,9 @@ url = "https://github.com/GridPlus/chainabstractionlayer"
 url = "https://github.com/GridPlus/chains"
 
 [[repo]]
+url = "https://github.com/GridPlus/chains-lib"
+
+[[repo]]
 url = "https://github.com/GridPlus/client"
 
 [[repo]]
@@ -134,6 +137,7 @@ url = "https://github.com/GridPlus/kwenta"
 
 [[repo]]
 url = "https://github.com/GridPlus/lao-xiong-code-test"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/lattice-cli"
@@ -149,6 +153,7 @@ url = "https://github.com/GridPlus/lattice-eth2-utils"
 
 [[repo]]
 url = "https://github.com/GridPlus/lattice-gce-releases"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/lattice-manager"
@@ -206,21 +211,27 @@ url = "https://github.com/GridPlus/pc_simulator_sdl_eclipse"
 
 [[repo]]
 url = "https://github.com/GridPlus/phonon-app"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/phonon-card"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/phonon-client"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/phonon-protocol"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/phonon-roadmap"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/phonon-website"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/plasma-mysql"
@@ -284,6 +295,10 @@ url = "https://github.com/GridPlus/station-extension"
 
 [[repo]]
 url = "https://github.com/GridPlus/sushiswap-classic-exchange"
+missing = true
+
+[[repo]]
+url = "https://github.com/GridPlus/taho-extension"
 
 [[repo]]
 url = "https://github.com/GridPlus/test-dapp"
@@ -323,6 +338,7 @@ url = "https://github.com/GridPlus/web3-react"
 
 [[repo]]
 url = "https://github.com/GridPlus/webapp"
+missing = true
 
 [[repo]]
 url = "https://github.com/GridPlus/wolfssl"

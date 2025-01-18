@@ -10,7 +10,16 @@ github_organizations = ["https://github.com/QuickSwap"]
 url = "https://github.com/QuickSwap/ads-list"
 
 [[repo]]
+url = "https://github.com/QuickSwap/crypto-ecosystems"
+
+[[repo]]
 url = "https://github.com/QuickSwap/DeFi-Pulse-Adapters"
+
+[[repo]]
+url = "https://github.com/QuickSwap/DefiLlama-Adapters"
+
+[[repo]]
+url = "https://github.com/QuickSwap/dimension-adapters"
 
 [[repo]]
 url = "https://github.com/QuickSwap/interface"
@@ -23,6 +32,25 @@ url = "https://github.com/QuickSwap/maticblocks"
 
 [[repo]]
 url = "https://github.com/QuickSwap/megapool"
+
+[[repo]]
+url = "https://github.com/QuickSwap/merkl-contracts"
+
+[[repo]]
+url = "https://github.com/QuickSwap/merkle-distributor-file"
+
+[[repo]]
+url = "https://github.com/QuickSwap/paraswap-dex-lib"
+
+[[repo]]
+url = "https://github.com/QuickSwap/perps"
+
+[[repo]]
+url = "https://github.com/QuickSwap/perps-frontend"
+missing = true
+
+[[repo]]
+url = "https://github.com/QuickSwap/perps-hydra"
 
 [[repo]]
 url = "https://github.com/QuickSwap/qs-v3-farming-zkevm"
@@ -67,10 +95,19 @@ url = "https://github.com/QuickSwap/token-lists"
 url = "https://github.com/QuickSwap/token-swap"
 
 [[repo]]
+url = "https://github.com/QuickSwap/univ3-subgraph-zkevm"
+
+[[repo]]
 url = "https://github.com/QuickSwap/v3-subgraphs"
 
 [[repo]]
 url = "https://github.com/QuickSwap/web-core"
+
+[[repo]]
+url = "https://github.com/QuickSwap/widget"
+
+[[repo]]
+url = "https://github.com/QuickSwap/zkevm-blocks"
 
 [[repo]]
 url = "https://github.com/QuickSwap/zkevm-subgraph"
